@@ -1,0 +1,27 @@
+{ title: 'Building Our Zero-Emissions Future ',
+  link:
+   'https://www.npr.org/2020/11/05/931842071/building-our-zero-emissions-future',
+  pubDate: 'Fri, 06 Nov 2020 00:01:11 -0500',
+  'content:encoded':
+   'Fighting climate change is a big, messy task that will take a lot of work. This hour, TED\'s Science Curator David Biello joins Manoush to share some promising and fascinating solutions. ',
+  'content:encodedSnippet':
+   'Fighting climate change is a big, messy task that will take a lot of work. This hour, TED\'s Science Curator David Biello joins Manoush to share some promising and fascinating solutions.',
+  enclosure:
+   { url:
+      'https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2020/11/20201105_ted_zero_emissions_future-eb2a2def-0491-469e-9c40-f27a162a717a.mp3?awCollectionId=510298&awEpisodeId=931842071&orgId=1&d=3152&p=510298&story=931842071&t=podcast&e=931842071&size=50322900&ft=pod&f=510298',
+     length: '50322900',
+     type: 'audio/mpeg' },
+  content:
+   'Fighting climate change is a big, messy task that will take a lot of work. This hour, TED\'s Science Curator David Biello joins Manoush to share some promising and fascinating solutions. ',
+  contentSnippet:
+   'Fighting climate change is a big, messy task that will take a lot of work. This hour, TED\'s Science Curator David Biello joins Manoush to share some promising and fascinating solutions.',
+  guid: '1920b875-5082-4208-b258-7971da8d997c',
+  isoDate: '2020-11-06T05:01:11.000Z',
+  itunes:
+   { author: 'NPR',
+     summary:
+      'Fighting climate change is a big, messy task that will take a lot of work. This hour, TED\'s Science Curator David Biello joins Manoush to share some promising and fascinating solutions. ',
+     explicit: 'no',
+     duration: '3152',
+     image:
+      'https://media.npr.org/assets/img/2020/11/05/trh_biello_curator_chat_artwork1_wide-28b66e54992238a8dadad80b57f3a332debfa4f2.jpg?s=1400' } }
