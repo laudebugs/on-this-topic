@@ -26,18 +26,7 @@
     -->
     <title>On This Topic</title>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <script>
-      $("document").ready(function () {
-        var audioelement = $(".audioHere")[0];
-
-        $(".playPause").on("click", function (evt) {
-          if (audioelement.paused) {
-            audioelement.play();
-            // $(".playPause img").att("src", )
-          } else audioelement.pause();
-        });
-      });
-    </script>
+    <script src="scripts/scrollplayer.js"></script>
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
