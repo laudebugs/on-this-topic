@@ -1,16 +1,16 @@
 import React from "react";
 
-import Logo from "../css/images/logo.png";
+import Logo from "../css/images/logoDark.png";
 import User from "../css/images/userDark.png";
 const Header = () => (
-  <div>
-    <div>
+  <div className="header">
+    <div className="siteIcon">
       <img src={Logo} alt="On This Topic icon" />
     </div>
-    <div>
+    <div className="siteTtl">
       <h1>ON THIS TOPIC</h1>
     </div>
-    <div>
+    <div className="userIcon">
       <img src={User} alt="User" />
     </div>
   </div>

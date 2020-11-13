@@ -131,3 +131,131 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
 }
+/* Declare font familes
+---------------------*/
+@font-face {
+  font-family: "Woodland Bold";
+  src: url("./fonts/woodland/PPWoodland-Bold.otf");
+}
+@font-face {
+  font-family: "Sunborn";
+  src: url("./fonts/Sunborn/Sunborn-SansOne.otf");
+}
+/* Header 
+-----------*/
+div.header {
+  padding: 2.5% 5% 2.5% 5%;
+}
+div.siteIcon {
+  width: 10%;
+  display: inline-block;
+  text-align: left;
+}
+.siteIcon img {
+  width: 35%;
+}
+div.siteTtl {
+  font-family: "Sunborn";
+  font-size: 300%;
+  text-align: center;
+  width: 80%;
+  display: inline-block;
+}
+div.userIcon {
+  width: 10%;
+  display: inline-block;
+  text-align: right;
+}
+.userIcon img {
+  width: 35%;
+}
+
+/* Menu bar
+-------------*/
+div.menuBar {
+  font-family: "Woodland Bold";
+  font-size: 150%;
+  font-weight: 300;
+  padding: 0 5% 0 5%;
+}
+.menuBar h3 {
+  display: inline-block;
+  width: 15%;
+  text-align: left;
+}
+.menuBar h3.searchBox {
+  width: 25%;
+  text-align: center;
+}
+/* Audio Player
+--------------*/
+.player {
+  background-color: rgba(5, 10, 48, 0.17);
+  width: 100%;
+  height: 9vh;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+div.playingTtl {
+  width: 20%;
+  display: inline-block;
+  padding: 1%;
+}
+div.icon {
+  width: 4%;
+  padding: 1%;
+  display: inline-block;
+  vertical-align: middle;
+}
+.icon img {
+  width: 50px;
+}
+div.progressBar {
+  width: 48%;
+  display: inline-block;
+}
+
+.audio-player .album-image {
+  min-height: 100px;
+  width: 110px;
+  background-size: cover;
+}
+.audio-player .player-controls {
+  align-items: center;
+  justify-content: center;
+  margin-top: 2.5rem;
+  flex: 3;
+}
+.audio-player .player-controls progress {
+  width: 90%;
+}
+.audio-player .player-controls progress[value] {
+  -webkit-appearance: none;
+  appearance: none;
+  background-color: white;
+  color: blue;
+  height: 5px;
+}
+.audio-player .player-controls progress[value]::-webkit-progress-bar {
+  background-color: white;
+  border-radius: 2px;
+  border: 1px solid #dfdfdf;
+  color: blue;
+}
+.audio-player .player-controls progress::-webkit-progress-value {
+  background-color: blue;
+}
+.audio-player .player-controls p {
+  font-size: 1.6rem;
+}
+.audio-player #play-btn {
+  background-image: url("http://www.lukeduncan.me/images/play-button.png");
+  background-size: cover;
+  width: 75px;
+  height: 75px;
+  margin: 2rem 0 2rem 2rem;
+}
+.audio-player #play-btn.pause {
+  background-image: url("http://www.lukeduncan.me/images/pause-button.png");
+}
