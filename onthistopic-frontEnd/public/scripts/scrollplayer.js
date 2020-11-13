@@ -1,3 +1,21 @@
+$("document").ready(function () {
+  console.log("ready");
+  var audioelement = $(".audioHere")[0];
+  // audioelement.ontimeupdate = function () {
+  //   console.log(audioelement.currentTime);
+  //   console.log(audioelement.duration);
+  //   console.log($("#timeline")[0].innerHTML);
+  //   console.log($(document).width());
+  // };
+
+  // window.onresize = function () {
+  //   const w = $(document).width();
+  //   console.log(w);
+  //   $("#timeline").attr("width", w * 0.48);
+  // };
+});
+
+/*
 function initProgressBar() {
   var player = document.getElementById("player");
   var length = player.duration;
@@ -88,3 +106,4 @@ function calculateCurrentValue(currentTime) {
 }
 
 initPlayers($(".progressBar").length);
+*/
