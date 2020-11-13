@@ -1,0 +1,520 @@
+{
+    "artwork": "http://is3.mzstatic.com/image/thumb/Music71/v4/67/f4/6d/67f46d26-2da2-0375-0f00-dfd11a13f882/source/100x100bb.jpg",
+    "description": "Tales of Horror takes you back to the early days of radio when alone with your imagination the story tellers on the radio would take you into the world of ghosts,macabre,demons,and tales of the supernatural. Turn down the lights and enter the world of Tales of Horror.",
+    "feedURL": "http://horrortales.libsyn.com/rss",
+    "podcastURL": "http://oldtimeradiodvd.com",
+    "title": "Tales of Horror Podcast",
+    "episodes": [
+        {
+            "title": "Haunting Hour - A Corpse That Was",
+            "datePublished": "Mon, 30 Mar 2020 05:00:00 +0000",
+            "description": "<p>Haunting Hour - A Corpse That Was http://oldtimeradiodvd.com</p>",
+            "length": "37037330",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/HauntingHourACorpseThereWas.mp3?dest-id=3472"
+        },
+        {
+            "title": "Haunting Hour - Breakdown",
+            "datePublished": "Mon, 23 Mar 2020 05:00:00 +0000",
+            "description": "<p>Haunting Hour - Breakdown http://oldtimeradiodvd.com</p>",
+            "length": "37048615",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/HauntingHourBreakdown.mp3?dest-id=3472"
+        },
+        {
+            "title": "Haunting Hour - Murder Wears Mask",
+            "datePublished": "Mon, 16 Mar 2020 05:00:00 +0000",
+            "description": "<p>Haunting Hour - Murder Wears Mask http://oldtimeradiodvd.com</p>",
+            "length": "37052376",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/hauntinghourMurderWearsMask.mp3?dest-id=3472"
+        },
+        {
+            "title": "Haunting Hour - Lonesome Corpse",
+            "datePublished": "Mon, 09 Mar 2020 05:00:00 +0000",
+            "description": "<p>Haunting Hour - Lonesome Corpse http://oldtimeradiodvd.com</p>",
+            "length": "37046107",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/HauntingHourLonesomeCorpse.mp3?dest-id=3472"
+        },
+        {
+            "title": "Haunting Hour - Homicide House",
+            "datePublished": "Mon, 02 Mar 2020 06:00:00 +0000",
+            "description": "<p>Haunting Hour - Homicide House http://oldtimeradiodvd.com</p>",
+            "length": "37036703",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/HauntingHourHomicideHouse.mp3?dest-id=3472"
+        },
+        {
+            "title": "Haunting Hour Hands Of Mr Smith",
+            "datePublished": "Mon, 24 Feb 2020 01:02:58 +0000",
+            "description": "<p>Haunting Hour Hands Of Mr Smith http://oldtimeradiodvd.com</p>",
+            "length": "37051749",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/hauntinghourHandsOfMrSmith.mp3?dest-id=3472"
+        },
+        {
+            "title": "Tales From The Tomb The Lick",
+            "datePublished": "Mon, 24 Feb 2020 01:01:42 +0000",
+            "description": "<p>Tales From The Tomb The Lick http://oldtimeradiodvd.com</p>",
+            "length": "5572527",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/TalesFromTheTomb_The_Lick.mp3?dest-id=3472"
+        },
+        {
+            "title": "The Clutching Hand 1936 Ep-04",
+            "datePublished": "Fri, 23 Feb 2018 18:00:00 +0000",
+            "description": "<p>The Clutching Hand 1936 Ep-04  http://oldtimeradiodvd.com</p>",
+            "length": "4571429",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/The_Clutching_Hand_1936_Ep-04_NoIntro-NoEndg_bk.mp3?dest-id=3472"
+        },
+        {
+            "title": "The Clutching Hand 1936 Ep-03",
+            "datePublished": "Fri, 16 Feb 2018 18:00:00 +0000",
+            "description": "<p>The Clutching Hand 1936 Ep-03  http://oldtimeradiodvd.com</p>",
+            "length": "7286282",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/The_Clutching_Hand_1936_Ep-03_NoIntro-NoEndg_bk.mp3?dest-id=3472"
+        },
+        {
+            "title": "The Clutching Hand 1936 Ep-02",
+            "datePublished": "Fri, 09 Feb 2018 18:00:00 +0000",
+            "description": "<p>The Clutching Hand 1936 Ep-02  http://oldtimeradiodvd.com</p>",
+            "length": "7409789",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/The_Clutching_Hand_1936_Ep-02_NoIntro-NoEndg_bk.mp3?dest-id=3472"
+        },
+        {
+            "title": "The Clutching Hand 1936 Ep-01",
+            "datePublished": "Fri, 09 Feb 2018 18:00:00 +0000",
+            "description": "<p>The Clutching Hand 1936 Ep-01  http://oldtimeradiodvd.com</p>",
+            "length": "7278550",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/The_Clutching_Hand_1936_Ep-01_NoIntro-NoEndg_bk.mp3?dest-id=3472"
+        },
+        {
+            "title": "Tales Of The Frightened Nightmare ",
+            "datePublished": "Fri, 02 Feb 2018 18:00:00 +0000",
+            "description": "<p>Tales Of The Frightened Nightmare http://oldtimeradiodvd.com</p>",
+            "length": "6832047",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/TalesOfTheFrightenedNightmare1.mp3?dest-id=3472"
+        },
+        {
+            "title": "Tales From The Otherside Silicone Symmetry ",
+            "datePublished": "Fri, 26 Jan 2018 18:00:00 +0000",
+            "description": "<p>Tales From The Otherside Silicone Symmetry http://oldtimeradiodvd.com</p>",
+            "length": "37800941",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/TalesFromTheOthersideSiliconeSymmetry1.mp3?dest-id=3472"
+        },
+        {
+            "title": "Tales From the Tomb Spirits Of The Dead",
+            "datePublished": "Fri, 19 Jan 2018 18:00:00 +0000",
+            "description": "<p>Tales From the Tomb Spirits Of The Dead http://oldtimeradiodvd.com</p>",
+            "length": "4264732",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/TalesFromtheTombSpiritsOfTheDead1.mp3?dest-id=3472"
+        },
+        {
+            "title": "Tales From The Otherside Regression Therapy ",
+            "datePublished": "Fri, 12 Jan 2018 18:00:00 +0000",
+            "description": "<p>Tales From The Otherside Regression Therapy http://oldtimeradiodvd.com</p>",
+            "length": "39874228",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/TalesFromTheOthersideRegressionTherapy1.mp3?dest-id=3472"
+        },
+        {
+            "title": "Tales Of Suspense -  Rumor Has It",
+            "datePublished": "Fri, 15 Dec 2017 06:00:00 +0000",
+            "description": "<p>Tales Of Suspense -  Rumor Has It http://oldtimeradiodvd.com</p>",
+            "length": "29176771",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/TalesOfSuspenseRumorHasIt.mp3?dest-id=3472"
+        },
+        {
+            "title": "Tales Of Suspense The Last Day",
+            "datePublished": "Fri, 08 Dec 2017 06:00:00 +0000",
+            "description": "<p>Tales Of Suspense The Last Day http://oldtimeradiodvd.com</p>",
+            "length": "34102002",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/TalesOfSuspenseTheLastDay.mp3?dest-id=3472"
+        },
+        {
+            "title": "Tales Of Suspense The Undertakers Wedding  ",
+            "datePublished": "Fri, 01 Dec 2017 06:00:00 +0000",
+            "description": "<p>Tales Of Suspense The Undertakers Wedding  http://oldtimeradiodvd.com</p>",
+            "length": "80086708",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/TalesOfSuspenseTheUndertakersWedding.mp3?dest-id=3472"
+        },
+        {
+            "title": "Tales Of The Frightened Just Inside The Cemetery ",
+            "datePublished": "Fri, 24 Nov 2017 06:00:00 +0000",
+            "description": "<p>Tales Of The Frightened Just Inside The Cemetery http://oldtimeradiodvd.com</p>",
+            "length": "8179965",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/TalesOfTheFrightenedJustInsideTheCemetery1.mp3?dest-id=3472"
+        },
+        {
+            "title": "Tales From The Otherside - Mission Andromeda  ",
+            "datePublished": "Fri, 17 Nov 2017 06:00:00 +0000",
+            "description": "<p>Tales From The Otherside - Mission Andromeda  http://oldtimeradiodvd.com</p>",
+            "length": "39661696",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/TalesFromTheOthersideMissionAndromeda1.mp3?dest-id=3472"
+        },
+        {
+            "title": "Tales From The Tomb Spirts Of The Dead ",
+            "datePublished": "Tue, 14 Nov 2017 06:00:00 +0000",
+            "description": "<p>Tales From The Tomb Spirts Of The Dead http://oldtimeradiodvd.com</p>",
+            "length": "4587606",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/TalesFromTheTombSpirtsOfTheDead1.mp3?dest-id=3472"
+        },
+        {
+            "title": "Tales From The Otherside Breakthrou",
+            "datePublished": "Sat, 11 Nov 2017 15:06:08 +0000",
+            "description": "<p>Tales From The Otherside Breakthrough  http://oldtimeradiodvd.com</p>",
+            "length": "40136288",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/TalesFromTheOthersideBreakthrough1.mp3?dest-id=3472"
+        },
+        {
+            "title": "Ghost Corp - Escape From The Crypt",
+            "datePublished": "Fri, 10 Nov 2017 06:00:00 +0000",
+            "description": "<p>Ghost Corp - Escape From The Crypt 1934 http://oldtimeradiodvd.com</p>",
+            "length": "22171062",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/EscapeFromTheCrypt10.mp3?dest-id=3472"
+        },
+        {
+            "title": "Ghost Corp - Searching For Amira",
+            "datePublished": "Fri, 03 Nov 2017 05:00:00 +0000",
+            "description": "<p>Ghost Corp - Searching For Amira 1934 http://oldtimeradiodvd.com</p>",
+            "length": "20796186",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/SearchingForAmira9.mp3?dest-id=3472"
+        },
+        {
+            "title": "Ghost Corp - Better Then A Poke In The Eye With A Hot Poker",
+            "datePublished": "Fri, 27 Oct 2017 05:00:00 +0000",
+            "description": "<p>Ghost Corp - Better Then A Poke In The Eye With A Hot Poker 1934 http://oldtimeradiodvd.com</p>",
+            "length": "20854491",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/BetterThenAPokeInTheEyeWithAHotPoker8.mp3?dest-id=3472"
+        },
+        {
+            "title": "Ghost Corp - The End Of K C And Mohammed Ali ",
+            "datePublished": "Fri, 20 Oct 2017 05:00:00 +0000",
+            "description": "<p>Ghost Corp - The End Of K C And Mohammed Ali 1934 http://oldtimeradiodvd.com</p>",
+            "length": "21760418",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/TheEndOfKCAndMohammedAli6.mp3?dest-id=3472"
+        },
+        {
+            "title": "Ghost Corp - The Knives Of El Malek",
+            "datePublished": "Fri, 13 Oct 2017 05:00:00 +0000",
+            "description": "<p>Ghost Corp - The Knives Of El Malek 1934 http://oldtimeradiodvd.com</p>",
+            "length": "21552901",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/TheKnivesOfElMalek5.mp3?dest-id=3472"
+        },
+        {
+            "title": "Ghost Corp - Success By A Ruse ",
+            "datePublished": "Fri, 06 Oct 2017 05:00:00 +0000",
+            "description": "<p>Ghost Corp - Success By A Ruse 1934 http://oldtimeradiodvd.com</p>",
+            "length": "20314697",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/SuccessByARuse4.mp3?dest-id=3472"
+        },
+        {
+            "title": "Ghost Corp - At The Coffee Shop ",
+            "datePublished": "Fri, 29 Sep 2017 05:00:00 +0000",
+            "description": "<p>Ghost Corp - At The Coffee Shop 1934 http://oldtimeradiodvd.com</p>",
+            "length": "21574217",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/AtTheCoffeeShop3.mp3?dest-id=3472"
+        },
+        {
+            "title": "Ghost Corp Contact ",
+            "datePublished": "Fri, 22 Sep 2017 17:00:00 +0000",
+            "description": "<p>Ghost Corp Contact 1934 http://oldtimeradiodvd.com</p>",
+            "length": "21286452",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/Contact2.mp3?dest-id=3472"
+        },
+        {
+            "title": "Ghost Corp Arrival Assignment And Attempted Assassination",
+            "datePublished": "Fri, 15 Sep 2017 05:00:00 +0000",
+            "description": "<p>Ghost Corp Arrival Assignment And Attempted Assassination 1934 http://oldtimeradiodvd.com</p>",
+            "length": "21394912",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/GhostCorpArrivalAssignmentAndAttemptedAssassination-11934.mp3?dest-id=3472"
+        },
+        {
+            "title": "Dead Souls 2 of 2 ",
+            "datePublished": "Fri, 08 Sep 2017 05:00:00 +0000",
+            "description": "<p>Dead Souls 2 of 2 http://oldtimeradiodvd.com</p>",
+            "length": "38829121",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/DeadSouls2of2.mp3?dest-id=3472"
+        },
+        {
+            "title": "Dead Souls 1 of 2",
+            "datePublished": "Sun, 03 Sep 2017 19:59:04 +0000",
+            "description": "<p>Dead Souls 1 of 2 http://oldtimeradiodvd.com</p>",
+            "length": "40523109",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/DeadSouls1of2.mp3?dest-id=3472"
+        },
+        {
+            "title": "Mission Andromeda",
+            "datePublished": "Wed, 05 Apr 2017 05:00:00 +0000",
+            "description": "<p>Tales From The Otherside Mission Andromeda public domain http://oldtimeradiodvd.com</p>",
+            "length": "39661696",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/TalesFromTheOthersideMissionAndromeda.mp3?dest-id=3472"
+        },
+        {
+            "title": "Breakthrough",
+            "datePublished": "Wed, 29 Mar 2017 05:00:00 +0000",
+            "description": "<p>Tales From The Otherside Breakthrough public domain http://oldtimeradiodvd.com</p>",
+            "length": "40136288",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/TalesFromTheOthersideBreakthrough.mp3?dest-id=3472"
+        },
+        {
+            "title": "Regression Therapy",
+            "datePublished": "Wed, 22 Mar 2017 17:00:00 +0000",
+            "description": "<p><strong>Tales From The Otherside Regression Therapy Public Domain http://oldtimeradiodvd.com</strong></p>",
+            "length": "39874228",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/TalesFromTheOthersideRegressionTherapy.mp3?dest-id=3472"
+        },
+        {
+            "title": "Silicone Symmetry",
+            "datePublished": "Wed, 15 Mar 2017 05:00:00 +0000",
+            "description": "<p><strong>Tales From The Otherside Silicone Symmetry Public Domain http://oldtimeradiodvd.com</strong></p>",
+            "length": "37800941",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/TalesFromTheOthersideSiliconeSymmetry.mp3?dest-id=3472"
+        },
+        {
+            "title": " Spirits Of Th Dead ",
+            "datePublished": "Wed, 08 Mar 2017 06:00:00 +0000",
+            "description": "<p>Tales From the Tomb Spirits Of Th Dead Public Domain http://oldtimeradiodvd.com</p>",
+            "length": "4264732",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/TalesFromtheTombSpiritsOfTheDead.mp3?dest-id=3472"
+        },
+        {
+            "title": "Just Inside The Cemetery",
+            "datePublished": "Wed, 01 Mar 2017 06:00:00 +0000",
+            "description": "<p>Tales Of The Frightened Just Inside The Cemetery Public Domain http://oldtimeradiodvd.com</p>",
+            "length": "8179965",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/TalesOfTheFrightenedJustInsideTheCemetery.mp3?dest-id=3472"
+        },
+        {
+            "title": "Tales Of The Frightened Nightmare ",
+            "datePublished": "Sun, 26 Feb 2017 21:19:34 +0000",
+            "description": "<p>Tales Of The Frightened Nightmare Public Domain http://oldtimeradiodvd.com</p>",
+            "length": "6832047",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/TalesOfTheFrightenedNightmare.mp3?dest-id=3472"
+        },
+        {
+            "title": "Suspense On A Country Road",
+            "datePublished": "Fri, 24 Feb 2017 06:00:00 +0000",
+            "description": "<p>Suspense On A Country Road 1-4-54 http://oldtimeradiodvd.com</p>",
+            "length": "43902936",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/SuspenseOnACountryRoad1-4-54.mp3?dest-id=3472"
+        },
+        {
+            "title": "Lights Out The Dark ",
+            "datePublished": "Fri, 17 Feb 2017 06:00:00 +0000",
+            "description": "<p>Lights Out The Dark 12-29-37 http://oldtimeradiodvd.com</p>",
+            "length": "13710192",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/LightsOutTheDark12-29-37.mp3?dest-id=3472"
+        },
+        {
+            "title": "Suspense The High Wall ",
+            "datePublished": "Fri, 10 Feb 2017 06:00:00 +0000",
+            "description": "<p>Suspense The High Wall 6-6-46 http://oldtimeradiodvd.com</p>",
+            "length": "39379573",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/SuspenseTheHighWall6-6-46.mp3?dest-id=3472"
+        },
+        {
+            "title": "Lights Out Murder Castle",
+            "datePublished": "Fri, 03 Feb 2017 06:00:00 +0000",
+            "description": "<p>Lights Out Murder Castle 2-16-38 http://oldtimeradiodvd.com</p>",
+            "length": "38704360",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/LightsOutMurderCastle2-16-38.mp3?dest-id=3472"
+        },
+        {
+            "title": "Suspense House In Cypress Canyon ",
+            "datePublished": "Fri, 27 Jan 2017 06:00:00 +0000",
+            "description": "<p>Suspense House In Cypress Canyon 12-5-46 http://oldtimeradiodvd.com</p>",
+            "length": "39442267",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/SuspenseHouseInCypressCanyon12-5-46.mp3?dest-id=3472"
+        },
+        {
+            "title": "Lights Out Valse Triste ",
+            "datePublished": "Fri, 20 Jan 2017 06:00:00 +0000",
+            "description": "<p>Lights Out Valse Triste 3-30-38. http://oldtimeradiodvd.com</p>",
+            "length": "42866607",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/LightsOutValseTriste3-30-38.mp3?dest-id=3472"
+        },
+        {
+            "title": "Suspense The Ten Years",
+            "datePublished": "Fri, 13 Jan 2017 06:00:00 +0000",
+            "description": "<p>Suspense The Ten Years 6-2-49 http://oldtimeradiodvd.com</p>",
+            "length": "38857333",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/SuspenseTheTenYears6-2-49.mp3?dest-id=3472"
+        },
+        {
+            "title": "Inner Sanctum Black Sea Gull ",
+            "datePublished": "Fri, 06 Jan 2017 16:32:40 +0000",
+            "description": "<p>Inner Sanctum Black Sea Gull 3-7-43 http://oldtimeradiodvd.com</p>",
+            "length": "42342486",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/InnerSanctumBalckSeaGull3-7-43.mp3?dest-id=3472"
+        },
+        {
+            "title": "Dark Shadows Episode 6",
+            "datePublished": "Tue, 22 Nov 2016 18:00:00 +0000",
+            "description": "<p>Dark Shadows Episode 6 http://oldtimeradiodvd.com</p> <div id=\"link64_adl_tabid\" style=\"display: none;\" data-url= \"https://four.libsynpro.com/content_edit/index/mode/episode\"> 457</div>",
+            "length": "145256367",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/DarkShadows_Episode6.mp3?dest-id=3472"
+        },
+        {
+            "title": "Dark Shadows Episode 5",
+            "datePublished": "Tue, 15 Nov 2016 18:00:00 +0000",
+            "description": "<p>Dark Shadows Episode 5 http://oldtimeradiodvd.com</p> <div id=\"link64_adl_tabid\" style=\"display: none;\" data-url= \"https://four.libsynpro.com/content_edit/index/mode/episode\"> 450</div>",
+            "length": "159405121",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/DarkShadows_Episode5.mp3?dest-id=3472"
+        },
+        {
+            "title": "Dark Shadows Episode 4",
+            "datePublished": "Tue, 08 Nov 2016 18:00:00 +0000",
+            "description": "<p>Dark Shadows Episode 4 http://oldtimeradiodvd.com</p> <div id=\"link64_adl_tabid\" style=\"display: none;\" data-url= \"https://four.libsynpro.com/content_edit/index/mode/episode\"> 443</div>",
+            "length": "141338626",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/DarkShadows_Episode4.mp3?dest-id=3472"
+        },
+        {
+            "title": "Dark Shadows Episode 3",
+            "datePublished": "Tue, 01 Nov 2016 17:00:00 +0000",
+            "description": "<p>Dark Shadows Episode 3 http://oldtimeradiodvd.com</p> <div id=\"link64_adl_tabid\" style=\"display: none;\" data-url= \"https://four.libsynpro.com/content_edit/index/mode/episode\"> 438</div>",
+            "length": "146554757",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/DarkShadows_Episode3.mp3?dest-id=3472"
+        },
+        {
+            "title": "Dark Shadows Episode 2",
+            "datePublished": "Tue, 25 Oct 2016 17:00:00 +0000",
+            "description": "<p>Dark Shadows Episode 2 http://oldtimeradiodvd.com</p> <p> </p>",
+            "length": "159413898",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/DarkShadows_Episode_2.mp3?dest-id=3472"
+        },
+        {
+            "title": "Dark Shadows Episode 1",
+            "datePublished": "Tue, 18 Oct 2016 17:00:00 +0000",
+            "description": "<p>Dark Shadows Episode 1 http://oldtimeradiodvd.com</p> <div id=\"link64_adl_tabid\" style=\"display: none;\" data-url= \"https://four.libsynpro.com/content_edit/index/mode/episode\"> 421</div>",
+            "length": "177376321",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/DarkShadows_Episode_1.mp3?dest-id=3472"
+        },
+        {
+            "title": "Dracula 7 0f 7 ",
+            "datePublished": "Tue, 11 Oct 2016 17:00:00 +0000",
+            "description": "<p>Dracula 7 0f 7 http://oldtimeradiodvd.com</p> <div id=\"link64_adl_tabid\" style=\"display: none;\" data-url= \"https://four.libsynpro.com/content_edit/index/mode/episode\"> 1057</div>",
+            "length": "43662819",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/Dracula70f7s.mp3?dest-id=3472"
+        },
+        {
+            "title": "Dracula 6 0f 7",
+            "datePublished": "Tue, 04 Oct 2016 17:00:00 +0000",
+            "description": "<p>Dracula 6 0f 7 http://oldtimeradiodvd.com</p> <div id=\"link64_adl_tabid\" style=\"display: none;\" data-url= \"https://four.libsynpro.com/content_edit/index/mode/episode\"> 1053</div>",
+            "length": "43664700",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/Dracula60f7s.mp3?dest-id=3472"
+        },
+        {
+            "title": "Dracula 5 0f 7",
+            "datePublished": "Tue, 27 Sep 2016 17:00:00 +0000",
+            "description": "<p>Dracula 5 0f 7 http://oldtimeradiodvd.com</p> <div id=\"link64_adl_tabid\" style=\"display: none;\" data-url= \"https://four.libsynpro.com/content_edit/index/mode/episode\"> 1049</div>",
+            "length": "43759994",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/Dracula50f7s.mp3?dest-id=3472"
+        },
+        {
+            "title": "Dracula 4 0f 7",
+            "datePublished": "Tue, 20 Sep 2016 17:00:00 +0000",
+            "description": "<p>Dracula 4 0f 7 http://oldtimeradiodvd.com</p> <div id=\"link64_adl_tabid\" style=\"display: none;\" data-url= \"https://four.libsynpro.com/content_edit/index/mode/episode\"> 1044</div>",
+            "length": "43586959",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/Dracula40f7s.mp3?dest-id=3472"
+        },
+        {
+            "title": "Dracula 3 0f 7",
+            "datePublished": "Tue, 13 Sep 2016 17:00:00 +0000",
+            "description": "<p>Dracula 3 0f 7 http://oldtimeradiodvd.com</p> <div id=\"link64_adl_tabid\" style=\"display: none;\" data-url= \"https://four.libsynpro.com/content_edit/index/item_id/4571056\"> 1038</div>",
+            "length": "43672223",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/Dracula30f7s.mp3?dest-id=3472"
+        },
+        {
+            "title": "Dracula 2 0f 7",
+            "datePublished": "Tue, 06 Sep 2016 17:00:00 +0000",
+            "description": "<p>Dracula 2 0f 7 http://oldtimeradiodvd.com</p> <div id=\"link64_adl_tabid\" style=\"display: none;\" data-url= \"https://four.libsynpro.com/content_edit/index/mode/episode\"> 1035</div>",
+            "length": "43556239",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/Dracula20f7s.mp3?dest-id=3472"
+        },
+        {
+            "title": "Dracula 1 0f 7",
+            "datePublished": "Tue, 30 Aug 2016 17:00:00 +0000",
+            "description": "<p>Dracula 1 0f 7 http://oldtimeradiodvd.com</p> <div id=\"link64_adl_tabid\" style=\"display: none;\" data-url= \"https://four.libsynpro.com/content_edit/index/mode/episode\"> 1031</div>",
+            "length": "43694166",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/Dracula10f7s.mp3?dest-id=3472"
+        },
+        {
+            "title": "Lights Out Sakhalin ",
+            "datePublished": "Fri, 26 Aug 2016 05:00:00 +0000",
+            "description": "<p>Lights Out Sakhalin 3-3-37 http://oldtimeradiodvd.com</p> <div id=\"link64_adl_tabid\" style=\"display: none;\" data-url= \"https://four.libsynpro.com/content_edit/index/mode/episode\"> 493</div>",
+            "length": "44531129",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/LightsOutSakhalin3-3-37a.mp3?dest-id=3472"
+        },
+        {
+            "title": "Lights Out Poltergeist ",
+            "datePublished": "Fri, 19 Aug 2016 17:00:00 +0000",
+            "description": "<p>Lights Out Poltergeist 12-16-36 http://oldtimeradiodvd.com</p> <div id=\"link64_adl_tabid\" style=\"display: none;\" data-url= \"https://four.libsynpro.com/content_edit/index/mode/episode\"> 488</div>",
+            "length": "38335720",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/LightsOutPoltergeist12-16-36a.mp3?dest-id=3472"
+        },
+        {
+            "title": "Lights Out Nobody Died ",
+            "datePublished": "Fri, 12 Aug 2016 05:00:00 +0000",
+            "description": "<p>Lights Out Nobody Died 12-9-36 http://oldtimeradiodvd.com</p> <div id=\"link64_adl_tabid\" style=\"display: none;\" data-url= \"https://four.libsynpro.com/content_edit/index/mode/episode\"> 484</div>",
+            "length": "40808994",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/LightsOutNobodyDied12-9-36a.mp3?dest-id=3472"
+        },
+        {
+            "title": "Lights Out Cat Wife ",
+            "datePublished": "Fri, 05 Aug 2016 05:00:00 +0000",
+            "description": "<p>Lights Out Cat Wife 6-17-36 http://oldtimeradiodvd.com</p> <div id=\"link64_adl_tabid\" style=\"display: none;\" data-url= \"https://four.libsynpro.com/content_edit/index/mode/episode\"> 481</div>",
+            "length": "39501199",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/LightsOutCatWife6-17-36a.mp3?dest-id=3472"
+        },
+        {
+            "title": "Lights Out The Author And The Thing ",
+            "datePublished": "Fri, 29 Jul 2016 17:00:00 +0000",
+            "description": "<p>Lights Out The Author And The Thing 9-9-36 http://oldtimeradiodvd.com</p> <div id=\"link64_adl_tabid\" style=\"display: none;\" data-url= \"https://four.libsynpro.com/content_edit/index/item_id/4451011\"> 459</div>",
+            "length": "34361555",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/LightsOutTheAuthorAndTheThing9-9-36a.mp3?dest-id=3472"
+        },
+        {
+            "title": "Lights Out The Sea",
+            "datePublished": "Fri, 22 Jul 2016 05:00:00 +0000",
+            "description": "<p>Lights Out The Sea 9-16-36 http://oldtimeradiodvd.com</p> <div id=\"link64_adl_tabid\" style=\"display: none;\" data-url= \"https://four.libsynpro.com/content_edit/index/mode/episode\"> 456</div>",
+            "length": "32861918",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/LightsOutTheSea9-16-36a.mp3?dest-id=3472"
+        },
+        {
+            "title": "Lights Out The Dark ",
+            "datePublished": "Fri, 15 Jul 2016 12:00:00 +0000",
+            "description": "<p>Lights Out The Dark http://oldtimeradiodvd.com</p> <div id=\"link64_adl_tabid\" style=\"display: none;\" data-url= \"https://four.libsynpro.com/content_edit/index/mode/episode\"> 425</div>",
+            "length": "13580416",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/LightsOutTheDark.mp3?dest-id=3472"
+        },
+        {
+            "title": "The Silent Scream 3of3 ",
+            "datePublished": "Fri, 08 Jul 2016 05:00:00 +0000",
+            "description": "<p>The Silent Scream 3of3 http://oldtimeradiodvd.com</p>\n<div id=\"link64_adl_tabid\" style=\"display: none;\" data-url=\n\"https://four.libsynpro.com/content_edit/index/mode/episode\">\n4413</div>",
+            "length": "43731155",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/TheSilentScream3of3.mp3?dest-id=3472"
+        },
+        {
+            "title": "The Silent Scream 2of3 ",
+            "datePublished": "Fri, 01 Jul 2016 05:00:00 +0000",
+            "description": "<p>The Silent Scream 2of3 http://oldtimeradiodvd.com</p>\n<div id=\"link64_adl_tabid\" style=\"display: none;\" data-url=\n\"https://four.libsynpro.com/content_edit/index/mode/episode\">\n4410</div>",
+            "length": "43511100",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/TheSilentScream2of3.mp3?dest-id=3472"
+        },
+        {
+            "title": "The Silent Scream 1of3 ",
+            "datePublished": "Fri, 24 Jun 2016 05:00:00 +0000",
+            "description": "<p>The Silent Scream 1of3 http://oldtimeradiodvd.com</p>\n<div id=\"link64_adl_tabid\" style=\"display: none;\" data-url=\n\"https://four.libsynpro.com/content_edit/index/mode/episode\">\n4406</div>",
+            "length": "41915540",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/TheSilentScream1of3.mp3?dest-id=3472"
+        },
+        {
+            "title": "Victims",
+            "datePublished": "Sat, 18 Jun 2016 05:00:00 +0000",
+            "description": "<p>Victims http://oldtimeradiodvd.com</p> <div id=\"link64_adl_tabid\" style=\"display: none;\" data-url= \"https://four.libsynpro.com/content_edit/index/mode/episode\"> 499</div>",
+            "length": "46615700",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/Victims.mp3?dest-id=3472"
+        },
+        {
+            "title": "Sentimental Journey",
+            "datePublished": "Fri, 17 Jun 2016 15:54:34 +0000",
+            "description": "<p>Sentimental Journey http://oldtimeradiodvd.com</p> <div id=\"link64_adl_tabid\" style=\"display: none;\" data-url= \"https://four.libsynpro.com/content_edit/index/mode/episode\"> 496</div>",
+            "length": "38853571",
+            "sourceUrl": "http://traffic.libsyn.com/horrortales/SentimentalJourney.mp3?dest-id=3472"
+        }
+    ]
+}

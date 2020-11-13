@@ -1,0 +1,499 @@
+{
+    "artwork": "http://is3.mzstatic.com/image/thumb/Music4/v4/f9/47/06/f9470612-a1ab-a803-da45-f2aa78026eb1/source/100x100bb.jpg",
+    "description": "Learn New Testament (Koine) Greek",
+    "feedURL": "http://biblegreekvpod.com/rss/shows.rss",
+    "podcastURL": "http://biblegreekvpod.com/",
+    "title": "Bible Greek Vpod",
+    "episodes": [
+        {
+            "title": "Bible Greek VPOD -- Intermediate Greek Lesson 26",
+            "datePublished": "Sat, 11 Aug 2013 12:00:00 GMT",
+            "description": "Closing Remarks and 1 John 5:18-21",
+            "length": "37225",
+            "sourceUrl": "http://biblegreekvpod.com/GreekII/BibleGreekVpod2_26.mp3"
+        },
+        {
+            "title": "Bible Greek VPOD -- Intermediate Greek Lesson 25",
+            "datePublished": "Sat, 6 Jul 2013 12:00:00 GMT",
+            "description": "The Participle and 1 John 5:16-17",
+            "length": "44614",
+            "sourceUrl": "http://biblegreekvpod.com/GreekII/BibleGreekVpod2_25.mp3"
+        },
+        {
+            "title": "Bible Greek VPOD -- Intermediate Greek Lesson 24",
+            "datePublished": "Sat, 25 May 2013 12:00:00 GMT",
+            "description": "The Infinitive and 1 John 5:13-15",
+            "length": "34710",
+            "sourceUrl": "http://biblegreekvpod.com/GreekII/BibleGreekVpod2_24.mp3"
+        },
+        {
+            "title": "Bible Greek VPOD -- Intermediate Greek Lesson 23",
+            "datePublished": "Wed, 27 Mar 2013 12:00:00 GMT",
+            "description": "The Perfect Tense and 1 John 5:9-12",
+            "length": "18091",
+            "sourceUrl": "http://biblegreekvpod.com/GreekII/BibleGreekVpod2_23.mp3"
+        },
+        {
+            "title": "Bible Greek VPOD -- Intermediate Greek Lesson 22",
+            "datePublished": "Sun, 17 Feb 2013 12:00:00 GMT",
+            "description": "The Aorist Tense and 1 John 5:6-8",
+            "length": "21595",
+            "sourceUrl": "http://biblegreekvpod.com/GreekII/BibleGreekVpod2_22.mp3"
+        },
+        {
+            "title": "Bible Greek VPOD -- Intermediate Greek Lesson 21",
+            "datePublished": "Thu, 23 Dec 2012 12:00:00 GMT",
+            "description": "The Future Tense and 1 John 5:1-5",
+            "length": "38560",
+            "sourceUrl": "http://biblegreekvpod.com/GreekII/BibleGreekVpod2_21.mp3"
+        },
+        {
+            "title": "Bible Greek VPOD -- Intermediate Greek Lesson 20",
+            "datePublished": "Fri, 26 Oct 2012 12:00:00 GMT",
+            "description": "The Imperfect Tense and 1 John 4:17-21",
+            "length": "41807",
+            "sourceUrl": "http://biblegreekvpod.com/GreekII/BibleGreekVpod2_20.mp3"
+        },
+        {
+            "title": "Bible Greek VPOD -- Intermediate Greek Lesson 19",
+            "datePublished": "Mon, 27 Aug 2012 12:00:00 GMT",
+            "description": "The Present Tense and 1 John 4:12-16",
+            "length": "46212",
+            "sourceUrl": "http://biblegreekvpod.com/GreekII/BibleGreekVpod2_19.mp3"
+        },
+        {
+            "title": "Bible Greek VPOD -- Intermediate Greek Lesson 18",
+            "datePublished": "Sun, 1 Jul 2012 12:00:00 GMT",
+            "description": "The Imperative and 1 John 4:7-11",
+            "length": "31134",
+            "sourceUrl": "http://biblegreekvpod.com/GreekII/BibleGreekVpod2_18.mp3"
+        },
+        {
+            "title": "Bible Greek VPOD -- Intermediate Greek Lesson 17",
+            "datePublished": "Wed, 2 May 2012 12:00:00 GMT",
+            "description": "The Optative and 1 John 4:1-6",
+            "length": "41300",
+            "sourceUrl": "http://biblegreekvpod.com/GreekII/BibleGreekVpod2_17.mp3"
+        },
+        {
+            "title": "Bible Greek VPOD -- Intermediate Greek Lesson 16",
+            "datePublished": "Sat, 7 Jan 2012 12:00:00 GMT",
+            "description": "The Subjunctive and 1 John 3:16-24",
+            "length": "53200",
+            "sourceUrl": "http://biblegreekvpod.com/GreekII/BibleGreekVpod2_16.mp3"
+        },
+        {
+            "title": "Bible Greek VPOD -- Intermediate Greek Lesson 15",
+            "datePublished": "Thu, 20 Oct 2011 12:00:00 GMT",
+            "description": "The Indicative and 1 John 3:10-15",
+            "length": "41852",
+            "sourceUrl": "http://biblegreekvpod.com/GreekII/BibleGreekVpod2_15.mp3"
+        },
+        {
+            "title": "Bible Greek VPOD -- Intermediate Greek Lesson 14",
+            "datePublished": "Sun, 24 Jul 2011 12:00:00 GMT",
+            "description": "The Voice and 1 John 3:4-9",
+            "length": "43678",
+            "sourceUrl": "http://biblegreekvpod.com/GreekII/BibleGreekVpod2_14.mp3"
+        },
+        {
+            "title": "Bible Greek VPOD -- Intermediate Greek Lesson 14B",
+            "datePublished": "Sun, 22 Jul 2011 12:00:00 GMT",
+            "description": "1 John 3:4-9",
+            "length": "25163",
+            "sourceUrl": "http://biblegreekvpod.com/GreekII/BibleGreekVpod2_14B.mp3"
+        },
+        {
+            "title": "Bible Greek VPOD -- Intermediate Greek Lesson 13",
+            "datePublished": "Mon, 23 May 2011 12:00:00 GMT",
+            "description": "The Verb and 1 John 3:1-3",
+            "length": "36212",
+            "sourceUrl": "http://biblegreekvpod.com/GreekII/BibleGreekVpod2_13.mp3"
+        },
+        {
+            "title": "Bible Greek VPOD -- Intermediate Greek Lesson 12",
+            "datePublished": "Mon, 18 Apr 2011 12:00:00 GMT",
+            "description": "The Preposition and 1 John 2:24-29",
+            "length": "44075",
+            "sourceUrl": "http://biblegreekvpod.com/GreekII/BibleGreekVpod2_12.mp3"
+        },
+        {
+            "title": "Bible Greek VPOD -- Intermediate Greek Lesson 11",
+            "datePublished": "Sat, 05 Mar 2011 12:00:00 GMT",
+            "description": "The Pronoun and 1 John 2:18-23",
+            "length": "49932",
+            "sourceUrl": "http://biblegreekvpod.com/GreekII/BibleGreekVpod2_11.mp3"
+        },
+        {
+            "title": "Bible Greek VPOD -- Intermediate Greek Lesson 10",
+            "datePublished": "Fri, 17 Dec 2010 12:00:00 GMT",
+            "description": "The Adjective and 1 John 2:15-17",
+            "length": "31596",
+            "sourceUrl": "http://biblegreekvpod.com/GreekII/BibleGreekVpod2_10.mp3"
+        },
+        {
+            "title": "Bible Greek VPOD -- Intermediate Greek Lesson 9",
+            "datePublished": "Sat, 06 Nov 2010 12:00:00 GMT",
+            "description": "The Article and 1 John 2:12-15",
+            "length": "39616",
+            "sourceUrl": "http://biblegreekvpod.com/GreekII/BibleGreekVpod2_9.mp3"
+        },
+        {
+            "title": "Bible Greek VPOD -- Intermediate Greek Lesson 8",
+            "datePublished": "Sat, 25 Sep 2010 12:00:00 GMT",
+            "description": "Accusative and 1 John 2:9-11",
+            "length": "30004",
+            "sourceUrl": "http://biblegreekvpod.com/GreekII/BibleGreekVpod2_8.mp3"
+        },
+        {
+            "title": "Bible Greek VPOD -- Intermediate Greek Lesson 7",
+            "datePublished": "Thu, 12 Aug 2010 12:00:00 GMT",
+            "description": "Instrumental and 1 John 2:7-8",
+            "length": "26280",
+            "sourceUrl": "http://biblegreekvpod.com/GreekII/BibleGreekVpod2_7.mp3"
+        },
+        {
+            "title": "Bible Greek VPOD -- Intermediate Greek Lesson 6",
+            "datePublished": "Sat, 10 Jul 2010 12:00:00 GMT",
+            "description": "Locative and 1 John 2:3-6",
+            "length": "28028",
+            "sourceUrl": "http://biblegreekvpod.com/GreekII/BibleGreekVpod2_6.mp3"
+        },
+        {
+            "title": "Bible Greek VPOD -- Intermediate Greek Lesson 5",
+            "datePublished": "Thu, 17 Jun 2010 12:00:00 GMT",
+            "description": "Dative and 1 John 2:1-2",
+            "length": "24056",
+            "sourceUrl": "http://biblegreekvpod.com/GreekII/BibleGreekVpod2_5.mp3"
+        },
+        {
+            "title": "Bible Greek VPOD -- Intermediate Greek Lesson 4",
+            "datePublished": "Wed, 27 Apr 2010 12:00:00 GMT",
+            "description": "Ablative and 1 John 1:6-10",
+            "length": "28456",
+            "sourceUrl": "http://biblegreekvpod.com/GreekII/BibleGreekVpod2_4.mp3"
+        },
+        {
+            "title": "Bible Greek VPOD -- Intermediate Greek Lesson 3",
+            "datePublished": "Thu, 25 Mar 2010 12:00:00 GMT",
+            "description": "Genitive and 1 John 1:3-5",
+            "length": "29936",
+            "sourceUrl": "http://biblegreekvpod.com/GreekII/BibleGreekVpod2_3.mp3"
+        },
+        {
+            "title": "Bible Greek VPOD -- Intermediate Greek Lesson 2",
+            "datePublished": "Mon, 15 Feb 2010 12:00:00 GMT",
+            "description": "Nominative and 1 John 1:1-2",
+            "length": "33600",
+            "sourceUrl": "http://biblegreekvpod.com/GreekII/BibleGreekVpod2_2.mp3"
+        },
+        {
+            "title": "Bible Greek VPOD -- Intermediate Greek Lesson 1",
+            "datePublished": "Fri, 05 Feb 2010 12:00:00 GMT",
+            "description": "Introduction to Intermediate Greek",
+            "length": "27344",
+            "sourceUrl": "http://biblegreekvpod.com/GreekII/BibleGreekVpod2_1.mp3"
+        },
+        {
+            "title": "Bible Greek VPOD -- Extended Lesson #3",
+            "datePublished": "Wed, 28 Oct 2009 12:00:00 GMT",
+            "description": "Putting the sentence together",
+            "length": "31603",
+            "sourceUrl": "http://biblegreekvpod.com/File/extended3.m4v"
+        },
+        {
+            "title": "Bible Greek VPOD -- Lesson Thirty Eight",
+            "datePublished": "Wed, 22 Oct 2009 12:00:00 GMT",
+            "description": "Perfect Participle",
+            "length": "17232",
+            "sourceUrl": "http://biblegreekvpod.com/File/lesson38.m4v"
+        },
+        {
+            "title": "Bible Greek VPOD -- Lesson Thirty Seven",
+            "datePublished": "Wed, 14 Oct 2009 12:00:00 GMT",
+            "description": "Aorist Participle",
+            "length": "16640",
+            "sourceUrl": "http://biblegreekvpod.com/File/lesson37.m4v"
+        },
+        {
+            "title": "Bible Greek VPOD -- Lesson Thirty Six",
+            "datePublished": "Wed, 7 Oct 2009 12:00:00 GMT",
+            "description": "Present Participle",
+            "length": "18480",
+            "sourceUrl": "http://biblegreekvpod.com/File/lesson36.m4v"
+        },
+        {
+            "title": "Bible Greek VPOD -- Lesson Thirty Five",
+            "datePublished": "Mon, 5 Oct 2009 12:00:00 GMT",
+            "description": "Imperative Mood",
+            "length": "19064",
+            "sourceUrl": "http://biblegreekvpod.com/File/lesson35.m4v"
+        },
+        {
+            "title": "Bible Greek VPOD -- Lesson Thirty Four",
+            "datePublished": "Wed, 16 Sep 2009 12:00:00 GMT",
+            "description": "Subjunctive Mood",
+            "length": "20066",
+            "sourceUrl": "http://biblegreekvpod.com/File/lesson34.m4v"
+        },
+        {
+            "title": "Bible Greek VPOD -- Lesson Thirty Three",
+            "datePublished": "Mon, 14 Sep 2009 12:00:00 GMT",
+            "description": "Perfect Verbs",
+            "length": "19919",
+            "sourceUrl": "http://biblegreekvpod.com/File/lesson33.m4v"
+        },
+        {
+            "title": "Bible Greek VPOD -- Lesson Thirty Two",
+            "datePublished": "Sun, 16 Aug 2009 12:00:00 GMT",
+            "description": "Imperfect Verbs",
+            "length": "12216",
+            "sourceUrl": "http://biblegreekvpod.com/File/lesson32.m4v"
+        },
+        {
+            "title": "Bible Greek VPOD -- Lesson Thirty One",
+            "datePublished": "Sat, 1 Aug 2009 12:00:00 GMT",
+            "description": "Aorist and Future Passive Verbs",
+            "length": "21652",
+            "sourceUrl": "http://biblegreekvpod.com/File/lesson31.m4v"
+        },
+        {
+            "title": "Bible Greek VPOD -- Lesson Thirty",
+            "datePublished": "Sun, 17 Jul 2009 12:00:00 GMT",
+            "description": "Future Verbs",
+            "length": "21184",
+            "sourceUrl": "http://biblegreekvpod.com/File/lesson30.m4v"
+        },
+        {
+            "title": "Bible Greek VPOD -- Lesson Twenty Nine",
+            "datePublished": "Mon, 6 Jul 2009 12:00:00 GMT",
+            "description": "Second Aorist Verbs",
+            "length": "15484",
+            "sourceUrl": "http://biblegreekvpod.com/File/lesson29.m4v"
+        },
+        {
+            "title": "Bible Greek VPOD -- Lesson Twenty Eight",
+            "datePublished": "Mon, 12 Apr 2009 12:00:00 GMT",
+            "description": "Third Declension Nouns",
+            "length": "9796",
+            "sourceUrl": "http://biblegreekvpod.com/File/lesson28.m4v"
+        },
+        {
+            "title": "Bible Greek VPOD -- Lesson Twenty Seven",
+            "datePublished": "Mon, 23 Mar 2009 12:00:00 GMT",
+            "description": "First Aorist Verbs",
+            "length": "35204",
+            "sourceUrl": "http://biblegreekvpod.com/File/lesson27.m4v"
+        },
+        {
+            "title": "Bible Greek VPOD -- Lesson Twenty Six",
+            "datePublished": "Sat, 14 Feb 2009 12:00:00 GMT",
+            "description": "Vocabulary",
+            "length": "20748",
+            "sourceUrl": "http://biblegreekvpod.com/File/lesson26.m4v"
+        },
+        {
+            "title": "Bible Greek VPOD -- Lesson Twenty Five",
+            "datePublished": "Sat, 24 Jan 2009 12:00:00 GMT",
+            "description": "Pronouns",
+            "length": "75367",
+            "sourceUrl": "http://biblegreekvpod.com/File/lesson25.m4v"
+        },
+        {
+            "title": "Bible Greek VPOD -- Lesson Twenty Four",
+            "datePublished": "Wed, 6 Feb 2008 12:00:00 GMT",
+            "description": "Personal Pronouns",
+            "length": "27375",
+            "sourceUrl": "http://biblegreekvpod.com/File/lesson24.m4v"
+        },
+        {
+            "title": "Bible Greek VPOD -- Lesson Twenty Three",
+            "datePublished": "Sun, 28 Jan 2007 12:00:00 GMT",
+            "description": "Prepositions",
+            "length": "58050",
+            "sourceUrl": "http://biblegreekvpod.com/File/lesson23.m4v"
+        },
+        {
+            "title": "Bible Greek VPOD -- Lesson Twenty Two",
+            "datePublished": "Fri, 19 Jan 2007 12:00:00 GMT",
+            "description": "1st Declension Nouns and a Sentence",
+            "length": "38475",
+            "sourceUrl": "http://biblegreekvpod.com/File/lesson22.m4v"
+        },
+        {
+            "title": "Bible Greek VPOD -- Lesson Twenty One",
+            "datePublished": "Sat, 06 Jan 2007 12:00:00 GMT",
+            "description": "1st Declension Nouns",
+            "length": "35225",
+            "sourceUrl": "http://biblegreekvpod.com/File/lessontwentyone1.m4v"
+        },
+        {
+            "title": "Bible Greek VPOD -- Lesson Twenty",
+            "datePublished": "Wed, 22 Nov 2006 12:00:00 GMT",
+            "description": "How to use a Lexicon",
+            "length": "55860",
+            "sourceUrl": "http://biblegreekvpod.com/File/lessontwenty.m4v"
+        },
+        {
+            "title": "Bible Greek VPOD -- Lesson Nineteen",
+            "datePublished": "Thu, 26 Oct 2006 12:00:00 GMT",
+            "description": "Deponents: The Defective Verbs",
+            "length": "36704",
+            "sourceUrl": "http://biblegreekvpod.com/File/lesson19.m4v"
+        },
+        {
+            "title": "Bible Greek VPOD -- Extended Episode Two",
+            "datePublished": "Fri, 20 Oct 2006 12:00:00 GMT",
+            "description": "44 Greek Words -- 20 nouns 19 verbs and 5 miscellaneous words 1st John",
+            "length": "50828",
+            "sourceUrl": "http://biblegreekvpod.com/File/extendedepisode2.m4v"
+        },
+        {
+            "title": "Bible Greek VPOD --TEST ONE INFORMATION",
+            "datePublished": "Mon, 25 Sep 2006 12:00:00 GMT",
+            "description": "TEST ONE INFORMATION",
+            "length": "53188",
+            "sourceUrl": "http://biblegreekvpod.com/File/test1intro.m4v"
+        },
+        {
+            "title": "Bible Greek VPOD -- Lesson Eighteen",
+            "datePublished": "Thu, 7 Sep 2006 12:00:00 GMT",
+            "description": "Lesson Eighteen: Present Passive Indicative",
+            "length": "22784",
+            "sourceUrl": "http://biblegreekvpod.com/File/lessoneighteen.m4v"
+        },
+        {
+            "title": "Bible Greek VPOD -- 15 Little Words",
+            "datePublished": "Tue, 29 Aug 2006 12:00:00 GMT",
+            "description": "Fifteen Little Words to Memorize",
+            "length": "14976",
+            "sourceUrl": "http://biblegreekvpod.com/File/15littlewords.m4v"
+        },
+        {
+            "title": "Bible Greek VPOD -- Lesson Seventeen",
+            "datePublished": "Mon, 21 Aug 2006 12:00:00 GMT",
+            "description": "Lesson Seventeen: The Vocative",
+            "length": "11268",
+            "sourceUrl": "http://biblegreekvpod.com/File/lesson17.m4v"
+        },
+        {
+            "title": "Bible Greek VPOD -- Lesson Sixteen",
+            "datePublished": "Fri, 11 Aug 2006 12:00:00 GMT",
+            "description": "Lesson Sixteen: Dative/ Locative/ Instrumental, Masculine, Singular/Plural",
+            "length": "14052",
+            "sourceUrl": "http://biblegreekvpod.com/File/lessonsixteen.m4v"
+        },
+        {
+            "title": "Bible Greek VPOD -- Lesson Fifteen",
+            "datePublished": "Tue, 1 Aug 2006 12:00:00 GMT",
+            "description": "Lesson Fifteen -- Genitive/Ablative Masculine Singular/Plural",
+            "length": "17824",
+            "sourceUrl": "http://biblegreekvpod.com/File/lessonfifteen.m4v"
+        },
+        {
+            "title": "Bible Greek VPOD -- Lesson Fourteen",
+            "datePublished": "Tue, 25 Jul 2006 12:00:00 GMT",
+            "description": " Lesson Fourteen. Nominative Masculine Plural and Accusative Masculine Plural",
+            "length": "16856",
+            "sourceUrl": "http://biblegreekvpod.com/File/lessonfourteen.m4v"
+        },
+        {
+            "title": "Bible Greek VPOD -- Lesson Thirteen",
+            "datePublished": "Fri, 21 Jul 2006 12:00:00 GMT",
+            "description": "Lesson Thirteen.  Present Middle Indicative",
+            "length": "17628",
+            "sourceUrl": "http://biblegreekvpod.com/File/lessonthirteen.m4v"
+        },
+        {
+            "title": "Bible Greek VPOD -- Lesson Twelve",
+            "datePublished": "Sun, 2 Jul 2006 12:00:00 GMT",
+            "description": "Lesson Twelve. The Definite Article",
+            "length": "18068",
+            "sourceUrl": "http://biblegreekvpod.com/File/lessontwelve.m4v"
+        },
+        {
+            "title": "Bible Greek VPOD -- Lesson Eleven",
+            "datePublished": "Wed, 28 Jun 2006 12:00:00 GMT",
+            "description": "Lesson Eleven.  You will memorize 5 nouns in the Accusative, Masculine, Singular form.",
+            "length": "23852",
+            "sourceUrl": "http://biblegreekvpod.com/File/lessoneleven.m4v"
+        },
+        {
+            "title": "Bible Greek VPOD -- Lesson Ten",
+            "datePublished": "Fri, 02 Jun 2006 12:00:00 GMT",
+            "description": "Lesson Ten.  You will memorize 10 nouns in the Nominative, Masculine, Singular form.",
+            "length": "17296",
+            "sourceUrl": "http://biblegreekvpod.com/File/lessonten.m4v"
+        },
+        {
+            "title": "Bible Greek VPOD -- Extended Episode #1",
+            "datePublished": "Tue, 23 May 2006 12:00:00 GMT",
+            "description": "Extended Episode #1.  Lesson Seven's vocubulary words with the Present Active Indicative Form in flashcard format .",
+            "length": "38984",
+            "sourceUrl": "http://biblegreekvpod.com/File/extendedepisode1.m4v"
+        },
+        {
+            "title": "Bible Greek VPOD -- Lesson Nine",
+            "datePublished": "Mon, 22 May 2006 12:00:00 GMT",
+            "description": "Lesson Nine.  You will be introduced to the concept of a movemable NU in Greek as well as have the Greek accent marks summarized.",
+            "length": "20348",
+            "sourceUrl": "http://biblegreekvpod.com/File/lessonnine.m4v"
+        },
+        {
+            "title": "Bible Greek VPOD -- Lesson Eight",
+            "datePublished": "Fri, 05 May 2006 12:00:00 GMT",
+            "description": "Lesson Eight.  You will learn how to pronounce and memorize your first Verb form.",
+            "length": "18696",
+            "sourceUrl": "http://biblegreekvpod.com/File/lessoneight.m4v"
+        },
+        {
+            "title": "Bible Greek VPOD -- Lesson Seven",
+            "datePublished": "Thu, 27 Apr 2006 12:00:00 GMT",
+            "description": "Lesson Seven. You will learn how to pronounce and memorize your first Koine NT Greek Vocabulary Words.",
+            "length": "18696",
+            "sourceUrl": "http://biblegreekvpod.com/File/lessonseven.m4v"
+        },
+        {
+            "title": "Bible Greek VPOD -- Lesson Six",
+            "datePublished": "Wed, 13 Apr 2006 12:00:00 GMT",
+            "description": "Lesson Six.All the Dipthong Sounds",
+            "length": "19880",
+            "sourceUrl": "http://biblegreekvpod.com/File/lesson6.m4v"
+        },
+        {
+            "title": "Bible Greek VPOD -- Lesson Five",
+            "datePublished": "Wed, 12 Apr 2006 12:00:00 GMT",
+            "description": "Lesson Five - Learn the last set of 4 Greek Letters.",
+            "length": "15176",
+            "sourceUrl": "http://biblegreekvpod.com/File/lessonfive.m4v"
+        },
+        {
+            "title": "Bible Greek VPOD -- Lesson Four",
+            "datePublished": "Fri, 07 Apr 2006 12:00:00 GMT",
+            "description": "Lesson Four. Learn the next set of 5 Greek Letters.",
+            "length": "19116",
+            "sourceUrl": "http://biblegreekvpod.com/File/lessonfour.m4v"
+        },
+        {
+            "title": "Bible Greek VPOD -- Lesson Three",
+            "datePublished": "Thu, 06 Apr 2006 12:00:00 GMT",
+            "description": "Lesson Three. Learn the next set of 5 Greek Letters..",
+            "length": "15816",
+            "sourceUrl": "http://biblegreekvpod.com/File/lessonthree.m4v"
+        },
+        {
+            "title": "Bible Greek VPOD -- Lesson Two",
+            "datePublished": "Thu, 30 Mar 2006 12:00:00 GMT",
+            "description": "Lesson Two. You will learn how to say, pronounce, and write the second set of five letters in the Koine Greek Alphabet.",
+            "length": "15764",
+            "sourceUrl": "http://biblegreekvpod.com/File/lessontwo.m4v"
+        },
+        {
+            "title": "Bible Greek VPOD -- Lesson One",
+            "datePublished": "Thu, 30 Mar 2006 12:00:00 GMT",
+            "description": "Lesson One. You will learn how to say, pronounce, and write the first five letters in the Koine Greek Alphabet.",
+            "length": "19000",
+            "sourceUrl": "http://biblegreekvpod.com/File/lessonone.m4v"
+        }
+    ]
+}

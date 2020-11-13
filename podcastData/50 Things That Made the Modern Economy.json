@@ -1,0 +1,772 @@
+{
+    "artwork": "http://is4.mzstatic.com/image/thumb/Music71/v4/36/a8/86/36a88617-5c68-fa22-c9ed-b85940a7a6f4/source/100x100bb.jpg",
+    "description": "Tim Harford tells the fascinating stories of 50 inventions, ideas and innovations which have helped create the economic world.",
+    "feedURL": "https://podcasts.files.bbci.co.uk/p04b1g3c.rss",
+    "podcastURL": "http://www.bbc.co.uk/programmes/p04b1g3c",
+    "title": "50 Things That Made the Modern Economy",
+    "episodes": [
+        {
+            "title": "Introducing 13 Minutes to the Moon Season 2",
+            "datePublished": "Mon, 09 Mar 2020 17:17:00 +0000",
+            "description": "Jump on-board a doomed mission to the Moon. Apollo 13: the extraordinary story, told by the people who flew it and saved it.  \nSearch for 13 Minutes to the Moon wherever you get your podcasts. \n#13MinutestotheMoon",
+            "length": "1864000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0864dl4.mp3"
+        },
+        {
+            "title": "Gutenberg press",
+            "datePublished": "Mon, 02 Mar 2020 02:00:00 +0000",
+            "description": "Johannes Gutenberg's printing press changed the course of human history. It created a new way of doing business, drastically reduced the cost and speed of making books, and enabled texts, ideas and arguments to spread further and faster than ever before. So why did he struggle to make money from it?",
+            "length": "4880000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0853twd.mp3"
+        },
+        {
+            "title": "Slot machines",
+            "datePublished": "Mon, 24 Feb 2020 02:00:00 +0000",
+            "description": "First developed by a toy company in the 1890s, slot machines have become one of the most profitable tools of the gambling trade - but many who play them say winning isn't the point. So why can't people pull themselves away? Tim Harford looks under the spinning wheels and flashing lights to see what these devices reveal about the business of addiction.",
+            "length": "4592000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08466jc.mp3"
+        },
+        {
+            "title": "Chess algorithms",
+            "datePublished": "Mon, 17 Feb 2020 02:00:00 +0000",
+            "description": "In 1997, Garry Kasparov, widely regarded as the world's greatest chess player, was defeated by Deep Blue, a computer. But how much did that reveal about the 'brainpower' of machines? Tim Harford explains by delving into the history of algorithms. They've been used by mathematicians and scientists for millennia, but have acquired a new level of power and importance in the digital age.",
+            "length": "4760000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p083c8mc.mp3"
+        },
+        {
+            "title": "Auctions",
+            "datePublished": "Mon, 10 Feb 2020 02:00:00 +0000",
+            "description": "Are things only worth what people are willing to pay for them? Tim Harford explains why a method of buying and selling that originated in ancient times has endured to the present day, and is now underpinning the success of some of the internet's most powerful brands.",
+            "length": "4728000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p082mwtq.mp3"
+        },
+        {
+            "title": "Dams",
+            "datePublished": "Mon, 03 Feb 2020 02:00:00 +0000",
+            "description": "From reliable water supplies to large-scale electricity generation, the benefits brought by dams can be huge. But so can the problems. Tim Harford explains how these massive structures have changed the world for many, but led to catastrophe for others.",
+            "length": "4728000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p081xvt1.mp3"
+        },
+        {
+            "title": "Tulips",
+            "datePublished": "Mon, 27 Jan 2020 02:00:00 +0000",
+            "description": "In the 1630s, the Netherlands experienced 'tulip mania' - a surge in demand for tulips from wealthy buyers, with some individual bulbs costing twenty times more than a carpenter's annual salary. Then, in February 1637, the price suddenly crashed. It's often cited as the first great financial bubble, but is that really the case? Tim Harford tries to sort fact from fiction.",
+            "length": "4808000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p081b18k.mp3"
+        },
+        {
+            "title": "Sanitary towel",
+            "datePublished": "Mon, 20 Jan 2020 02:00:00 +0000",
+            "description": "In the early 20th Century, makers of sanitary towels had to find a way to sell an item that some people found too embarrassing to mention. In some parts of the world, that stigma still hasn't gone away. Tim Harford charts the controversial history of a quietly revolutionary product.",
+            "length": "4688000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p080nhnq.mp3"
+        },
+        {
+            "title": "Wardian case",
+            "datePublished": "Mon, 13 Jan 2020 02:00:00 +0000",
+            "description": "Nathaniel Bagshaw Ward's miniature greenhouses made it far easier to successfully transport plants, spreading them far beyond their native lands. But that led to major consequences that Ward hadn't foreseen. Tim Harford tells the story of how glass boxes became powerful weapons in the hands of British colonisers.",
+            "length": "4784000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0801qr9.mp3"
+        },
+        {
+            "title": "Fast food franchise",
+            "datePublished": "Mon, 06 Jan 2020 02:00:00 +0000",
+            "description": "There are more than 36,000 McDonald's restaurants around the world - but if the McDonald brothers had had their way, that might never have happened. Tim Harford tells the story of how milkshake-mixer salesman Ray Kroc turned their burger business into a global giant, and explains the principles that made his franchising model such a success.",
+            "length": "4728000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p07zfzfh.mp3"
+        },
+        {
+            "title": "CCTV",
+            "datePublished": "Mon, 30 Dec 2019 02:00:00 +0000",
+            "description": "Surveillance cameras were invented so Nazi scientists could observe rocket launches from a safe distance. They've come a long way since then, and are gathering more data about us than ever before. But in a world where millions happily carry smartphones in our pockets, how do we really feel about being watched?",
+            "length": "4728000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p07yhw52.mp3"
+        },
+        {
+            "title": "Retirement",
+            "datePublished": "Mon, 23 Dec 2019 02:00:00 +0000",
+            "description": "As populations age, pension systems around the world are coming under strain. Governments, employers and economists are searching for ways to alleviate the problem - but could traditional societies hold some valuable lessons?",
+            "length": "5056000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p07yh74z.mp3"
+        },
+        {
+            "title": "Santa",
+            "datePublished": "Mon, 16 Dec 2019 02:00:00 +0000",
+            "description": "Why does Father Christmas wear red and white? It's not for the reason you may think. In an updated version of an episode from 2018, Tim Harford tells the story of Christmas and consumerism.",
+            "length": "7736000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p07xkzy1.mp3"
+        },
+        {
+            "title": "Sewing machine",
+            "datePublished": "Mon, 09 Dec 2019 02:00:00 +0000",
+            "description": "Women's lives were transformed by sewing machines, which made a \"never-ending, ever-beginning task\" far less arduous and time-consuming. But Isaac Singer, who made his fortune from these devices, was far from a champion of women's rights. Tim Harford tells a story of how self-interest can sometimes be a powerful driver for social change.",
+            "length": "4616000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p07x42tt.mp3"
+        },
+        {
+            "title": "Hollerith punch card",
+            "datePublished": "Mon, 02 Dec 2019 02:00:00 +0000",
+            "description": "Data is a hugely profitable commodity - if you know how to process it. Tim Harford tells the story of Herman Hollerith, and how his 19th-century machine for processing census data laid the foundations for some of the world's most valuable companies.",
+            "length": "4744000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p07wh21m.mp3"
+        },
+        {
+            "title": "Stock option",
+            "datePublished": "Mon, 25 Nov 2019 02:00:00 +0000",
+            "description": "In theory, stock options should motivate executives to perform better by tying their pay to their company's performance. So why do some argue the practice has just become a way for the highest earners to boost their salaries even further? Tim Harford turns to ancient Greek philosophy and Bill Clinton's presidency in search of the answer.",
+            "length": "4840000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p07vt7nq.mp3"
+        },
+        {
+            "title": "Fundraising appeal",
+            "datePublished": "Mon, 18 Nov 2019 02:00:00 +0000",
+            "description": "Tim Harford goes back to the 1900s to tell the story of how charity fundraising became big business. But in the social media age, what's the most effective way to get people to give?",
+            "length": "4744000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p07v30kc.mp3"
+        },
+        {
+            "title": "SWIFT",
+            "datePublished": "Mon, 11 Nov 2019 02:00:00 +0000",
+            "description": "The Society for Worldwide Interbank Financial Telecommunication - SWIFT - solved some big problems with international financial transfers, making them more secure and reliable than ever before. However, as Tim Harford explains, the global political climate means it might now be facing its greatest challenge.",
+            "length": "4840000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p07tcjs4.mp3"
+        },
+        {
+            "title": "Wedgwood",
+            "datePublished": "Mon, 04 Nov 2019 02:00:00 +0000",
+            "description": "Josiah Wedgwood is arguably the best-known name in the history of pottery - but it's not just his pots that made their mark on history. Tim Harford explains how a business model Wedgwood devised in the 18th Century still underpins the modern fashion industry.",
+            "length": "4624000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p07srbmn.mp3"
+        },
+        {
+            "title": "Glasses",
+            "datePublished": "Mon, 28 Oct 2019 02:00:00 +0000",
+            "description": "Spectacles have been around for centuries, and have a huge impact on many people's quality of life. So why is it estimated that more than two billion people aren't aware that they need them? Tim Harford considers the difference that seeing clearly makes to the world.",
+            "length": "5016000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p07s2nzz.mp3"
+        },
+        {
+            "title": "Vickrey turnstile",
+            "datePublished": "Mon, 21 Oct 2019 01:00:00 +0000",
+            "description": "In 1952, economist William Vickrey devised an innovative system of turnstiles to help solve a major problem on New York’s subway network. It never became a reality, but, as Tim Harford explains, the idea behind it has had a major influence on how companies decide what to charge us for goods and services today.",
+            "length": "4672000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p07rf2d0.mp3"
+        },
+        {
+            "title": "GPS",
+            "datePublished": "Mon, 14 Oct 2019 01:00:00 +0000",
+            "description": "How dependent is the world on GPS - and what would happen if it stopped working? Tim Harford explains why it's not just our ability to navigate that would be affected.",
+            "length": "4784000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p07qtfxm.mp3"
+        },
+        {
+            "title": "Bonsack machine",
+            "datePublished": "Mon, 07 Oct 2019 01:00:00 +0000",
+            "description": "In 1881, James Bonsack developed a machine that made it far easier to mass-produce cigarettes. But at the time, other tobacco products were much more popular – so manufacturers had to find new ways of getting people’s attention. Tim Harford explains why the methods they devised are still working on consumers today.",
+            "length": "4600000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p07q4n88.mp3"
+        },
+        {
+            "title": "Prohibition",
+            "datePublished": "Mon, 30 Sep 2019 01:00:00 +0000",
+            "description": "When the US outlawed the manufacture and sale of alcoholic beverages, it inadvertently created one of the most successful black markets in the world. Tim Harford considers how much it costs to make something illegal, and what a failed law reveals about the way criminals make their money.",
+            "length": "4856000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p07phzx3.mp3"
+        },
+        {
+            "title": "Interface Message Processor",
+            "datePublished": "Mon, 23 Sep 2019 01:00:00 +0000",
+            "description": "Arpanet was a computer network developed in the 1960s that paved the way for today's internet. At its heart was the Interface Message Processor: a massive, heavily armoured box containing the technology that made it possible. Tim Harford takes a look inside.",
+            "length": "4960000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p07nw6d5.mp3"
+        },
+        {
+            "title": "Canned food",
+            "datePublished": "Mon, 16 Sep 2019 01:00:00 +0000",
+            "description": "Developed for the military, dodging bureaucracy and fuelled by venture capital: canned food blazed a trail many of today's biggest tech innovations have followed. Tim Harford reveals the surprising lessons and cautionary tales lurking under the lid.",
+            "length": "4776000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p07n88qy.mp3"
+        },
+        {
+            "title": "Interchangeable parts",
+            "datePublished": "Mon, 09 Sep 2019 01:00:00 +0000",
+            "description": "Tim Harford tells the story of how Honoré Blanc, a gun-maker in 18th-century France, transformed the way the world manufactures things - but couldn't benefit from his own innovations.",
+            "length": "5040000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p07mmrm9.mp3"
+        },
+        {
+            "title": "Oil",
+            "datePublished": "Mon, 02 Sep 2019 01:00:00 +0000",
+            "description": "The price of oil is arguably the most important in the world economy. How did we become so dependent - and are we ever likely to wean ourselves off it?",
+            "length": "4312000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p07m1w8v.mp3"
+        },
+        {
+            "title": "Chatbot",
+            "datePublished": "Mon, 26 Aug 2019 01:00:00 +0000",
+            "description": "It's claimed that some computers can now pass the Turing test: convincing people that they are human. Tim Harford asks how important that distinction is, and what it means for the future of human interaction.",
+            "length": "4824000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p07lg9ww.mp3"
+        },
+        {
+            "title": "Solar PV",
+            "datePublished": "Mon, 19 Aug 2019 01:00:00 +0000",
+            "description": "Solar power has been harnessed by civilisations since the days of the ancient Greeks, but it's now on the verge of being more important than ever. Tim Harford examines how much of a challenge it poses to the energy establishment, and what that could mean for the planet's future.",
+            "length": "4712000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p07kvr10.mp3"
+        },
+        {
+            "title": "Cassava",
+            "datePublished": "Mon, 12 Aug 2019 01:00:00 +0000",
+            "description": "Despite being highly toxic, the roots of the cassava plant are a vital source of nutrition in many countries. They also shed light on the hidden social forces that support a modern economy.",
+            "length": "4752000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p07k7bjj.mp3"
+        },
+        {
+            "title": "Fire",
+            "datePublished": "Mon, 05 Aug 2019 01:00:00 +0000",
+            "description": "Humanity's taming of fire may be where the story of economics really begins, some argue. Tim Harford explores how fire has shaped our world and our minds, and why it's still got some important lessons to teach us.",
+            "length": "4728000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p07jm37n.mp3"
+        },
+        {
+            "title": "RFID: The tech you’ve never heard of – but use every day",
+            "datePublished": "Mon, 29 Jul 2019 01:00:00 +0000",
+            "description": "Radio frequency identification - RFID - is the foundation on which many contactless technologies are built. But is it getting left behind amid the \"internet of things\"? Tim Harford argues its best days may still be to come.",
+            "length": "4808000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p07hz1n3.mp3"
+        },
+        {
+            "title": "Postage stamp",
+            "datePublished": "Mon, 22 Jul 2019 01:00:00 +0000",
+            "description": "In the mid-19th Century, a man named Rowland Hill got fed up with how Britain's postal service worked, and decided to come up with a new system of his own. It would go on to change the world.",
+            "length": "4856000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p07h9xpp.mp3"
+        },
+        {
+            "title": "Rubber",
+            "datePublished": "Mon, 15 Jul 2019 01:00:00 +0000",
+            "description": "Rubber is an everyday substance with a controversial past. Tim Harford tells the story of the innovations that made it a hot property, and the surge in demand that led to turmoil and bloodshed in an African colony.",
+            "length": "4792000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p07gqnrv.mp3"
+        },
+        {
+            "title": "CubeSat",
+            "datePublished": "Mon, 08 Jul 2019 01:00:00 +0000",
+            "description": "CubeSat started life as a student engineering challenge: build a satellite that can fit in a little toy box. But now, as Tim Harford explains, these tiny satellites are changing the way we use space – and economics.",
+            "length": "4768000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p07g45nj.mp3"
+        },
+        {
+            "title": "Factory",
+            "datePublished": "Sat, 29 Jun 2019 01:00:00 +0000",
+            "description": "Tim Harford charts the history of the factory, from \"dark, Satanic mills\" to the sprawling industrial parks where today's consumer goods are assembled. Have factories made workers' lives better - and what does their future look like?",
+            "length": "4312000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p07fgn7f.mp3"
+        },
+        {
+            "title": "Blockchain",
+            "datePublished": "Mon, 24 Jun 2019 01:00:00 +0000",
+            "description": "Billions are being poured into startups working on blockchain, the technology behind Bitcoin. Supporters say it could become as disruptive as the internet. But how can we tell if they're right?",
+            "length": "5056000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p07dt6vr.mp3"
+        },
+        {
+            "title": "Pencil",
+            "datePublished": "Mon, 17 Jun 2019 01:00:00 +0000",
+            "description": "Is the pencil underrated? Tim Harford examines the role pencils have played in developing our world, and finds out why some writers have called them a \"miracle of the free market\". Do they have a point?",
+            "length": "5000000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p07d5cs1.mp3"
+        },
+        {
+            "title": "'Like' button",
+            "datePublished": "Mon, 10 Jun 2019 01:00:00 +0000",
+            "description": "Facebook’s 'like' button is ubiquitous across the web. It’s how user data is collected, meaning adverts and newsfeeds can be targeted more effectively. Some say there’s nothing to worry about, but others point to the Cambridge Analytica scandal, suggesting how Facebook might shape our opinions. But is there something else we should be worried about? Approval from our friends and family can be addictive – so is the pursuit of “likes” on social media the reason we’re glued to our mobile phones? Tim Harford asks how should we manage our compulsions in this brave new online world.",
+            "length": "4312000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p07ck7hy.mp3"
+        },
+        {
+            "title": "Dwarf wheat",
+            "datePublished": "Mon, 03 Jun 2019 01:00:00 +0000",
+            "description": "The Population Bomb, published by Stanford biologist Paul Ehrlich in 1968, predicted that populations would grow more quickly than food supplies, causing mass starvation. Ehrlich was wrong: food supplies kept pace. And that’s largely due to the years Norman Borlaug spent growing different strains of wheat in Mexico. The 'green revolution' vastly increased yields of wheat, corn and rice. Yet, as Tim Harford describes, worries about overpopulation continue. The world’s population is still growing, and food yields are now increasing more slowly – partly due to environmental problems the green revolution itself made worse. Will new technologies come to the rescue?",
+            "length": "4320000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p07bwvwk.mp3"
+        },
+        {
+            "title": "Pornography",
+            "datePublished": "Mon, 27 May 2019 01:00:00 +0000",
+            "description": "Did pornography help develop the internet? And has the internet made it more difficult for porn producers to make money? From photography, to cable television, to the video cassette recorder, there’s a theory that pornography users are some of the earliest adopters of new technology. Five in six images shared on the Usenet discussion group in the 1990s were pornographic, one study claimed. But, as Tim Hartford describes, the internet has made it easier for people to access pornography, but made it harder for anyone to make money from it.",
+            "length": "4296000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p07cb3lm.mp3"
+        },
+        {
+            "title": "Recycling",
+            "datePublished": "Mon, 20 May 2019 01:00:00 +0000",
+            "description": "Could recycling to save money be the answer to saving the planet? For decades, wealthy countries have been shipping their waste to China for sorting and recycling. Now China is getting wealthier, it no longer wants to be a dumping ground. So could we take another look at the cold, hard cash that recycling generates? After all, the idea it’s a moral obligation is relatively new and, as Tim Harford says, for centuries people reused and recycled to save money, not the environment.",
+            "length": "5072000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p079kk5c.mp3"
+        },
+        {
+            "title": "Spreadsheet",
+            "datePublished": "Mon, 13 May 2019 01:00:00 +0000",
+            "description": "A grid on a computer screen took the world of accountancy by storm in the early 1980s, making many accounting tasks effortless. But should we consider this 'robot accountant' more carefully? As Tim Harford explains, the digital spreadsheet is a 40-year-old example of what automation could do to all of our jobs.",
+            "length": "5048000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p078vjj2.mp3"
+        },
+        {
+            "title": "Brick",
+            "datePublished": "Mon, 06 May 2019 01:00:00 +0000",
+            "description": "'I found Rome a city of bricks and left it a city of marble,' Caesar Augustus apparently boasted. If so, he wasn’t the only person to dismiss the humble brick. They’ve housed us for tens of thousands of years. They are all rather similar – small enough to fit into a human hand, and half as wide as they are long – and they are absolutely everywhere. Why, asks Tim Harford, are bricks still such an important building technology, how has brickmaking changed over the years, and will we ever see a robot bricklayer?",
+            "length": "4736000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0787vv8.mp3"
+        },
+        {
+            "title": "Mail order catalogue",
+            "datePublished": "Mon, 29 Apr 2019 01:00:00 +0000",
+            "description": "Some say the Montgomery Ward shopping catalogue is one of the most influential books in US history. It transformed the middle-class way of life in the late 19th and early 20th Centuries. Ward struggled to get people to understand mail order shopping. His prices were so low, people thought there was a catch. Soon, though, this type of retail would improve roads and the postal service. Tim Harford describes how similar dynamics are changing today’s middle-classes in China, with the internet replacing the postal service and e-commerce the new mail order.",
+            "length": "4304000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p077kdkz.mp3"
+        },
+        {
+            "title": "Bicycle",
+            "datePublished": "Mon, 22 Apr 2019 01:00:00 +0000",
+            "description": "The bicycle was to prove transformative. Cheaper than a horse, it freed women and young working class people to roam free. And the bike was the testing ground for countless improvements in manufacturing that would later lead to Henry Ford’s production lines. Tim Harford considers whether the bicycle has had its day, or whether it’s a technology whose best years lie ahead.",
+            "length": "4312000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p076xdrw.mp3"
+        },
+        {
+            "title": "QWERTY",
+            "datePublished": "Mon, 15 Apr 2019 01:00:00 +0000",
+            "description": "The QWERTY keyboard layout has stood the test of time, from the clattering of early typewriters to the virtual keyboard on the screen of any smart-phone. Myths abound as to why keys are laid out this way – and whether there are much better alternatives languishing in obscurity. Tim Harford explains how this is a debate about far more than touch-typing: whether the QWERTY keyboard prospers because it works, or as an immovable relic of a commercial scramble in the late 19th century, is a question that affects how we should deal with the huge digital companies that now dominate our online experiences. \n\nProducer: Ben Crighton\nEditor: Richard Vadon\n\n(Image: qwerty keyboard, Credit: Getty Images)",
+            "length": "4312000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p076975k.mp3"
+        },
+        {
+            "title": "Bonus 4: Woodpecker and black box",
+            "datePublished": "Mon, 15 Apr 2019 00:30:00 +0000",
+            "description": "The last bonus episode of our new podcast. For more, search for 30 Animals That Made Us Smarter and subscribe. Or find it here: www.bbcworldservice.com/30animals \nThis one is about a bird’s remarkable skull and the quest to protect aeroplane flight recorders. \n#30Animals",
+            "length": "7176000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0769943.mp3"
+        },
+        {
+            "title": "Gyroscope",
+            "datePublished": "Mon, 08 Apr 2019 01:00:00 +0000",
+            "description": "When the HMS Victory sank in 1744, with it went an inventor named John Serson and a device he’d dreamed up. He called it the “whirling speculum”, but we now know the basic idea as a gyroscope. Serson thought it could help sailors to navigate when they couldn’t see the horizon. Nowadays gyroscopes are tiny and, as Tim Harford describes, they are used to guide everything from submarines to satellites, from rovers on Mars to the phone in your pocket.  They are also integral to drones – a technology that some believe could transform how we do our shopping. But for that, they’ll need to work in all weathers.\n\nImage: A gyroscope (Credit: Getty Images)",
+            "length": "4320000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p075nbjr.mp3"
+        },
+        {
+            "title": "Bonus 3: Mosquito and surgical needle",
+            "datePublished": "Mon, 08 Apr 2019 00:30:00 +0000",
+            "description": "Episode 3 of our new podcast: the story of the blood-sucking pest and a pain-free surgical needle. Scientists have been studying the mosquito’s mouthparts. Could the dreaded ‘prick’ of a needle soon be a thing of the past? With Patrick Aryee. \nFind it here: www.bbcworldservice.com/30animals  \n#30Animals",
+            "length": "7288000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p075n0pb.mp3"
+        },
+        {
+            "title": "Cellophane",
+            "datePublished": "Mon, 01 Apr 2019 01:00:00 +0000",
+            "description": "Plastic food packaging often seems obviously wasteful. But when Jacques Brandenberger invented cellophane, consumers loved it. It helped supermarkets go self-service, and it was so popular Cole Porter put it in a song lyric. Nowadays, people worry that plastic doesn’t get recycled enough but there are two sides to this story. Plastic packaging can protect food from being damaged in transit, and help it stay fresh for longer. Should we care more about plastic waste or food waste? As Tim Harford explains, it isn’t obvious and the issue is complicated enough that our choices at the checkout may accidentally do more harm than good.\n\nProducer: Ben Crighton\nEditor: Richard Vadon\n\n(Image: Noodles and cellophane, Credit: Getty Images)",
+            "length": "4528000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p074z4gm.mp3"
+        },
+        {
+            "title": "Bonus 2: Octopus and camouflage",
+            "datePublished": "Mon, 01 Apr 2019 00:00:00 +0000",
+            "description": "Episode 2 of our new podcast, 30 Animals That Made Us Smarter. This one is about the eight-limbed master of disguise and surveillance technology. The colour and texture-changing abilities of the octopus are helping researchers with developments in camouflage. Can we make robots do the same thing? With Patrick Aryee. www.bbcworldservice.com/30animals\n#30Animals",
+            "length": "6360000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p074z5kh.mp3"
+        },
+        {
+            "title": "Langstroth Hive",
+            "datePublished": "Mon, 25 Mar 2019 01:30:00 +0000",
+            "description": "Humans have valued bees for their honey for thousands of years – and economists have long admired bees for their cooperative work ethic, too. But few of us, whether economists, honey-lovers, or both, have quite appreciated just how much the honey bee has been industrialised – and the simple yet radical invention that made that industrialisation possible. As Tim Harford explains, it is a sign of just how far the modern market economy has penetrated that it now reaches deep into the heart of the beehive.\n\nProducer: Ben Crighton\nEditor: Richard Vadon\n\n(Image: Bee keeper lifting shelf out of hive, Credit: MIlan Jovic/Getty Images)",
+            "length": "5280000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p074bhky.mp3"
+        },
+        {
+            "title": "Bonus: 30 Animals That Made Us Smarter",
+            "datePublished": "Mon, 25 Mar 2019 01:00:00 +0000",
+            "description": "Introducing our new podcast about innovation, technology and the animal kingdom. This is the whole of the first episode about how the kingfisher inspired the design of a train. The 500 series Shinkansen, also known as bullet train, is one of the fastest in the world. It is also quiet, but that was not always the case. This is the tale of Japanese engineer Eiji Nakatsu, the kingfisher, an owl, a penguin and biomimicry. www.bbcworldservice.com/30animals",
+            "length": "7424000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p074bn86.mp3"
+        },
+        {
+            "title": "Coming soon: Season two",
+            "datePublished": "Sun, 17 Mar 2019 21:00:00 +0000",
+            "description": "Fifty more things are on their way! Including the pencil, blockchain, bicycle, credit ratings and gambling.\nTim Harford will return with season two on 25 March 2019.\n#50Things",
+            "length": "704000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p073pmqz.mp3"
+        },
+        {
+            "title": "Index Fund",
+            "datePublished": "Thu, 17 Jan 2019 04:00:00 +0000",
+            "description": "Warren Buffett is the world’s most successful investor. In a letter he wrote to his wife, advising her how to invest after he dies, he offers some clear advice: put almost everything into “a very low-cost S&P 500 index fund”. Index funds passively track the market as a whole by buying a little of everything, rather than trying to beat the market with clever stock picks – the kind of clever stock picks that Warren Buffett himself has been making for more than half a century. Index funds now seem completely natural. But as recently as 1976 they didn’t exist. And, as Tim Harford explains, they have become very important indeed – and not only to Mrs Buffett.\n\n\n\nEditors: Richard Knight and Richard Vadon\n\nProducer: Ben Crighton\n\n\n\n(Image: Market graphs, Credit: Shutterstock)",
+            "length": "4664000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p06yh9rx.mp3"
+        },
+        {
+            "title": "Special Bonus: Santa Claus",
+            "datePublished": "Mon, 17 Dec 2018 11:20:00 +0000",
+            "description": "Why does Father Christmas wear red and white? It is not for the reason you may think. The story of Christmas and consumerism, with Tim Harford. And we’ll be back with season two of 50 Things in March 2019.\n\nProducer: Ben Crighton",
+            "length": "4872000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p06vttzz.mp3"
+        },
+        {
+            "title": "Number 51",
+            "datePublished": "Sat, 28 Oct 2017 03:00:00 +0000",
+            "description": "Revealed – the winning 51st Thing! What won the vote to be added to our list of 50? We asked for ideas for an extra “thing” that made the modern economy. We received hundreds of suggestions. Thousands of votes were cast on our shortlist of six. Now we have a winner. Discover what it is and why it is worthy of being Number 51.\n\n\n\nPresenter: Tim Harford\n\nProducer: Ben Crighton\n\nEditors: Richard Knight and Richard Vadon",
+            "length": "4632000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p05kx41b.mp3"
+        },
+        {
+            "title": "The Plough",
+            "datePublished": "Sat, 21 Oct 2017 03:00:00 +0000",
+            "description": "The plough was a simple yet transformative technology. It was the plough that kick-started civilisation in the first place – that, ultimately, made our modern economy possible. But the plough did more than create the underpinning of civilisation – with all its benefits and inequities. Different types of plough led to different types of civilisation. \n\n\n\nPresenter: Tim Harford\n\nProducer: Ben Crighton\n\n\n\n(Photo: Farmer ploughing field, Credit: Shutterstock)",
+            "length": "4792000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p05k62ts.mp3"
+        },
+        {
+            "title": "Cold Chain",
+            "datePublished": "Sat, 14 Oct 2017 03:00:00 +0000",
+            "description": "The global supply chain that keeps perishable goods at controlled temperatures has revolutionised the food industry. It widened our choice of food and improved our nutrition. It enabled the rise of the supermarket. And that, in turn, transformed the labour market: less need for frequent shopping frees up women to work. As low-income countries get wealthier, fridges are among the first things people buy: in China, it took just a decade to get from a quarter of households having fridges to nearly nine in ten.  \n\n\n\nPresenter: Tim Harford\n\nProducer: Ben Crighton\n\nEditors: Richard Knight and Richard Vadon\n\n\n\n(Image: Fully loaded shelves, Credit: Shutterstock)",
+            "length": "4504000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p05jtt3h.mp3"
+        },
+        {
+            "title": "Welfare State",
+            "datePublished": "Sat, 07 Oct 2017 03:00:00 +0000",
+            "description": "The same basic idea links every welfare state: that the ultimate responsibility for ensuring people don’t starve on the street should lie not with family, or charity, or private insurers, but with government. This idea is not without its enemies. It is possible, after all, to mother too much. Every parent instinctively knows that there’s a balance: protect, but don’t mollycoddle; nurture resilience, not dependence. And if overprotective parenting stunts personal growth, might too-generous welfare states stunt economic growth? \n\n\n\nProducer: Ben Crighton\n\nEditors: Richard Knight and Richard Vadon\n\n\n\n(Image: Frances Perkins, Credit: Getty Images)",
+            "length": "4696000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p05j6k7l.mp3"
+        },
+        {
+            "title": "Property Register",
+            "datePublished": "Sat, 30 Sep 2017 03:00:00 +0000",
+            "description": "Ensuring property rights for the world's poor could unlock trillions in ‘dead capital’. According to Peruvian economist Hernando de Soto, the value of extralegal property globally exceeds 10 trillion dollars. Nobody has ever disputed that property rights matter for investment: experts point to a direct correlation between a nation’s wealth and having an adequate property rights system. This is because real estate is a form of capital and capital raises economic productivity and thus creates wealth. Mr de Soto's understanding – that title frees up credit, turning ‘dead capital’ into ‘live capital’ – has prompted governments in other countries to undertake large-scale property-titling campaigns.\n\n\n\nVoting for the 51st Thing has now closed. The winning “thing” will be revealed on Saturday 28 October 2017.\n\n\n\nProducer: Ben Crighton\n\nEditors: Richard Knight and Richard Vadon\n\n\n\n(Image: Hernando de Soto, Credit: Getty Images)",
+            "length": "4808000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p05hktnv.mp3"
+        },
+        {
+            "title": "Searching for 51",
+            "datePublished": "Sat, 23 Sep 2017 03:00:00 +0000",
+            "description": "The extra “thing” – what should it be? Shortlist: the credit card, glass, GPS, irrigation, the pencil and the spreadsheet. Voting for the 51st Thing has now closed. The winning “thing” will be revealed on Saturday 28 October 2017.\n\n\n\nProducer: Ben Crighton\n\nEditors: Richard Knight and Richard Vadon\n\n\n\n(Image: Montage of pencil, credit card, glass, spreadsheet, GPS, irrigation, Credit: Getty Images/Shutterstock)",
+            "length": "4392000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p05gypj5.mp3"
+        },
+        {
+            "title": "Management Consulting",
+            "datePublished": "Sat, 16 Sep 2017 03:00:00 +0000",
+            "description": "Managers often have a bad reputation. What should we make of the people who tell managers how to manage? That question has often been raised over the years, with a sceptical tone. The management consultancy industry battles a stereotype of charging exhorbitant fees for advice that, on close inspection, turns out to be either meaningless or common sense. Managers who bring in consultants are often accused of being blinded by jargon, implicitly admitting their own incompetence, or seeking someone else to blame for unpopular decisions. Still, it’s lucrative. Globally, consulting firms charge their clients a total of about $125bn. Voting for the 51st Thing has now closed. The winning “thing” will be revealed on Saturday 28 October 2017.\n\n\n\nProducer: Ben Crighton\n\nEditors: Richard Knight and Richard Vadon\n\n\n\n(Image: Business team present, Credit: Shutterstock)",
+            "length": "5064000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p05g6s4c.mp3"
+        },
+        {
+            "title": "Double-entry Bookkeeping",
+            "datePublished": "Sat, 09 Sep 2017 03:00:00 +0000",
+            "description": "Luca Pacioli was a renaissance man – he was a conjuror, a master of chess, a lover of puzzles, a Franciscan Friar, and a professor of mathematics. But today he’s celebrated as the most famous accountant who ever lived, the father of double-entry bookkeeping. Before the Venetian style of bookkeeping caught on, accounts were rather basic. An early medieval merchant was little more than a travelling salesman. He had no need to keep accounts – he could simply check whether his purse was full or empty. But as the commercial enterprises of the Italian city states grew larger, more complex and more dependent on financial instruments such as loans and currency trades, the need for a more careful reckoning became painfully clear. In 1494 Pacioli wrote the definitive book on double-entry bookkeeping. It’s regarded by many as the most influential work in the history of capitalism. And as the industrial revolution unfolded, the ideas that Pacioli had set out came to be viewed as an essential part of business life; the system used across the world today is essentially the one that Pacioli described.\n\n\n\nProducer: Ben Crighton\n\nEditors: Richard Knight and Richard Vadon\n\n\n\n(Image: Handwritten accounting ledger, Credit: Suntezza/Shutterstock)",
+            "length": "4464000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p05fjc05.mp3"
+        },
+        {
+            "title": "S-Bend",
+            "datePublished": "Sat, 02 Sep 2017 03:00:00 +0000",
+            "description": "If you live in a city with modern sanitation, it’s hard to imagine daily life being permeated with the suffocating stench of human excrement. For that, we have a number of people to thank – not least a London watchmaker called Alexander Cumming. Cumming’s world-changing invention owed nothing to precision engineering. In 1775, he patented the S-bend. It was a bit of pipe with a curve in it and it became the missing ingredient to create the flushing toilet – and, with it, public sanitation as we know it. Roll-out was slow, but it was a vision of how public sanitation could be – clean, and smell-free – if only government would fund it. More than two centuries later, two and a half billion people still remain without improved sanitation, and improved sanitation itself is a low bar. We still haven’t reliably managed to solve the problem of collective action – of getting those who exercise power or have responsibility to organise themselves. \n\n\n\nProducer: Ben Crighton\n\nEditors: Richard Vadon and Richard Knight\n\n\n\n(Image: S-bend, Credit: ericlefrancais/Shutterstock)",
+            "length": "4920000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p05dw6h2.mp3"
+        },
+        {
+            "title": "Radar",
+            "datePublished": "Sat, 26 Aug 2017 03:00:00 +0000",
+            "description": "How the high-tech ‘death ray’ led to the invention of radar. The story begins in the 1930s, when British Air Ministry officials were worried about falling behind Nazi Germany in the technological arms race. They correctly predicted that the next war would be dominated by air power. To address the problem, Britain launched a number of projects in hopes of mitigating the threat — including a prize for developing a high-tech ‘death ray’ that could zap a sheep at a hundred paces. But even though the project failed to develop such a weapon, it did result in something potentially far more useful that was able to detect planes and submarines – radar. And it was an invention that was crucial in the development of the commercial aviation industry.\n\n\n\nProducer: Ben Crighton\n\nEditors: Richard Knight and Richard Vadon\n\n\n\n(Image: Abstract radar with targets, Credit: Andrey VP/Shutterstock)",
+            "length": "5064000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p05cy222.mp3"
+        },
+        {
+            "title": "Market Research",
+            "datePublished": "Sat, 19 Aug 2017 03:00:00 +0000",
+            "description": "US car makers had it good. As quickly as they could manufacture cars, people bought them. By 1914, that was changing. In higher price brackets, especially, purchasers and dealerships were becoming choosier. One commentator warned that the retailers could no longer sell what their own judgement dictated – they must sell what the consumer wanted. That commentator was Charles Coolidge Parlin, widely recognised as the man who invented the very idea of market research. The invention of market research marks an early step in a broader shift from a “producer-led” to “consumer-led” approach to business – from making something then trying to persuade people to buy it, to trying to find out what people might buy and then making it. One century later, the market research profession is huge: in the United States alone, it employs around half a million people.\n\n\n\nProducer: Ben Crighton\n\nEditors: Richard Knight and Richard Vadon\n\n\n\n(Image: Market research, Credit: Bildagentur Zoonar GmbH/Shutterstock)",
+            "length": "5104000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p05cqjzg.mp3"
+        },
+        {
+            "title": "Plastic",
+            "datePublished": "Sat, 12 Aug 2017 03:00:00 +0000",
+            "description": "A couple of decades after Leo Baekeland invented the first fully synthetic plastic – Bakelite – plastics were pouring out of labs around the world. There was polystyrene, often used for packaging; nylon, popularised by stockings; polyethylene, the stuff of plastic bags. As the Second World War stretched natural resources, production of plastics ramped up to fill the gap. And when the war ended, exciting new products like Tupperware hit the consumer market. These days, plastics are everywhere. We make so much plastic, it takes about eight percent of oil production – half for raw material, half for energy. And despite its image problem, and growing evidence of environmental problems, plastic production is set to double in the next 20 years. \n\n\n\nProducer: Ben Crighton\n\nEditors: Richard Knight and Richard Vadon\n\n\n\n(Image: Plastic bottle tops, Credit: Taweesak Thiprod/Shutterstock)",
+            "length": "4432000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p05c0x4j.mp3"
+        },
+        {
+            "title": "Seller Feedback",
+            "datePublished": "Sat, 05 Aug 2017 03:00:00 +0000",
+            "description": "Why should we get into a stranger’s car – or buy a stranger’s laser pointer? In 1997, eBay introduced a feature that helped solve the problem: Seller Feedback. Jim Griffith was eBay’s first customer service representative; at the time, he says “no-one had ever seen anything like [it]”. The idea of both parties rating each other after a transaction has now become ubiquitous. You buy something online – you rate the seller, the seller rates you. Or you use a ride-sharing service, like Uber – you rate the driver, the driver rates you. And a few positive reviews set our mind at ease about a stranger. Jim Griffith is not sure eBay would have grown without it.  Online matching platforms would still exist, of course – but perhaps they’d be more like hitch-hiking today: a niche pursuit for the unusually adventurous, not a mainstream activity that’s transforming whole sectors of the economy.\n\n\n\nProducer: Ben Crighton\n\nEditors: Richard Knight and Richard Vadon\n\n\n\n(Image: Hand touching stars, Credit: Cherezoff/Shutterstock)",
+            "length": "4384000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p05bjy9y.mp3"
+        },
+        {
+            "title": "Paper Money",
+            "datePublished": "Sat, 29 Jul 2017 03:00:00 +0000",
+            "description": "A young Venetian merchant named Marco Polo wrote a remarkable book chronicling his travels in China around 750 years ago. The Book of the Marvels of the World was full of strange foreign customs Marco claimed to have seen. One, in particular, was so extraordinary, Mr Polo could barely contain himself: “tell it how I might,” he wrote, “you never would be satisfied that I was keeping within truth and reason”. Marco Polo was one of the first Europeans to witness an invention that remains at the very foundation of the modern economy: paper money. Tim Harford tells the gripping story of one of the most successful, and important, innovations of all human history: currency which derives value not from the preciousness of the substance of which it is made, but trust in the government which issues it.\n\n\n\nProducer: Ben Crighton\n\nEditors: Richard Knight and Richard Vadon\n\n\n\n(Image: Ancient Russian money, Credit: RomanR/Shutterstock)",
+            "length": "4424000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p059y7pn.mp3"
+        },
+        {
+            "title": "Limited Liability Company",
+            "datePublished": "Sat, 22 Jul 2017 03:00:00 +0000",
+            "description": "Nicholas Murray Butler was one of the great thinkers of his age:  philosopher; Nobel Peace Prize-winner; president of Columbia University. When in 1911 Butler was asked to name the most important innovation of the industrial era, his answer was somewhat surprising. “The greatest single discovery of modern times,” he said, “is the limited liability corporation”. Tim Harford explains why Nicholas Murray Butler might well have been right.\n\n\n\nProducer: Ben Crighton\n\nEditors: Richard Knight and Richard Vadon\n\n\n\n(Image: LLC. Credit: Getty Images)",
+            "length": "4384000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p05940wk.mp3"
+        },
+        {
+            "title": "Dynamo",
+            "datePublished": "Sat, 15 Jul 2017 03:00:00 +0000",
+            "description": "You might think electricity had an immediate and transformative impact on economic productivity. But you would be wrong. Thirty years after the invention of the useable light bulb, almost all American factories still relied on steam. Factory owners simply couldn’t see the advantage of electric power when their steam systems – in which they had invested a great deal of capital – worked just fine. Simply replacing a steam engine with an electric dynamo did little to improve efficiency. But the thing about a revolutionary technology is that it changes everything. And changing everything takes imagination. Instead of replacing their steam engines with electric dynamos, company bosses needed to re-design the whole factory. Only then would electric power leave steam behind. As Tim Harford explains, the same lag has applied to subsequent technological leaps – including computers. That revolution might be just beginning.\n\n\n\nProducer: Ben Crighton\n\nEditors: Richard Knight and Richard Vadon\n\n\n\n(Image: Dynamo AC exciter Siemens, Credit: Igor Golovniov/Shutterstock)",
+            "length": "4384000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p058kzgf.mp3"
+        },
+        {
+            "title": "Leaded Petrol",
+            "datePublished": "Sat, 08 Jul 2017 03:00:00 +0000",
+            "description": "In the 1920s lead was added to petrol. It made cars more powerful and was, according to its advocates, a “gift”. But lead is a gift which poisons people; something figured out as long ago as Roman times. There’s some evidence that as countries get richer, they tend initially to get dirtier and later clean up. Economists call this the “environmental Kuznets curve”. It took the United States until the 1970s to tax lead in petrol, then finally ban it, as the country moved down the far side of the environmental Kuznets curve. But as Tim Harford explains in this astonishing story, the consequences of the Kuznets curve aren’t always only economic.\n\n\n\nProducer: Ben Crighton\n\nEditors: Richard Knight and Richard Vadon\n\n\n\n(Image: Petrol Nozzle, Credit: Khaled Desouki/AFP/Getty Images)",
+            "length": "4416000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p057mvvf.mp3"
+        },
+        {
+            "title": "Department Store",
+            "datePublished": "Sat, 01 Jul 2017 03:00:00 +0000",
+            "description": "Flamboyant American retailer Harry Gordon Selfridge introduced Londoners to a whole new shopping experience, one honed in the department stores of late-19th century America. He swept away previous shopkeepers’ customs of keeping shopper and merchandise apart to one where “just looking” was positively encouraged. In the full-page newspaper adverts Selfridge took out when his eponymous department store opened in London in the early 1900s, he compared the “pleasures of shopping” to those of “sight-seeing”. He installed the largest plate glass windows in the world – and created, behind them, the most sumptuous shop window displays. His adverts pointedly made clear that the “whole British public” would be welcome – “no cards of admission are required”. Recognising that his female customers offered profitable opportunities that competitors were neglecting, one of his quietly revolutionary moves was the introduction of a ladies’ lavatory. Selfridge saw that women might want to stay in town all day, without having to use an insalubrious public convenience or retreat to a respectable hotel for tea whenever they wanted to relieve themselves. As Tim Harford explains, one of Selfridge’s biographers even thinks he “could justifiably claim to have helped emancipate women.”\n\n\n\nProducer: Ben Crighton\n\nEditors: Richard Knight and Richard Vadon\n\n\n\n(Images: Selfridges Christmas shop window, Credit: Stuart C. Wilson/Getty Images)",
+            "length": "4384000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0570h51.mp3"
+        },
+        {
+            "title": "Barbed Wire",
+            "datePublished": "Sat, 24 Jun 2017 03:00:00 +0000",
+            "description": "In 1876 John Warne Gates described the new product he hoped to sell as “lighter than air, stronger than whiskey, cheaper than dust”. We simply call it barbed wire. The advertisements of the time touted it this fence as “The Greatest Discovery Of The Age”. That might seem hyperbolic, even making allowances for the fact that the advertisers didn’t know that Alexander Graham Bell was just about to be awarded a patent for the telephone. But – as Tim Harford explains – while modern minds naturally think of the telephone as transformative, barbed wire wreaked huge changes in America, and much more quickly. \n\n\n\nProducer: Ben Crighton\n\nEditors: Richard Knight and Richard Vadon\n\n\n\n(Image: Barbed wire and sun, Credit: Getty Images)",
+            "length": "4424000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p056f9th.mp3"
+        },
+        {
+            "title": "Tax Havens",
+            "datePublished": "Sat, 17 Jun 2017 03:00:00 +0000",
+            "description": "The economist Gabriel Zucman is the inventor of an ingenious way to estimate the amount of wealth hidden in the offshore banking system. In theory, if you add up the assets and liabilities reported by every global financial centre, the books should balance. But they don’t. Each individual centre tends to report more liabilities than assets. Zucman crunched the numbers and found that, globally, total liabilities were eight percent higher than total assets. That suggests at least eight percent of the world’s wealth is illegally unreported. Other methods have come up with even higher estimates. As Tim Harford explains, that makes the tax haven a very significant feature of the modern economy.\n\n\n\nEditors: Richard Knight and Richard Vadon\n\nProducer: Ben Crighton\n\n\n\n(Image: Huts along tropical beach, Credit: DonLand/Shutterstock)",
+            "length": "4424000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0569zn3.mp3"
+        },
+        {
+            "title": "Infant Formula",
+            "datePublished": "Sat, 10 Jun 2017 03:00:00 +0000",
+            "description": "Not every baby has a mother who can breastfeed. Indeed, not every baby has a mother. In the early 1800s, only two in three babies who weren’t breastfed lived to see their first birthday. Many were given “pap”, a bread-and-water mush, from hard-to-clean receptacles that teemed with bacteria. But in 1865 Justus von Liebig invented Soluble Food for Babies – a powder comprising cow’s milk, wheat flour, malt flour and potassium bicarbonate. It was the first commercial substitute for breastmilk and, as Tim Harford explains, it has helped shape the modern workplace.\n\n\n\nEditors: Richard Knight and Richard Vadon\n\nProducer: Ben Crighton\n\n\n\n(Image: Baby lying down drinking from bottle, Credit: Lopolo/Shutterstock)",
+            "length": "4392000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p055f2q8.mp3"
+        },
+        {
+            "title": "Tally Stick",
+            "datePublished": "Sat, 27 May 2017 02:50:00 +0000",
+            "description": "Tally sticks were made from willow harvested along the banks of the Thames in London. The stick would contain a record of the debt. It might say, for example, “9£ 4s 4p from Fulk Basset for the farm of Wycombe”. Fulk Basset, by the way, might sound like a character from Star Wars but was in fact a Bishop of London in the 13th century. He owed his debt to King Henry III. Now comes the elegant part. The stick would be split in half, down its length from one end to the other. The debtor would retain half, called the “foil”. The creditor would retain the other half, called the “stock”. (Even today British bankers use the word “stocks” to refer to debts of the British government.) Because willow has a natural and distinctive grain, the two halves would match only each other. As Tim Harford explains, the tally stick system enabled something radical to occur. If you had a tally stock showing that Bishop Basset owed you five pounds, then unless you worried that Bishop Basset wasn’t good for the money, the tally stock itself was worth close to five pounds in its own right - like money; a kind of debt, which can be traded freely.\n\n\n\nEditors: Richard Knight and Richard Vadon\n\nProducer: Ben Crighton\n\n\n\n(Photo: Medieval tally sticks, accounts of the bailiff of Ralph de Manton of the Ufford Church Northampton. Credit: National Archives)",
+            "length": "4416000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p05416fg.mp3"
+        },
+        {
+            "title": "Passports",
+            "datePublished": "Mon, 22 May 2017 11:05:00 +0000",
+            "description": "How much might global economic output rise if anyone could work anywhere? Some economists have calculated it would double. By the turn of the 20th century only a handful of countries were still insisting on passports to enter or leave. Today, migrant controls are back in fashion. It can seem like a natural fact of life that the name of the country on our passport determines where you can travel and work – legally, at least. \n\n\n\nBut it’s a relatively recent historical development – and, from a certain angle, an odd one. Many countries take pride in banning employers from discriminating against characteristics we can’t change: whether we’re male or female, young or old, gay or straight, black or white. \n\n\n\nIt’s not entirely true that we can’t change our passport: if you’ve got $250,000, for example, you can buy one from St Kitts and Nevis. But mostly our passport depends on the identity of our parents and location of our birth. And nobody chooses those.\n\n\n\nEditors: Richard Knight and Richard Vadon\n\nProducer: Ben Crighton\n\n\n\n(Photo: Irish and UK passports are on display. Credit: Getty Images)",
+            "length": "4424000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p053n6cx.mp3"
+        },
+        {
+            "title": "Intellectual Property",
+            "datePublished": "Sat, 13 May 2017 02:00:00 +0000",
+            "description": "When the great novelist Charles Dickens arrived in America in 1842, he was hoping to put an end to pirated copies of his work in the US. They circulated there with impunity because the United States granted no copyright protection to non-citizens. Patents and copyright grant a monopoly, and monopolies are bad news. Dickens’s British publishers will have charged as much as they could get away with for copies of Bleak House; cash-strapped literature lovers simply had to go without. But these potential fat profits encourage new ideas. It took Dickens a long time to write Bleak House. If other British publishers could have ripped it off like the Americans, perhaps he wouldn’t have bothered. As Tim Harford explains, intellectual property reflects an economic trade-off – a balancing act. If it’s too generous to the creators then good ideas will take too long to copy, adapt and spread. But if it’s too stingy then maybe we won’t see the good ideas at all.\n\n\n\nProducer: Ben Crighton\n\nEditors: Richard Knight and Richard Vadon\n\n\n\n(Image: Copyright stamp, Credit: Arcady/Shutterstock)",
+            "length": "4400000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p052q0x9.mp3"
+        },
+        {
+            "title": "Video Games",
+            "datePublished": "Sat, 06 May 2017 02:00:00 +0000",
+            "description": "From Spacewar to Pokemon Go, video games – aside from becoming a large industry in their own right – have influenced the modern economy in some surprising ways. Here’s one. In 2016, four economists presented research into a puzzling fact about the US labour market. The economy was growing, unemployment rates were low, and yet a surprisingly large number of able-bodied young men were either working part-time or not working at all. More puzzling still, while most studies of unemployment find that it makes people thoroughly miserable, the happiness of these young men was rising. The researchers concluded that the explanation was simply that this cohort of young men were living at home, sponging off their parents and playing videogames. They were deciding, in the other words, not to join the modern economy in some low-paid job, because being a starship captain at home is far more appealing.\n\n\n\nProducer: Ben Crighton\n\nEditors: Richard Knight and Richard Vadon\n\n\n\n(Photo: Hands holding game pad and playing shooter game on TV screen. Credit: Getty Images)",
+            "length": "4408000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p05226wz.mp3"
+        },
+        {
+            "title": "Cuneiform",
+            "datePublished": "Sat, 29 Apr 2017 03:00:00 +0000",
+            "description": "The Egyptians thought literacy was divine; a benefaction which came from the baboon-faced god Thoth. In fact the earliest known script – “cuneiform” – came from Uruk, a Mesopotamian settlement on the banks of the Euphrates in what is now Iraq. What did it say? As Tim Harford describes, cuneiform wasn’t being used for poetry, or to send messages to far-off lands. It was used to create the world’s first accounts. And the world’s first written contracts, too.\n\n\n\nProducer: Ben Crighton\n\nEditors: Richard Knight and Richard Vadon\n\n\n\n(Image: Close-up of clay tablet, Credit: Kotomiti Okuma/Shutterstock)",
+            "length": "4392000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p051cyzc.mp3"
+        },
+        {
+            "title": "Air Conditioning",
+            "datePublished": "Sat, 22 Apr 2017 08:30:00 +0000",
+            "description": "Tim Harford tells the surprising story of air conditioning which was invented in 1902 to counter the effects of humidity on the printing process. Over the following decades “aircon” found its way into our homes, cars and offices. But air conditioning is much more than a mere convenience. It is a transformative technology; one that has had a profound influence on where and how we live. \n\n\n\nProducer: Ben Crighton\n\nEditors: Richard Knight and Richard Vadon\n\n\n\n(Image: Air conditioning vent, Credit: Dorason/Shutterstock)",
+            "length": "4384000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p050t9mx.mp3"
+        },
+        {
+            "title": "Elevator",
+            "datePublished": "Sat, 15 Apr 2017 03:00:00 +0000",
+            "description": "In 1853 Elisha Otis climbed onto a platform which was then hoisted high above a large crowd of onlookers, nervy with anticipation. A man with an axe cut the cable, the crowd gasped, and Otis’s platform shuddered – but it did not plunge. “All safe, gentlemen, all safe!” he boomed. The city landscape was about to be turned on its head by the man who had invented not the elevator, but the elevator brake. As Tim Harford explains, the safety elevator is an astonishingly successful mass transit system which has changed the very shape of our cities.\n\n\n\nProducer: Ben Crighton\n\nEditors: Richard Knight and Richard Vadon\n\n\n\n(Image: Modern Elevator, Credit: iurii/Shutterstock)",
+            "length": "4432000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p04zzz37.mp3"
+        },
+        {
+            "title": "Contraceptive Pill",
+            "datePublished": "Sat, 08 Apr 2017 03:00:00 +0000",
+            "description": "The contraceptive pill had profound social consequences. Everyone agrees with that. But – as Tim Harford explains – the pill wasn’t just socially revolutionary. It also sparked an economic revolution, perhaps the most significant of the late twentieth century. A careful statistical study by the Harvard economists Claudia Goldin and Lawrence Katz strongly suggests that the pill played a major role in allowing women to delay marriage, delay motherhood and invest in their own careers. The consequences of that are profound.\n\n\n\nProducer: Ben Crighton\n\nEditors: Richard Knight and Richard Vadon\n\n\n\n(Image: Oral contraceptive pill, Credit: Areeya_ann/Shutterstock)",
+            "length": "4432000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p04zc6tw.mp3"
+        },
+        {
+            "title": "TV Dinner",
+            "datePublished": "Sat, 01 Apr 2017 03:00:00 +0000",
+            "description": "The way educated women spend their time in the United States and other rich countries has changed radically over the past half a century. Women in the US now spend around 45 minutes per day in total on cooking and cleaning up; that is still much more than men, who spend just 15 minutes a day. But it is a vast shift from the four hours a day which was common in the 1960s. We know all this from time-use surveys conducted around the world. And we know the reasons for the shift. One of the most important of those is a radical change in the way food is prepared. As Tim Harford explains, the TV dinner – and other convenient innovations which emerged over the same period – have made a lasting economic impression.\n\n\n\nProducer: Ben Crighton\n\nEditors: Richard Knight and Richard Vadon\n\n\n\n(Image: TV Dinner, Credit: Shutterstock)",
+            "length": "4384000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p04ynj9x.mp3"
+        },
+        {
+            "title": "Gramophone",
+            "datePublished": "Sat, 25 Mar 2017 20:00:00 +0000",
+            "description": "“Superstar” economics – how the gramophone led to a winner-take-all dynamic in the performing industry. Elizabeth Billington was a British soprano in the 18th century. She was so famous, London’s two leading opera houses scrambled desperately to secure her performances. In 1801 she ended up singing at both venues, alternating between the two, and pulling in at least £10,000. A remarkable sum, much noted at the time. But in today’s terms, it’s a mere £687,000, or about a million dollars; one per cent of a similarly famous solo artist’s annual earnings today. What explains the difference? The gramophone. And, as Tim Harford explains, technological innovations have created “superstar” economics in other sectors too.\n\n\n\nProducer: Ben Crighton\n\nEditors: Richard Knight and Richard Vadon\n\n\n\n(Image: Thomas Edison Phonograph, Credit: James Steidl/Shutterstock)",
+            "length": "4296000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p04xxl9g.mp3"
+        },
+        {
+            "title": "Battery",
+            "datePublished": "Sat, 18 Mar 2017 20:00:00 +0000",
+            "description": "Murderers in early 19th century London feared surviving their executions. That’s because their bodies were often handed to scientists for strange anatomical experiments. If George Foster, executed in 1803, had woken up on the lab table, it would have been in particularly undignified circumstances. In front of a large London crowd, an Italian scientist with a flair for showmanship was sticking an electrode up Foster’s rectum. This is how the story of the battery begins – a technology which has been truly revolutionary. As Tim Harford explains, it’s a story which is far from over.\n\n\n\nProducer: Ben Crighton\n\nEditors: Richard Knight and Richard Vadon\n\n\n\n(Image: Used Batteries, Credit: Gerard Julien/Getty Images)",
+            "length": "4424000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p04x7ysm.mp3"
+        },
+        {
+            "title": "Public Key Cryptography",
+            "datePublished": "Sat, 11 Mar 2017 20:00:00 +0000",
+            "description": "Take a very large prime number – one that is not divisible by anything other than itself. Then take another. Multiply them together. That is simple enough, and it gives you a very, very large “semi-prime” number. That is a number that is divisible only by two prime numbers. Now challenge someone else to take that semi-prime number, and figure out which two prime numbers were multiplied together to produce it. That, it turns out, is exceptionally hard. Some mathematics are a lot easier to perform in one direction than another. Public key cryptography works by exploiting this difference. And without it we would not have the internet as we know it. Tim Harford tells the story of public key cryptography – and the battle between the geeks who developed it, and the government which tried to control it.\n\n\n\n(Photo: Encryption algorithms. Credit: Shutterstock)",
+            "length": "4424000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p04w6678.mp3"
+        },
+        {
+            "title": "Robot",
+            "datePublished": "Sat, 04 Mar 2017 20:00:00 +0000",
+            "description": "Robots threaten the human workforce, but their ubiquity and growing competence make them crucial to the modern economy. In 1961 General Motors installed the first Unimate at one of its plants. It was a one-armed robot resembling a small tank that was used for tasks like welding. Now, as Tim Harford explains, the world’s robot population is expanding rapidly (the robot “birth rate” is almost doubling every five years) and, coupled with rapid advances in artificial intelligence, robots are changing the world of work in unexpected ways.\n\n\n\n(Photo: Robot, Credit: Toru Yamanaka/Getty Images)",
+            "length": "4416000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p04vnw2s.mp3"
+        },
+        {
+            "title": "Disposable Razor",
+            "datePublished": "Sat, 25 Feb 2017 14:09:00 +0000",
+            "description": "King Camp Gillette came up with an idea which has helped shape the modern economy. He invented the disposable razor blade. But, perhaps more significantly, he invented the two-part pricing model which works by imposing what economists call “switching costs”. If you’ve ever bought replacement cartridges for an inkjet printer you experienced both when you discovered that they cost almost as much as the printer itself. It’s also known as the “razor and blades” model because that’s where it first drew attention, thanks to King Camp Gillette. Attract people with a cheap razor, then repeatedly charge them for expensive replacement blades. As Tim Harford explains, it’s an idea which has been remarkably influential.\n\n\n\nProducer: Ben Crighton\n\nEditors: Richard Knight and Richard Vadon\n\n\n\n(Image: Razor, Credit: Shutterstock)",
+            "length": "4416000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p04vnxff.mp3"
+        },
+        {
+            "title": "Clock",
+            "datePublished": "Sat, 18 Feb 2017 14:14:00 +0000",
+            "description": "There’s no such thing as “the correct time”. Like the value of money, it’s a convention that derives its usefulness from the widespread acceptance of others. But there is such a thing as accurate timekeeping. That dates from 1656, and a Dutchman named Christiaan Huygens. In the centuries since, as Tim Harford explains, the clock has become utterly essential to almost every area of the modern economy.\n\n\n\nProducer: Ben Crighton\n\nEditors: Richard Knight and Richard Vadon\n\n\n\n(Image: A wall clock. Credit: Shutterstock)",
+            "length": "4392000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p04vny89.mp3"
+        },
+        {
+            "title": "Google",
+            "datePublished": "Sat, 11 Feb 2017 15:03:00 +0000",
+            "description": "The words 'clever' and 'death' crop up less often than 'Google' in conversation. That’s according to researchers at the University of Lancaster in the UK. It took just two decades for Google to reach this cultural ubiquity. Larry Page and Sergey Brin – Google’s founders – were not, initially, interested in designing a better way to search. Their Stanford University project had a more academic motivation. Tim Harford tells the extraordinary story of a technology which might shape our access to knowledge for generations to come.\n\n\n\nProducer: Ben Crighton\n\nEditors: Richard Knight and Richard Vadon\n\n\n\n(Image: Google logo and search box on a screen. Credit: Yui Mok/PA Wire)",
+            "length": "4432000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p04vnym4.mp3"
+        },
+        {
+            "title": "Insurance",
+            "datePublished": "Sat, 04 Feb 2017 20:00:00 +0000",
+            "description": "Legally and culturally, there’s a clear distinction between gambling and insurance. Economically, the difference is not so easy to see. Both the gambler and the insurer agree that money will change hands depending on what transpires in some unknowable future. Today the biggest insurance market of all – financial derivatives – blurs the line between insuring and gambling more than ever. Tim Harford tells the story of insurance; an idea as old as gambling but one which is fundamental to the way the modern economy works.\n\n\n\nProducer: Ben Crighton\n\nEditors: Richard Knight and Richard Vadon\n\n\n\n(Image: Lloyds Coffeehouse, Credit: Getty Images)",
+            "length": "4408000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p04rszyg.mp3"
+        },
+        {
+            "title": "Paper",
+            "datePublished": "Sat, 28 Jan 2017 20:00:00 +0000",
+            "description": "The Gutenberg printing press is widely considered to be one of humanity’s defining inventions. Actually, you can quibble with Gutenberg’s place in history. He wasn’t the first to invent a movable type press – it was originally developed in China. Still the Gutenberg press changed the world. It led to Europe’s reformation, science, the newspaper, the novel, the school textbook, and much else. But, as Tim Harford explains, it could not have done so without another invention, just as essential but often overlooked: paper. Paper was another Chinese idea, just over 2000 years ago.\n\n\n\nProducer: Ben Crighton\n\nEditors: Richard Knight and Richard Vadon\n\n\n\n(Image: Stack of coloured paper, Credit: Laborant/Shutterstock)",
+            "length": "4304000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p04qv911.mp3"
+        },
+        {
+            "title": "Antibiotics",
+            "datePublished": "Fri, 20 Jan 2017 20:00:00 +0000",
+            "description": "In 1928 a young bacteriologist named Alexander Fleming failed to tidy up his petri dishes before going home to Scotland on holiday. On his return, he famously noticed that one dish had become mouldy in his absence, and the mould was killing the bacteria he’d used the dish to cultivate. It’s hard to overstate the impact of antibiotics on medicine, farming and the way we live. But, as Tim Harford explains, the story of antibiotics is a cautionary one. And unhelpful economic incentives are in large part to blame.\n\n\n\nProducer: Ben Crighton\n\nEditors: Richard Knight and Richard Vadon\n\n\n\n(Image: Penicillin Fungi, Credit: Science Photo/Shutterstock)",
+            "length": "4312000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p04q0p28.mp3"
+        },
+        {
+            "title": "Billy Bookcase",
+            "datePublished": "Sat, 14 Jan 2017 20:00:00 +0000",
+            "description": "Low cost, functional and brilliantly efficient, an Ikea Billy bookcase rolls off the production line every three seconds. There are thought to be over 60 million of them already in service. Few could find the Billy bookcase beautiful. They are successful because they work and they are cheap. And – as Tim Harford explains in this fascinating story – brilliantly boring efficiency is essential to the modern economy. The humble Billy bookcase epitomises the relentless pursuit of lower costs and acceptable functionality.\n\n\n\nProducer: Ben Crighton\n\nEditors: Richard Knight and Richard Vadon",
+            "length": "4304000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p04p43wb.mp3"
+        },
+        {
+            "title": "Compiler",
+            "datePublished": "Sat, 07 Jan 2017 20:00:00 +0000",
+            "description": "Installing Windows might take 5,000 years without the compiler, a remarkable innovation which made modern computing possible. Tim Harford tells a compelling story which has at its heart a pioneering woman called Grace Hopper who – along the way – single-handedly invented the idea of open source software too. \n\n\n\nThe compiler evolved into COBOL – one of the first computer languages – and led to the distinction between hardware and software. \n\n\n\nProducer: Ben Crighton\n\nEditors: Richard Knight and Richard Vadon\n\n\n\n(Image: Grace M. Hopper, Credit: Bettman/Getty Images)",
+            "length": "4304000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p04nllkr.mp3"
+        },
+        {
+            "title": "M-Pesa",
+            "datePublished": "Sat, 31 Dec 2016 20:00:00 +0000",
+            "description": "Transferring money by text message is far safer and more convenient than cash. M-Pesa, as it is known, first took off in Kenya. The idea was to make it easier for small businesses to repay micro-finance loans. But, almost immediately, M-Pesa exploded into something far bigger - there are now 100 times more M-Pesa kiosks than ATMs in Kenya – and with far-reaching consequences, in many developing economies. Tim Harford describes how money transferred this way is easy to trace, which is bad news for the corrupt. And good news for tax authorities.\n\n\n\nProducer: Ben Crighton\n\nEditors: Richard Knight and Richard Vadon\n\n\n\n(Photo: Mobile Phone and M-Pesa sign, Credit: AFP/Getty Images)",
+            "length": "4304000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p04m49t6.mp3"
+        },
+        {
+            "title": "Lightbulb",
+            "datePublished": "Sat, 24 Dec 2016 08:59:00 +0000",
+            "description": "Once too precious to use, now too cheap to notice – the significance of the lightbulb is profound. Imagine a hard week’s work gathering and chopping wood, ten hours a day for six days. Those 60 hours of work would produce light equivalent to one modern bulb shining for just 54 minutes. The invention of tallow candles made life a little easier. If you spent a whole week making them – unpleasant work – you would have enough to burn one for two hours and twenty minutes every evening for a year. Every subsequent technology was expensive, and labour-intensive. And none produced a strong, steady light. Then, as Tim Harford explains, Thomas Edison came along with the lightbulb and changed everything, turning our economy into one where we can work whenever we want to.\n\n\n\nProducer: Ben Crighton\n\nEditors: Richard Knight and Richard Vadon\n\n\n\n(Photo: Electric lightbulb, Credit: Science photo library)",
+            "length": "4304000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p04q834b.mp3"
+        },
+        {
+            "title": "Banking",
+            "datePublished": "Sat, 17 Dec 2016 21:00:00 +0000",
+            "description": "Warrior monks, crusaders and the mysterious origins of modern banking. You might think banks are so central to every economy that they have always existed. And they have, sort of. But the true story of the origins of modern banking is – as Tim Harford explains – as surprising and mysterious as the plot of Dan Brown’s Da Vinci Code. \n\n\n\n(Photo: Temple Church in London. Credit: Kiev Victor/Shutterstock)",
+            "length": "4304000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p04lp7tm.mp3"
+        },
+        {
+            "title": "Barcode",
+            "datePublished": "Sat, 10 Dec 2016 20:00:00 +0000",
+            "description": "How vast mega-stores emerged with the help of a design originally drawn in the sand in 1948 by Joseph Woodland as he sat on a Florida beach, observing the furrows left behind, an idea came to him which would – eventually – become the barcode. This now ubiquitous stamp, found on virtually every product, was designed to make it easier for retailers to automate the process of recording sales. But, as Tim Harford explains, its impact would prove to be far greater than that. The barcode changed the balance of power between large and small retailers.\n\n\n\n(Image: Barcode with red laser line, Credit: Jamie Cross/Shutterstock)",
+            "length": "4304000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p04kv16s.mp3"
+        },
+        {
+            "title": "iPhone",
+            "datePublished": "Sat, 03 Dec 2016 20:00:00 +0000",
+            "description": "Surprisingly, Uncle Sam played an essential role in the creation and development of the iPhone - of course, much has been written about the late Steve Jobs and other leading figures at Apple and their role in making the modern icon, and its subsequent impact on our lives. And rightfully so. But who are other key players without whom the iPhone might have been little more than an expensive toy? Tim Harford tells the story of how the iPhone became a truly revolutionary technology.\n\n\n\n(Photo: Steve Jobs unveils the iPhone, Credit: AFP/Getty Images)",
+            "length": "4304000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p04jrcrc.mp3"
+        },
+        {
+            "title": "Concrete",
+            "datePublished": "Sat, 26 Nov 2016 20:00:00 +0000",
+            "description": "It's improved health, school attendance, agricultural productivity and farm worker wages, but concrete has a poor reputation. It takes a lot of energy to produce and releases a great deal of CO2 in the process. However, architects appreciate its versatility and there are few more important inventions. Tim Harford tells the remarkable hidden story of a ubiquitous, unloved material.\n\n\n\n(Image: Masons hands spread concrete, Credit: APGuide/Shutterstock)",
+            "length": "4296000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p04hqm04.mp3"
+        },
+        {
+            "title": "Shipping Container",
+            "datePublished": "Sat, 19 Nov 2016 20:00:00 +0000",
+            "description": "The boom in global trade was caused by a simple steel box. Shipping goods around the world was – for many centuries – expensive, risky and time-consuming. But, as Tim Harford explains, 60 years ago the trucking entrepreneur Malcolm McLean changed all that by selling the idea of container shipping to the US military. Against huge odds he managed to turn 'containerisation' from a seemingly impractical idea into a massive industry – one that slashed the cost of transporting goods internationally and provoked a boom in global trade. \n\n\n\nProducer: Ben Crighton\n\nEditors: Richard Knight and Richard Vadon\n\n\n\n(Photo: Container ship travelling along the Suez Canal, Credit: Science Photo Library)",
+            "length": "4304000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p04gr42m.mp3"
+        },
+        {
+            "title": "Haber-Bosch Process",
+            "datePublished": "Mon, 14 Nov 2016 09:36:00 +0000",
+            "description": "Saving lives with thin air - by taking nitrogen from the air to make fertiliser, the Haber-Bosch Process has been called the greatest invention of the 20th Century – and without it almost half the world’s population would not be alive today. Tim Harford tells the story of two German chemists, Fritz Haber and Carl Bosch, figured out a way to use nitrogen from the air to make ammonia, which makes fertiliser. It was like alchemy; 'Brot aus Luft', as Germans put it, 'Bread from air'.   \n\n\n\nHaber and Bosch both received a Nobel prize for their invention. But Haber’s place in history is controversial – he is also considered the 'father of chemical warfare' for his years of work developing and weaponising chlorine and other poisonous gases during World War One.\n\n\n\nProducer: Ben Crighton\n\nEditors: Richard Knight and Richard Vadon\n\n\n\n(Photo: A farmer sprays fertiliser. Credit: Remy Gabalda/Getty Images)",
+            "length": "4304000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p04g8g97.mp3"
+        },
+        {
+            "title": "Diesel Engine",
+            "datePublished": "Sat, 05 Nov 2016 20:00:00 +0000",
+            "description": "Rudolf Diesel died in mysterious circumstances before he was able to capitalise on his extraordinary invention: the eponymous engine that powers much of the world today. Before Diesel invented his engine in 1892, as Tim Harford explains, the industrial landscape was very different. Urban transport depended on horses and steam supplied power for trains and factories. Incredibly, Diesel’s first attempt at a working engine was more than twice as efficient as other engines which ran on petrol and gas, and he continued to improve it. Indeed, it wasn’t long before it became the backbone of the industrial revolution; used in trains, power stations, factories and container ships.\n\n\n\nProducer: Ben Crighton\n\nEditors: Richard Knight and Richard Vadon\n\n\n\n(Image: Stamp depicting Rudolf Diesel, Credit: Boris15/Shutterstock)",
+            "length": "4304000",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p04f5yhg.mp3"
+        }
+    ]
+}

@@ -1,0 +1,654 @@
+{
+    "artwork": "http://is5.mzstatic.com/image/thumb/Music4/v4/d7/a2/f3/d7a2f3a0-a7e3-8ac0-be9c-6af4d7df1823/source/100x100bb.jpg",
+    "description": "The B&B Podcast is a technology talk show co-hosted by Benjamin Brooks and Shawn Blanc.",
+    "feedURL": "http://feeds.feedburner.com/thebbpodcast",
+    "podcastURL": "http://5by5.tv/bb",
+    "publisher": "shawnblanc@mac.com (Shawn Blanc and Benjamin Brooks)",
+    "title": "The B&B Podcast",
+    "episodes": [
+        {
+            "title": "92: Yam Benjamin",
+            "datePublished": "Thu, 07 Feb 2013 20:30:00 GMT",
+            "description": "For the final episode of The B&amp;B Podcast, Shawn and Ben talk about the history of the show, the Pebble smartwatch and watches in general, doing an OmniFocus workflow audit, Monoprice's new 27-inch monitor, and the iPad as a \"pro\" PC.\r\n",
+            "length": "37742382",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/qom2T6H8Z-8/bb-092.mp3"
+        },
+        {
+            "title": "91: The Penultimate Episode",
+            "datePublished": "Thu, 31 Jan 2013 22:00:00 GMT",
+            "description": "This week Shawn and Ben talk about responsive web design, side projects, and Netbot going free on App.net. Also, as the title suggests, this is the second-to-last episode of the B&amp;B Podcast.\r\n",
+            "length": "16774844",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/_tiD0iGLpSA/bb-091.mp3"
+        },
+        {
+            "title": "90: The Core Power Tools",
+            "datePublished": "Thu, 24 Jan 2013 21:00:00 GMT",
+            "description": "Shawn and Ben discuss what should be on the short list of apps which most moderately computer savvy people should be using.\r\n",
+            "length": "19276745",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/eT4FexmIGlM/bb-090.mp3"
+        },
+        {
+            "title": "89: Twitter, Coffee, and Cookies",
+            "datePublished": "Fri, 18 Jan 2013 14:15:00 GMT",
+            "description": "Back from the holidays and kicking off the first episode of 2013, Shawn and Ben talk about scaling back on Twitter followers and the problems with Americanos from Starbucks.\r\n",
+            "length": "19586461",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/iPWwIC8xCgw/bb-089.mp3"
+        },
+        {
+            "title": "88: Legacy Twitter Relationships",
+            "datePublished": "Thu, 13 Dec 2012 22:00:00 GMT",
+            "description": "For the final show of 2012, Shawn and Ben record a show in their old style of casual conversation. Topics include teething, Amazon Prime, OmniFocus, scaling back on Twitter followers, Time Magazine's top 10 gadgets of the year, and more.\r\n",
+            "length": "25346565",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/x7ML78egyr8/bb-088.mp3"
+        },
+        {
+            "title": "87: Listener Q&A",
+            "datePublished": "Thu, 06 Dec 2012 19:00:00 GMT",
+            "description": "Shawn and Ben answer questions submitted by you guys, the listeners. Ranging from App.net, Twitter clients, website memberships and Ben's paywall, what podcasts we listen to, and more.\r\n",
+            "length": "15714053",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/tIKhTSwnn58/bb-087.mp3"
+        },
+        {
+            "title": "86: Interview with Shaun Inman",
+            "datePublished": "Thu, 29 Nov 2012 21:00:00 GMT",
+            "description": "This week Shawn and Ben are joined by special guest and Internet Hero, Shaun Inman. Shaun is a designer and developer, the creator of Mint, Fever, The Last Rocket, and much, much more. We talk about web design, development, growing in your skill sets, learning new skills, video game jams, and launching a Kickstarter campaign.\r\n",
+            "length": "16097776",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/QQ2SIQXcEnA/bb-086.mp3"
+        },
+        {
+            "title": "85: The Circle of Confusion",
+            "datePublished": "Thu, 15 Nov 2012 23:30:00 GMT",
+            "description": "Shawn and Ben talk about photography and cameras and lenses.\r\n",
+            "length": "15538103",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/ymX0d6yNFks/bb-085.mp3"
+        },
+        {
+            "title": "84: Tips and Tricks: Keyboard Maestro",
+            "datePublished": "Thu, 08 Nov 2012 21:00:00 GMT",
+            "description": "In an action-packed tips and tricks episode, Ben and Shawn talk about the powerhouse app that is Keyboard Maestro. They give an overview of how Keyboard Maestro works and some of the basics for using it as well as sharing many of the custom macros they use.\r\n",
+            "length": "34699034",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/4DW71GB_r3c/bb-084.mp3"
+        },
+        {
+            "title": "83: Listener Q&A",
+            "datePublished": "Thu, 01 Nov 2012 19:00:00 GMT",
+            "description": "Shawn and Ben answer questions from the listeners, covering topics about Pinboard, budgeting, tech purchases, Apple Care, upgrades, covering Apple news, and more.\r\n",
+            "length": "18654813",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/-UpjSgf2Dmk/bb-083.mp3"
+        },
+        {
+            "title": "82: Interview with David Smith",
+            "datePublished": "Thu, 25 Oct 2012 22:00:00 GMT",
+            "description": "Shawn and Ben are joined by David Smith, an indie iOS developer. We talk about some of the things David has learned in his years developing software, and we talk about his most recent app, Check the Weather, including all that went in to building it, preparing for launch, and then handling customer feedback afterwards.\r\n",
+            "length": "15556496",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/HfJU1CpZnyQ/bb-082.mp3"
+        },
+        {
+            "title": "81: You Gotta Remove the Mustard",
+            "datePublished": "Thu, 18 Oct 2012 20:00:00 GMT",
+            "description": "Shawn and Ben talk about five different apps that have been released in the past couple weeks.\r\n",
+            "length": "15611669",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/Zu2QS3uwsGE/bb-081.mp3"
+        },
+        {
+            "title": "80: Tips and Tricks: OmniFocus",
+            "datePublished": "Thu, 11 Oct 2012 17:15:00 GMT",
+            "description": "Ben and Shawn share their favorite tips, tricks, and workflows for OmniFocus.\r\n",
+            "length": "12749064",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/xmueX7qdZGY/bb-080.mp3"
+        },
+        {
+            "title": "79: You Never Need It, Until You Need It",
+            "datePublished": "Fri, 05 Oct 2012 20:00:00 GMT",
+            "description": "Shawn and Ben talk about Ben's reluctance to use his iPad as a work device even though he says he wants to, our impressions of the Kickstarted Hidden Radio Bluetooth speaker, Shawn's initial impressions of the new Kindle Paperwhite, and more.\r\n",
+            "length": "15236558",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/rXDWO2rajL0/bb-079.mp3"
+        },
+        {
+            "title": "78: Listener Q&A",
+            "datePublished": "Thu, 27 Sep 2012 02:30:00 GMT",
+            "description": "Ben and Shawn answer all sorts of techy and nerdy questions from the listeners.\r\n",
+            "length": "15031525",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/Ej_Yq-fQbXU/bb-078.mp3"
+        },
+        {
+            "title": "77: Interview with Ryan Cash",
+            "datePublished": "Fri, 21 Sep 2012 00:15:00 GMT",
+            "description": "Shawn and Ben are joined by Ryan Cash, former marketing director at Marketcircle and founder of Snowman, makers of the iPhone reminders app, Checkmark. We talked with Ryan about his transition and motivation to go from working for a medium-sized company to starting his own indie iOS dev shop, the challenges of building and shipping an iPhone app, and more.\r\n",
+            "length": "14333545",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/ike6IAmeiB4/bb-077.mp3"
+        },
+        {
+            "title": "76: Pop Open LaunchBar",
+            "datePublished": "Thu, 13 Sep 2012 18:45:00 GMT",
+            "description": "Shawn and Ben share tips and tricks about one of their most-used applications on the Mac: LaunchBar.\r\n",
+            "length": "14788906",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/6xyhDiJQ1RE/bb-076.mp3"
+        },
+        {
+            "title": "75: B&B 2.0",
+            "datePublished": "Thu, 06 Sep 2012 19:00:00 GMT",
+            "description": "Shawn and Ben announce a new format and schedule to the show. And this week they talk about the just-announced Kindles and follow-up on last week's discussion of App.net.\r\n",
+            "length": "17096448",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/8eU8kA_QGmE/bb-075.mp3"
+        },
+        {
+            "title": "74: The Worst, Worst, Worst Case Scenario",
+            "datePublished": "Thu, 30 Aug 2012 17:45:00 GMT",
+            "description": "After a 2-week hiatus, Ben and Shawn are back to talk about touchscreen desktop computers, Twitter, App.net, and Glassboard, and the kitchen sink.\r\n",
+            "length": "21707194",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/hdGIG1Y1qe4/bb-074.mp3"
+        },
+        {
+            "title": "73: Faded Avocado",
+            "datePublished": "Thu, 09 Aug 2012 19:00:00 GMT",
+            "description": "Shawn and Ben talk about fax machines, open source software, the future of the digital landscape and how that affects the apps we use today, and the right and wrong ways to publish a link list-type blog.\r\n",
+            "length": "28679148",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/PrAK7g1e9cc/bb-073.mp3"
+        },
+        {
+            "title": "72: I Clicked That Ketchup Article",
+            "datePublished": "Thu, 02 Aug 2012 19:00:00 GMT",
+            "description": "Shawn and Ben talk about the new Digg, Cultured Code's Cloud Sync, the balance of shipping half-finished products early versus taking longer to ship products that are finished, why not being on Facebook may mean you're a suspicious citizen, and how real-life priorities intersect with \"GTD\".\r\n",
+            "length": "28172180",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/1xOHG9YpCus/bb-072.mp3"
+        },
+        {
+            "title": "71: Edges of the Fiberhood",
+            "datePublished": "Thu, 26 Jul 2012 20:00:00 GMT",
+            "description": "Shawn and Ben talk about the Kansas City rollout of Google Fiber, the just-announced Google Fiber TV, internet speeds and privacy policies, Mountain Lion, the Mac App Store, Notification Center, Sparrow's acquisition and email clients in general, and speculations about the future of Apple TV and how that could relate to either Siri and or the theoretical iPad Mini.\r\n",
+            "length": "31466521",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/8A3Bws3rEcE/bb-071.mp3"
+        },
+        {
+            "title": "70: Really Great Frisbee Thrower",
+            "datePublished": "Thu, 19 Jul 2012 19:00:00 GMT",
+            "description": "Shawn and Ben talk about the Nexus 7, Android, the tablet market, the UK ruling for Apple to place ads saying Samsung didn't copy them, and how to grill a steak.\r\n",
+            "length": "27633632",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/c0fCLyfIK_U/bb-070.mp3"
+        },
+        {
+            "title": "69: How Dead Was It?",
+            "datePublished": "Thu, 12 Jul 2012 19:00:00 GMT",
+            "description": "Shawn and Ben talk about iPad keyboards, selling your gadgets to Amazon, paywalls, memberships, advertising, conflicts of interest, credibility in blogging, and Ben's new business model for The Brooks Review.\r\n",
+            "length": "35511315",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/RILiHXRFBOE/bb-069.mp3"
+        },
+        {
+            "title": "68: My Socks Would be Buttery",
+            "datePublished": "Thu, 05 Jul 2012 19:00:00 GMT",
+            "description": "Shawn and Ben talk about popcorn, writing reviews of beta apps, using Checkmark and how it works alongside other reminder apps on the iPhone, and Belkin's new WeMo device.\r\n",
+            "length": "28921989",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/O0xTKJ1N_Sw/bb-068.mp3"
+        },
+        {
+            "title": "67: Sweaty & Uncomposed",
+            "datePublished": "Thu, 28 Jun 2012 19:00:00 GMT",
+            "description": "Ben is joined by special guest John Moltz this week as they discuss the Google announcements, and how those compare with Microsoft's foray into the tablet space. They also discuss computing setups and the lives of Windows users.\r\n",
+            "length": "29891648",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/bolYsD75Snw/bb-067.mp3"
+        },
+        {
+            "title": "66: Typing on My Microwave",
+            "datePublished": "Thu, 21 Jun 2012 19:00:00 GMT",
+            "description": "Shawn and Ben talk about Tweetbot, Ben's new Retina MacBook Pro, building your own desk, Thunderbolt drives, the just-announced Belkin WeMo, and the Microsoft Surface.\r\n",
+            "length": "34696080",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/NM0aNrYveRo/bb-066.mp3"
+        },
+        {
+            "title": "65: Lucky Charms Turbo Boost",
+            "datePublished": "Fri, 15 Jun 2012 00:00:00 GMT",
+            "description": "In this episode Shawn and Ben discuss the crazy method they are taking to live stream the show, the new retina MacBook Pro, Ben's ridiculous computer buying, iOS 6, whiskey, and how we use RSS.\r\n",
+            "length": "24724840",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/kLaR1GUt9xA/bb-065.mp3"
+        },
+        {
+            "title": "64: Furiously Typing on the PlayBook",
+            "datePublished": "Thu, 07 Jun 2012 19:00:00 GMT",
+            "description": "In this episode Shawn and Ben talk about grilled cheese bacon burgers, shooting at cats with automated paintball rifles, what does \"GTD\" mean anyway, the craziness of Apple rumors leading up to WWDC, traveling with only an iPad, and using a Mac mini as a server.\r\n",
+            "length": "27525701",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/SDEBQ_Frzro/bb-064.mp3"
+        },
+        {
+            "title": "63: Blanc and Beard",
+            "datePublished": "Thu, 31 May 2012 21:00:00 GMT",
+            "description": "This week Shawn is joined by guest, Pat Dryburgh, to speculate about iPhone and Apple TV rumors.\r\n",
+            "length": "54982988",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/zTm6gL88H98/bb-063.mp3"
+        },
+        {
+            "title": "62: iSniper",
+            "datePublished": "Wed, 23 May 2012 19:00:00 GMT",
+            "description": "Shawn and Ben talk about BBQ Smokers, the bigger-screened iPhone rumors, and Readlist, the new service from Readability.\r\n",
+            "length": "57755397",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/hL8tA_TICTg/bb-062.mp3"
+        },
+        {
+            "title": "61: The One Where Ben Gets Fired",
+            "datePublished": "Fri, 18 May 2012 14:45:00 GMT",
+            "description": "Shawn and Ben talk about laser tag, some of the recent 4-inch iPhone rumors, Mac App Store sandboxing rumors, and advertising on the Web. A very special thanks to Sean Sperte and Chris Wahlmark for making this episode possible.\r\n",
+            "length": "21361510",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/tLaFMxojWzI/bb-061.mp3"
+        },
+        {
+            "title": "60: You Sound Great To Me",
+            "datePublished": "Thu, 10 May 2012 16:00:00 GMT",
+            "description": "Shawn and Ben talk about cloth diaper technology, the sad state of Skype's call quality, and advertising on the web.\r\n",
+            "length": "26391242",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/EIqncqJYMCs/bb-060.mp3"
+        },
+        {
+            "title": "59: Pen Pal Podcast",
+            "datePublished": "Thu, 03 May 2012 19:00:00 GMT",
+            "description": "Ben and Shawn talk briefly about the Samsung Galaxy S III (which was announced during the show), Paul Miller leaving the Internet, and the ethics of linking to a Kickstarter project.\r\n",
+            "length": "29242135",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/BeqvVBDZFP0/bb-059.mp3"
+        },
+        {
+            "title": "58: Again With the Ys",
+            "datePublished": "Thu, 26 Apr 2012 19:00:00 GMT",
+            "description": "This week Ben and Shawn talk about BBQ grills, wallets, and accessories which aim to turn your iPad into a MacBook Air.\r\n",
+            "length": "31412352",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/5GcAz8p-ioY/bb-058.mp3"
+        },
+        {
+            "title": "57: Lottery Ticket Business Model",
+            "datePublished": "Thu, 19 Apr 2012 19:00:00 GMT",
+            "description": "Shawn and Ben talk about mechanical keyboards (again), Pocket (the app formerly known as Read it Later), and business models which have no source of revenue.\r\n\r\n(Note from Ben: Sorry I had to cut this short, family emergency. All is OK now though.)\r\n",
+            "length": "27703424",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/cBVueTj02Ec/bb-057.mp3"
+        },
+        {
+            "title": "56: Tilt-Shifted Lemonade",
+            "datePublished": "Thu, 12 Apr 2012 19:00:00 GMT",
+            "description": "Ben and Shawn talk about Ben's life as a brand-new dad, Instagram and Facebook, and the Pebble smartwatch.\r\n",
+            "length": "29184128",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/EtgWhzBi54E/bb-056.mp3"
+        },
+        {
+            "title": "55: I'm Not Getting Rid of the Keyboard",
+            "datePublished": "Thu, 05 Apr 2012 18:45:00 GMT",
+            "description": "Shawn and Ben talk about keyboards (specifically the new Das Keyboard), Google's Project Glass, and UI-less UI in iOS apps (such as Clear and Paper).\r\n",
+            "length": "20613248",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/bUNGHWviceA/bb-055.mp3"
+        },
+        {
+            "title": "54: Distraction-Free Sweater",
+            "datePublished": "Thu, 29 Mar 2012 18:00:00 GMT",
+            "description": "Shawn and Ben talk about the weather, using the iPad as a work device, the differences between an iPad and a MacBook Air, Ben's workflow for writing and posting links, and Twitter, ads, and business models.\r\n",
+            "length": "26310784",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/MRKR-L8qFbg/bb-054.mp3"
+        },
+        {
+            "title": "53: Five iPads Later",
+            "datePublished": "Thu, 22 Mar 2012 19:00:00 GMT",
+            "description": "Shawn and Ben talk about the difference between the iPhone and iPad Retina displays, 4G LTE speeds, Vitamix blenders, and Keyboard Maestro macros.\r\n",
+            "length": "23697536",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/mHBNNRGZydE/bb-053.mp3"
+        },
+        {
+            "title": "52: You're Recording This, Right?",
+            "datePublished": "Thu, 15 Mar 2012 19:00:00 GMT",
+            "description": "Shawn and Ben talk about iPad bags, new iOS apps, Sparrow and Byword, the potential storage constraints of the new iPads due to Retina-ready apps, using the iPad as a work computer when traveling, standing in line at Apple stores, and more.\r\n",
+            "length": "24467584",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/GKSCSDX9Ig4/bb-052.mp3"
+        },
+        {
+            "title": "51: That's How I Know It's a Telemarketer",
+            "datePublished": "Fri, 09 Mar 2012 23:00:00 GMT",
+            "description": "Shawn and Ben talk about the new iPad, retina display Macs, the confusion of AT&amp;T's 4G network naming schemes, and more.\r\n",
+            "length": "21594240",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/CuO1wQmOu-Y/bb-051.mp3"
+        },
+        {
+            "title": "50: The K Stands for Class",
+            "datePublished": "Thu, 08 Mar 2012 15:22:37 GMT",
+            "description": "In this mid-week special episode Shawn and Ben talk about Apple's special event yesterday.",
+            "length": "25647232",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/CSdAhu4nwSA/bb-050.mp3"
+        },
+        {
+            "title": "49: Dude I’m Holding a Phone",
+            "datePublished": "Fri, 02 Mar 2012 15:43:42 GMT",
+            "description": "Ben is joined this week by Federico Viticci of MacStories (filling in for family man Shawn) to discuss iPad 3, iPhone 5 and NFC, Samsung devotees, and the iOS privacy scandals. Thanks again to Viticci for filling in.",
+            "length": "23171200",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/cZAANO05lM4/bb-049.mp3"
+        },
+        {
+            "title": "48: Upside Down Spike",
+            "datePublished": "Fri, 24 Feb 2012 17:22:52 GMT",
+            "description": "This week Shawn and Ben talk about a new RSS app Caffeinated, OmniFocus vs. Things, and rumors of Apple ditching the dock connector.",
+            "length": "22075520",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/bgMJzXBEoXU/bb-048.mp3"
+        },
+        {
+            "title": "47: Bruce",
+            "datePublished": "Fri, 17 Feb 2012 19:40:56 GMT",
+            "description": "This week Shawn and Ben talk about Flickr, the announcement of OS X Mountain Lion, and iMessage notifications.",
+            "length": "30777472",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/Tlu9WwBiK3g/bb-047.mp3"
+        },
+        {
+            "title": "46: BlackBerry Withdrawal",
+            "datePublished": "Fri, 10 Feb 2012 19:09:32 GMT",
+            "description": "Shawn and Ben talk about cellphone fanboy rankings in Kansas City, iPad 3 rumors, and Ben's ideas about the model that Kickstarter is using (Shawn brings some rationality into that discussion).",
+            "length": "30943360",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/4Ye_Xd_rVxo/bb-046.mp3"
+        },
+        {
+            "title": "45: A Slightly Better Pedigree of Americanos",
+            "datePublished": "Mon, 06 Feb 2012 21:48:54 GMT",
+            "description": "Shawn and Ben talk about coffee and Americanos, the Samsung Galaxy Note and its revolutionary new stylus, and then they go down the rabbit hole known as 'Ben's Paranoia' as they discuss Google and social networks.",
+            "length": "24719488",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/I82Kxh2imT0/bb-045.mp3"
+        },
+        {
+            "title": "44: Before a Live Studio Audience",
+            "datePublished": "Sat, 28 Jan 2012 02:25:03 GMT",
+            "description": "This week Shawn and Ben record their show before a live studio audience in the hotel lobby while attending Macworld in San Francisco. They talk about Ben's crazy mute button idea, iPhone usage in San Francisco, Macworld highlights, and their pilgrimage to Cupertino.",
+            "length": "11702400",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/m3nApehhM78/bb-044.mp3"
+        },
+        {
+            "title": "43: My Computer Is Slow This Week",
+            "datePublished": "Fri, 20 Jan 2012 19:00:00 GMT",
+            "description": "This week Shawn and Ben talk about Ben's meeting avoidance tactics, the snow in Seattle, Jelly Belly jellybean flavors, and what Apple's iBooks announcements mean for independent writers.\r\n",
+            "length": "28588160",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/jhEiyWzRgVA/bb-043.mp3"
+        },
+        {
+            "title": "42: Baby Technology",
+            "datePublished": "Fri, 13 Jan 2012 18:00:00 GMT",
+            "description": "This week Shawn and Ben talk about the future life of a being a dad, headphones, some follow-up to last week's show, iPhone photography and videography, Google's percieved evilness, and a person's decision making ability. There is also one more thing.\r\n",
+            "length": "32628859",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/K5a7vfclcMg/bb-042.mp3"
+        },
+        {
+            "title": "41: Coality",
+            "datePublished": "Fri, 06 Jan 2012 20:27:02 GMT",
+            "description": "We kick off the new year with another variety show. Shawn and Ben chat about the latest iPod nanos and why Ben says they aren't that great, blogging and using an iPad as your only computer, and a few speculations on the next iPad and what it may bring.",
+            "length": "61132928",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/4ZhO30Ug0UE/bb-041.mp3"
+        },
+        {
+            "title": "40: The Last Show of 2011",
+            "datePublished": "Fri, 30 Dec 2011 22:38:32 GMT",
+            "description": "In the last show of 2011, Ben asks Shawn four questions about this past year and the upcoming year. They discuss MacBook Airs, iPads, and iPads with keyboards. Shawn also gets into his philosophical views on website redesigns. And, to send us into the new year, Ben's cats fight in the background.",
+            "length": "48304256",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/vhzGQEnUApI/bb-040.mp3"
+        },
+        {
+            "title": "39: Kinda a Tom Clancy Fan",
+            "datePublished": "Fri, 23 Dec 2011 20:00:10 GMT",
+            "description": "Shawn and Ben talk about board games and holiday plans before discussing writing on the web, the business that surrounds it, and answer several listener-submitted questions about publishing a website.",
+            "length": "71026816",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/LP5IWy4O0QE/bb-039.mp3"
+        },
+        {
+            "title": "38: Skinny Jeans",
+            "datePublished": "Fri, 16 Dec 2011 18:55:19 GMT",
+            "description": "Shawn and Ben discuss Christmas gift giving, Shawn's Galaxy Nexus review unit, and Android 4.0.",
+            "length": "78166144",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/1H7eJyYXeDU/bb-038.mp3"
+        },
+        {
+            "title": "37: It’s Old School, Bro",
+            "datePublished": "Fri, 09 Dec 2011 21:03:19 GMT",
+            "description": "This week Shawn and Ben talk about the changes at Twitter, business models for services like Twitter and Instagram, and Apple's legal troubles.",
+            "length": "57811072",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/Qxo5GXzvYPg/bb-037.mp3"
+        },
+        {
+            "title": "36: People to See, Places to Go",
+            "datePublished": "Fri, 02 Dec 2011 19:03:50 GMT",
+            "description": "Shawn and Ben talk about making videos and Shawn's dislike of iMovie. The help you get from a GorrilaPod and a Glif. Ben's troubles with shooting product photos with the iPhone 4S. The Fitbit and Jawbone UP. They also rave about Doxie Go, while lamenting the case. Lastly it is all about the monitor that Ben cheaped out on.",
+            "length": "68903040",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/Hkt3xr_qAE4/bb-036.mp3"
+        },
+        {
+            "title": "35: Lunchbox Locker",
+            "datePublished": "Fri, 18 Nov 2011 23:58:31 GMT",
+            "description": "In this episode Shawn and Ben talk about Jeeps, the Kindle Fire, the Kindle Touch, all the hoopla surrounding Readability and paying publishers, and the Jawbone UP.",
+            "length": "89327744",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/fyhK3FPtfYE/bb-035.mp3"
+        },
+        {
+            "title": "34: Old and Unread",
+            "datePublished": "Fri, 11 Nov 2011 21:01:49 GMT",
+            "description": "Shawn and Ben talk about the Jawbone UP, angry people who are on the Internet, distractions while working, the lack of a logo on Ben's site, and various other things.",
+            "length": "66906240",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/ECQocJtwuuw/bb-034.mp3"
+        },
+        {
+            "title": "33: A Show",
+            "datePublished": "Fri, 04 Nov 2011 19:11:12 GMT",
+            "description": "Shawn and Ben talk about the new design of The Verge, Shawn's AT&T data usage issues, battery backup packs for iPhones, and why they won't be friends if Shawn buys a minivan.",
+            "length": "74485888",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/Q3lKDvJ5fcA/bb-033.mp3"
+        },
+        {
+            "title": "32: Displays and Televisions",
+            "datePublished": "Fri, 28 Oct 2011 19:00:35 GMT",
+            "description": "Shawn and Ben discuss the dying Cinema display that Shawn owns and his options for future upgrades, with speculation about what Apple may do to ...",
+            "length": "79425664",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/hyBBI_VVu-A/bb-032.mp3"
+        },
+        {
+            "title": "31: The Fanny Pack",
+            "datePublished": "Fri, 21 Oct 2011 17:36:43 GMT",
+            "description": "Shawn and Ben talk about Siri, iPhone 4S battery life, Fanny Packs, Sushi and a whole slew of  other tech gadgets that seem to be popping up like weeds these days.",
+            "length": "69998720",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/DBNWIw07L-I/bb-031.mp3"
+        },
+        {
+            "title": "30: Today, not Tomorrow",
+            "datePublished": "Wed, 12 Oct 2011 17:45:00 GMT",
+            "description": "On this, the 30th episode, Shawn and Ben discuss iOS 5, iCloud, the iPhone 4S, and Steve Jobs. Also, Portland, Maine has a great AT&T ...",
+            "length": "75028608",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/w-PjBHvWaqQ/bb-030.mp3"
+        },
+        {
+            "title": "29: Kindles, Coffee, and Popcorn",
+            "datePublished": "Fri, 30 Sep 2011 21:48:36 GMT",
+            "description": "This week Shawn and Ben are joined by our pal Marco Arment to talk about the new Amazon Kindles and home coffee roasting and AeroPressin'.\r\n\r\nEpisode ...",
+            "length": "89036928",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/YeUkzVxRVAs/bb-029.mp3"
+        },
+        {
+            "title": "28: Viticci, We Love You",
+            "datePublished": "Fri, 23 Sep 2011 23:07:47 GMT",
+            "description": "Shawn and Ben talk about the adventures of roasting coffee beans in a popcorn popper which leads to the possible invention of a new product ...",
+            "length": "82028672",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/UvJ468SQe7Q/bb-028.mp3"
+        },
+        {
+            "title": "27: Makers and Managers",
+            "datePublished": "Fri, 16 Sep 2011 18:54:26 GMT",
+            "description": "This week Shawn and Ben talk about work schedules, email workflows, priorities and values, and networking. They also throw in a little popcorn follow-up.\r\n\r\nEpisode Notes\r\n\r\n\r\nMaker's ...",
+            "length": "66936960",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/FhrZIpmdV3o/bb-027.mp3"
+        },
+        {
+            "title": "26: The Web Never Sleeps",
+            "datePublished": "Tue, 13 Sep 2011 14:55:11 GMT",
+            "description": "In this episode Ben and Shawn talk about pens and hipster PDAs, their personal histories with old Palm Pilots, Shawn’s dead PowerBooks G4, popcorn and ...",
+            "length": "77904000",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/U-LeCVLroDk/bb-026.mp3"
+        },
+        {
+            "title": "25: WhaatsAaaapp?",
+            "datePublished": "Fri, 02 Sep 2011 19:28:18 GMT",
+            "description": "This week Shawn and Ben talk about the constantly-moving weather widgets of OS X Dashboard, the Ribbon UI, Kickstarter projects, the movies from Netflix to Blu-ray, the Amazon Tablet rumors and briefly about iCloud and iOS 5.",
+            "length": "59568256",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/n6AFt0dNomM/bb-025.mp3"
+        },
+        {
+            "title": "24: Weed Whackers",
+            "datePublished": "Fri, 26 Aug 2011 20:43:01 GMT",
+            "description": "Shawn and Ben start with some Keyboard Maestro tricks as weed whackers run in the background. Then they start talking about the new The Brooks ...",
+            "length": "67039360",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/IiEhScOvrFo/bb-024.mp3"
+        },
+        {
+            "title": "23: Surprisingly Incredible",
+            "datePublished": "Fri, 19 Aug 2011 20:48:23 GMT",
+            "description": "Shawn and Ben talk about wallets, HP's crazies, and Google-Motorola.",
+            "length": "44574848",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/U02quJr58NU/bb-023.mp3"
+        },
+        {
+            "title": "22: Fo’ Drizzle",
+            "datePublished": "Fri, 12 Aug 2011 19:35:41 GMT",
+            "description": "Shawn reads the sponsorships for a change and then talks with Ben about Internet, tells some jokes, a discussion about the value of linked list ...",
+            "length": "68241536",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/KVlaVNo4eKw/bb-022.mp3"
+        },
+        {
+            "title": "21: In-Ear Monitors",
+            "datePublished": "Fri, 05 Aug 2011 16:19:30 GMT",
+            "description": "Shawn and Ben talk about owning a desktop, keyboard shortcuts, patents, and app pricing.",
+            "length": "60584064",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/peTsgBSdk_g/bb-021.mp3"
+        },
+        {
+            "title": "20: MacBook Airs",
+            "datePublished": "Tue, 26 Jul 2011 20:48:53 GMT",
+            "description": "Shawn and Ben talk about Shawn's new MacBook Air, the pros and cons of FileVault, and speculate on up coming product announcements this fall (like the iPad, iPhone, iPods, and iOS 5).",
+            "length": "53614720",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/HJu1985nYF4/bb-020.mp3"
+        },
+        {
+            "title": "19: Lion",
+            "datePublished": "Thu, 21 Jul 2011 04:07:06 GMT",
+            "description": "Shawn and Ben talk all things Lion.",
+            "length": "44269696",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/KB0cXynrtkk/bb-019.mp3"
+        },
+        {
+            "title": "18: 36 Hours Without Internet",
+            "datePublished": "Fri, 08 Jul 2011 20:05:31 GMT",
+            "description": "In this episode Shawn and Ben talk about life without Internet, purposefully not responding to Email, Google+, and the HP TouchPad's future.\r\n\r\nEpisode Notes\r\n\r\n\r\nApple Preparing OS ...",
+            "length": "58415232",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/YJMozQ8hV40/bb-018.mp3"
+        },
+        {
+            "title": "17: Aviators and BBQ",
+            "datePublished": "Thu, 30 Jun 2011 16:11:44 GMT",
+            "description": "This week Shawn and Ben talk about Google+, the HP TouchPad, and Kansas City BBQ.",
+            "length": "53125248",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/HO2_Pm_VVTs/bb-017.mp3"
+        },
+        {
+            "title": "16: Our Longest Episode Ever",
+            "datePublished": "Fri, 24 Jun 2011 20:53:34 GMT",
+            "description": "Shawn and Ben discuss backing up, wireless networking speeds and the celebration of keeping an iPhone for more than a year. They also touch on iPhone 5 rumors, the Nokia N9, HP Touchpad and Shawn's struggle to find a good Netflix app.",
+            "length": "80236672",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/LSmm2JX51Jc/bb-016.mp3"
+        },
+        {
+            "title": "15: Dub Dub Goers",
+            "datePublished": "Fri, 17 Jun 2011 20:38:16 GMT",
+            "description": "Ben complains about Comcast some more, Shawn catches Ben up on what he missed at WWDC, and they talk about Apple's new Back to School promotions and using Beta software.",
+            "length": "56483968",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/OGkbgwyuCC4/bb-015.mp3"
+        },
+        {
+            "title": "14: When the Internet Is Your Job",
+            "datePublished": "Fri, 03 Jun 2011 20:53:31 GMT",
+            "description": "Shawn and Ben talk about off-site cloud backups and cable modems and ISPs (which they only kind of understand), the new typefaces on Shawn's site, and rumors about Lion, iOS 5, iCloud, and WWDC 2011.",
+            "length": "67172480",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/m0KlsNyHOD8/bb-014.mp3"
+        },
+        {
+            "title": "13: I’m Standing Right Now",
+            "datePublished": "Fri, 27 May 2011 18:42:11 GMT",
+            "description": "Shawn and Ben talk about standing desks, cloud-based remote backups, Amazon's new Mac Downloads store and Ben's general paranoia about everything.",
+            "length": "79513728",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/kU-sA7i0DIk/bb-013.mp3"
+        },
+        {
+            "title": "12: DMs and Tacos",
+            "datePublished": "Fri, 20 May 2011 20:51:43 GMT",
+            "description": "Shawn and Ben talk about Twitter and the current issues with 3rd-party developers and the new xAuth / OAuth requirements, as well as weather apps, link blogging, and steak tacos.",
+            "length": "63434880",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/LD6P1g3vj3M/bb-012.mp3"
+        },
+        {
+            "title": "11: Never Punch Someone in the Forehead",
+            "datePublished": "Fri, 13 May 2011 19:50:25 GMT",
+            "description": "In this episode Shawn and Ben discuss cloud based music solutions and swords.",
+            "length": "51218560",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/Arczzzovum8/bb-011.mp3"
+        },
+        {
+            "title": "10: You Can’t Drink Out of a Pineapple",
+            "datePublished": "Thu, 05 May 2011 20:34:17 GMT",
+            "description": "Shawn and Ben discuss writing bad reviews, Lion in the Mac App Store and when Shawn should make his next Mac purchase because he's tired of the bag for his MacBook Pro.",
+            "length": "44621952",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/Uoc7Ccg3KJ0/bb-010.mp3"
+        },
+        {
+            "title": "9: Glass Half Empty",
+            "datePublished": "Fri, 22 Apr 2011 17:24:28 GMT",
+            "description": "Shawn and Ben talk about the new iPad app, News.me, and the whole trend towards individuals wanting to curate their own news via  social networks.",
+            "length": "53463168",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/kuaJPsmEYE8/bb-009.mp3"
+        },
+        {
+            "title": "8: Are you just depressed all day?",
+            "datePublished": "Fri, 15 Apr 2011 23:22:42 GMT",
+            "description": "Shawn and Ben talk about Tweetbot, Twitter clients in general, and the weather.",
+            "length": "39993472",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/ojiebl0YE3Q/bb-008.mp3"
+        },
+        {
+            "title": "7: Fab Five",
+            "datePublished": "Fri, 08 Apr 2011 18:13:35 GMT",
+            "description": "This week Shawn and Ben talk about which apps they would choose if they could only pick 5 apps to have on their Mac. They also compare their Internet speeds in anticipation of the new Google Internet Kansas City is getting.",
+            "length": "46170240",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/LTmSUFirxw8/bb-007.mp3"
+        },
+        {
+            "title": "6: Wonderful People",
+            "datePublished": "Sun, 03 Apr 2011 20:52:07 GMT",
+            "description": "Ben and Shawn talk about personal preferences regarding the Mac OS X Dock, Menu Bar, desktop wallpaper images, and more.\r\n\r\nLinks From This Episode\r\n\r\n\r\nSurvey Responses\r\nHipmunk\r\nSquare app\r\nShawn's ...",
+            "length": "51208320",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/UblrO9HaUSs/bb-006.mp3"
+        },
+        {
+            "title": "5: Secret Weapons",
+            "datePublished": "Fri, 25 Mar 2011 15:47:19 GMT",
+            "description": "Ben and Shawn talk about the secret-weapon utility apps they use and how they use them.",
+            "length": "51163264",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/nPRUndlv1P8/bb-005.mp3"
+        },
+        {
+            "title": "4: Pocket Protectors",
+            "datePublished": "Sat, 19 Mar 2011 15:45:32 GMT",
+            "description": "Shawn and Ben talk about SXSW, writing, and other miscellany.\r\n\r\nLinks from this episode\r\n\r\n\r\nBBEdit\r\nTextMate\r\nMarsEdit\r\nMarkdown plugin for WordPress\r\nLaunchBar\r\nSnow Leopard Miscellany - Shawn Blanc\r\nAlfred\r\nFlare\r\n\r\n\r\nEpisode Sponsors\r\n\r\n\r\nLithium 5\r\nTypekit\r\n\r\n ",
+            "length": "47358080",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/Xvmp0HsuKP4/bb-004.mp3"
+        },
+        {
+            "title": "3: Sissies",
+            "datePublished": "Sat, 12 Mar 2011 14:19:56 GMT",
+            "description": "Standing in line for the iPad 2.",
+            "length": "56135808",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/QFH8pYTvmxU/bb-003.mp3"
+        },
+        {
+            "title": "2: Are you listening to anything I am saying?",
+            "datePublished": "Thu, 03 Mar 2011 02:54:40 GMT",
+            "description": "Ben & Shawn discuss the new iPad 2 and answer some listener's questions about Apple's latest gadget.",
+            "length": "51906688",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/ambfQM148q8/bb-002.mp3"
+        },
+        {
+            "title": "1: I Am a GPS System",
+            "datePublished": "Sun, 27 Feb 2011 23:47:22 GMT",
+            "description": "Ben and Shawn talk about iOS and NFC magic,  GPS systems, the beta release of Mac OS X Lion, Shawn's recent announcement about going full time, and more.",
+            "length": "56774784",
+            "sourceUrl": "http://feedproxy.google.com/~r/thebbpodcast/~5/uuKUc8n7zcg/bb-001.mp3"
+        }
+    ]
+}

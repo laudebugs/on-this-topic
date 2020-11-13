@@ -1,0 +1,380 @@
+{
+    "artwork": "http://is2.mzstatic.com/image/thumb/Music128/v4/52/66/4e/52664e13-f5e5-014c-3140-99f4c58529de/source/100x100bb.jpg",
+    "description": "Each month the Annals audio summaries will be updated with summaries of important original articles as well as comments on notable editorials.",
+    "feedURL": "http://www.annemergmed.com/pb/assets/raw/Health%20Advance/journals/ymem/ymem_rss_audio.xml",
+    "podcastURL": "http://www.annemergmed.com/content/podcast",
+    "title": "Annals of Emergency Medicine (Summary - Audio)",
+    "episodes": [
+        {
+            "title": "Special Message from Rory and Ryan",
+            "datePublished": "Tue, 14 Apr 2020 12:00:00 GMT",
+            "description": "Annals of Emergency Medicine podcast is moving!    <a href=\"https://soundcloud.com/annalsofem\">SoundCloud</a>",
+            "length": "942016",
+            "sourceUrl": "http://www.annemergmed.com/pb/assets/raw/Health%20Advance/journals/ymem/annalsminimessage.mp3"
+        },
+        {
+            "title": "Annals of Emergency Medicine February 2020 Summary",
+            "datePublished": "Fri, 6 Mar 2020 12:00:00 GMT",
+            "description": "Summary of February 2020 issue of Annals of Emergency Medicine",
+            "length": "51601794",
+            "sourceUrl": "http://www.annemergmed.com/pb/assets/raw/Health%20Advance/journals/ymem/ymemfeb2020.mp3"
+        },
+        {
+            "title": "Annals of Emergency Medicine January 2020 Summary",
+            "datePublished": "Mon, 10 Feb 2020 12:00:00 GMT",
+            "description": "Summary of January 2020 issue of Annals of Emergency Medicine",
+            "length": "51459688",
+            "sourceUrl": "http://www.annemergmed.com/pb/assets/raw/Health%20Advance/journals/ymem/ymemjan2020.mp3"
+        },
+        {
+            "title": "Annals of Emergency Medicine December 2019 Summary",
+            "datePublished": "Mon, 30 Dec 2019 12:00:00 GMT",
+            "description": "Summary of December 2019 issue of Annals of Emergency Medicine",
+            "length": "24827715",
+            "sourceUrl": "http://www.annemergmed.com/pb/assets/raw/Health%20Advance/journals/ymem/ymemdec2019.mp3"
+        },
+        {
+            "title": "Annals of Emergency Medicine November 2019 Summary",
+            "datePublished": "Wed, 18 Dec 2019 12:00:00 GMT",
+            "description": "Summary of November 2019 issue of Annals of Emergency Medicine",
+            "length": "42168978",
+            "sourceUrl": "http://www.annemergmed.com/pb/assets/raw/Health%20Advance/journals/ymem/ymemnov2019.mp3"
+        },
+        {
+            "title": "Annals of Emergency Medicine October 2019 Summary",
+            "datePublished": "Thu, 31 Oct 2019 12:00:00 GMT",
+            "description": "Summary of October 2019 issue of Annals of Emergency Medicine",
+            "length": "55210349",
+            "sourceUrl": "http://www.annemergmed.com/pb/assets/raw/Health%20Advance/journals/ymem/ymemoct2019.mp3"
+        },
+        {
+            "title": "Annals of Emergency Medicine September 2019 Summary",
+            "datePublished": "Mon, 30 Sep 2019 12:00:00 GMT",
+            "description": "Summary of September 2019 issue of Annals of Emergency Medicine",
+            "length": "68285158",
+            "sourceUrl": "http://www.annemergmed.com/pb/assets/raw/Health%20Advance/journals/ymem/ymemsept2019.mp3"
+        },
+        {
+            "title": "Annals of Emergency Medicine August 2019 Summary",
+            "datePublished": "Fri, 16 Aug 2019 12:00:00 GMT",
+            "description": "Summary of August 2019 issue of Annals of Emergency Medicine",
+            "length": "41473567",
+            "sourceUrl": "http://www.annemergmed.com/pb/assets/raw/Health%20Advance/journals/ymem/ymemaug2019.mp3"
+        },
+        {
+            "title": "Annals of Emergency Medicine July 2019 Summary",
+            "datePublished": "Tue, 30 Jul 2019 12:00:00 GMT",
+            "description": "Summary of July 2019 issue of Annals of Emergency Medicine",
+            "length": "65851067",
+            "sourceUrl": "http://www.annemergmed.com/pb/assets/raw/Health%20Advance/journals/ymem/ymemjuly2019.mp3"
+        },
+        {
+            "title": "Annals of Emergency Medicine June 2019 Summary",
+            "datePublished": "Mon, 24 Jun 2019 12:00:00 GMT",
+            "description": "Summary of June 2019 issue of Annals of Emergency Medicine",
+            "length": "70675361",
+            "sourceUrl": "http://www.annemergmed.com/pb/assets/raw/Health%20Advance/journals/ymem/ymemjun2019.mp3"
+        },
+        {
+            "title": "Annals of Emergency Medicine May 2019 Summary",
+            "datePublished": "Thu, 30 May 2019 12:00:00 GMT",
+            "description": "Summary of May 2019 issue of Annals of Emergency Medicine",
+            "length": "57703998",
+            "sourceUrl": "http://www.annemergmed.com/pb/assets/raw/Health%20Advance/journals/ymem/ymemmay2019.mp3"
+        },
+        {
+            "title": "Annals of Emergency Medicine April 2019 Summary",
+            "datePublished": "Thu, 25 Apr 2019 12:00:00 GMT",
+            "description": "Summary of April 2019 issue of Annals of Emergency Medicine",
+            "length": "33782282",
+            "sourceUrl": "http://www.annemergmed.com/pb/assets/raw/Health%20Advance/journals/ymem/ymemapr2019.mp3"
+        },
+        {
+            "title": "Annals of Emergency Medicine March 2019 Summary",
+            "datePublished": "Wed, 3 Apr 2019 12:00:00 GMT",
+            "description": "Summary of March 2019 issue of Annals of Emergency Medicine",
+            "length": "27000685",
+            "sourceUrl": "http://www.annemergmed.com/pb/assets/raw/Health%20Advance/journals/ymem/ymemmar2019.mp3"
+        },
+        {
+            "title": "Annals of Emergency Medicine February 2019 Summary",
+            "datePublished": "Mon, 4 Mar 2019 12:00:00 GMT",
+            "description": "Summary of February 2019 issue of Annals of Emergency Medicine",
+            "length": "28641698",
+            "sourceUrl": "http://www.annemergmed.com/pb/assets/raw/Health%20Advance/journals/ymem/ymemfeb2019.mp3"
+        },
+        {
+            "title": "Annals of Emergency Medicine January 2019 Summary",
+            "datePublished": "Thu, 31 Jan 2019 12:00:00 GMT",
+            "description": "Summary of January 2019 issue of Annals of Emergency Medicine",
+            "length": "34335869",
+            "sourceUrl": "http://www.annemergmed.com/pb/assets/raw/Health%20Advance/journals/ymem/ymemjan2019.mp3"
+        },
+        {
+            "title": "Annals of Emergency Medicine December 2018 Summary",
+            "datePublished": "Thu, 3 Jan 2019 12:00:00 GMT",
+            "description": "Summary of December 2018 issue of Annals of Emergency Medicine",
+            "length": "28535745",
+            "sourceUrl": "http://www.annemergmed.com/pb/assets/raw/Health%20Advance/journals/ymem/ymemdec2018.mp3"
+        },
+        {
+            "title": "Annals of Emergency Medicine (November 2018 Summary)",
+            "datePublished": "Mon, 10 Dec 2018 12:00:00 GMT",
+            "description": "Summary of November 2018 issue of Annals of Emergency Medicine",
+            "length": "33075722",
+            "sourceUrl": "http://www.annemergmed.com/pb/assets/raw/Health%20Advance/journals/ymem/ymemnov2018.mp3"
+        },
+        {
+            "title": "Annals of Emergency Medicine (October 2018 Summary)",
+            "datePublished": "Mon, 22 Oct 2018 12:00:00 GMT",
+            "description": "Summary of October 2018 issue of Annals of Emergency Medicine",
+            "length": "34523324",
+            "sourceUrl": "http://www.annemergmed.com/pb/assets/raw/Health%20Advance/journals/ymem/ymemoct2018.mp3"
+        },
+        {
+            "title": "Annals of Emergency Medicine (September 2018 Summary)",
+            "datePublished": "Tue, 9 Oct 2018 12:00:00 GMT",
+            "description": "Summary of September 2018 issue of Annals of Emergency Medicine",
+            "length": "27847993",
+            "sourceUrl": "http://www.annemergmed.com/pb/assets/raw/Health%20Advance/journals/ymem/ymemsept2018.mp3"
+        },
+        {
+            "title": "Annals of Emergency Medicine (August 2018 Summary)",
+            "datePublished": "Tue, 4 Sep 2018 12:00:00 GMT",
+            "description": "Summary of August 2018 issue of Annals of Emergency Medicine",
+            "length": "32875102",
+            "sourceUrl": "http://www.annemergmed.com/pb/assets/raw/Health%20Advance/journals/ymem/ymemaug2018.mp3"
+        },
+        {
+            "title": "Annals of Emergency Medicine (July 2018 Summary)",
+            "datePublished": "Fri, 27 Jul 2018 12:00:00 GMT",
+            "description": "Summary of July 2018 issue of Annals of Emergency Medicine",
+            "length": "26842697",
+            "sourceUrl": "http://www.annemergmed.com/pb/assets/raw/Health%20Advance/journals/ymem/ymemjuly2018.mp3"
+        },
+        {
+            "title": "Annals of Emergency Medicine (June 2018 Summary)",
+            "datePublished": "Thu, 5 Jul 2018 12:00:00 GMT",
+            "description": "Summary of June 2018 issue of Annals of Emergency Medicine",
+            "length": "29464241",
+            "sourceUrl": "http://www.annemergmed.com/pb/assets/raw/Health%20Advance/journals/ymem/ymemjune2018.mp3"
+        },
+        {
+            "title": "Annals of Emergency Medicine (May 2018 Summary)",
+            "datePublished": "Tue, 29 May 2018 12:00:00 GMT",
+            "description": "Summary of May 2018 issue of Annals of Emergency Medicine",
+            "length": "29646680",
+            "sourceUrl": "http://www.annemergmed.com/pb/assets/raw/Health%20Advance/journals/ymem/ymemmay2018.mp3"
+        },
+        {
+            "title": "Annals of Emergency Medicine (April 2018 Summary)",
+            "datePublished": "Fri, 29 Jun 2018 12:00:00 GMT",
+            "description": "Summary of April 2018 issue of Annals of Emergency Medicine",
+            "length": "47228550",
+            "sourceUrl": "http://www.annemergmed.com/pb/assets/raw/Health%20Advance/journals/ymem/ymemapr2018.mp3"
+        },
+        {
+            "title": "Annals of Emergency Medicine (March 2018 Summary)",
+            "datePublished": "Tue, 17 Apr 2018 12:00:00 GMT",
+            "description": "Summary of March 2018 issue of Annals of Emergency Medicine",
+            "length": "73018930",
+            "sourceUrl": "http://www.annemergmed.com/pb/assets/raw/Health%20Advance/journals/ymem/ymemmar2018.m4a"
+        },
+        {
+            "title": "Annals of Emergency Medicine (February 2018 Summary)",
+            "datePublished": "Thu, 1 Mar 2018 12:00:00 GMT",
+            "description": "Summary of February 2018 issue of Annals of Emergency Medicine",
+            "length": "33217723",
+            "sourceUrl": "http://www.annemergmed.com/pb/assets/raw/Health%20Advance/journals/ymem/ymemfeb2018.mp3"
+        },
+        {
+            "title": "Annals of Emergency Medicine (January 2018 Summary)",
+            "datePublished": "Thu, 18 Jan 2018 12:00:00 GMT",
+            "description": "Summary of January 2018 issue of Annals of Emergency Medicine",
+            "length": "43424948",
+            "sourceUrl": "http://www.annemergmed.com/pb/assets/raw/Health%20Advance/journals/ymem/ymemjan2018.mp3"
+        },
+        {
+            "title": "Annals of Emergency Medicine (December 2017 Summary)",
+            "datePublished": "Thu, 28 Dec 2017 12:00:00 GMT",
+            "description": "Summary of December 2017 issue of Annals of Emergency Medicine",
+            "length": "28707107",
+            "sourceUrl": "http://www.annemergmed.com/pb/assets/raw/Health%20Advance/journals/ymem/ymemdec2017.mp3"
+        },
+        {
+            "title": "Annals of Emergency Medicine (November 2017 Summary)",
+            "datePublished": "Wed, 29 Nov 2017 12:00:00 GMT",
+            "description": "Summary of November 2017 issue of Annals of Emergency Medicine",
+            "length": "34152697",
+            "sourceUrl": "http://www.annemergmed.com/pb/assets/raw/Health%20Advance/journals/ymem/ymemnov2017.mp3"
+        },
+        {
+            "title": "ACEP Special Addition Podcast ",
+            "datePublished": "Tue, 28 Nov 2017 12:00:00 GMT",
+            "description": "Guest hosts Billy Mallon, Jeremy Faust, and David Gordon.  Live at the National Scientific Assembly in Washington, DC.",
+            "length": "48474487",
+            "sourceUrl": "http://www.annemergmed.com/pb/assets/raw/Health%20Advance/journals/ymem/BIllyACEP.mp3"
+        },
+        {
+            "title": "Annals of Emergency Medicine (October 2017 Summary)",
+            "datePublished": "Fri, 27 Oct 2017 12:00:00 GMT",
+            "description": "Summary of October 2017 issue of Annals of Emergency Medicine",
+            "length": "53407915",
+            "sourceUrl": "http://www.annemergmed.com/pb/assets/raw/Health%20Advance/journals/ymem/ymemoct2017.mp3"
+        },
+        {
+            "title": "Annals of Emergency Medicine (September 2017 Summary)",
+            "datePublished": "Fri, 15 Sep 2017 12:00:00 GMT",
+            "description": "Summary of September 2017 issue of Annals of Emergency Medicine",
+            "length": "25710015",
+            "sourceUrl": "http://www.annemergmed.com/pb/assets/raw/Health%20Advance/journals/ymem/ymemsept2017.mp3"
+        },
+        {
+            "title": "Annals of Emergency Medicine (August 2017 Summary) - Updated",
+            "datePublished": "Mon, 28 Aug 2017 12:00:00 GMT",
+            "description": "Summary of August 2017 issue of Annals of Emergency Medicine",
+            "length": "20364729",
+            "sourceUrl": "http://www.annemergmed.com/pb/assets/raw/Health%20Advance/journals/ymem/ymemaug2017.mp3"
+        },
+        {
+            "title": "Annals of Emergency Medicine (July 2017 Summary) - Updated",
+            "datePublished": "Thu, 20 Jul 2017 12:00:00 GMT",
+            "description": "Summary of July 2017 issue of Annals of Emergency Medicine",
+            "length": "28151316",
+            "sourceUrl": "http://www.annemergmed.com/pb/assets/raw/Health%20Advance/journals/ymem/ymemjuly2017.mp3"
+        },
+        {
+            "title": "Annals of Emergency Medicine (June 2017 Summary) - Updated",
+            "datePublished": "Mon, 19 Jun 2017 12:00:00 GMT",
+            "description": "Summary of June 2017 issue of Annals of Emergency Medicine",
+            "length": "23333093",
+            "sourceUrl": "http://www.annemergmed.com/pb/assets/raw/Health%20Advance/journals/ymem/ymemjune2017-updated.mp3"
+        },
+        {
+            "title": "Annals of Emergency Medicine (June 2017 Summary)",
+            "datePublished": "Thu, 8 Jun 2017 12:00:00 GMT",
+            "description": "Summary of June 2017 issue of Annals of Emergency Medicine",
+            "length": "21513717",
+            "sourceUrl": "http://www.annemergmed.com/pb/assets/raw/Health%20Advance/journals/ymem/ymemjune2017.mp3"
+        },
+        {
+            "title": "Annals of Emergency Medicine (May 2017 Summary)",
+            "datePublished": "Wed, 24 May 2017 12:00:00 GMT",
+            "description": "Summary of May 2017 issue of Annals of Emergency Medicine",
+            "length": "40671399",
+            "sourceUrl": "http://www.annemergmed.com/pb/assets/raw/Health%20Advance/journals/ymem/ymemmay2017.mp3"
+        },
+        {
+            "title": "Annals of Emergency Medicine (April 2017 Summary)",
+            "datePublished": "Tue, 25 Apr 2017 12:00:00 GMT",
+            "description": "Summary of April 2017 issue of Annals of Emergency Medicine",
+            "length": "23231216",
+            "sourceUrl": "http://www.annemergmed.com/pb/assets/raw/Health%20Advance/journals/ymem/ymemapril2017.mp3"
+        },
+        {
+            "title": "Annals of Emergency Medicine (March 2017 Summary)",
+            "datePublished": "Wed, 22 Mar 2017 12:00:00 GMT",
+            "description": "Summary of March 2017 issue of Annals of Emergency Medicine",
+            "length": "37735131",
+            "sourceUrl": "http://www.annemergmed.com/pb/assets/raw/Health%20Advance/journals/ymem/YMEMmar2017.mp3"
+        },
+        {
+            "title": "Annals of Emergency Medicine (February 2017 Summary)",
+            "datePublished": "Tue, 21 Feb 2017 12:00:00 GMT",
+            "description": "Summary of February 2017 issue of Annals of Emergency Medicine",
+            "length": "37221972",
+            "sourceUrl": "http://www.annemergmed.com/pb/assets/raw/Health%20Advance/journals/ymem/ymemfeb2017.mp3"
+        },
+        {
+            "title": "Annals of Emergency Medicine (January 2017 Summary)",
+            "datePublished": "Fri, 20 Jan 2017 12:00:00 GMT",
+            "description": "Summary of January 2017 issue of Annals of Emergency Medicine",
+            "length": "30530863",
+            "sourceUrl": "http://www.annemergmed.com/pb/assets/raw/Health%20Advance/journals/ymem/ymemjan2017.mp3"
+        },
+        {
+            "title": "Annals of Emergency Medicine (December 2016 Summary)",
+            "datePublished": "Wed, 28 Dec 2016 12:00:00 GMT",
+            "description": "Summary of December 2016 issue of Annals of Emergency Medicine",
+            "length": "34994620",
+            "sourceUrl": "http://www.annemergmed.com/pb/assets/raw/Health%20Advance/journals/ymem/ymemdec2016.mp3"
+        },
+        {
+            "title": "Annals of Emergency Medicine (November 2016 Summary)",
+            "datePublished": "Tue, 29 Nov 2016 12:00:00 GMT",
+            "description": "Summary of November 2016 issue of Annals of Emergency Medicine",
+            "length": "25614584",
+            "sourceUrl": "http://www.annemergmed.com/pb/assets/raw/Health%20Advance/journals/ymem/ymemnov2016.m4a"
+        },
+        {
+            "title": "Annals of Emergency Medicine (October 2016 Summary)",
+            "datePublished": "Tue, 25 Oct 2016 12:00:00 GMT",
+            "description": "Summary of October 2016 issue of Annals of Emergency Medicine",
+            "length": "83543940",
+            "sourceUrl": "http://www.annemergmed.com/pb/assets/raw/Health%20Advance/journals/ymem/YMEMoct2016.m4a"
+        },
+        {
+            "title": "Annals of Emergency Medicine (September 2016 Summary)",
+            "datePublished": "Wed, 28 Sep 2016 12:00:00 GMT",
+            "description": "Summary of September 2016 issue of Annals of Emergency Medicine",
+            "length": "65811508",
+            "sourceUrl": "http://www.annemergmed.com/pb/assets/raw/Health%20Advance/journals/ymem/YMEMsept16.m4a"
+        },
+        {
+            "title": "Annals of Emergency Medicine (August 2016 Summary)",
+            "datePublished": "Wed, 24 Aug 2016 12:00:00 GMT",
+            "description": "Summary of August 2016 issue of Annals of Emergency Medicine",
+            "length": "47175597",
+            "sourceUrl": "http://www.annemergmed.com/pb/assets/raw/Health%20Advance/journals/ymem/YMEMaug2016.mp3"
+        },
+        {
+            "title": "Annals of Emergency Medicine (July 2016 Summary)",
+            "datePublished": "Tue, 26 Jul 2016 12:00:00 GMT",
+            "description": "Summary of July 2016 issue of Annals of Emergency Medicine",
+            "length": "66168493",
+            "sourceUrl": "http://www.annemergmed.com/pb/assets/raw/Health%20Advance/journals/ymem/YMEMjuly2016.m4a"
+        },
+        {
+            "title": "Annals of Emergency Medicine (June 2016 Summary)",
+            "datePublished": "Tue, 28 Jun 2016 12:00:00 GMT",
+            "description": "Summary of June 2016 issue of Annals of Emergency Medicine",
+            "length": "67367041",
+            "sourceUrl": "http://www.annemergmed.com/pb/assets/raw/Health%20Advance/journals/ymem/YMEMjune2016.m4a"
+        },
+        {
+            "title": "Annals of Emergency Medicine (May 2016 Summary)",
+            "datePublished": "Fri, 20 May 2016 12:00:00 GMT",
+            "description": "Summary of May 2016 issue of Annals of Emergency Medicine",
+            "length": "20456053",
+            "sourceUrl": "http://www.annemergmed.com/pb/assets/raw/Health%20Advance/journals/ymem/ymemmay2016.mp3"
+        },
+        {
+            "title": "Annals of Emergency Medicine (April 2016 Summary)",
+            "datePublished": "Mon, 18 Apr 2016 12:00:00 GMT",
+            "description": "Summary of April 2016 issue of Annals of Emergency Medicine",
+            "length": "20666057",
+            "sourceUrl": "http://www.annemergmed.com/pb/assets/raw/Health%20Advance/journals/ymem/YMEMapr2016.mp3"
+        },
+        {
+            "title": "Annals of Emergency Medicine (March 2016 Summary)",
+            "datePublished": "Wed, 16 Mar 2016 12:00:00 GMT",
+            "description": "Summary of March 2016 issue of Annals of Emergency Medicine",
+            "length": "89774423",
+            "sourceUrl": "http://www.annemergmed.com/pb/assets/raw/Health%20Advance/journals/ymem/YMEMmar2016.m4a"
+        },
+        {
+            "title": "Annals of Emergency Medicine (February 2016 Summary)",
+            "datePublished": "Thu, 11 Feb 2016 12:00:00 GMT",
+            "description": "Summary of February 2016 issue of Annals of Emergency Medicine",
+            "length": "29281784",
+            "sourceUrl": "http://www.annemergmed.com/pb/assets/raw/Health%20Advance/journals/ymem/YMEMfeb2016.mp3"
+        },
+        {
+            "title": "Annals of Emergency Medicine (January 2016 Summary)",
+            "datePublished": "Wed, 27 Jan 2016 12:00:00 GMT",
+            "description": "Summary of January 2016 issue of Annals of Emergency Medicine",
+            "length": "31383157",
+            "sourceUrl": "http://www.annemergmed.com/pb/assets/raw/Health%20Advance/journals/ymem/YMEMjan2016.mp3"
+        }
+    ]
+}

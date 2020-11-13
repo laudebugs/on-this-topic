@@ -1,0 +1,30 @@
+{
+    "artwork": "http://is5.mzstatic.com/image/thumb/Music71/v4/79/31/54/793154db-7066-d075-6c86-d69ce06ccb69/source/100x100bb.jpg",
+    "description": "Four former aides to President Obama — Jon Favreau, Dan Pfeiffer, Jon Lovett, and Tommy Vietor — host a biweekly Ringer podcast to discuss the political world, analyze the Trump presidency, and welcome commentary from journalists and politicians.",
+    "feedURL": "http://feeds.feedburner.com/keepinit1600",
+    "podcastURL": "http://soundcloud.com/keepinit1600",
+    "title": "Keepin' it 1600",
+    "episodes": [
+        {
+            "title": "Ep. 62: The Road Ahead in 2017",
+            "datePublished": "Thu, 22 Dec 2016 20:20:43 +0000",
+            "description": "Jon Favreau and Dan Pfeiffer reflect on the year that was and set their sights on the year to come in their last episode of 2016 (1:30). They also bring on Brian Beutler of the New Republic to further reflect on the election, the fights that Democrats should pick, and what we learned from 2016 (41:24).",
+            "length": "67738061",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/299192997-keepinit1600-ep-62-the-road-ahead-in-2017.mp3"
+        },
+        {
+            "title": "Ep. 61: Merry Electoral College Day With Ana Navarro",
+            "datePublished": "Mon, 19 Dec 2016 22:16:31 +0000",
+            "description": "Jon Favreau, Jon Lovett, and Tommy Vietor discuss Monday's Electoral College vote (0:45),  Trump's press party at Mar-a-Lago (14:03), and the GOP power grab in North Carolina (23:29). Then, they call Republican strategist Ana Navarro (34:48) to discuss what both parties need to do to survive the Trump era (35:32).",
+            "length": "46689332",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/298683530-keepinit1600-ep-61-merry-electoral-college-day-with-ana-navarro.mp3"
+        },
+        {
+            "title": "Ep. 60: ‘Keepin' It 1600’ Special Co-Podcast With Chuck Todd",
+            "datePublished": "Fri, 16 Dec 2016 00:52:37 +0000",
+            "description": "Jon Favreau and Dan Pfeiffer discuss Trump's 'Vanity Fair' beef (6:00), Putin's role in the hacking (17:00), and Trump's tech summit (20:00). Then, 'Meet the Press' moderator Chuck Todd teams up with Jon and Dan for a special co-pod to break down the aftershocks of the 2016 election (26:00) and examine what's next for the Democrats and the media (38:00).",
+            "length": "60892618",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/298130215-keepinit1600-ep-60-1600-special-co-podcast.mp3"
+        }
+    ]
+}

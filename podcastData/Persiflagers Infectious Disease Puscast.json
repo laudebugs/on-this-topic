@@ -1,0 +1,2013 @@
+{
+    "artwork": "http://is5.mzstatic.com/image/thumb/Music71/v4/91/1d/15/911d1524-b37c-ab55-de1e-01583bad27ad/source/100x100bb.jpg",
+    "description": "I read and review the Infectious Disease literature so you do not have to.",
+    "feedURL": "http://www.pusware.com/podcast.xml",
+    "podcastURL": "http://www.pusware.com/podcasts.html",
+    "title": "Persiflagers Infectious Disease Puscast",
+    "episodes": [
+        {
+            "title": "Puscast: Oct 15 - 31, 2020.",
+            "datePublished": "Mon, 02 Nov 2020 08:25:53 GMT",
+            "length": "17751168",
+            "sourceUrl": "http://www.pusware.com/Podcasts/octb20/octb20.m4a"
+        },
+        {
+            "title": "Puscast: Oct 1 - 15, 2020.",
+            "datePublished": "Sun, 18 Oct 2020 08:25:53 GMT",
+            "length": "21278962",
+            "sourceUrl": "http://www.pusware.com/Podcasts/octa20/octa20.m4a"
+        },
+        {
+            "title": "Puscast: Sep 15 - 30, 2020.",
+            "datePublished": "Wed, 14 Oct 2020 08:25:53 GMT",
+            "length": "19959937",
+            "sourceUrl": "http://www.pusware.com/Podcasts/sepb20/sepb20.m4a"
+        },
+        {
+            "title": "Puscast: Sep 1 - 15, 2020.",
+            "datePublished": "Thu, 17 Sep 2020 08:25:53 GMT",
+            "length": "23789277",
+            "sourceUrl": "http://www.pusware.com/Podcasts/sepa20/sepa20.m4a"
+        },
+        {
+            "title": "Puscast: Aug 15 - 31, 2020.",
+            "datePublished": "Thu, 03 Sep 2020 08:25:53 GMT",
+            "length": "23602288",
+            "sourceUrl": "http://www.pusware.com/Podcasts/augb20/augb20.m4a"
+        },
+        {
+            "title": "Puscast: Aug 1 - 15, 2020.",
+            "datePublished": "Wed, 19 Aug 2020 08:25:53 GMT",
+            "length": "25732733",
+            "sourceUrl": "http://www.pusware.com/Podcasts/auga20/auga20.m4a"
+        },
+        {
+            "title": "Puscast: July 15 - 31, 2020.",
+            "datePublished": "Sun, 02 Aug 2020 08:25:53 GMT",
+            "length": "26615553",
+            "sourceUrl": "http://www.pusware.com/Podcasts/julb20/julb20.m4a"
+        },
+        {
+            "title": "Puscast: July 1 - 15, 2020.",
+            "datePublished": "Sun, 19 Jul 2020 08:25:53 GMT",
+            "length": "22037343",
+            "sourceUrl": "http://www.pusware.com/Podcasts/jula20/jula20.m4a"
+        },
+        {
+            "title": "Puscast: June 15 - 30, 2020.",
+            "datePublished": "Fri, 03 Jul 2020 08:25:53 GMT",
+            "length": "24584952",
+            "sourceUrl": "http://www.pusware.com/Podcasts/junb20/junb20.m4a"
+        },
+        {
+            "title": "Puscast: June 1 - 15, 2020.",
+            "datePublished": "Sat, 20 Jun 2020 08:25:53 GMT",
+            "length": "25432218",
+            "sourceUrl": "http://www.pusware.com/Podcasts/juna20/juna20.m4a"
+        },
+        {
+            "title": "Puscast: May 15 - 31, 2020.",
+            "datePublished": "Sun, 31 May 2020 08:25:53 GMT",
+            "length": "26608000",
+            "sourceUrl": "http://www.pusware.com/Podcasts/mayb20/mayb20.mp3"
+        },
+        {
+            "title": "Puscast: May 1 - 15, 2020.",
+            "datePublished": "Sun, 17 May 2020 08:25:53 GMT",
+            "length": "21243399",
+            "sourceUrl": "http://www.pusware.com/Podcasts/maya20/maya20.mp3"
+        },
+        {
+            "title": "Puscast: April 15 - 30, 2020.",
+            "datePublished": "Sat, 02 May 2020 08:25:53 GMT",
+            "length": "25871797",
+            "sourceUrl": "http://www.pusware.com/Podcasts/aprb20/aprb20.m4a"
+        },
+        {
+            "title": "Puscast: April 1 - 15, 2020.",
+            "datePublished": "Thu, 16 Apr 2020 08:25:53 GMT",
+            "length": "12819472",
+            "sourceUrl": "http://www.pusware.com/Podcasts/apra20/apra20.m4a"
+        },
+        {
+            "title": "Puscast: March 15 - 31, 2020.",
+            "datePublished": "Fri, 03 Apr 2020 08:25:53 GMT",
+            "length": "26424014",
+            "sourceUrl": "http://www.pusware.com/Podcasts/marb20/marb20.m4a"
+        },
+        {
+            "title": "Puscast: March 1 - 15, 2020.",
+            "datePublished": "Sun, 15 Mar 2020 08:25:53 GMT",
+            "length": "24191708",
+            "sourceUrl": "http://www.pusware.com/Podcasts/mara20/mara20.m4a"
+        },
+        {
+            "title": "Puscast: February 15 - 28, 2020.",
+            "datePublished": "Fri, 21 Feb 2020 08:25:53 GMT",
+            "length": "19373534",
+            "sourceUrl": "http://www.pusware.com/Podcasts/febb20/febb20.m4a"
+        },
+        {
+            "title": "Puscast: February 1 - 15, 2020.",
+            "datePublished": "Fri, 21 Feb 2020 08:25:53 GMT",
+            "length": "28136915",
+            "sourceUrl": "http://www.pusware.com/Podcasts/feba20/feba20.m4a"
+        },
+        {
+            "title": "Puscast: January 15 to 31, 2020.",
+            "datePublished": "Sat, 01 Feb 2020 08:25:53 GMT",
+            "length": "30920497",
+            "sourceUrl": "http://www.pusware.com/Podcasts/janb20/janb20.m4a"
+        },
+        {
+            "title": "Puscast: January 1 to 15, 2020.",
+            "datePublished": "Fri, 17 Jan 2020 08:25:53 GMT",
+            "length": "23043486",
+            "sourceUrl": "http://www.pusware.com/Podcasts/jana20/jana20.m4a"
+        },
+        {
+            "title": "Puscast: December 15 to 31, 2019.",
+            "datePublished": "Wed, 01 Jan 2020 08:25:53 GMT",
+            "length": "25443687",
+            "sourceUrl": "http://www.pusware.com/Podcasts/decb19/decb19.m4a"
+        },
+        {
+            "title": "Puscast: December 1 to 15, 2019.",
+            "datePublished": "Sat, 21 Dec 2019 08:25:53 GMT",
+            "length": "33889629",
+            "sourceUrl": "http://www.pusware.com/Podcasts/deca19/deca19.m4a"
+        },
+        {
+            "title": "Puscast: November 15 to 30, 2019.",
+            "datePublished": "Sat, 30 Nov 2019 08:25:53 GMT",
+            "length": "31963397",
+            "sourceUrl": "http://www.pusware.com/Podcasts/novb19/novb19.m4a"
+        },
+        {
+            "title": "Puscast: November 1 to 15, 2019.",
+            "datePublished": "Mon, 18 Nov 2019 08:25:53 GMT",
+            "length": "27813997",
+            "sourceUrl": "http://www.pusware.com/Podcasts/nova19/nova19.m4a"
+        },
+        {
+            "title": "Puscast: October 15 to 31, 2019.",
+            "datePublished": "Sun, 03 Nov 2019 08:25:53 GMT",
+            "length": "26694493",
+            "sourceUrl": "http://www.pusware.com/Podcasts/octb19/octb19.m4a"
+        },
+        {
+            "title": "Puscast: October 1 to 15, 2019.",
+            "datePublished": "Sat, 19 Oct 2019 08:25:53 GMT",
+            "length": "34107230",
+            "sourceUrl": "http://www.pusware.com/Podcasts/octa19/octa19.m4a"
+        },
+        {
+            "title": "Puscast: September 15 to 30, 2019.",
+            "datePublished": "Thu, 03 Oct 2019 08:25:53 GMT",
+            "length": "33069665",
+            "sourceUrl": "http://www.pusware.com/Podcasts/sepb19/sepb19.m4a"
+        },
+        {
+            "title": "Puscast: September 1 to 15, 2019.",
+            "datePublished": "Tue, 24 Sep 2019 08:25:53 GMT",
+            "length": "28926057",
+            "sourceUrl": "http://www.pusware.com/Podcasts/sepa19/sepa19.m4a"
+        },
+        {
+            "title": "Puscast: August 15 to 31, 2019.",
+            "datePublished": "Sun, 01 Sep 2019 08:25:53 GMT",
+            "length": "20588950",
+            "sourceUrl": "http://www.pusware.com/Podcasts/augb19/augb19.m4a"
+        },
+        {
+            "title": "Puscast: August 1 to 15, 2019.",
+            "datePublished": "Thu, 22 Aug 2019 08:25:53 GMT",
+            "length": "29301050",
+            "sourceUrl": "http://www.pusware.com/Podcasts/auga19/auga19.m4a"
+        },
+        {
+            "title": "Puscast: July 15 to 31, 2019.",
+            "datePublished": "Sun, 04 Aug 2019 08:25:53 GMT",
+            "length": "26118721",
+            "sourceUrl": "http://www.pusware.com/Podcasts/julb19/julb19.m4a"
+        },
+        {
+            "title": "Puscast: July 1 to 15, 2019.",
+            "datePublished": "Sun, 21 Jul 2019 08:25:53 GMT",
+            "length": "23503437",
+            "sourceUrl": "http://www.pusware.com/Podcasts/jula19/jula19.m4a"
+        },
+        {
+            "title": "Puscast: June 15 to 30, 2019.",
+            "datePublished": "Wed, 03 Jul 2019 08:25:53 GMT",
+            "length": "20745679",
+            "sourceUrl": "http://www.pusware.com/Podcasts/junb19/junb19.m4a"
+        },
+        {
+            "title": "Puscast: June 1 to 15, 2019.",
+            "datePublished": "Fri, 17 May 2019 08:25:53 GMT",
+            "length": "32580092",
+            "sourceUrl": "http://www.pusware.com/Podcasts/juna19/juna19.m4a"
+        },
+        {
+            "title": "Puscast: May 15 to 31, 2019.",
+            "datePublished": "Thu, 02 May 2019 08:21:48 GMT",
+            "length": "25777936",
+            "sourceUrl": "http://www.pusware.com/Podcasts/mayb19/mayb19.m4a"
+        },
+        {
+            "title": "Puscast: May 1 to 15, 2019.",
+            "datePublished": "Mon, 20 May 2019 08:21:48 GMT",
+            "length": "22246499",
+            "sourceUrl": "http://www.pusware.com/Podcasts/maya19/maya19.m4a"
+        },
+        {
+            "title": "Puscast: April 15 to 30, 2019.",
+            "datePublished": "Thu, 02 May 2019 08:21:48 GMT",
+            "length": "25177925",
+            "sourceUrl": "http://www.pusware.com/Podcasts/aprb19/aprb19.m4a"
+        },
+        {
+            "title": "Puscast: April 1 to 15, 2019.",
+            "datePublished": "Sun, 14 Apr 2019 08:21:48 GMT",
+            "length": "31855108",
+            "sourceUrl": "http://www.pusware.com/Podcasts/apra19/apra19.m4a"
+        },
+        {
+            "title": "Puscast: March 15 to 31, 2019.",
+            "datePublished": "Mon, 01 Apr 2019 08:21:48 GMT",
+            "length": "28457222",
+            "sourceUrl": "http://www.pusware.com/Podcasts/marb19/marb19.m4a"
+        },
+        {
+            "title": "Puscast: March 1 to 15, 2019.",
+            "datePublished": "Sat, 16 Mar 2019 08:21:48 GMT",
+            "length": "17763920",
+            "sourceUrl": "http://www.pusware.com/Podcasts/mara19/mara19.m4a"
+        },
+        {
+            "title": "Puscast: February 15 to 28, 2019.",
+            "datePublished": "Sat, 02 Mar 2019 08:21:48 GMT",
+            "length": "23876390",
+            "sourceUrl": "http://www.pusware.com/Podcasts/febb19/febb19.m4a"
+        },
+        {
+            "title": "Puscast: February 1 to 15, 2019.",
+            "datePublished": "Sat, 16 Feb 2019 08:21:48 GMT",
+            "length": "27375647",
+            "sourceUrl": "http://www.pusware.com/Podcasts/feba19/feba19.m4a"
+        },
+        {
+            "title": "Puscast: January 15 to 31, 2019.",
+            "datePublished": "Thu, 31 Jan 2019 08:21:48 GMT",
+            "length": "29199512",
+            "sourceUrl": "http://www.pusware.com/Podcasts/janb19/janb19.m4a"
+        },
+        {
+            "title": "Puscast: January 1 to 15, 2019.",
+            "datePublished": "Thu, 17 Jan 2019 08:21:48 GMT",
+            "length": "29616864",
+            "sourceUrl": "http://www.pusware.com/Podcasts/jana19/jana19.m4a"
+        },
+        {
+            "title": "Puscast: December 15 to 31, 2018.",
+            "datePublished": "Tue, 01 Jan 2019 08:21:48 GMT",
+            "length": "30426150",
+            "sourceUrl": "http://www.pusware.com/Podcasts/decb18/decb18.m4a"
+        },
+        {
+            "title": "Puscast: November 15 to 30, 2018.",
+            "datePublished": "Sat, 01 Dec 2018 08:21:48 GMT",
+            "length": "24581981",
+            "sourceUrl": "http://www.pusware.com/Podcasts/novb18/novb18.m4a"
+        },
+        {
+            "title": "Puscast: November 1 to 15, 2018.",
+            "datePublished": "Sat, 17 Nov 2018 08:21:48 GMT",
+            "length": "24626600",
+            "sourceUrl": "http://www.pusware.com/Podcasts/nova18/nova18.m4a"
+        },
+        {
+            "title": "Puscast: October 15 to 31, 2018.",
+            "datePublished": "Mon, 01 Nov 2018 08:21:49 GMT",
+            "length": "29820359",
+            "sourceUrl": "http://www.pusware.com/Podcasts/octb18/octb18.m4a"
+        },
+        {
+            "title": "Puscast: October 1 to 15, 2018.",
+            "datePublished": "Mon, 01 Oct 2018 08:21:48 GMT",
+            "length": "19278876",
+            "sourceUrl": "http://www.pusware.com/Podcasts/octa18/octa18.m4a"
+        },
+        {
+            "title": "Puscast: September 15 to 30, 2018.",
+            "datePublished": "Sun, 30 Sep 2018 08:21:48 GMT",
+            "length": "23698613",
+            "sourceUrl": "http://www.pusware.com/Podcasts/sepb18/sepb18.m4a"
+        },
+        {
+            "title": "Puscast: September 1 to 15, 2018.",
+            "datePublished": "Sun, 23 Sep 2018 08:21:48 GMT",
+            "length": "29333910",
+            "sourceUrl": "http://www.pusware.com/Podcasts/sepa18/sepa18.m4a"
+        },
+        {
+            "title": "Puscast: August 15 to 31, 2018.",
+            "datePublished": "Mon, 03 Jul 2018 08:21:48 GMT",
+            "length": "27044279",
+            "sourceUrl": "http://www.pusware.com/Podcasts/augb18/augb18.m4a"
+        },
+        {
+            "title": "Puscast: August 1 to 15, 2018.",
+            "datePublished": "Sun, 19 Aug 2018 08:21:48 GMT",
+            "length": "23603336",
+            "sourceUrl": "http://www.pusware.com/Podcasts/auga18/auga18.m4a"
+        },
+        {
+            "title": "Puscast: July 16 to 31, 2018.",
+            "datePublished": "Thu, 02 Aug 2018 08:21:48 GMT",
+            "length": "19326222",
+            "sourceUrl": "http://www.pusware.com/Podcasts/julb18/julb18.m4a"
+        },
+        {
+            "title": "Puscast: July 1 to 15, 2018.",
+            "datePublished": "Sat, 14 Jul 2018 08:21:48 GMT",
+            "length": "18092203",
+            "sourceUrl": "http://www.pusware.com/Podcasts/jula18/jula18.m4a"
+        },
+        {
+            "title": "Puscast: June 15 to 30, 2018.",
+            "datePublished": "Mon, 02 Jul 2018 08:21:48 GMT",
+            "length": "24288359",
+            "sourceUrl": "http://www.pusware.com/Podcasts/junb18/junb18.m4a"
+        },
+        {
+            "title": "Puscast: June 1 to 15, 2018.",
+            "datePublished": "Mon, 19 Jun 2018 08:21:48 GMT",
+            "length": "21021262",
+            "sourceUrl": "http://www.pusware.com/Podcasts/juna18/juna18.m4a"
+        },
+        {
+            "title": "Puscast: May 15 to 31, 2018.",
+            "datePublished": "Tue, 15 May 2018 08:21:48 GMT",
+            "length": "25751978",
+            "sourceUrl": "http://www.pusware.com/Podcasts/mayb18/mayb18.m4a"
+        },
+        {
+            "title": "Puscast: May 1 to 15, 2018.",
+            "datePublished": "Tue, 15 May 2018 08:21:48 GMT",
+            "length": "18599923",
+            "sourceUrl": "http://www.pusware.com/Podcasts/maya18/maya18.m4a"
+        },
+        {
+            "title": "Puscast: April 15 to 31, 2018.",
+            "datePublished": "Sun, 29 Apr 2018 08:21:48 GMT",
+            "length": "29134457",
+            "sourceUrl": "http://www.pusware.com/Podcasts/aprb18/aprb18.m4a"
+        },
+        {
+            "title": "Puscast: April 1 to 15, 2018.",
+            "datePublished": "Thu, 19 Apr 2018 08:21:48 GMT",
+            "length": "26093991",
+            "sourceUrl": "http://www.pusware.com/Podcasts/apra18/apra18.m4a"
+        },
+        {
+            "title": "Puscast: March 15 to 31, 2018.",
+            "datePublished": "Mon, 02 Apr 2018 08:21:48 GMT",
+            "length": "29196979",
+            "sourceUrl": "http://www.pusware.com/Podcasts/marb18/marb18.m4a"
+        },
+        {
+            "title": "Puscast: March 1 to 15, 2018.",
+            "datePublished": "Thu, 01 Mar 2018 08:21:48 GMT",
+            "length": "25008285",
+            "sourceUrl": "http://www.pusware.com/Podcasts/mara18/mara18.m4a"
+        },
+        {
+            "title": "Puscast: February 15 to 28, 2018.",
+            "datePublished": "Thu, 01 Mar 2018 08:21:48 GMT",
+            "length": "27102403",
+            "sourceUrl": "http://www.pusware.com/Podcasts/febb18/febb18.m4a"
+        },
+        {
+            "title": "Puscast: February 1 to 15, 2018.",
+            "datePublished": "Sat, 17 Feb 2018 08:21:48 GMT",
+            "length": "25051120",
+            "sourceUrl": "http://www.pusware.com/Podcasts/feba18/feba18.m4a"
+        },
+        {
+            "title": "Puscast: January 15 to 31, 2018.",
+            "datePublished": "Sat, 03 Feb 2018 08:21:48 GMT",
+            "length": "28538152",
+            "sourceUrl": "http://www.pusware.com/Podcasts/janb18/janb18.m4a"
+        },
+        {
+            "title": "Puscast: January 1 to 15, 2018.",
+            "datePublished": "Mon, 15 Jan 2018 08:21:48 GMT",
+            "length": "23731925",
+            "sourceUrl": "http://www.pusware.com/Podcasts/jana18/jana18.m4a"
+        },
+        {
+            "title": "Puscast: December 15 to 31, 2017.",
+            "datePublished": "Sun, 31 Dec 2017 08:20:48 GMT",
+            "length": "20391810",
+            "sourceUrl": "http://www.pusware.com/Podcasts/decb17/decb17.m4a"
+        },
+        {
+            "title": "Puscast: December 1 to 15, 2017.",
+            "datePublished": "Sun, 17 Dec 2017 08:20:48 GMT",
+            "length": "24253588",
+            "sourceUrl": "http://www.pusware.com/Podcasts/deca17/deca17.m4a"
+        },
+        {
+            "title": "Puscast: November 15 to 30, 2017.",
+            "datePublished": "Sat, 02 Dec 2017 08:20:48 GMT",
+            "length": "33905472",
+            "sourceUrl": "http://www.pusware.com/Podcasts/novb17/novb17.m4a"
+        },
+        {
+            "title": "Puscast: November 1 to 15, 2017.",
+            "datePublished": "Thu, 16 Nov 2017 08:20:48 GMT",
+            "length": "13786767",
+            "sourceUrl": "http://www.pusware.com/Podcasts/nova17/nova17.m4a"
+        },
+        {
+            "title": "Puscast: October 1 to 31, 2017.",
+            "datePublished": "Sat, 04 Nov 2017 08:20:48 GMT",
+            "length": "37251391",
+            "sourceUrl": "http://www.pusware.com/Podcasts/octab17/octab17.m4a"
+        },
+        {
+            "title": "Puscast: September 15 to 30, 2017.",
+            "datePublished": "Sat, 30 Sep 2017 08:20:48 GMT",
+            "length": "28749432",
+            "sourceUrl": "http://www.pusware.com/Podcasts/sepb17/sepb17.m4a"
+        },
+        {
+            "title": "Puscast: September 1 to 15, 2017.",
+            "datePublished": "Sun, 17 Sep 2017 08:20:48 GMT",
+            "length": "29064874",
+            "sourceUrl": "http://www.pusware.com/Podcasts/sepa17/sepa17.m4a"
+        },
+        {
+            "title": "Puscast: August 15 to 31, 2017.",
+            "datePublished": "Mon, 04 Sep 2017 08:20:48 GMT",
+            "length": "29141968",
+            "sourceUrl": "http://www.pusware.com/Podcasts/augb17/augb17.m4a"
+        },
+        {
+            "title": "Puscast: August 1 to 15, 2017.",
+            "datePublished": "Thu, 17 Aug 2017 08:20:48 GMT",
+            "length": "16877216",
+            "sourceUrl": "http://www.pusware.com/Podcasts/auga17/auga17.m4a"
+        },
+        {
+            "title": "Puscast: July 15 to 31, 2017.",
+            "datePublished": "Tue, 01 Aug 2017 08:20:48 GMT",
+            "length": "19961476",
+            "sourceUrl": "http://www.pusware.com/Podcasts/julb17/julb17.m4a"
+        },
+        {
+            "title": "Puscast: July 1 to 15, 2017.",
+            "datePublished": "Sat, 15 Jul 2017 08:20:48 GMT",
+            "length": "29519245",
+            "sourceUrl": "http://www.pusware.com/Podcasts/jula17/jula17.m4a"
+        },
+        {
+            "title": "Puscast: June 15 to 31, 2017.",
+            "datePublished": "Fri, 30 Jun 2017 08:20:48 GMT",
+            "length": "22469415",
+            "sourceUrl": "http://www.pusware.com/Podcasts/junb17/junb17.m4a"
+        },
+        {
+            "title": "Puscast: June 1 to 15, 2017.",
+            "datePublished": "Fri, 16 Jun 2017 08:20:48 GMT",
+            "length": "24390291",
+            "sourceUrl": "http://www.pusware.com/Podcasts/juna17/juna17.m4a"
+        },
+        {
+            "title": "Puscast: May 15 to 31, 2017.",
+            "datePublished": "Tue, 13 Jun 2017 08:20:48 GMT",
+            "length": "27470121",
+            "sourceUrl": "http://www.pusware.com/Podcasts/mayb17/mayb17.m4a"
+        },
+        {
+            "title": "Puscast: May 1 to 15, 2017.",
+            "datePublished": "Tue, 16 May 2017 08:20:48 GMT",
+            "length": "23962485",
+            "sourceUrl": "http://www.pusware.com/Podcasts/maya17/maya17.m4a"
+        },
+        {
+            "title": "Puscast: April 15 to 30, 2017.",
+            "datePublished": "Sat, 29 Apr 2017 08:20:48 GMT",
+            "length": "20859435",
+            "sourceUrl": "http://www.pusware.com/Podcasts/aprb17/aprb17.m4a"
+        },
+        {
+            "title": "Puscast: April 1 to 15, 2017.",
+            "datePublished": "Sat, 15 Apr 2017 08:20:48 GMT",
+            "length": "22601732",
+            "sourceUrl": "http://www.pusware.com/Podcasts/apra17/apra17.m4a"
+        },
+        {
+            "title": "Puscast: March 15 to 31, 2017.",
+            "datePublished": "Fri, 31 Mar 2017 08:20:48 GMT",
+            "length": "24224293",
+            "sourceUrl": "http://www.pusware.com/Podcasts/marb17/marb17.m4a"
+        },
+        {
+            "title": "Puscast: March 1 to 15, 2017.",
+            "datePublished": "Sun, 19 Mar 2017 08:20:48 GMT",
+            "length": "23799818",
+            "sourceUrl": "http://www.pusware.com/Podcasts/mara17/mara17.m4a"
+        },
+        {
+            "title": "Puscast: Febuember 15 to 31, 2017.",
+            "datePublished": "Fri, 03 Mar 2017 08:20:48 GMT",
+            "length": "18628963",
+            "sourceUrl": "http://www.pusware.com/Podcasts/febb17/febb17.m4a"
+        },
+        {
+            "title": "Puscast: Febuember 1 to 15, 2017.",
+            "datePublished": "Fri, 17 Feb 2017 08:20:48 GMT",
+            "length": "15178002",
+            "sourceUrl": "http://www.pusware.com/Podcasts/feba17/feba17.m4a"
+        },
+        {
+            "title": "Puscast: Januember 15 to 31, 2017.",
+            "datePublished": "Sat, 04 Feb 2017 08:20:48 GMT",
+            "length": "24607359",
+            "sourceUrl": "http://www.pusware.com/Podcasts/janb17/janb17.m4a"
+        },
+        {
+            "title": "Puscast: Januember 1 to 15, 2017.",
+            "datePublished": "Sat, 14 Jan 2017 08:20:48 GMT",
+            "length": "23097823",
+            "sourceUrl": "http://www.pusware.com/Podcasts/jana17/jana17.m4a"
+        },
+        {
+            "title": "Puscast: December 15 to 31, 2016.",
+            "datePublished": "Sun, 01 Jan 2017 08:20:48 GMT",
+            "length": "23807424",
+            "sourceUrl": "http://www.pusware.com/Podcasts/decb16/decb16.m4a"
+        },
+        {
+            "title": "Puscast: December 1 to 15, 2016.",
+            "datePublished": "Fri, 16 Dec 2016 08:20:48 GMT",
+            "length": "28256569",
+            "sourceUrl": "http://www.pusware.com/Podcasts/deca16/deca16.m4a"
+        },
+        {
+            "title": "Puscast: November 15 to 30, 2016.",
+            "datePublished": "Sat, 03 Dec 2016 08:20:48 GMT",
+            "length": "31568600",
+            "sourceUrl": "http://www.pusware.com/Podcasts/novb16/novb16.m4a"
+        },
+        {
+            "title": "Puscast: November 1 to 15, 2016.",
+            "datePublished": "Fri, 18 Nov 2016 08:20:48 GMT",
+            "length": "21716975",
+            "sourceUrl": "http://www.pusware.com/Podcasts/nova16/nova16.m4a"
+        },
+        {
+            "title": "Puscast: October 15 to 31, 2016.",
+            "datePublished": "Sun, 06 Nov 2016 08:20:48 GMT",
+            "length": "27088318",
+            "sourceUrl": "http://www.pusware.com/Podcasts/octb16/octb16.m4a"
+        },
+        {
+            "title": "Puscast: October 1 to 15, 2016.",
+            "datePublished": "Sat, 15 Oct 2016 08:20:48 GMT",
+            "length": "21380839",
+            "sourceUrl": "http://www.pusware.com/Podcasts/octa16/octa16.m4a"
+        },
+        {
+            "title": "Puscast: September 15 to 30, 2016.",
+            "datePublished": "Sun, 02 Oct 2016 08:20:48 GMT",
+            "length": "16438012",
+            "sourceUrl": "http://www.pusware.com/Podcasts/sepb16/sepb16.m4a"
+        },
+        {
+            "title": "Puscast: September 1 to 15, 2016.",
+            "datePublished": "Sun, 18 Sep 2016 08:20:48 GMT",
+            "length": "27131507",
+            "sourceUrl": "http://www.pusware.com/Podcasts/sepa16/sepa16.m4a"
+        },
+        {
+            "title": "Puscast: August 15 to 31, 2016.",
+            "datePublished": "Tue, 06 Sep 2016 08:20:48 GMT",
+            "length": "23987665",
+            "sourceUrl": "http://www.pusware.com/Podcasts/augb16/augb16.m4a"
+        },
+        {
+            "title": "Puscast: August 1 to 15, 2016.",
+            "datePublished": "Wed, 24 Aug 2016 08:20:48 GMT",
+            "length": "21447916",
+            "sourceUrl": "http://www.pusware.com/Podcasts/auga16/auga16.m4a"
+        },
+        {
+            "title": "Puscast: July 15 to 31, 2016.",
+            "datePublished": "Mon, 01 Aug 2016 08:20:48 GMT",
+            "length": "26966099",
+            "sourceUrl": "http://www.pusware.com/Podcasts/julb16/julb16.m4a"
+        },
+        {
+            "title": "Puscast: July 1 to 15, 2016.",
+            "datePublished": "Sat, 16 Jul 2016 08:20:48 GMT",
+            "length": "24419728",
+            "sourceUrl": "http://www.pusware.com/Podcasts/jula16/jula16.m4a"
+        },
+        {
+            "title": "Puscast: June 15 to 31, 2016.",
+            "datePublished": "Mon, 04 Jul 2016 08:20:48 GMT",
+            "length": "26041984",
+            "sourceUrl": "http://www.pusware.com/Podcasts/junb16/junb16.m4a"
+        },
+        {
+            "title": "Puscast: June 1 to 15, 2016.",
+            "datePublished": "Sun, 15 May 2016 08:20:48 GMT",
+            "length": "20320488",
+            "sourceUrl": "http://www.pusware.com/Podcasts/juna16/juna16.m4a"
+        },
+        {
+            "title": "Puscast: May 15 to 31, 2016.",
+            "datePublished": "Sat, 04 Jun 2016 08:20:48 GMT",
+            "length": "26036976",
+            "sourceUrl": "http://www.pusware.com/Podcasts/mayb16/mayb16.m4a"
+        },
+        {
+            "title": "Puscast: May 1 to 15, 2016.",
+            "datePublished": "Sun, 15 May 2016 08:20:48 GMT",
+            "length": "28067207",
+            "sourceUrl": "http://www.pusware.com/Podcasts/maya16/maya16.m4a"
+        },
+        {
+            "title": "Puscast: April 15 to 30, 2016.",
+            "datePublished": "Mon, 2 May 2016 08:20:48 GMT",
+            "length": "23684423",
+            "sourceUrl": "http://www.pusware.com/Podcasts/aprb16/aprb16.m4a"
+        },
+        {
+            "title": "Puscast: April 1 to 15, 2016.",
+            "datePublished": "Sat, 16 Apr 2016 08:20:48 GMT",
+            "length": "24705339",
+            "sourceUrl": "http://www.pusware.com/Podcasts/apra16/apra16.m4a"
+        },
+        {
+            "title": "Puscast: March 15 to 31, 2016.",
+            "datePublished": "Sat, 09 Apr 2016 08:20:48 GMT",
+            "length": "29502369",
+            "sourceUrl": "http://www.pusware.com/Podcasts/marb16/marb16.m4a"
+        },
+        {
+            "title": "Puscast: March 1 to 15, 2016.",
+            "datePublished": "Sat, 19 Mar 2016 08:20:48 GMT",
+            "length": "30976703",
+            "sourceUrl": "http://www.pusware.com/Podcasts/mara16/mara16.m4a"
+        },
+        {
+            "title": "Puscast: February 15 to 29, 2016.",
+            "datePublished": "Sun, 28 Feb 2016 08:20:48 GMT",
+            "length": "27891203",
+            "sourceUrl": "http://www.pusware.com/Podcasts/febb16/febb16.m4a"
+        },
+        {
+            "title": "Puscast: February 1 to 14, 2016.",
+            "datePublished": "Sat, 20 Feb 2016 08:20:48 GMT",
+            "length": "30501277",
+            "sourceUrl": "http://www.pusware.com/Podcasts/feba16/feba16.m4a"
+        },
+        {
+            "title": "Puscast: January 15 to 31, 2016.",
+            "datePublished": "Sun, 31 Jan 2016 08:20:48 GMT",
+            "length": "25527996",
+            "sourceUrl": "http://www.pusware.com/Podcasts/janb16/janb16.m4a"
+        },
+        {
+            "title": "Puscast: January 1 to 15, 2016.",
+            "datePublished": "Sat, 16 Jan 2016 08:20:48 GMT",
+            "length": "24939238",
+            "sourceUrl": "http://www.pusware.com/Podcasts/jana16/jana16.m4a"
+        },
+        {
+            "title": "Puscast: December 15 to 31, 2015.",
+            "datePublished": "Fri, 01 Jan 2016 08:20:48 GMT",
+            "length": "17417598",
+            "sourceUrl": "http://www.pusware.com/Podcasts/decb15/decb15.m4a"
+        },
+        {
+            "title": "Puscast: December 1 to 15, 2015.",
+            "datePublished": "Sat, 19 Dec 2015 08:20:48 GMT",
+            "length": "18851943",
+            "sourceUrl": "http://www.pusware.com/Podcasts/deca15/deca15.m4a"
+        },
+        {
+            "title": "Puscast: November 15 to 30, 2015.",
+            "datePublished": "Sun, 06 Dec 2015 08:20:48 GMT",
+            "length": "33566225",
+            "sourceUrl": "http://www.pusware.com/Podcasts/novb15/novb15.m4a"
+        },
+        {
+            "title": "Puscast: November 1 to 15, 2015.",
+            "datePublished": "Sat, 14 Nov 2015 08:20:48 GMT",
+            "length": "23070464",
+            "sourceUrl": "http://www.pusware.com/Podcasts/nova15/nova15.m4a"
+        },
+        {
+            "title": "Puscast: October 1 to 15, 2015.",
+            "datePublished": "Mon, 19 Oct 2015 08:20:48 GMT",
+            "length": "23072864",
+            "sourceUrl": "http://www.pusware.com/Podcasts/octa15/octa15.m4a"
+        },
+        {
+            "title": "Puscast: September 15 to 30, 2015.",
+            "datePublished": "Fri, 02 Oct 2015 08:20:48 GMT",
+            "length": "27443801",
+            "sourceUrl": "http://www.pusware.com/Podcasts/sepb15/sepb15.m4a"
+        },
+        {
+            "title": "Puscast: September 1 to 15, 2015.",
+            "datePublished": "Sat, 19 Sep 2015 08:20:48 GMT",
+            "length": "26561734",
+            "sourceUrl": "http://www.pusware.com/Podcasts/sepa15/sepa15.m4a"
+        },
+        {
+            "title": "Puscast: August 15 to 31, 2015.",
+            "datePublished": "Sun, 30 Aug 2015 08:20:48 GMT",
+            "length": "28074112",
+            "sourceUrl": "http://www.pusware.com/Podcasts/augb15/augb15.m4a"
+        },
+        {
+            "title": "Puscast: August 1 to 15, 2015.",
+            "datePublished": "Sat, 15 Aug 2015 08:20:48 GMT",
+            "length": "25139075",
+            "sourceUrl": "http://www.pusware.com/Podcasts/auga15/auga15.m4a"
+        },
+        {
+            "title": "Puscast: July 15 to 31, 2015.",
+            "datePublished": "Sat, 01 Aug 2015 08:20:48 GMT",
+            "length": "30732381",
+            "sourceUrl": "http://www.pusware.com/Podcasts/julb15/julb15.m4a"
+        },
+        {
+            "title": "Puscast: July 1 to 15, 2015.",
+            "datePublished": "Sun, 14 Jun 2015 08:20:48 GMT",
+            "length": "29757944",
+            "sourceUrl": "http://www.pusware.com/Podcasts/jula15/jula15.m4a"
+        },
+        {
+            "title": "Puscast: June 15 to 30, 2015.",
+            "datePublished": "Sun, 14 Jun 2015 08:20:48 GMT",
+            "length": "21795591",
+            "sourceUrl": "http://www.pusware.com/Podcasts/junb15/junb15.m4a"
+        },
+        {
+            "title": "Puscast: June 1 to 15, 2015.",
+            "datePublished": "Sun, 14 Jun 2015 08:20:48 GMT",
+            "length": "28552856",
+            "sourceUrl": "http://www.pusware.com/Podcasts/juna15/juna15.m4a"
+        },
+        {
+            "title": "Puscast: May 15 to 31, 2015.",
+            "datePublished": "Tue, 19 May 2015 08:20:48 GMT",
+            "length": "26416500",
+            "sourceUrl": "http://www.pusware.com/Podcasts/mayb15/mayb15.m4a"
+        },
+        {
+            "title": "Puscast: May 1 to 15, 2015.",
+            "datePublished": "Tue, 19 May 2015 08:20:48 GMT",
+            "length": "21744395",
+            "sourceUrl": "http://www.pusware.com/Podcasts/maya15/maya15.m4a"
+        },
+        {
+            "title": "Puscast: April 15 to 30, 2015.",
+            "datePublished": "Sun, 03 May 2015 08:20:48 GMT",
+            "length": "26088477",
+            "sourceUrl": "http://www.pusware.com/Podcasts/aprb15/aprb15.m4a"
+        },
+        {
+            "title": "Puscast: April 1 to 15, 2015.",
+            "datePublished": "Sat, 18 Apr 2015 08:20:48 GMT",
+            "length": "23157433",
+            "sourceUrl": "http://www.pusware.com/Podcasts/apra15/apra15.m4a"
+        },
+        {
+            "title": "Puscast: March 15 to 31, 2015.",
+            "datePublished": "Sat, 04 Apr 2015 08:20:48 GMT",
+            "length": "22261219",
+            "sourceUrl": "http://www.pusware.com/Podcasts/marb15/marb15.m4a"
+        },
+        {
+            "title": "Puscast: March 1 to 15, 2015.",
+            "datePublished": "Sun, 15 Mar 2015 08:20:48 GMT",
+            "length": "24641834",
+            "sourceUrl": "http://www.pusware.com/Podcasts/mara15/mara15.m4a"
+        },
+        {
+            "title": "Puscast: February 15 to 28, 2015.",
+            "datePublished": "Sun, 28 Feb 2015 08:20:48 GMT",
+            "length": "31283730",
+            "sourceUrl": "http://www.pusware.com/Podcasts/febb15/febb15.m4a"
+        },
+        {
+            "title": "Puscast: February 1 to 15, 2015.",
+            "datePublished": "Sun, 15 Feb 2015 08:20:48 GMT",
+            "length": "26776743",
+            "sourceUrl": "http://www.pusware.com/Podcasts/feba15/feba15.m4a"
+        },
+        {
+            "title": "Puscast: January 15 to 31, 2015.",
+            "datePublished": "Sat, 31 Jan 2015 08:20:48 GMT",
+            "length": "24278015",
+            "sourceUrl": "http://www.pusware.com/Podcasts/janb15/janb15.m4a"
+        },
+        {
+            "title": "Puscast: January 1 to 15, 2015.  Volume Remix",
+            "datePublished": "Sat, 24 Jan 2015 08:20:48 GMT",
+            "length": "29512171",
+            "sourceUrl": "http://www.pusware.com/Podcasts/jana15/jana15.m4a"
+        },
+        {
+            "title": "Puscast: December 15 to 31, 2014.",
+            "datePublished": "Sat, 03 Jan 2015 08:20:48 GMT",
+            "length": "12619631",
+            "sourceUrl": "http://www.pusware.com/Podcasts/decb14/decb14.m4a"
+        },
+        {
+            "title": "Puscast: December 1 to 15, 2014.",
+            "datePublished": "Sat, 20 Dec 2014 08:20:48 GMT",
+            "length": "13415908",
+            "sourceUrl": "http://www.pusware.com/Podcasts/deca14/deca14.m4a"
+        },
+        {
+            "title": "Puscast: November 15 to 30, 2014.",
+            "datePublished": "Sun, 30 Nov 2014 08:20:48 GMT",
+            "length": "13097548",
+            "sourceUrl": "http://www.pusware.com/Podcasts/novb14/novb14.m4a"
+        },
+        {
+            "title": "Puscast: November 1 to 15, 2014.",
+            "datePublished": "Sun, 16 Nov 2014 08:20:48 GMT",
+            "length": "12116528",
+            "sourceUrl": "http://www.pusware.com/Podcasts/nova14/nova14.m4a"
+        },
+        {
+            "title": "Puscast: October 15 to 31, 2014.",
+            "datePublished": "Sun, 02 Nov 2014 08:20:48 GMT",
+            "length": "13552392",
+            "sourceUrl": "http://www.pusware.com/Podcasts/octb14/octb14.m4a"
+        },
+        {
+            "title": "Puscast: October 1 to 15, 2014.",
+            "datePublished": "Sat, 18 Oct 2014 08:20:48 GMT",
+            "length": "13552392",
+            "sourceUrl": "http://www.pusware.com/Podcasts/octa14/octa14.m4a"
+        },
+        {
+            "title": "Puscast: September 15 to 30, 2014.",
+            "datePublished": "Sun, 05 Oct 2014 08:20:48 GMT",
+            "length": "13987958",
+            "sourceUrl": "http://www.pusware.com/Podcasts/sepb14/sepb14.m4a"
+        },
+        {
+            "title": "Puscast: September 1 to 15, 2014.",
+            "datePublished": "Sat, 20 Sep 2014 08:20:48 GMT",
+            "length": "9198012",
+            "sourceUrl": "http://www.pusware.com/Podcasts/sepa14/sepa14.m4a"
+        },
+        {
+            "title": "Puscast: August 15 to 31, 2014.",
+            "datePublished": "Sat, 30 Aug 2014 08:20:48 GMT",
+            "length": "11458125",
+            "sourceUrl": "http://www.pusware.com/Podcasts/augb14/augb14.m4a"
+        },
+        {
+            "title": "Puscast: August 1 to 15, 2014.",
+            "datePublished": "Sat, 16 Aug 2014 08:20:48 GMT",
+            "length": "11549878",
+            "sourceUrl": "http://www.pusware.com/Podcasts/auga14/auga14.m4a"
+        },
+        {
+            "title": "Puscast: July 15 to 31, 2014.",
+            "datePublished": "Sat, 02 Aug 2014 08:20:48 GMT",
+            "length": "6643584",
+            "sourceUrl": "http://www.pusware.com/Podcasts/julb14/julb14.m4a"
+        },
+        {
+            "title": "Puscast: July 1 to 15, 2014.",
+            "datePublished": "Sat, 19 Jul 2014 08:20:48 GMT",
+            "length": "25279143",
+            "sourceUrl": "http://www.pusware.com/Podcasts/jula14/jula14.m4a"
+        },
+        {
+            "title": "Puscast: June 15 to 30, 2014.",
+            "datePublished": "Sun, 29 Jun 2014 08:20:48 GMT",
+            "length": "21233193",
+            "sourceUrl": "http://www.pusware.com/Podcasts/junb14/junb14.m4a"
+        },
+        {
+            "title": "Puscast: June 1 to 15, 2014.",
+            "datePublished": "Sun, 15 Jun 2014 08:20:48 GMT",
+            "length": "14886681",
+            "sourceUrl": "http://www.pusware.com/Podcasts/juna14/juna14.m4a"
+        },
+        {
+            "title": "Puscast: May 15 to 31, 2014.",
+            "datePublished": "Tue, 03 Jun 2014 08:20:48 GMT",
+            "length": "19155382",
+            "sourceUrl": "http://www.pusware.com/Podcasts/mayb14/mayb14.m4a"
+        },
+        {
+            "title": "Puscast: May 1 to 15, 2014.",
+            "datePublished": "Sun, 04 May 2014 08:20:48 GMT",
+            "length": "16252035",
+            "sourceUrl": "http://www.pusware.com/Podcasts/maya14/maya14.m4a"
+        },
+        {
+            "title": "Puscast: April 15 to 30, 2014.",
+            "datePublished": "Sun, 04 May 2014 08:20:48 GMT",
+            "length": "22333728",
+            "sourceUrl": "http://www.pusware.com/Podcasts/aprb14/aprb14.m4a"
+        },
+        {
+            "title": "Puscast: April 1 to 15, 2014.",
+            "datePublished": "Sat, 19 Apr 2014 08:20:48 GMT",
+            "length": "18067665",
+            "sourceUrl": "http://www.pusware.com/Podcasts/apra14/apra14.m4a"
+        },
+        {
+            "title": "Puscast: Mar 15 to 31, 2014.",
+            "datePublished": "Sun, 30 Mar 2014 08:20:48 GMT",
+            "length": "18802492",
+            "sourceUrl": "http://www.pusware.com/Podcasts/marb14/marb14.m4a"
+        },
+        {
+            "title": "Puscast: Mar 1 to 15, 2014.",
+            "datePublished": "Sat, 22 Mar 2014 08:20:48 GMT",
+            "length": "20380784",
+            "sourceUrl": "http://www.pusware.com/Podcasts/mara14/mara14.m4a"
+        },
+        {
+            "title": "Puscast: Feb 15 to 28, 2014.",
+            "datePublished": "Sun, 02 Mar 2014 08:20:48 GMT",
+            "length": "20729870",
+            "sourceUrl": "http://www.pusware.com/Podcasts/febb14/febb14.m4a"
+        },
+        {
+            "title": "Puscast: Feb 1 to 15, 2014.",
+            "datePublished": "Sun, 16 Feb 2014 08:20:48 GMT",
+            "length": "20926745",
+            "sourceUrl": "http://www.pusware.com/Podcasts/feba14/feba14.m4a"
+        },
+        {
+            "title": "Puscast: Jan 15 to 31, 2014.",
+            "datePublished": "Sun, 02 Feb 2014 08:20:48 GMT",
+            "length": "19604777",
+            "sourceUrl": "http://www.pusware.com/Podcasts/janb14/janb14.m4a"
+        },
+        {
+            "title": "Puscast: Jan 1 to 15, 2014.",
+            "datePublished": "Sat, 18 Jan 2014 08:20:48 GMT",
+            "length": "22175241",
+            "sourceUrl": "http://www.pusware.com/Podcasts/jana14/jana14.m4a"
+        },
+        {
+            "title": "Puscast: Dec 15 to 31, 2013.",
+            "datePublished": "Wed, 01 Jan 2014 08:20:48 GMT",
+            "length": "17824131",
+            "sourceUrl": "http://www.pusware.com/Podcasts/decb13/decb13.m4a"
+        },
+        {
+            "title": "Puscast: Dec 1 to 15, 2013.",
+            "datePublished": "Sat, 21 Dec 2013 08:20:48 GMT",
+            "length": "17981542",
+            "sourceUrl": "http://www.pusware.com/Podcasts/deca13/deca13.m4a"
+        },
+        {
+            "title": "Puscast: Nov 15 to 30, 2013.",
+            "datePublished": "Sat, 07 Dec 2013 08:20:48 GMT",
+            "length": "22861482",
+            "sourceUrl": "http://www.pusware.com/Podcasts/novb13/novb13.m4a"
+        },
+        {
+            "title": "Puscast: Nov 1 to 15, 2013.",
+            "datePublished": "Sun, 17 Nov 2013 08:20:48 GMT",
+            "length": "21278195",
+            "sourceUrl": "http://www.pusware.com/Podcasts/nova13/nova13.m4a"
+        },
+        {
+            "title": "Puscast: Oct 15 to 31, 2013.",
+            "datePublished": "Sun, 03 Nov 2013 08:20:48 GMT",
+            "length": "22971225",
+            "sourceUrl": "http://www.pusware.com/Podcasts/octb13/octb13.m4a"
+        },
+        {
+            "title": "Puscast: Oct 1 to 15, 2013.",
+            "datePublished": "Sun, 20 Oct 2013 08:20:48 GMT",
+            "length": "17640299",
+            "sourceUrl": "http://www.pusware.com/Podcasts/octa13/octa13.m4a"
+        },
+        {
+            "title": "Puscast: Sep 15 to 31, 2013.",
+            "datePublished": "Tue, 08 Oct 2013 08:20:48 GMT",
+            "length": "33971225",
+            "sourceUrl": "http://www.pusware.com/Podcasts/sepb13/sepb13.m4a"
+        },
+        {
+            "title": "Puscast: Sep 1 to 15, 2013.",
+            "datePublished": "Sun, 15 Sep 2013 08:20:48 GMT",
+            "length": "14486654",
+            "sourceUrl": "http://www.pusware.com/Podcasts/sepa13/sepa13.m4a"
+        },
+        {
+            "title": "Puscast: Aug 15 to 31, 2013.",
+            "datePublished": "Mon, 02 Sep 2013 08:20:48 GMT",
+            "length": "19176751",
+            "sourceUrl": "http://www.pusware.com/Podcasts/augb13/augb13.m4a"
+        },
+        {
+            "title": "Puscast: Aug 1 to 15, 2013.",
+            "datePublished": "Fri, 19 Jul 2013 08:20:48 GMT",
+            "length": "16949994",
+            "sourceUrl": "http://www.pusware.com/Podcasts/auga13/auga13.m4a"
+        },
+        {
+            "title": "Puscast: July 15 to 31, 2013.",
+            "datePublished": "Tue, 16 Jul 2013 08:20:48 GMT",
+            "length": "24023051",
+            "sourceUrl": "http://www.pusware.com/Podcasts/julb13/julb13.m4a"
+        },
+        {
+            "title": "Puscast: July 1 to 15, 2013.",
+            "datePublished": "Tue, 16 Jul 2013 08:20:48 GMT",
+            "length": "16756680",
+            "sourceUrl": "http://www.pusware.com/Podcasts/jula13/jula13.m4a"
+        },
+        {
+            "title": "Puscast: June 15 to 30, 2013.",
+            "datePublished": "Sun, 30 Jun 2013 08:20:48 GMT",
+            "length": "23661056",
+            "sourceUrl": "http://www.pusware.com/Podcasts/junb13/junb13.m4a"
+        },
+        {
+            "title": "Puscast: June 1 to 15, 2013.",
+            "datePublished": "Fri, 28 Jun 2013 08:20:48 GMT",
+            "length": "23342248",
+            "sourceUrl": "http://www.pusware.com/Podcasts/juna13/juna13.m4a"
+        },
+        {
+            "title": "Puscast: May 15 to 31, 2013.",
+            "datePublished": "Sun, 02 Jun 2013 08:20:48 GMT",
+            "length": "22887249",
+            "sourceUrl": "http://www.pusware.com/Podcasts/mayb13/mayb13.m4a"
+        },
+        {
+            "title": "Puscast: May 1 to 15, 2013.",
+            "datePublished": "Sat, 18 May 2013 08:20:48 GMT",
+            "length": "17942623",
+            "sourceUrl": "http://www.pusware.com/Podcasts/maya13/maya13.m4a"
+        },
+        {
+            "title": "Puscast: April 15 to 31, 2013.",
+            "datePublished": "Fri, 10 May 2013 08:20:48 GMT",
+            "length": "16629570",
+            "sourceUrl": "http://www.pusware.com/Podcasts/aprb13/aprb13.m4a"
+        },
+        {
+            "title": "Puscast: April 1 to 15, 2013.",
+            "datePublished": "Mon, 08 Apr 2013 08:20:48 GMT",
+            "length": "24640085",
+            "sourceUrl": "http://www.pusware.com/Podcasts/apra13/apra13.m4a"
+        },
+        {
+            "title": "Puscast: March 15 to 31, 2013.",
+            "datePublished": "Mon, 08 Apr 2013 08:20:48 GMT",
+            "length": "27480345",
+            "sourceUrl": "http://www.pusware.com/Podcasts/marb13/marb13.m4a"
+        },
+        {
+            "title": "Puscast: March 1 to 15, 2013.",
+            "datePublished": "Mon, 18 Mar 2013 08:20:48 GMT",
+            "length": "16427181",
+            "sourceUrl": "http://www.pusware.com/Podcasts/mara13/mara13.m4a"
+        },
+        {
+            "title": "Puscast: Feb 15 to 28, 2013.",
+            "datePublished": "Sun, 03 Mar 2013 08:20:48 GMT",
+            "length": "25541409",
+            "sourceUrl": "http://www.pusware.com/Podcasts/febb13/febb13.m4a"
+        },
+        {
+            "title": "Puscast: Feb 1 to 15, 2013.",
+            "datePublished": "Sun, 17 Feb 2013 08:20:48 GMT",
+            "length": "17468444",
+            "sourceUrl": "http://www.pusware.com/Podcasts/feba13/feba13.m4a"
+        },
+        {
+            "title": "Puscast: Jan 15 to 31, 2013.",
+            "datePublished": "Sat, 02 Feb 2013 08:20:48 GMT",
+            "length": "28166004",
+            "sourceUrl": "http://www.pusware.com/Podcasts/janb13/janb13.m4a"
+        },
+        {
+            "title": "Puscast: Jan 1 to 15, 2013.",
+            "datePublished": "Sun, 20 Jan 2013 08:20:48 GMT",
+            "length": "28618390",
+            "sourceUrl": "http://www.pusware.com/Podcasts/jana13/jana13.m4a"
+        },
+        {
+            "title": "Puscast: Dec 15 to 31, 2012.",
+            "datePublished": "Tue, 01 Jan 2013 08:20:48 GMT",
+            "length": "30915470",
+            "sourceUrl": "http://www.pusware.com/Podcasts/decb12/decb12.m4a"
+        },
+        {
+            "title": "Puscast: Dec 1 to 15, 2012.",
+            "datePublished": "Sun, 16 Dec 2012 08:20:48 GMT",
+            "length": "25218526",
+            "sourceUrl": "http://www.pusware.com/Podcasts/deca12/deca12.m4a"
+        },
+        {
+            "title": "Puscast: Nov 15 to 30, 2012.",
+            "datePublished": "Sun, 02 Dec 2012 08:20:48 GMT",
+            "length": "26782740",
+            "sourceUrl": "http://www.pusware.com/Podcasts/novb12/novb12.m4a"
+        },
+        {
+            "title": "Puscast: Nov 1 to 15, 2012.",
+            "datePublished": "Sun, 18 Nov 2012 08:20:48 GMT",
+            "length": "31363777",
+            "sourceUrl": "http://www.pusware.com/Podcasts/nova12/nova12.m4a"
+        },
+        {
+            "title": "Puscast: Oct 15 to 31, 2012.",
+            "datePublished": "Sun, 04 Nov 2012 08:20:48 GMT",
+            "length": "27136634",
+            "sourceUrl": "http://www.pusware.com/Podcasts/octb12/octb12.m4a"
+        },
+        {
+            "title": "Puscast: Oct 1 to 15, 2012.",
+            "datePublished": "Sat, 20 Oct 2012 08:20:48 GMT",
+            "length": "22668422",
+            "sourceUrl": "http://www.pusware.com/Podcasts/octa12/octa12.m4a"
+        },
+        {
+            "title": "Puscast: September 15 to 31, 2012.",
+            "datePublished": "Sat, 30 Sep 2012 08:20:48 GMT",
+            "length": "21501102",
+            "sourceUrl": "http://www.pusware.com/Podcasts/sepb12/sepb12.m4a"
+        },
+        {
+            "title": "Puscast: September 1 to 15, 2012.",
+            "datePublished": "Tue, 18 Sep 2012 08:20:48 GMT",
+            "length": "22050895",
+            "sourceUrl": "http://www.pusware.com/Podcasts/sepa12/sepa12.m4a"
+        },
+        {
+            "title": "Puscast: August 15 to 31, 2012.",
+            "datePublished": "Tue, 04 Sep 2012 08:20:48 GMT",
+            "length": "20417931",
+            "sourceUrl": "http://www.pusware.com/Podcasts/augb12/augb12.m4a"
+        },
+        {
+            "title": "Puscast: August 1 to 15, 2012.",
+            "datePublished": "Sat, 19 Aug 2012 08:20:48 GMT",
+            "length": "19997602",
+            "sourceUrl": "http://www.pusware.com/Podcasts/auga12/auga12.m4a"
+        },
+        {
+            "title": "Puscast: July 15 to 31, 2012.",
+            "datePublished": "Thu, 02 Aug 2012 08:20:48 GMT",
+            "length": "13197671",
+            "sourceUrl": "http://www.pusware.com/Podcasts/julb12/julb12.m4a"
+        },
+        {
+            "title": "Puscast: July 1 to 15, 2012.",
+            "datePublished": "Thu, 19 Jul 2012 08:20:48 GMT",
+            "length": "13645986",
+            "sourceUrl": "http://www.pusware.com/Podcasts/jula12/jula12.m4a"
+        },
+        {
+            "title": "Puscast: June 15 to 31, 2012.",
+            "datePublished": "Sun, 01 Jul 2012 08:20:48 GMT",
+            "length": "16541532",
+            "sourceUrl": "http://www.pusware.com/Podcasts/junb12/junb12.m4a"
+        },
+        {
+            "title": "Puscast: June 1 to 15, 2012.",
+            "datePublished": "Tue, 19 Jun 2012 08:20:48 GMT",
+            "length": "14538944",
+            "sourceUrl": "http://www.pusware.com/Podcasts/juna12/juna12.m4a"
+        },
+        {
+            "title": "Puscast: May 15 to 31, 2012.",
+            "datePublished": "Mon, 04 May 2012 08:20:48 GMT",
+            "length": "16999267",
+            "sourceUrl": "http://www.pusware.com/Podcasts/mayb12/mayb12.m4a"
+        },
+        {
+            "title": "Puscast: May 1 to 15, 2012.",
+            "datePublished": "Sat, 19 May 2012 08:20:48 GMT",
+            "length": "13142150",
+            "sourceUrl": "http://www.pusware.com/Podcasts/maya12/maya12.m4a"
+        },
+        {
+            "title": "Puscast: April 15 to 30, 2012.",
+            "datePublished": "Sun, 06 May 2012 08:20:48 GMT",
+            "length": "13856919",
+            "sourceUrl": "http://www.pusware.com/Podcasts/aprb12/aprb12.m4a"
+        },
+        {
+            "title": "Puscast: April 1 to 15, 2012.",
+            "datePublished": "Sun, 15 Apr 2012 08:20:48 GMT",
+            "length": "15657964",
+            "sourceUrl": "http://www.pusware.com/Podcasts/apra12/apra12.m4a"
+        },
+        {
+            "title": "Puscast: March 15 to 31, 2012.",
+            "datePublished": "Sun, 01 Apr 2012 08:20:48 GMT",
+            "length": "15845441",
+            "sourceUrl": "http://www.pusware.com/Podcasts/marb12/marb12.m4a"
+        },
+        {
+            "title": "Puscast: March 1 to 15, 2012.",
+            "datePublished": "Sat, 17 Mar 2012 08:20:48 GMT",
+            "length": "15221550",
+            "sourceUrl": "http://www.pusware.com/Podcasts/mara12/mara12.m4a"
+        },
+        {
+            "title": "Puscast: Feb 15 to 28, 2012.",
+            "datePublished": "Sat, 03 Mar 2012 08:20:48 GMT",
+            "length": "13071062",
+            "sourceUrl": "http://www.pusware.com/Podcasts/febb12/febb12.m4a"
+        },
+        {
+            "title": "Puscast: Feb 1 to 15, 2012.",
+            "datePublished": "Tue, 21 Feb 2012 08:20:48 GMT",
+            "length": "24775673",
+            "sourceUrl": "http://www.pusware.com/Podcasts/feba12/feba12.m4a"
+        },
+        {
+            "title": "Puscast: Jan 15 to 31, 2012.",
+            "datePublished": "Wed, 01 Feb 2012 08:20:48 GMT",
+            "length": "16502891",
+            "sourceUrl": "http://www.pusware.com/Podcasts/janb12/janb12.m4a"
+        },
+        {
+            "title": "Puscast: Jan 1 to 15, 2012.",
+            "datePublished": "Mon, 16 Jan 2012 08:20:48 GMT",
+            "length": "24078486",
+            "sourceUrl": "http://www.pusware.com/Podcasts/jana12/jana12.m4a"
+        },
+        {
+            "title": "Puscast: Dec 15 to 31, 2011.",
+            "datePublished": "Sun, 01 Jan 2012 08:20:48 GMT",
+            "length": "27487913",
+            "sourceUrl": "http://www.pusware.com/Podcasts/decb11/decb11.m4a"
+        },
+        {
+            "title": "Puscast: Dec 1 to 15, 2011.",
+            "datePublished": "Sat, 17 Dec 2011 08:20:48 GMT",
+            "length": "24604858",
+            "sourceUrl": "http://www.pusware.com/Podcasts/deca11/deca11.m4a"
+        },
+        {
+            "title": "Puscast: Nov 15 to 30, 2011.",
+            "datePublished": "Thu, 01 Dec 2011 08:20:48 GMT",
+            "length": "18335601",
+            "sourceUrl": "http://www.pusware.com/Podcasts/novb11/novb11.m4a"
+        },
+        {
+            "title": "Puscast: Nov 1 to 15, 2011.",
+            "datePublished": "Sat, 19 Nov 2011 08:20:48 GMT",
+            "length": "21507102",
+            "sourceUrl": "http://www.pusware.com/Podcasts/nova11/nova11.m4a"
+        },
+        {
+            "title": "Puscast: Oct 15 to 31, 2011.",
+            "datePublished": "Sat, 15 Oct 2011 08:20:48 GMT",
+            "length": "20158893",
+            "sourceUrl": "http://www.pusware.com/Podcasts/octb11/octb11.m4a"
+        },
+        {
+            "title": "Puscast: Oct 1 to 15, 2011.",
+            "datePublished": "Sat, 15 Oct 2011 08:20:48 GMT",
+            "length": "20910611",
+            "sourceUrl": "http://www.pusware.com/Podcasts/octa11/octa11.m4a"
+        },
+        {
+            "title": "Puscast: Sep 15 to 30, 2011.",
+            "datePublished": "Sun, 02 Oct 2011 08:20:48 GMT",
+            "length": "27252224",
+            "sourceUrl": "http://www.pusware.com/Podcasts/sepb11/sepb11.m4a"
+        },
+        {
+            "title": "Puscast: Sep 1 to 15, 2011.",
+            "datePublished": "Sun, 18 Sep 2011 08:20:48 GMT",
+            "length": "27687013",
+            "sourceUrl": "http://www.pusware.com/Podcasts/sepa11/sepa11.m4a"
+        },
+        {
+            "title": "Puscast: August 15 to 31, 2011.",
+            "datePublished": "Thu, 09 Sep 2011 08:20:48 GMT",
+            "length": "25666604",
+            "sourceUrl": "http://www.pusware.com/Podcasts/augb11/augb11.m4a"
+        },
+        {
+            "title": "Puscast: August 1 to 15, 2011.",
+            "datePublished": "Sat, 20 Aug 2011 08:20:48 GMT",
+            "length": "28288608",
+            "sourceUrl": "http://www.pusware.com/Podcasts/auga11/auga11.m4a"
+        },
+        {
+            "title": "Puscast: July 15 to 31, 2011.",
+            "datePublished": "Sun, 31 Jul 2011 08:20:48 GMT",
+            "length": "7156122",
+            "sourceUrl": "http://www.pusware.com/Podcasts/julb11/julb11.m4a"
+        },
+        {
+            "title": "Puscast: July 1 to 15, 2011.",
+            "datePublished": "Mon, 18 Jul 2011 08:20:48 GMT",
+            "length": "8379099",
+            "sourceUrl": "http://www.pusware.com/Podcasts/jula11/jula11.m4a"
+        },
+        {
+            "title": "Puscast: June 15 to 30, 2011.",
+            "datePublished": "Sun, 02 Jul 2011 08:20:48 GMT",
+            "length": "9471944",
+            "sourceUrl": "http://www.pusware.com/Podcasts/junb11/junb11.m4a"
+        },
+        {
+            "title": "Puscast: June 1 to 15, 2011.",
+            "datePublished": "Thu, 16 Jun 2011 08:20:48 GMT",
+            "length": "11285402",
+            "sourceUrl": "http://www.pusware.com/Podcasts/juna11/juna11.m4a"
+        },
+        {
+            "title": "Puscast: May 15 to 30, 2011.",
+            "datePublished": "Sun, 30 May 2011 08:20:48 GMT",
+            "length": "10220864",
+            "sourceUrl": "http://www.pusware.com/Podcasts/mayb11/mayb11.m4a"
+        },
+        {
+            "title": "Puscast: May 1 to 15, 2011.",
+            "datePublished": "Sun, 15 May 2011 08:20:48 GMT",
+            "length": "9827107",
+            "sourceUrl": "http://www.pusware.com/Podcasts/maya11/maya11.m4a"
+        },
+        {
+            "title": "Puscast: April 15 to 30, 2011.",
+            "datePublished": "Sat, 30 Apr 2011 08:20:48 GMT",
+            "length": "6918110",
+            "sourceUrl": "http://www.pusware.com/Podcasts/aprb11/aprb11.m4a"
+        },
+        {
+            "title": "Puscast: April 1 to 15, 2011.",
+            "datePublished": "Fri, 01 Apr 2011 08:20:48 GMT",
+            "length": "10686826",
+            "sourceUrl": "http://www.pusware.com/Podcasts/apra11/apra11.m4a"
+        },
+        {
+            "title": "Puscast: March 15 to 31, 2011.",
+            "datePublished": "Fri, 01 Apr 2011 08:20:48 GMT",
+            "length": "7957244",
+            "sourceUrl": "http://www.pusware.com/Podcasts/marb11/marb11.m4a"
+        },
+        {
+            "title": "Puscast: March 1 to 15, 2011.",
+            "datePublished": "Sun, 19 Mar 2011 08:20:48 GMT",
+            "length": "7441698",
+            "sourceUrl": "http://www.pusware.com/Podcasts/mara11/mara11.m4a"
+        },
+        {
+            "title": "Puscast: February 15 to 28, 2011.",
+            "datePublished": "Tue, 02 Mar 2011 08:20:48 GMT",
+            "length": "9315202",
+            "sourceUrl": "http://www.pusware.com/Podcasts/febb11/febb11.m4a"
+        },
+        {
+            "title": "Puscast: February 1 to 15, 2011.",
+            "datePublished": "Sun, 20 Feb 2011 08:20:48 GMT",
+            "length": "8860526",
+            "sourceUrl": "http://www.pusware.com/Podcasts/feba11/feba11.m4a"
+        },
+        {
+            "title": "Puscast: January 15 to 31, 2011.",
+            "datePublished": "Sun, 29 Jan 2011 08:20:48 GMT",
+            "length": "9141075",
+            "sourceUrl": "http://www.pusware.com/Podcasts/janb11/janb11.m4a"
+        },
+        {
+            "title": "Puscast: January 1 to 15 2011.",
+            "datePublished": "Sun, 16 Jan 2011 08:20:48 GMT",
+            "length": "10686694",
+            "sourceUrl": "http://www.pusware.com/Podcasts/jana11/jana11.m4a"
+        },
+        {
+            "title": "Puscast: December 15 to 31, 2010.",
+            "datePublished": "Sat, 01 Jan 2011 08:20:48 GMT",
+            "length": "8804551",
+            "sourceUrl": "http://www.pusware.com/Podcasts/decb10/decb10.m4a"
+        },
+        {
+            "title": "Puscast: December 1 to 15, 2010.",
+            "datePublished": "Sat, 18 Dec 2010 08:20:48 GMT",
+            "length": "6789259",
+            "sourceUrl": "http://www.pusware.com/Podcasts/deca10/deca10.m4a"
+        },
+        {
+            "title": "Puscast: November 15 to 31, 2010.",
+            "datePublished": "Mon, 06 Dec 2010 08:20:48 GMT",
+            "length": "8103057",
+            "sourceUrl": "http://www.pusware.com/Podcasts/novb10/novb10.m4a"
+        },
+        {
+            "title": "Self Serving Announcement.",
+            "datePublished": "Sat, 04 Dec 2010 08:20:48 GMT",
+            "length": "571169",
+            "sourceUrl": "http://www.pusware.com/Podcasts/announcement.m4a"
+        },
+        {
+            "title": "Puscast: November 1 to 15, 2010.",
+            "datePublished": "Wed, 17 Nov 2010 08:20:48 GMT",
+            "length": "8650991",
+            "sourceUrl": "http://www.pusware.com/Podcasts/nova10/nova10.m4a"
+        },
+        {
+            "title": "Puscast: Rocktober 15 to 31, 2010.",
+            "datePublished": "Mon, 01 Nov 2010 08:20:48 GMT",
+            "length": "10600041",
+            "sourceUrl": "http://www.pusware.com/Podcasts/octb10/octb10.m4a"
+        },
+        {
+            "title": "Puscast: Rocktober 1 to 15, 2010.",
+            "datePublished": "Wed, 27 Oct 2010 08:20:48 GMT",
+            "length": "8361798",
+            "sourceUrl": "http://www.pusware.com/Podcasts/octa10/octa10.m4a"
+        },
+        {
+            "title": "Puscast: September 15 to 30, 2010.",
+            "datePublished": "Sat, 02 Oct 2010 08:20:48 GMT",
+            "length": "8023715",
+            "sourceUrl": "http://www.pusware.com/Podcasts/sepb10/sepb10.m4a"
+        },
+        {
+            "title": "Puscast: September 1 to 15, 2010.",
+            "datePublished": "Sat, 18 Sep 2010 08:20:48 GMT",
+            "length": "9631184",
+            "sourceUrl": "http://www.pusware.com/Podcasts/sepa10/sepa10.m4a"
+        },
+        {
+            "title": "Puscast: August 15 to 31, 2010.",
+            "datePublished": "Thu, 01 Sep 2010 08:20:48 GMT",
+            "length": "7841018",
+            "sourceUrl": "http://www.pusware.com/Podcasts/augb10/augb10.m4a"
+        },
+        {
+            "title": "Puscast: August 1 to 15, 2010.",
+            "datePublished": "Tue, 17 Aug 2010 08:20:48 GMT",
+            "length": "7159673",
+            "sourceUrl": "http://www.pusware.com/Podcasts/auga10/auga10.m4a"
+        },
+        {
+            "title": "Puscast: July 15 to 31, 2010.",
+            "datePublished": "Sun, 01 Aug 2010 08:20:48 GMT",
+            "length": "7495289",
+            "sourceUrl": "http://www.pusware.com/Podcasts/julb10/julb10.m4a"
+        },
+        {
+            "title": "Puscast: July 1 to 15, 2010.",
+            "datePublished": "Sat, 17 Jul 2010 08:20:48 GMT",
+            "length": "7683290",
+            "sourceUrl": "http://www.pusware.com/Podcasts/jula10/jula10.m4a"
+        },
+        {
+            "title": "Puscast: June 15 to 31, 2010.",
+            "datePublished": "Sat, 03 Jul 2010 08:20:48 GMT",
+            "length": "7804579",
+            "sourceUrl": "http://www.pusware.com/Podcasts/junb10/junb10.m4a"
+        },
+        {
+            "title": "Puscast: June 1 to 15, 2010.",
+            "datePublished": "Sun, 20 Jun 2010 08:20:48 GMT",
+            "length": "6992689",
+            "sourceUrl": "http://www.pusware.com/Podcasts/juna10/juna10.m4a"
+        },
+        {
+            "title": "Puscast: May 15 to 31, 2010.",
+            "datePublished": "Sun, 31 May 2010 08:20:48 GMT",
+            "length": "7824685",
+            "sourceUrl": "http://www.pusware.com/Podcasts/mayb10/mayb10.m4a"
+        },
+        {
+            "title": "Puscast: May 01 to 15, 2010.",
+            "datePublished": "Sun, 16 May 2010 08:20:48 GMT",
+            "length": "8353201",
+            "sourceUrl": "http://www.pusware.com/Podcasts/maya10/maya10.m4a"
+        },
+        {
+            "title": "Puscast: April 15 to 31, 2010.",
+            "datePublished": "Sun, 02 May 2010 08:20:48 GMT",
+            "length": "8228096",
+            "sourceUrl": "http://www.pusware.com/Podcasts/aprb10/aprb10.m4a"
+        },
+        {
+            "title": "Puscast: April 1 to 15, 2010.",
+            "datePublished": "Sun, 18 Apr 2010 08:20:48 GMT",
+            "length": "9344686",
+            "sourceUrl": "http://www.pusware.com/Podcasts/apra10/apra10.m4a"
+        },
+        {
+            "title": "Puscast: March 15 to 31, 2010.",
+            "datePublished": "Sun, 04 Apr 2010 08:20:48 GMT",
+            "length": "7863956",
+            "sourceUrl": "http://www.pusware.com/Podcasts/marb10/marb10.m4a"
+        },
+        {
+            "title": "Puscast: March 1 to 15, 2010.",
+            "datePublished": "Thu, 17 Mar 2010 08:20:48 GMT",
+            "length": "9607458",
+            "sourceUrl": "http://www.pusware.com/Podcasts/mara10/mara10.m4a"
+        },
+        {
+            "title": "Puscast: February 15 to 28, 2010.",
+            "datePublished": "Mon, 01 Mar 2010 08:20:48 GMT",
+            "length": "8174408",
+            "sourceUrl": "http://www.pusware.com/Podcasts/febb10/febb10.m4a"
+        },
+        {
+            "title": "Puscast: February 01 to 15, 2010.",
+            "datePublished": "Sun, 14 Feb 2010 08:20:48 GMT",
+            "length": "8939193",
+            "sourceUrl": "http://www.pusware.com/Podcasts/feba10/feba10.m4a"
+        },
+        {
+            "title": "Puscast: Januember 15 to 31, 2010.",
+            "datePublished": "Sun, 31 Jan 2010 08:20:48 GMT",
+            "length": "10964215",
+            "sourceUrl": "http://www.pusware.com/Podcasts/janb10/janb10.m4a"
+        },
+        {
+            "title": "Puscast: Januember 1 to 15, 2010.",
+            "datePublished": "Fri, 22 Jan 2010 08:20:48 GMT",
+            "length": "8582445",
+            "sourceUrl": "http://www.pusware.com/Podcasts/jana10/jana10.m4a"
+        },
+        {
+            "title": "Puscast: December 15 to 31, 2009.",
+            "datePublished": "Sun, 03 Jan 2010 08:20:48 GMT",
+            "length": "9968147",
+            "sourceUrl": "http://www.pusware.com/Podcasts/decb09/decb09.m4a"
+        },
+        {
+            "title": "Puscast: December 1 to 15, 2009.",
+            "datePublished": "Sun, 20 Dec 2009 08:20:48 GMT",
+            "length": "9225456",
+            "sourceUrl": "http://www.pusware.com/Podcasts/deca09/deca09.m4a"
+        },
+        {
+            "title": "Puscast: November 15 to 31 2009.",
+            "datePublished": "Sun, 06 Dec 2009 08:20:48 GMT",
+            "length": "7952453",
+            "sourceUrl": "http://www.pusware.com/Podcasts/novb09/novb09.m4a"
+        },
+        {
+            "title": "Puscast: November 1 to 15, 2009.",
+            "datePublished": "Sun, 22 Nov 2009 08:20:48 GMT",
+            "length": "8298264",
+            "sourceUrl": "http://www.pusware.com/Podcasts/nova09/nova09.m4a"
+        },
+        {
+            "title": "Puscast: Rockober 15 to 31, 2009.",
+            "datePublished": "Sat, 07 Nov 2009 08:20:48 GMT",
+            "length": "7963136",
+            "sourceUrl": "http://www.pusware.com/Podcasts/octb09/octb09.m4a"
+        },
+        {
+            "title": "Puscast: Rockober 1 to 15, 2009.",
+            "datePublished": "Sun, 18 Oct 2009 08:20:48 GMT",
+            "length": "9204567",
+            "sourceUrl": "http://www.pusware.com/Podcasts/octa09/octa09.m4a"
+        },
+        {
+            "title": "Puscast: September 15 to 30, 2009.",
+            "datePublished": "Sat, 03 Oct 2009 08:20:48 GMT",
+            "length": "9718821",
+            "sourceUrl": "http://www.pusware.com/Podcasts/sepb09/sepb09.m4a"
+        },
+        {
+            "title": "Puscast: September 1 to 15, 2009.",
+            "datePublished": "Sat, 19 Sep 2009 08:20:48 GMT",
+            "length": "9326209",
+            "sourceUrl": "http://www.pusware.com/Podcasts/sepa09/sepa09.m4a"
+        },
+        {
+            "title": "Puscast: August 15 to 31, 2009.",
+            "datePublished": "Sun, 06 Sep 2009 08:20:48 GMT",
+            "length": "8693186",
+            "sourceUrl": "http://www.pusware.com/Podcasts/augb09/augb09.m4a"
+        },
+        {
+            "title": "Puscast: August 1 to 15, 2009.",
+            "datePublished": "Sun, 23 Aug 2009 08:20:48 GMT",
+            "length": "8755513",
+            "sourceUrl": "http://www.pusware.com/Podcasts/auga09/auga09.m4a"
+        },
+        {
+            "title": "Puscast: July 15 to 31, 2009.",
+            "datePublished": "Tue, 04 Aug 2009 08:20:48 GMT",
+            "length": "7529067",
+            "sourceUrl": "http://www.pusware.com/Podcasts/julb09/julb09.m4a"
+        },
+        {
+            "title": "Puscast: July 1 to 15, 2009.",
+            "datePublished": "Sun, 19 Jul 2009 08:20:48 GMT",
+            "length": "8052588",
+            "sourceUrl": "http://www.pusware.com/Podcasts/jula09/jula09.m4a"
+        },
+        {
+            "title": "Puscast: June 15 to 30, 2009.",
+            "datePublished": "Sun, 05 Jul 2009 08:20:48 GMT",
+            "length": "8185734",
+            "sourceUrl": "http://www.pusware.com/Podcasts/junb09/junb09.m4a"
+        },
+        {
+            "title": "Puscast: June 1 to 15, 2009.",
+            "datePublished": "Sun, 20 Jun 2009 08:20:48 GMT",
+            "length": "8127160",
+            "sourceUrl": "http://www.pusware.com/Podcasts/juna09/juna09.m4a"
+        },
+        {
+            "title": "Puscast: May 15 to 31 2009.",
+            "datePublished": "Sun, 31 May 2009 08:20:48 GMT",
+            "length": "10098629",
+            "sourceUrl": "http://www.pusware.com/Podcasts/mayb09/mayb09.m4a"
+        },
+        {
+            "title": "Puscast: May 1 to 15 2009.",
+            "datePublished": "Sun, 17 May 2009 08:20:48 GMT",
+            "length": "8263245",
+            "sourceUrl": "http://www.pusware.com/Podcasts/maya09/maya09.m4a"
+        },
+        {
+            "title": "Puscast: April 15 to 30 2009.",
+            "datePublished": "Sat, 02 May 2009 08:20:48 GMT",
+            "length": "7396352",
+            "sourceUrl": "http://www.pusware.com/Podcasts/aprb09/aprb09.m4a"
+        },
+        {
+            "title": "Puscast: April 1 to 15 2009.",
+            "datePublished": "Sun, 19 Apr 2009 08:20:48 GMT",
+            "length": "7597102",
+            "sourceUrl": "http://www.pusware.com/Podcasts/apra09/apra09.m4a"
+        },
+        {
+            "title": "Puscast: March 15 to 31 2009.",
+            "datePublished": "Sat, 04 Apr 2009 08:20:48 GMT",
+            "length": "8296494",
+            "sourceUrl": "http://www.pusware.com/Podcasts/marb09/marb09.m4a"
+        },
+        {
+            "title": "Puscast: Mar 1 to 15 2009.",
+            "datePublished": "Sun, 15 Mar 2009 08:20:48 GMT",
+            "length": "8100042",
+            "sourceUrl": "http://www.pusware.com/Podcasts/mara09/mara09.m4a"
+        },
+        {
+            "title": "Puscast: Feb 15 to 31 2009.",
+            "datePublished": "Sun, 08 Mar 2009 08:20:48 GMT",
+            "length": "7549107",
+            "sourceUrl": "http://www.pusware.com/Podcasts/febb09/febb09.m4a"
+        },
+        {
+            "title": "Puscast: Feb 1 to 14 2009.",
+            "datePublished": "Tue, 17 Feb 2009 08:20:48 GMT",
+            "length": "9150531",
+            "sourceUrl": "http://www.pusware.com/Podcasts/feba09/feba09.m4a"
+        },
+        {
+            "title": "Puscast: Jan 15 to 31 2009.",
+            "datePublished": "Sun, 01 Feb 2009 08:20:48 GMT",
+            "length": "8757404",
+            "sourceUrl": "http://www.pusware.com/Podcasts/janb09/janb09.m4a"
+        },
+        {
+            "title": "Puscast: Jan 1 to 15, 2009.",
+            "datePublished": "Wed, 19 Jan 2009 08:20:48 GMT",
+            "length": "8438608",
+            "sourceUrl": "http://www.pusware.com/Podcasts/jana09/jana09.m4a"
+        },
+        {
+            "title": "Puscast: Dec 15 to 31, 2008.",
+            "datePublished": "Fri, 02 Jan 2009 08:20:48 GMT",
+            "length": "9438282",
+            "sourceUrl": "http://www.pusware.com/Podcasts/decb08/decb08.m4a"
+        },
+        {
+            "title": "Puscast: Dec 1 to 15, 2008.",
+            "datePublished": "Wed, 17 Dec 2008 08:20:48 GMT",
+            "length": "10284326",
+            "sourceUrl": "http://www.pusware.com/Podcasts/deca08/deca08.m4a"
+        },
+        {
+            "title": "Puscast: Nov 15 to 30, 2008.",
+            "datePublished": "Sun, 30 Nov 2008 08:20:48 GMT",
+            "length": "7282122",
+            "sourceUrl": "http://www.pusware.com/Podcasts/novb08/novb08.m4a"
+        },
+        {
+            "title": "Puscast: Nov 1 to 15, 2008.",
+            "datePublished": "Sun, 16 Nov 2008 08:20:48 GMT",
+            "length": "8112788",
+            "sourceUrl": "http://www.pusware.com/Podcasts/nova08/nova08.m4a"
+        },
+        {
+            "title": "Puscast: Oct 15 to 31, 2008.",
+            "datePublished": "Sun, 02 Nov 2008 08:20:48 GMT",
+            "length": "9207411",
+            "sourceUrl": "http://www.pusware.com/Podcasts/octb08/octb08.m4a"
+        },
+        {
+            "title": "Puscast: Oct 1 to 15, 2008.",
+            "datePublished": "Wed, 22 Oct 2008 08:20:48 GMT",
+            "length": "8554594",
+            "sourceUrl": "http://www.pusware.com/Podcasts/octa08/octa08.m4a"
+        },
+        {
+            "title": "Puscast: Sept 15 to 30, 2008.",
+            "datePublished": "Sun, 05 Oct 2008 08:20:48 GMT",
+            "length": "8488483",
+            "sourceUrl": "http://www.pusware.com/Podcasts/sepb08/sepb08.m4a"
+        },
+        {
+            "title": "Puscast: Sept 1 to 15, 2008.",
+            "datePublished": "Wed, 17 Sep 2008 08:20:48 GMT",
+            "length": "7739752",
+            "sourceUrl": "http://www.pusware.com/Podcasts/sepa08/sepa08.m4a"
+        },
+        {
+            "title": "Puscast: August 15 to 31, 2008.",
+            "datePublished": "Mon, 08 Sep 2008 08:20:48 GMT",
+            "length": "8537376",
+            "sourceUrl": "http://www.pusware.com/Podcasts/augb08/augb08.m4a"
+        },
+        {
+            "title": "Puscast: August 1 to 15, 2008.",
+            "datePublished": "Wed, 20 Aug 2008 08:20:48 GMT",
+            "length": "8171355",
+            "sourceUrl": "http://www.pusware.com/Podcasts/auga08/auga08.m4a"
+        },
+        {
+            "title": "Puscast: July 15 to 31, 2008.",
+            "datePublished": "Wed, 06 Aug 2008 08:20:48 GMT",
+            "length": "9310080",
+            "sourceUrl": "http://www.pusware.com/Podcasts/julb08/julb08.m4a"
+        },
+        {
+            "title": "Puscast: July 1 to 15, 2008.",
+            "datePublished": "Sat, 19 Jul 2008 08:20:48 GMT",
+            "length": "10381657",
+            "sourceUrl": "http://www.pusware.com/Podcasts/jula08/jula08.m4a"
+        },
+        {
+            "title": "Puscast: June 15 to 31, 2008.",
+            "datePublished": "Thu, 03 Jul 2008 08:20:48 GMT",
+            "length": "9883772",
+            "sourceUrl": "http://www.pusware.com/Podcasts/junb08/junb08.m4a"
+        },
+        {
+            "title": "Puscast: June 1 to 15, 2008.",
+            "datePublished": "Wed, 19 May 2008 08:20:48 GMT",
+            "length": "9466681",
+            "sourceUrl": "http://www.pusware.com/Podcasts/juna08/juna08.m4a"
+        },
+        {
+            "title": "Puscast: May 15 to 31, 2008.",
+            "datePublished": "Sat, 07 Jun 2008 08:20:48 GMT",
+            "length": "9237798",
+            "sourceUrl": "http://www.pusware.com/Podcasts/mayb08/mayb08.m4a"
+        },
+        {
+            "title": "Puscast: May 1 to 15, 2008.",
+            "datePublished": "Sat, 24 May 2008 08:20:48 GMT",
+            "length": "9290376",
+            "sourceUrl": "http://www.pusware.com/Podcasts/maya08/maya08.m4a"
+        },
+        {
+            "title": "Puscast: Apr 15 to 31, 2008.",
+            "datePublished": "Sat, 03 May 2008 08:20:48 GMT",
+            "length": "9767186",
+            "sourceUrl": "http://www.pusware.com/Podcasts/aprb08/aprb08.m4a"
+        },
+        {
+            "title": "Puscast: Apr 1 to 15, 2008.",
+            "datePublished": "Tue, 22 Apr 2008 08:20:48 GMT",
+            "length": "8895440",
+            "sourceUrl": "http://www.pusware.com/Podcasts/apra08/Puscast.m4a"
+        },
+        {
+            "title": "Puscast: Mar 15 to 31, 2008.",
+            "datePublished": "Tue, 02 Apr 2008 08:20:48 GMT",
+            "length": "10497617",
+            "sourceUrl": "http://www.pusware.com/Podcasts/marb08/marb08.m4a"
+        },
+        {
+            "title": "Persiflagers Infectious Disease Podcast: Mar 1 to 15, 2008.",
+            "datePublished": "Wed, 19 Mar 2008 08:20:48 GMT",
+            "length": "12396620",
+            "sourceUrl": "http://www.pusware.com/Podcasts/mara08/mara08.m4a"
+        },
+        {
+            "title": "Persiflagers Infectious Disease Podcast: Feb 15 to 29, 2008.",
+            "datePublished": "Wed, 05 Mar 2008 08:20:48 GMT",
+            "length": "16426664",
+            "sourceUrl": "http://www.pusware.com/Podcasts/febb08/febb08.m4a"
+        },
+        {
+            "title": "Persiflagers Infectious Disease Podcast: Feb 1 to 15, 2008.",
+            "datePublished": "Sat, 22 Feb 2008 08:20:48 GMT",
+            "length": "20303589",
+            "sourceUrl": "http://www.pusware.com/Podcasts/feba08/feba08.m4a"
+        },
+        {
+            "title": "Persiflagers Infectious Disease Podcast:  Jan 15 to 31, 2008.",
+            "datePublished": "Wed, 06 Feb 2008 08:20:48 GMT",
+            "length": "19362190",
+            "sourceUrl": "http://www.pusware.com/Podcasts/janb08/janb08.m4a"
+        },
+        {
+            "title": "Persiflagers Infectious Disease Podcast:  Jan 1 to 15, 2008. Reposted 1/23/8.",
+            "datePublished": "Wed, 23 Jan 2008 08:20:48 GMT",
+            "length": "18085800",
+            "sourceUrl": "http://www.pusware.com/Podcasts/jana08/jana08.m4a"
+        },
+        {
+            "title": "Persiflagers Infectious Disease Podcast:  Dec 15 to 31 2007.",
+            "datePublished": "Sat, 05 Jan 2007 08:20:48 GMT",
+            "length": "14730017",
+            "sourceUrl": "http://www.pusware.com/Podcasts/decb07/decb07.m4a"
+        },
+        {
+            "title": "Persiflagers Infectious Disease Podcast:  Dec 1 to 15 2007.",
+            "datePublished": "Wed, 19 Dec 2007 08:20:48 GMT",
+            "length": "9045475",
+            "sourceUrl": "http://www.pusware.com/Podcasts/deca07/deca07.m4a"
+        },
+        {
+            "title": "Persiflagers Infectious Disease Podcast: Nov 15 to 31, 2007.",
+            "datePublished": "Mon, 10 Dec 2007 08:20:48 GMT",
+            "length": "8677828",
+            "sourceUrl": "http://www.pusware.com/Podcasts/novb07/novb07.m4a"
+        },
+        {
+            "title": "Persiflagers Infectious Disease Podcast: Nov 1 to 15, 2007.",
+            "datePublished": "Sat, 24 Nov 2007 08:20:48 GMT",
+            "length": "9205508",
+            "sourceUrl": "http://www.pusware.com/Podcasts/nova07/nova07.m4a"
+        },
+        {
+            "title": "Persiflagers Infectious Disease Podcast: Oct 15 to 31, 2007.",
+            "datePublished": "Sun, 04 Sep 2007 08:20:48 GMT",
+            "length": "9608325",
+            "sourceUrl": "http://www.pusware.com/Podcasts/octb07/octb07.m4a"
+        },
+        {
+            "title": "Persiflagers Infectious Disease Podcast: Oct 1 to 15, 2007.",
+            "datePublished": "Fri, 16 Oct 2007 08:20:48 GMT",
+            "length": "7720982",
+            "sourceUrl": "http://www.pusware.com/Podcasts/octa07/octa07.m4a"
+        },
+        {
+            "title": "Persiflagers Infectious Disease Podcast: Sept 15 to 30, 2007.",
+            "datePublished": "Fri, 05 Oct 2007 08:20:48 GMT",
+            "length": "7463368",
+            "sourceUrl": "http://www.pusware.com/Podcasts/sepb07/sepb07.m4a"
+        },
+        {
+            "title": "Persiflagers Infectious Disease Podcast: Sept 1 to 15, 2007.",
+            "datePublished": "Mon, 17 Sep 2007 08:20:48 GMT",
+            "length": "9269863",
+            "sourceUrl": "http://www.pusware.com/Podcasts/sepa07/sepa07.m4a"
+        },
+        {
+            "title": "Persiflagers Infectious Disease Podcast: Aug 15 to 31, 2007.",
+            "datePublished": "Sun, 09 Sep 2007 08:20:48 GMT",
+            "length": "10744673",
+            "sourceUrl": "http://www.pusware.com/Podcasts/augb07/augb07.m4a"
+        },
+        {
+            "title": "Persiflagers Infectious Disease Podcast: Aug 1 to 15, 2007.",
+            "datePublished": "Mon, 20 Aug 2007 08:20:48 GMT",
+            "length": "9716202",
+            "sourceUrl": "http://www.pusware.com/Podcasts/auga07/auga07.m4a"
+        },
+        {
+            "title": "Persiflagers Infectious Disease Podcast: July 15 to 31, 2007.",
+            "datePublished": "Sat, 04 Aug 2007 08:20:48 GMT",
+            "length": "7383895",
+            "sourceUrl": "http://www.pusware.com/Podcasts/julb07/PACID_Podcast_for_July_15_to_31_2007.m4a"
+        },
+        {
+            "title": "Persiflagers Infectious Disease Podcast: July 1 to 15, 2007.",
+            "datePublished": "Fri, 27 Jul 2007 08:20:48 GMT",
+            "length": "7715903",
+            "sourceUrl": "http://www.pusware.com/Podcasts/jula07/PACID_Podcast_for_July_1_to_15_2007.m4a"
+        },
+        {
+            "title": "Persiflagers Infectious Disease Podcast: June 15 to 30, 2007.",
+            "datePublished": "Sat, 09 Jul 2007 08:20:48 GMT",
+            "length": "9877155",
+            "sourceUrl": "http://www.pusware.com/Podcasts/juneb07/PACID_for_June_15_to_30_2007.m4a"
+        },
+        {
+            "title": "Persiflagers Infectious Disease Podcast: June 1 to 15, 2007.",
+            "datePublished": "Tue, 19 Jun 2007 08:20:48 GMT",
+            "length": "8838994",
+            "sourceUrl": "http://www.pusware.com/Podcasts/junea07/PACID_for_June_1_to_15_2007.m4a"
+        },
+        {
+            "title": "Persiflagers Infectious Disease Podcast: May 15 to 31, 2007.",
+            "datePublished": "Fri, 01 Jun 2007 08:20:48 GMT",
+            "length": "9187622",
+            "sourceUrl": "http://www.pusware.com/Podcasts/mayb07/PACID_for_May_15_to_31_2007.m4a"
+        },
+        {
+            "title": "Persiflagers Infectious Disease Podcast: May 1 to 15, 2007.",
+            "datePublished": "Wed, 23 May 2007 08:20:48 GMT",
+            "length": "9283605",
+            "sourceUrl": "http://www.pusware.com/Podcasts/maya07/PACID_Podcast_for_May_1_to_15_2007.m4a"
+        },
+        {
+            "title": "Persiflagers Infectious Disease Podcast: April 1 to 15, 2007. Part B.",
+            "datePublished": "Sun, 15 Apr 2007 08:20:48 GMT",
+            "length": "4867175",
+            "sourceUrl": "http://www.pusware.com/Podcasts/apra07/aprab07.m4a"
+        },
+        {
+            "title": "Persiflagers Infectious Disease Podcast: April 15 to 31, 2007.",
+            "datePublished": "Tue, 09 May 2007 08:20:48 GMT",
+            "length": "8919345",
+            "sourceUrl": "http://www.pusware.com/Podcasts/aprb07/PACID_for_April_15_to_30_2007.m4a"
+        },
+        {
+            "title": "Persiflagers Infectious Disease Podcast: April 1 to 15, 2007. Part A.",
+            "datePublished": "Sun, 15 Apr 2007 08:20:48 GMT",
+            "length": "7729492",
+            "sourceUrl": "http://www.pusware.com/Podcasts/apra07/apraa07.m4a"
+        },
+        {
+            "title": "Persiflagers Infectious Disease Podcast: March 15 to 31, 2007. Part B.",
+            "datePublished": "Mon, 09 Apr 2007 08:20:48 GMT",
+            "length": "4084025",
+            "sourceUrl": "http://www.pusware.com/Podcasts/marb07/PACID_Podcast_March_15_to_30_2007_PartB.m4a"
+        },
+        {
+            "title": "Persiflagers Infectious Disease Podcast: March 15 to 31, 2007. Part A.",
+            "datePublished": "Mon, 09 Apr 2007 08:20:48 GMT",
+            "length": "7427632",
+            "sourceUrl": "http://www.pusware.com/Podcasts/marb07/PACID_Podcast_March_15_to_30_2007_PartA.m4a"
+        },
+        {
+            "title": "Persiflagers Infectious Disease Podcast: March 1 to 15, 2007. Part B.",
+            "datePublished": "Tue, 20 Mar 2007 08:20:48 GMT",
+            "length": "7445066",
+            "sourceUrl": "http://www.pusware.com/Podcasts/mara07/PACID_for_March_1_to_15_2007_Part_B.m4a"
+        },
+        {
+            "title": "Persiflagers Infectious Disease Podcast: March 1 to 15, 2007. Part A.",
+            "datePublished": "Tue, 20 Mar 2007 08:20:48 GMT",
+            "length": "6230366",
+            "sourceUrl": "http://www.pusware.com/Podcasts/mara07/PACID_for_March_1_to_15_2007_Part_A.m4a"
+        },
+        {
+            "title": "Persiflagers Infectious Disease Podcast: Feb 15 to 28, 2007",
+            "datePublished": "Sun, 11 Mar 2007 08:20:48 GMT",
+            "length": "9071663",
+            "sourceUrl": "http://www.pusware.com/Podcasts/febb07/PACID_Feb_14_to_28_07.m4a"
+        },
+        {
+            "title": "Persiflagers Infectious Disease Podcast: Feb 1 to 14, 2007",
+            "datePublished": "Sun, 18 Feb 2007 08:20:48 GMT",
+            "length": "9917322",
+            "sourceUrl": "http://www.pusware.com/Podcasts/feba07/PACID_Feb_1_to_14_07.m4a"
+        },
+        {
+            "title": "Persiflagers Infectious Disease Podcast: Jan 15 to 31, 2007",
+            "datePublished": "Sat, 03 Feb 2007 08:20:48 GMT",
+            "length": "8131454",
+            "sourceUrl": "http://www.pusware.com/Podcasts/janb07/PACID_Podcast_for_Jan_15_to_31_2007.m4a"
+        },
+        {
+            "title": "Persiflagers Infectious Disease Podcast: Jan 1 to 15, 2007",
+            "datePublished": "Sat, 20 Jan 2007 08:20:48 GMT",
+            "length": "8657865",
+            "sourceUrl": "http://www.pusware.com/Podcasts/jana07/PACID_Podcast_for_Jan_1_to_15_2007.m4a"
+        },
+        {
+            "title": "Persiflagers Infectious Disease Podcast: Dec 15 to 31, 2006",
+            "datePublished": "Thu, 04 Jan 2007 08:20:48 GMT",
+            "length": "9148377",
+            "sourceUrl": "http://www.pusware.com/Podcasts/decb06/ID_Podcast_for_December_15_to_31_2006.m4a"
+        }
+    ]
+}

@@ -1,0 +1,946 @@
+{
+    "artwork": "http://is4.mzstatic.com/image/thumb/Music1/v4/7e/42/d1/7e42d177-3450-4db6-2ad5-69e96aa5c1a9/source/100x100bb.jpg",
+    "description": "고품격 소비방송, 창조적으로 소비하라",
+    "feedURL": "http://old.ddanzi.com/appstream/ssk.xml",
+    "podcastURL": "http://www.ddanzi.com/",
+    "title": "슈퍼의 스타K",
+    "episodes": [
+        {
+            "title": "고별 그리고 안녕?",
+            "datePublished": "Fri, 06 Jan 2017 01:22:10 +0900",
+            "length": "00:07:57",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/301068071-ddanzi-k-end.mp3"
+        },
+        {
+            "title": "82-2회 : 허생도 알고보면 리셀러",
+            "datePublished": "Fri, 09 Dec 2016 15:30:10 +0900",
+            "length": "01:24:41",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/296951041-ddanzi-k-82-2.mp3"
+        },
+        {
+            "title": "82-1회 : 요식업은 대구라예",
+            "datePublished": "Thu, 08 Dec 2016 11:00:10 +0900",
+            "length": "01:00:58",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/296626277-ddanzi-k-82-1.mp3"
+        },
+        {
+            "title": "81회 : 슈퍼의 뉴스 리포트",
+            "datePublished": "Thu, 01 Dec 2016 20:00:10 +0900",
+            "length": "01:35:18",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/295662214-ddanzi-k-81.mp3"
+        },
+        {
+            "title": "80-2회 : 캠핑의 세계(feat. Ted.)",
+            "datePublished": "Wed, 30 Nov 2016 00:00:10 +0900",
+            "length": "02:03:46",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/295279309-ddanzi-k-80-2.mp3"
+        },
+        {
+            "title": "80-1회 : 오이시러 세상시러! 마케팅은 한 끗 차이(feat. Ted.)",
+            "datePublished": "Tue, 29 Nov 2016 00:00:10 +0900",
+            "length": "01:13:37",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/295111122-ddanzi-k-80-1.mp3"
+        },
+        {
+            "title": "79-2회 : 이름이 뭐예요~브랜드 네이밍 이야기",
+            "datePublished": "Fri, 18 Nov 2016 00:00:10 +0900",
+            "length": "01:22:21",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/293579231-ddanzi-k-79-2.mp3"
+        },
+        {
+            "title": "79-1회 : 미국 탄산세, 음모가 있다?!",
+            "datePublished": "Fri, 18 Nov 2016 00:00:10 +0900",
+            "length": "00:48:52",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/293433501-ddanzi-k-79-1.mp3"
+        },
+        {
+            "title": "78-2회 : 세~탁 특집(+홀짝의 新 숙취해소법)",
+            "datePublished": "Fri, 11 Nov 2016 00:03:00 +0900",
+            "length": "01:32:34",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/292322500-ddanzi-k-78-2.mp3"
+        },
+        {
+            "title": "78-1회 : 묻힌 트렌드, 광장에서 하이야 해",
+            "datePublished": "Thu, 10 Nov 2016 00:03:00 +0900",
+            "length": "01:14:22",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/292011094-ddanzi-k-78-1.mp3"
+        },
+        {
+            "title": "77-2회 : 1인 창작자 시대(유튜브,아프리카TV)",
+            "datePublished": "Fri, 04 Nov 2016 09:07:00 +0900",
+            "length": "01:57:25",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/291092242-ddanzi-k-77-2.mp3"
+        },
+        {
+            "title": "77-1회 : 미슐랭 가이드 서울편 출간",
+            "datePublished": "Fri, 04 Nov 2016 09:05:00 +0900",
+            "length": "01:00:59",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/290927508-ddanzi-k-77-1.mp3"
+        },
+        {
+            "title": "76-2회 : 소비자의 권리, 우리 모두의 권리",
+            "datePublished": "Wed, 26 Oct 2016 16:05:00 +0900",
+            "length": "01:14:20",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/290012919-ddanzi-k-76-2.mp3"
+        },
+        {
+            "title": "76-1회 : 순례길에서 돌아온 새로미",
+            "datePublished": "Tue, 25 Oct 2016 10:05:00 +0900",
+            "length": "01:14:06",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/289691400-ddanzi-k-76-1.mp3"
+        },
+        {
+            "title": "75회 : 주제가 무한리필이라 녹음도 리필",
+            "datePublished": "Thu, 20 Oct 2016 10:05:00 +0900",
+            "length": "02:03:19",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/289081374-ddanzi-k-75.mp3"
+        },
+        {
+            "title": "74회 : 유독물질과의 전쟁",
+            "datePublished": "Mon, 10 Oct 2016 11:05:00 +0900",
+            "length": "01:24:15",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/286942568-ddanzi-k-74.mp3"
+        },
+        {
+            "title": "73회 : VOD, 알고나 보자",
+            "datePublished": "Sat, 01 Oct 2016 15:05:00 +0900",
+            "length": "01:34:13",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/285566615-ddanzi-k-73.mp3"
+        },
+        {
+            "title": "72-2회 : 치아보험이 책임져줄 수 없는 것(feat.거의없다)",
+            "datePublished": "Tue, 23 Sep 2016 11:05:00 +0900",
+            "length": "01:41:26",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/284225480-ddanzi-k-72-2.mp3"
+        },
+        {
+            "title": "72-1회 : 마트의 스타K 1회(feat.거의없다)",
+            "datePublished": "Tue, 23 Sep 2016 11:00:00 +0900",
+            "length": "01:04:38",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/284224178-ddanzi-k-72-1.mp3"
+        },
+        {
+            "title": "71-2회 : 추석맞이 선물세트",
+            "datePublished": "Tue, 13 Sep 2016 13:46:00 +0900",
+            "length": "01:21:41",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/282679984-ddanzi-k-71-2.mp3"
+        },
+        {
+            "title": "71-1회 : 코쿤캅~방콕에서 돌아온 홀짝",
+            "datePublished": "Tue, 13 Sep 2016 07:46:00 +0900",
+            "length": "00:59:48",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/282628553-ddanzi-k-71.mp3"
+        },
+        {
+            "title": "70회 : 나를 돌아봐(feat. 걱정원 요원)",
+            "datePublished": "Sat, 10 Sep 2016 00:53:00 +0900",
+            "length": "01:43:36",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/282129731-ddanzi-k-70.mp3"
+        },
+        {
+            "title": "69-2회 : 골목길~서울 중심부편",
+            "datePublished": "Thu, 01 Sep 2016 21:06:00 +0900",
+            "length": "01:29:05",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/280890685-ddanzi-k-69-2.mp3"
+        },
+        {
+            "title": "69-1회 : 아이스크림 가격이 보여요",
+            "datePublished": "wed, 31 Aug 2016 15:18:00 +0900",
+            "length": "00:49:28",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/280704799-ddanzi-k-69.mp3"
+        },
+        {
+            "title": "68-2회 : 여름을 보내는 자세",
+            "datePublished": "Fri, 19 Aug 2016 18:58:00 +0900",
+            "length": "01:12:48",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/278939386-ddanzi-k-68-2.mp3"
+        },
+        {
+            "title": "68-1회 : 슬로~우 슬로~우 콘텐츠의 부흥",
+            "datePublished": "Fri, 19 Aug 2016 17:16:00 +0900",
+            "length": "00:45:49",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/278931561-ddanzi-k-68.mp3"
+        },
+        {
+            "title": "67-2회 : 호갱대잔치(下)",
+            "datePublished": "Sat, 13 Aug 2016 00:49:00 +0900",
+            "length": "00:49:23",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/277974932-ddanzi-k-67-2.mp3"
+        },
+        {
+            "title": "67-1회 : 부르면 응답하는 콜버스, 그리고 슈의스케",
+            "datePublished": "Thu, 11 Aug 2016 21:49:00 +0900",
+            "length": "00:42:49",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/277786664-ddanzi-k-67.mp3"
+        },
+        {
+            "title": "66-2회 : 호갱대잔치(上)",
+            "datePublished": "Thu, 04 Aug 2016 20:49:00 +0900",
+            "length": "01:01:18",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/276781725-ddanzi-k-66-2.mp3"
+        },
+        {
+            "title": "66-1회 : 당신은 덕질할 수 있는 사람?",
+            "datePublished": "Tue, 02 Aug 2016 19:02:00 +0900",
+            "length": "00:44:45",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/276461597-ddanzi-k-66.mp3"
+        },
+        {
+            "title": "65-2회 : 고오급 시계(feat. 거의없다)",
+            "datePublished": "Mon, 01 Aug 2016 14:47:00 +0900",
+            "length": "01:14:58",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/276282125-ddanzi-k-65-2.mp3"
+        },
+        {
+            "title": "65-1회 : 하늘에서 후기가 내려와",
+            "datePublished": "Thu, 28 Jul 2016 11:57:00 +0900",
+            "length": "01:12:04",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/275706576-ddanzi-k-65.mp3"
+        },
+        {
+            "title": "64-2회 : 와치를 와치(feat. 거의없다)",
+            "datePublished": "Fri, 22 Jul 2016 22:39:00 +0900",
+            "length": "01:10:28",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/274858519-ddanzi-k-64-2.mp3"
+        },
+        {
+            "title": "64-1회 : almost nothing (feat.거의없다)",
+            "datePublished": "Wed, 20 Jul 2016 17:04:00 +0900",
+            "length": "01:05:49",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/274507110-ddanzi-k-64.mp3"
+        },
+        {
+            "title": "63-2회 : 상반기 결산, 애프터 서비스",
+            "datePublished": "Tue, 12 Jul 2016 19:34:00 +0900",
+            "length": "01:03:34",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/273296167-ddanzi-k-63-2.mp3"
+        },
+        {
+            "title": "63-1회 : 상반기 결산, 쇼미더간증",
+            "datePublished": "Mon, 11 Jul 2016 16:13:00 +0900",
+            "length": "00:57:37",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/273117044-ddanzi-k-63.mp3"
+        },
+        {
+            "title": "62-2회 : 대형마트 PB 상품",
+            "datePublished": "Fri, 08 Jul 2016 06:45:00 +0900",
+            "length": "01:12:26",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/272650070-ddanzi-k-62-2.mp3"
+        },
+        {
+            "title": "62-1회 : 홀딱 벗고 냠냠",
+            "datePublished": "Wed, 06 Jul 2016 17:52:00 +0900",
+            "length": "00:53:36",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/272411745-ddanzi-k-62.mp3"
+        },
+        {
+            "title": "61-2회 : 해외에서 내 손에 닿기까지",
+            "datePublished": "Wed, 29 June 2016 21:03:00 +0900",
+            "length": "01:03:38",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/271383333-ddanzi-k-61-2.mp3"
+        },
+        {
+            "title": "61-1회 : 뮐러지수? 김씨지수? 홀짝은 감사해",
+            "datePublished": "Tue, 28 June 2016 17:53:00 +0900",
+            "length": "00:51:13",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/271196711-ddanzi-k-61.mp3"
+        },
+        {
+            "title": "60-2회 : 습기를 피하는 방법",
+            "datePublished": "Tue, 21 June 2016 00:53:00 +0900",
+            "length": "01:08:27",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/270150230-ddanzi-k-60-2.mp3"
+        },
+        {
+            "title": "60-1회 : 이제는 더치페이할 때",
+            "datePublished": "Sat, 18 June 2016 00:53:00 +0900",
+            "length": "00:48:09",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/269586489-ddanzi-k-60.mp3"
+        },
+        {
+            "title": "호외 : 이건 특급 소식이야",
+            "datePublished": "Mon, 13 June 2016 18:53:00 +0900",
+            "length": "01:16:28",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/268840368-ddanzi-k-60-0.mp3"
+        },
+        {
+            "title": "59-2회 : 24시간이 모자란 패스트푸드점",
+            "datePublished": "Wed, 08 June 2016 00:53:00 +0900",
+            "length": "01:08:44",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/267789766-ddanzi-k-59-2.mp3"
+        },
+        {
+            "title": "59-1회 : 한 잔 더 하려면, 견뎌바!",
+            "datePublished": "Mon, 06 June 2016 15:53:00 +0900",
+            "length": "00:43:44",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/267765423-ddanzi-k-59.mp3"
+        },
+        {
+            "title": "58-2회 : 태양을 피하고 싶었어~썬크림편",
+            "datePublished": "Thu, 02 June 2016 11:53:00 +0900",
+            "length": "01:06:32",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/267021565-ddanzi-k-58-2.mp3"
+        },
+        {
+            "title": "58-1회 : 쥬씨의 비결",
+            "datePublished": "Mon, 30 May 2016 05:35:34 +0000",
+            "description": "쥬씨의 비결 by ddanzi",
+            "length": "68495283",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/266565885-ddanzi-k-58.mp3"
+        },
+        {
+            "title": "57-2회 : 작은 시작, 인테리어",
+            "datePublished": "Tue, 24 May 2016 11:53:00 +0900",
+            "length": "01:25:34",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/265477934-ddanzi-k-57-2.mp3"
+        },
+        {
+            "title": "57-1회 : 마스크를 해외직구?",
+            "datePublished": "Mon, 23 May 2016 00:00:26 +0000",
+            "length": "60195299",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/265422239-ddanzi-k-57.mp3"
+        },
+        {
+            "title": "56-2회 : 착착 감기는 필기구(feat. 인지니어스)",
+            "datePublished": "Tue, 17 May 2016 11:53:00 +0900",
+            "length": "01:09:52",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/264599874-ddanzi-k-56-2.mp3"
+        },
+        {
+            "title": "56-1회 : 홀짝, 적수의 등장(feat. 인지니어스)",
+            "datePublished": "Mon, 16 May 2016 11:53:00 +0900",
+            "length": "00:47:26",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/264326349-ddanzi-k-56.mp3"
+        },
+        {
+            "title": "55-2회 : 라면 먹고, 갈래(feat. 인지니어스)",
+            "datePublished": "Mon, 09 May 2016 23:05:00 +0900",
+            "length": "01:10:18",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/263214382-ddanzi-k-55-2.mp3"
+        },
+        {
+            "title": "55-1회 : 힙하려면 을지로(feat. 인지니어스)",
+            "datePublished": "Mon, 09 May 2016 17:01:00 +0900",
+            "length": "01:05:21",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/263181521-ddanzi-k-55.mp3"
+        },
+        {
+            "title": "54회 : 사랑의 나날들",
+            "datePublished": "Mon, 02 May 2016 19:22:00 +0900",
+            "length": "01:30:46",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/261941008-ddanzi-k-54.mp3"
+        },
+        {
+            "title": "53-2회 : PPL, 노출도 과하면 병",
+            "datePublished": "Sun, 24 Apr 2016 06:38:00 +0900",
+            "length": "01:08:24",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/260553963-ddanzi-k-53-2.mp3"
+        },
+        {
+            "title": "53-1회 : 디톡스를 소비하다",
+            "datePublished": "Fri, 22 Apr 2016 02:45:00 +0900",
+            "length": "00:50:40",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/260216726-ddanzi-k-53.mp3"
+        },
+        {
+            "title": "52회 : 소비 간증, 나의 소비는 내 삶의 태도",
+            "datePublished": "Sun, 17 Apr 2016 03:56:00 +0900",
+            "length": "01:13:48",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/259413643-ddanzi-k-52.mp3"
+        },
+        {
+            "title": "번외 : 눈앞에서 보는 청취자 의견",
+            "datePublished": "Sat, 16 Apr 2016 02:51:00 +0900",
+            "length": "00:58:26",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/259261163-ddanzi-k-51-3.mp3"
+        },
+        {
+            "title": "51-2회 : 청취자와 읽는 소비 단신",
+            "datePublished": "Mon, 11 Apr 2016 16:14:00 +0900",
+            "length": "00:47:38",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/258411962-ddanzi-k-51-2.mp3"
+        },
+        {
+            "title": "51-1회 : 청취자와의 만남",
+            "datePublished": "Sat, 09 Apr 2016 21:00:00 +0900",
+            "length": "00:43:48",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/258122036-ddanzi-k-51.mp3"
+        },
+        {
+            "title": "50-2회 : 곧 총선, 소비 정책 디벼보기",
+            "datePublished": "Mon, 04 Apr 2016 12:42:00 +0900",
+            "length": "01:09:25",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/257216058-ddanzi-k-50-2.mp3"
+        },
+        {
+            "title": "50-1회 : 녹음실 ISA 기념, 특집 아닌 50회",
+            "datePublished": "Sat, 02 Apr 2016 12:42:00 +0900",
+            "length": "00:52:45",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/256864243-ddanzi-k-50.mp3"
+        },
+        {
+            "title": "49-2회 : 여기 인공지능 있어요?",
+            "datePublished": "Sat, 26 Mar 2016 09:54:00 +0900",
+            "length": "01:27:13",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/255093447-ddanzi-k-49-2.mp3"
+        },
+        {
+            "title": "49-1회 : 녹음 원정기",
+            "datePublished": "Thu, 24 Mar 2016 23:24:00 +0900",
+            "length": "00:50:02",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/254804448-ddanzi-k-49.mp3"
+        },
+        {
+            "title": "48-2회 : 흔들리는 눈동자에 보이는 바둑알",
+            "datePublished": "Sat, 19 Mar 2016 00:11:00 +0900",
+            "length": "00:51:32",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/252624666-ddanzi-k-48-2.mp3"
+        },
+        {
+            "title": "48-1회 : 태국에서 생긴 일",
+            "datePublished": "Fri, 18 Mar 2016 22:46:00 +0900",
+            "length": "00:56:53",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/252589263-ddanzi-k-48.mp3"
+        },
+        {
+            "title": "47-2회 : 영양제, 값싼 건강은 없다",
+            "datePublished": "Mon, 29 Feb 2016 19:50:00 +0900",
+            "length": "01:30:06",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/248965428-ddanzi-k-47-2.mp3"
+        },
+        {
+            "title": "47-1회 : 홀짝와숑 홀짝와숑",
+            "datePublished": "Mon, 29 Feb 2016 19:44:00 +0900",
+            "length": "00:51:01",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/248824409-ddanzi-k-47.mp3"
+        },
+        {
+            "title": "46-2회 : 나는 불안하다 고로 소비한다 (feat. 거의없다)",
+            "datePublished": "Thu, 25 Feb 2016 15:44:00 +0900",
+            "length": "01:20:11",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/248802700-ddanzi-k-46-2.mp3"
+        },
+        {
+            "title": "46-1회 : 남자 없이 못 살아 (feat. 거의없다)",
+            "datePublished": "Tue, 23 Feb 2016 15:18:00 +0900",
+            "length": "01:15:08",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/248457721-ddanzi-k-46.mp3"
+        },
+        {
+            "title": "45-2회 : 영양제(intro)",
+            "datePublished": "Tue, 23 Feb 2016 15:17:00 +0900",
+            "length": "01:21:38",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/247308198-ddanzi-k-45-2.mp3"
+        },
+        {
+            "title": "45-1회 : 코너 M&A, 소비간신",
+            "datePublished": "Tue, 23 Feb 2016 15:16:00 +0900",
+            "length": "00:54:54",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/247296414-ddanzi-k-45.mp3"
+        },
+        {
+            "title": "44-2회 : 더불어 신용카드",
+            "datePublished": "Tue, 23 Feb 2016 15:15:00 +0900",
+            "length": "01:33:36",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/245755537-ddanzi-k-44-2.mp3"
+        },
+        {
+            "title": "44-1회 : 등록금 카드결제?",
+            "datePublished": "Tue, 23 Feb 2016 15:14:00 +0900",
+            "length": "00:54:10",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/245220262-ddanzi-k-44.mp3"
+        },
+        {
+            "title": "43-2회 : 세계 최초 방송 리볼빙! 신용카드",
+            "datePublished": "Tue, 23 Feb 2016 15:13:00 +0900",
+            "length": "01:00:02",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/244852756-ddanzi-k-43-2.mp3"
+        },
+        {
+            "title": "43-1회 : 우버블랙, 제주도, 미국 탕진기",
+            "datePublished": "Tue, 23 Feb 2016 15:12:00 +0900",
+            "length": "00:57:30",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/244379826-ddanzi-k-43.mp3"
+        },
+        {
+            "title": "42-2회 : 기쁨을 아는 몸 (下)",
+            "datePublished": "Tue, 23 Feb 2016 15:11:00 +0900",
+            "length": "01:38:46",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/243510563-ddanzi-k-42-2.mp3"
+        },
+        {
+            "title": "42-1회 : 여왕의 재림(feat. 로라, 조지킹)",
+            "datePublished": "Tue, 23 Feb 2016 15:10:00 +0900",
+            "length": "00:51:44",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/243202923-ddanzi-k-42.mp3"
+        },
+        {
+            "title": "41-2회 : 아나바다로 미니멀리스트 (feat. 우최여신 아키)",
+            "datePublished": "Tue, 23 Feb 2016 15:09:00 +0900",
+            "length": "01:03:32",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/242058460-ddanzi-k-41-2.mp3"
+        },
+        {
+            "title": "41-1회 : 미니멀리즘, 제발요 (feat. 우최여신 아키)",
+            "datePublished": "Tue, 23 Feb 2016 15:08:00 +0900",
+            "length": "00:53:45",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/241896610-ddanzi-k-41.mp3"
+        },
+        {
+            "title": "40-2회 : 2015, 16 소비 트렌드",
+            "datePublished": "Tue, 23 Feb 2016 15:07:00 +0900",
+            "length": "01:32:16",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/241181935-ddanzi-k-40-2.mp3"
+        },
+        {
+            "title": "40-1회 : 2016년의 도래, 바뀌는 것들",
+            "datePublished": "Tue, 23 Feb 2016 15:06:00 +0900",
+            "length": "01:12:41",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/240813926-ddanzi-k-40.mp3"
+        },
+        {
+            "title": "39-2회 : 자동차 보험 특집(下) (feat. 거의없다)",
+            "datePublished": "Tue, 23 Feb 2016 15:05:00 +0900",
+            "length": "01:27:30",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/239661449-ddanzi-k-39-2.mp3"
+        },
+        {
+            "title": "39-1회 : 되돌아볼 회",
+            "datePublished": "Tue, 23 Feb 2016 15:03:00 +0900",
+            "length": "01:01:48",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/239940465-ddanzi-k-39.mp3"
+        },
+        {
+            "title": "38-2회 : 자동차 보험 특집(上) (feat. 거의없다)",
+            "datePublished": "Tue, 23 Feb 2016 15:02:00 +0900",
+            "length": "01:11:06",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/239176948-ddanzi-k-38-2.mp3"
+        },
+        {
+            "title": "38-1회 : 여기에선 좀 있는 남자(feat. 거의없다)",
+            "datePublished": "Tue, 23 Feb 2016 15:01:00 +0900",
+            "length": "00:56:30",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/239065786-ddanzi-k-38.mp3"
+        },
+        {
+            "title": "37-2회 : 농산물 소비 특집 (下)",
+            "datePublished": "Tue, 23 Feb 2016 15:00:00 +0900",
+            "length": "01:18:02",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/238781938-ddanzi-k-37-2.mp3"
+        },
+        {
+            "title": "37-1회 : 드디어 산 남자, 사고 싶은 남자 (feat. 너클볼러, 코코아)",
+            "datePublished": "Tue, 23 Feb 2016 14:59:00 +0900",
+            "length": "01:04:32",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/238094752-ddanzi-k-37.mp3"
+        },
+        {
+            "title": "36-2회 : \"오이싫어 입장하십니다\" 농산물 소비 특집 (上)",
+            "datePublished": "Tue, 23 Feb 2016 14:58:00 +0900",
+            "length": "01:15:34",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/237653904-ddanzi-k-36-2.mp3"
+        },
+        {
+            "title": "36-1회 : 새 여인의 등장, 소비 간증과 단신",
+            "datePublished": "Tue, 23 Feb 2016 14:49:00 +0900",
+            "length": "01:22:39",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/237204251-ddanzi-k-36.mp3"
+        },
+        {
+            "title": "35-2회 : 기쁨을 아는 몸 (上) 그리고 중대 발표",
+            "datePublished": "Tue, 23 Feb 2016 14:39:00 +0900",
+            "length": "02:00:00",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/236033340-ddanzi-k-35-2.mp3"
+        },
+        {
+            "title": "35-1회 : 슈퍼의 단신으로 준비운동",
+            "datePublished": "Tue, 23 Feb 2016 14:29:00 +0900",
+            "length": "01:06:52",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/235856590-ddanzi-k-35.mp3"
+        },
+        {
+            "title": "34-2회 : 오빠 차 빌렸다. 렌트 특집",
+            "datePublished": "Tue, 23 Feb 2016 14:19:00 +0900",
+            "length": "01:10:35",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/235096154-ddanzi-k-34-2.mp3"
+        },
+        {
+            "title": "34-1회 : K로 완전체",
+            "datePublished": "Tue, 23 Feb 2016 14:09:00 +0900",
+            "length": "00:59:34",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/234807164-ddanzi-k-34.mp3"
+        },
+        {
+            "title": "33-2회 : 익숙한 그 곳, 편의점",
+            "datePublished": "Tue, 23 Feb 2016 14:08:00 +0900",
+            "length": "01:17:16",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/233644563-ddanzi-k-33-2.mp3"
+        },
+        {
+            "title": "33-1회 : 차 산 남자, 스타킹 그리고 새 여자",
+            "datePublished": "Tue, 23 Feb 2016 14:07:00 +0900",
+            "length": "01:13:27",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/233468425-ddanzi-k-33.mp3"
+        },
+        {
+            "title": "32-2회 : 손이 시려워 꽁~하기 전에 월동 준비",
+            "datePublished": "Tue, 23 Feb 2016 14:06:00 +0900",
+            "length": "01:14:33",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/232914575-ddanzi-k-32-2.mp3"
+        },
+        {
+            "title": "32-1회 : 때르메스를 아시나요?",
+            "datePublished": "Tue, 23 Feb 2016 14:05:00 +0900",
+            "length": "00:59:22",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/232554644-ddanzi-k-32.mp3"
+        },
+        {
+            "title": "31-2회 : 도서정가제 그리고 1년",
+            "datePublished": "Tue, 23 Feb 2016 14:04:00 +0900",
+            "length": "01:02:36",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/231335595-ddanzi-k-31-2.mp3"
+        },
+        {
+            "title": "31-1회 : 열흘만의 회동",
+            "datePublished": "Tue, 23 Feb 2016 14:03:00 +0900",
+            "length": "01:02:36",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/231173321-ddanzi-k-31.mp3"
+        },
+        {
+            "title": "30-2회 : 긴급! 슈퍼의 아이템 회의",
+            "datePublished": "Tue, 23 Feb 2016 14:02:00 +0900",
+            "length": "01:02:06",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/229054536-ddanzi-k-30-2.mp3"
+        },
+        {
+            "title": "30-1회 : 30회 특집",
+            "datePublished": "Tue, 23 Feb 2016 14:01:00 +0900",
+            "length": "01:12:02",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/228362215-ddanzi-k-30.mp3"
+        },
+        {
+            "title": "29-3회 : 택배업계의 사정",
+            "datePublished": "Tue, 23 Feb 2016 14:00:00 +0900",
+            "length": "01:04:34",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/228049298-ddanzi-k-29-3.mp3"
+        },
+        {
+            "title": "29-2회 : 이주의 소비단신",
+            "datePublished": "Tue, 23 Feb 2016 13:09:00 +0900",
+            "length": "00:33:53",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/227904371-ddanzi-k-29-2.mp3"
+        },
+        {
+            "title": "29-1회 : 코기자, 소비자 고발할 뻔",
+            "datePublished": "Tue, 23 Feb 2016 13:08:00 +0900",
+            "length": "00:46:18",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/227895831-ddanzi-k-29.mp3"
+        },
+        {
+            "title": "28-2회 : 한국형 블랙 프라이데이",
+            "datePublished": "Tue, 23 Feb 2016 13:07:00 +0900",
+            "length": "01:27:42",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/226988735-ddanzi-k-28-2.mp3"
+        },
+        {
+            "title": "28-1회 : 월요병은 슈퍼와 함께",
+            "datePublished": "Tue, 23 Feb 2016 13:06:00 +0900",
+            "length": "01:01:04",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/226850852-ddanzi-k-28.mp3"
+        },
+        {
+            "title": "27-3회 : 추석특집, 고속도로에서 생긴 일",
+            "datePublished": "Tue, 23 Feb 2016 13:05:00 +0900",
+            "length": "00:54:48",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/225577593-ddanzi-k-27-3.mp3"
+        },
+        {
+            "title": "27-2회 : 추석특집, 선물",
+            "datePublished": "Tue, 23 Feb 2016 13:04:00 +0900",
+            "length": "00:45:32",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/225522702-ddanzi-k-27-2.mp3"
+        },
+        {
+            "title": "27-1회 : 추석특집, 알고 당하면 안호갱",
+            "datePublished": "Tue, 23 Feb 2016 13:03:00 +0900",
+            "length": "00:57:45",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/225355293-ddanzi-k-27.mp3"
+        },
+        {
+            "title": "26-2회 : 나쁜 소비자들",
+            "datePublished": "Tue, 23 Feb 2016 13:02:00 +0900",
+            "length": "01:09:01",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/223946394-ddanzi-k-26-2.mp3"
+        },
+        {
+            "title": "26-1회 : 슈퍼의 단신",
+            "datePublished": "Tue, 23 Feb 2016 13:01:00 +0900",
+            "length": "00:54:26",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/223806380-ddanzi-k-26.mp3"
+        },
+        {
+            "title": "25-2회 : Hobby Maketh Man",
+            "datePublished": "Tue, 23 Feb 2016 13:00:00 +0900",
+            "length": "01:48:12",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/223074380-ddanzi-k-25-2.mp3"
+        },
+        {
+            "title": "25-1회 : 빈 병 팔아 아이스크림 사 먹자",
+            "datePublished": "Tue, 23 Feb 2016 12:09:00 +0900",
+            "length": "01:06:57",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/222738584-ddanzi-k-25.mp3"
+        },
+        {
+            "title": "24-2회 : 24특집",
+            "datePublished": "Tue, 23 Feb 2016 12:08:00 +0900",
+            "length": "01:38:48",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/221884079-ddanzi-k-24-2.mp3"
+        },
+        {
+            "title": "24-1회 : 가공육 다식의 결과",
+            "datePublished": "Tue, 23 Feb 2016 12:07:00 +0900",
+            "length": "00:53:51",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/221663668-ddanzi-k-24.mp3"
+        },
+        {
+            "title": "23회 : BP는 넘었다",
+            "datePublished": "Tue, 23 Feb 2016 12:06:00 +0900",
+            "length": "01:47:45",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/219919681-ddanzi-k-23.mp3"
+        },
+        {
+            "title": "22-2회 : 멀티플렉스 너~어~",
+            "datePublished": "Tue, 23 Feb 2016 12:05:00 +0900",
+            "length": "01:20:52",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/219461793-ddanzi-k-22-2.mp3"
+        },
+        {
+            "title": "21-2회 : 나눠 먹어요, 그게 무엇이든",
+            "datePublished": "Tue, 23 Feb 2016 12:03:00 +0900",
+            "length": "01:05:38",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/218277587-ddanzi-k-21-2.mp3"
+        },
+        {
+            "title": "21-1회 : 졸속 개편",
+            "datePublished": "Tue, 23 Feb 2016 12:02:00 +0900",
+            "length": "00:52:48",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/218262862-ddanzi-k-21.mp3"
+        },
+        {
+            "title": "20-2회 : 용산에서 생길 일~",
+            "datePublished": "Tue, 23 Feb 2016 12:01:00 +0900",
+            "length": "01:03:57",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/217561006-ddanzi-k-20-2.mp3"
+        },
+        {
+            "title": "20-1회 : 용산에서 생길 일",
+            "datePublished": "Tue, 23 Feb 2016 12:00:00 +0900",
+            "length": "00:45:13",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/217186940-ddanzi-k-20.mp3"
+        },
+        {
+            "title": "특집 : 남자 없이 잘 살아(with 전화기)",
+            "datePublished": "Tue, 23 Feb 2016 11:59:00 +0900",
+            "length": "00:46:44",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/216072905-ddanzi-k-19-3.mp3"
+        },
+        {
+            "title": "19-2회 : 돌고 돌아 유기농",
+            "datePublished": "Tue, 23 Feb 2016 11:58:00 +0900",
+            "length": "00:50:29",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/215666767-ddanzi-k-19-2.mp3"
+        },
+        {
+            "title": "19-1회 : 유기농의 서막",
+            "datePublished": "Tue, 23 Feb 2016 11:57:00 +0900",
+            "length": "00:45:18",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/215256503-ddanzi-k-19.mp3"
+        },
+        {
+            "title": "18-2회 : 브라질리언 왁싱을 아는 몸",
+            "datePublished": "Tue, 23 Feb 2016 11:56:00 +0900",
+            "length": "01:02:14",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/214116008-ddanzi-k-18-2.mp3"
+        },
+        {
+            "title": "18-1회 : 스킨십의 선수 조건",
+            "datePublished": "Tue, 23 Feb 2016 11:55:00 +0900",
+            "length": "00:59:19",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/214101562-ddanzi-k-18.mp3"
+        },
+        {
+            "title": "17-2회 : 쇼하고 있네",
+            "datePublished": "Tue, 23 Feb 2016 11:54:00 +0900",
+            "length": "00:57:40",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/213225689-ddanzi-k-17-2.mp3"
+        },
+        {
+            "title": "17-1회 : 기억의 습격",
+            "datePublished": "Tue, 23 Feb 2016 11:53:00 +0900",
+            "length": "00:40:49",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/213214016-ddanzi-k-17.mp3"
+        },
+        {
+            "title": "비보 : 사과가 제철",
+            "datePublished": "Tue, 23 Feb 2016 11:52:00 +0900",
+            "length": "00:29:53",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/212078587-ddanzi-k-16-3.mp3"
+        },
+        {
+            "title": "16-2회 : 해외직구, 변화구되지 않게 지르자",
+            "datePublished": "Tue, 23 Feb 2016 11:51:00 +0900",
+            "length": "01:01:15",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/211165576-ddanzi-k-16-2.mp3"
+        },
+        {
+            "title": "16-1회 : 해외직구, 변화구되지 않게 지르자",
+            "datePublished": "Tue, 23 Feb 2016 11:50:00 +0900",
+            "length": "00:45:39",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/211035709-ddanzi-k-16.mp3"
+        },
+        {
+            "title": "15-2회 : 갈길 바쁜 배달 어플",
+            "datePublished": "Tue, 23 Feb 2016 11:49:00 +0900",
+            "length": "00:43:35",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/209975787-ddanzi-k-15-2.mp3"
+        },
+        {
+            "title": "15-1회 : 나는 카센터 호갱이었다",
+            "datePublished": "Tue, 23 Feb 2016 11:48:00 +0900",
+            "length": "00:56:26",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/209499442-ddanzi-k-15.mp3"
+        },
+        {
+            "title": "14-2회 : 독일의 슈퍼의 스타K",
+            "datePublished": "Tue, 23 Feb 2016 11:47:00 +0900",
+            "length": "01:07:22",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/209118542-ddanzi-k-14-2.mp3"
+        },
+        {
+            "title": "14-1회 : 게스트하우스VS호텔",
+            "datePublished": "Tue, 23 Feb 2016 11:46:00 +0900",
+            "length": "01:12:46",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/208914634-ddanzi-k-14.mp3"
+        },
+        {
+            "title": "호외 : 본격 오디션-예네스카야VS프로피알러",
+            "datePublished": "Tue, 23 Feb 2016 11:45:00 +0900",
+            "length": "01:23:31",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/207933384-ddanzi-k-13-3.mp3"
+        },
+        {
+            "title": "13-2회 : 단통법 그리고 표인봉과 현아",
+            "datePublished": "Tue, 23 Feb 2016 11:44:00 +0900",
+            "length": "01:04:21",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/207116408-ddanzi-k-13-2.mp3"
+        },
+        {
+            "title": "13-1회 : 고시보다 어려운 요금제 공부",
+            "datePublished": "Tue, 23 Feb 2016 11:43:00 +0900",
+            "length": "00:50:37",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/206690673-ddanzi-k-13.mp3"
+        },
+        {
+            "title": "12회 : 딴지원두의 습격",
+            "datePublished": "Tue, 23 Feb 2016 11:42:00 +0900",
+            "length": "01:14:37",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/205737628-ddanzi-k-12.mp3"
+        },
+        {
+            "title": "11-2회 : 털털함을 벗기 위한 원정기",
+            "datePublished": "Tue, 23 Feb 2016 11:41:00 +0900",
+            "length": "00:46:44",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/204689229-ddanzi-k-11-2.mp3"
+        },
+        {
+            "title": "11-1회 : 헬스장 먹튀, 호갱은 달리고 싶다.",
+            "datePublished": "Tue, 23 Feb 2016 11:40:00 +0900",
+            "length": "00:49:55",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/204672786-ddanzi-k-11.mp3"
+        },
+        {
+            "title": "10-2회 : 10회 특집이자 해외 검증 특집",
+            "datePublished": "Tue, 23 Feb 2016 11:39:00 +0900",
+            "length": "00:46:59",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/203717146-ddanzi-k-10-2.mp3"
+        },
+        {
+            "title": "10-1회 : 10회 특집이자 해외 검증 특집",
+            "datePublished": "Tue, 23 Feb 2016 11:38:00 +0900",
+            "length": "00:47:11",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/203441043-ddanzi-k-10.mp3"
+        },
+        {
+            "title": "9-2회 : 100% 정품만 파는 신발가게의 짝퉁 운동화2",
+            "datePublished": "Tue, 23 Feb 2016 11:37:00 +0900",
+            "length": "00:36:31",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/202908820-ddanzi-k-09-2.mp3"
+        },
+        {
+            "title": "9-1회 : 호갱학 자격",
+            "datePublished": "Tue, 23 Feb 2016 11:36:00 +0900",
+            "length": "00:42:59",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/202563384-ddanzi-k-09.mp3"
+        },
+        {
+            "title": "8-2회 : 100% 정품만 파는 신발가게의 짝퉁 운동화",
+            "datePublished": "Tue, 23 Feb 2016 11:35:00 +0900",
+            "length": "00:38:55",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/201321157-ddanzi-k-08-2.mp3"
+        },
+        {
+            "title": "8-1회 : 목숨도 걸 확률형 아이템",
+            "datePublished": "Tue, 23 Feb 2016 11:34:00 +0900",
+            "length": "00:50:20",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/201317899-ddanzi-k-08.mp3"
+        },
+        {
+            "title": "7회 : 언니, 브라 사이즈 맘에 안들죠?",
+            "datePublished": "Tue, 23 Feb 2016 11:33:00 +0900",
+            "length": "01:26:58",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/200138377-ddanzi-k-07.mp3"
+        },
+        {
+            "title": "6회 : 호갱식을 하기 위한 호갱이 될 수 있다!",
+            "datePublished": "Tue, 23 Feb 2016 11:32:00 +0900",
+            "length": "01:37:15",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/204672786-ddanzi-k-06.mp3"
+        },
+        {
+            "title": "5회 : 너는 이미 호갱이다.",
+            "datePublished": "Tue, 23 Feb 2016 11:31:00 +0900",
+            "length": "01:17:32",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/197418755-ddanzi-k-05.mp3"
+        },
+        {
+            "title": "4회 : 대를 이어 호갱하자",
+            "datePublished": "Tue, 23 Feb 2016 11:30:00 +0900",
+            "length": "02:03:57",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/196440539-ddanzi-k-04.mp3"
+        },
+        {
+            "title": "3회 : 일생에 한 번 뿐인 결혼식, 아니 호갱식",
+            "datePublished": "Tue, 23 Feb 2016 11:29:00 +0900",
+            "length": "02:09:47",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/195147888-ddanzi-k-03.mp3"
+        },
+        {
+            "title": "2-2회 : 전격검증 - 딴지뮤직, 정체를 드러내다.",
+            "datePublished": "Tue, 23 Feb 2016 11:28:00 +0900",
+            "length": "00:55:42",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/192770419-ddanzi-k-02-2.mp3"
+        },
+        {
+            "title": "2-1회 : 완구가 문제구만...",
+            "datePublished": "Tue, 23 Feb 2016 11:27:00 +0900",
+            "length": "01:16:11",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/191391794-ddanzi-k-02.mp3"
+        },
+        {
+            "title": "1회 : 우리는 모두 누군가의 호갱이었다.",
+            "datePublished": "Tue, 23 Feb 2016 11:26:00 +0900",
+            "length": "01:20:13",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/189248429-ddanzi-k-01.mp3"
+        }
+    ]
+}

@@ -1,0 +1,590 @@
+{
+    "artwork": "http://is3.mzstatic.com/image/thumb/Music62/v4/53/0e/e5/530ee50d-58e9-8097-0196-2ca8638fbb14/source/100x100bb.jpg",
+    "description": "Nels and Jesse talk about the card game Netrunner and its strategy, design and everything else fascinating about it.",
+    "feedURL": "http://www.idlethumbs.net/feeds/terminal7",
+    "podcastURL": "http://www.idlethumbs.net/terminal7",
+    "title": "Terminal7",
+    "episodes": [
+        {
+            "title": "Terminal7 83: End the Run",
+            "datePublished": "Wed, 29 Aug 2018 16:29:26 +0000",
+            "description": "After 83 episodes, Terminal7 comes to an end. Nels and Jesse discuss what made the game special, what it meant to them, if anything else could ever take its place (spoilers: no) and how we even got here. We're sad the game is ending, but happy for all the good times and friends we made along the way. So long, and thanks for all the clicks.",
+            "length": "63180225",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/491375457-idlethumbs-terminal7-83-end-the-run.mp3"
+        },
+        {
+            "title": "Terminal7 82: The Velvet Underground of Games",
+            "datePublished": "Sat, 25 Aug 2018 14:46:36 +0000",
+            "description": "In the penultimate episode of Terminal7, Nels and Jesse are joined by Run Last Click to say goodbye to our dear departed friend, Mister N. E. T. Runner.",
+            "length": "89396913",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/490466841-idlethumbs-terminal7-82-the-velvet-underground-of-games.mp3"
+        },
+        {
+            "title": "Terminal7 81: Tiny Boys Have Tiny Hands",
+            "datePublished": "Mon, 23 Jul 2018 17:58:56 +0000",
+            "description": "Terminal7 returns to Reign & Reverie! This time, the Runner side of things are discussed, include one precocious youth who hates cards, a troubled psychic clone and one very loud senator. Special guest Paul Gross joins Nels and Jesse to discuss the final half of the final expansion for Android: Netrunner.",
+            "length": "81140831",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/475253799-idlethumbs-terminal7-81-tiny-boys-have-tiny-hands.mp3"
+        },
+        {
+            "title": "Terminal7 80: The Most Lascivious Cat",
+            "datePublished": "Wed, 04 Jul 2018 15:53:06 +0000",
+            "description": "The final Netrunner expansion, deluxe or otherwise, is upon us and Nels and Jesse dig into the Corp side of Reign & Reverie. Pressing questions like \"What is the Sportmetal ball's shape\" and \"Why did we program these artificial bees to sting\" are examined, as well as some pretty sick cards.",
+            "length": "89448996",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/466878006-idlethumbs-terminal7-80-the-most-lascivious-cat.mp3"
+        },
+        {
+            "title": "Terminal7 79: Something Terminal Alright",
+            "datePublished": "Tue, 12 Jun 2018 16:52:51 +0000",
+            "description": "Well, all things must come to an end. And to this, Netrunner is no exception. The license for the game from Wizards of the Coast has expired without renewal, meaning Netrunner will end in October of this year. Nels and Jesse parse the details and, undeterred, also discuss Kampala Ascendant!",
+            "length": "72635909",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/457174173-idlethumbs-terminal7-79-something-terminal-alright.mp3"
+        },
+        {
+            "title": "Terminal7 78: A Different Kind of Parasite",
+            "datePublished": "Fri, 25 May 2018 17:41:26 +0000",
+            "description": "Nels and Jesse visit Owen Falls and explore the Whispers in Nalubaale. Come meet our new friend Freedom, but uh, maybe don't book a hotel in Mwanza.",
+            "length": "66981739",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/449103780-idlethumbs-terminal7-78-a-different-type-of-parasite.mp3"
+        },
+        {
+            "title": "Terminal7 77: Back in the Elephant Saddle",
+            "datePublished": "Thu, 19 Apr 2018 16:50:53 +0000",
+            "description": "Nels and Jesse were lost in the shifting sands of the desert, but have made their way back out with not one, but two data packs clasped beneath their burnoose. Council of the Crest *and* The Devil & The Dragon are within, and with it, the great quandary of what the \"O\" in SSO actually stands for.",
+            "length": "107996033",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/432126222-idlethumbs-terminal7-77-back-in-the-elephant-saddle.mp3"
+        },
+        {
+            "title": "Terminal7 76: False Pamplemousse",
+            "datePublished": "Fri, 23 Feb 2018 16:38:51 +0000",
+            "description": "It seemed like it would just be a slow boat down an ivory river but a surprise MWL update makes this jaunt most exciting. Nels and Jesse break down just exactly how hard CI got kicked and then head Down the White Nile to meet new royalty.",
+            "length": "91523026",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/403789935-idlethumbs-terminal7-76-false-pamplemousse.mp3"
+        },
+        {
+            "title": "Terminal7 75: Africa is Full of Snakes",
+            "datePublished": "Wed, 10 Jan 2018 16:54:08 +0000",
+            "description": "Groggily risen from hibernation by wild dogs crying out in the night, Nels and Jesse return to discuss the first pack of the new Kitara Cycle Sovereign Sight. What intrigues will transpire on the shores of Lake Victoria?",
+            "length": "83642445",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/381586808-idlethumbs-terminal7-75-africa-is-full-of-snakes.mp3"
+        },
+        {
+            "title": "Terminal7 74: Unorthodoxically Predicted",
+            "datePublished": "Tue, 31 Oct 2017 17:07:37 +0000",
+            "description": "Nels and Jesse make some unorthdox predictions about Worlds 2017 and invite you to do the same, for fame, glory and prizes!",
+            "length": "66120584",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/349470110-idlethumbs-terminal7-74-unorthodoxically-predicted.mp3"
+        },
+        {
+            "title": "Terminal7 73: Hanged in the Bloo Moose",
+            "datePublished": "Wed, 04 Oct 2017 20:08:45 +0000",
+            "description": "The world changed and, this time, the game did too. Not content to simply shake up the game with rotation, Netrunner now also has a Banned/Restricted list. And the episode was recorded *after* the news this time!\r\n\r\nThe Bloo Moose is blown, Aaron is axed, Faust is forbidden ... what are Runners and Corps to do in this new world? Join Nels and Jesse as they try to find out, because they aren't sure yet either.",
+            "length": "51609891",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/345376349-idlethumbs-terminal7-73-hanged-in-the-bloo-moose.mp3"
+        },
+        {
+            "title": "Terminal7 72: The He3 Conspiracy",
+            "datePublished": "Tue, 26 Sep 2017 16:32:22 +0000",
+            "description": "Terminal7's final broadcast from Mars arrives, bearing news of Crimson Dust and their machinations. There's quite the broadcast lag from Mars, but certainly not much has changed since the transmission was sent ... right?",
+            "length": "64575667",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/344009066-idlethumbs-terminal7-72-the-he3-conspiracy.mp3"
+        },
+        {
+            "title": "Terminal7 71: Banned from the Chess Club",
+            "datePublished": "Tue, 19 Sep 2017 16:00:38 +0000",
+            "description": "Nels and Jesse are joined by Run Last Click to discuss the Revised Core and wrap up rotation conversation. Come October 1st, the world will be changed ... again.",
+            "length": "99295102",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/343014332-idlethumbs-terminal7-71-banned-from-the-chess-club.mp3"
+        },
+        {
+            "title": "Terminal7 70: The Biggest Canyon",
+            "datePublished": "Fri, 15 Sep 2017 19:37:00 +0000",
+            "description": "After a long hiatus (sorry!), Nels and Jesse return to discuss the penultimate pack in the Red Sands cycle, Free Mars.\r\n\r\nAlso, this was recorded before the announcement of the Revised Core, so please ignore all the bits that were made obsolete/inaccurate less than twelve hours after this episode was recorded. FFG, you scamps!",
+            "length": "67928803",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/342531208-idlethumbs-terminal7-70-the-biggest-canyon.mp3"
+        },
+        {
+            "title": "Terminal7 69: Save Our Fetuses",
+            "datePublished": "Tue, 25 Jul 2017 16:47:20 +0000",
+            "description": "The rotation conversation continues, as Nels and Jesse move on to discuss what will happen with the cooperative of clones at Jinteki and the wily Weyland Consortium. There are many friends we'll miss, but could there be any we'll miss as much as a weird deadly psychic baby? Join and find out!",
+            "length": "60297304",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/334697461-idlethumbs-terminal7-69-save-our-fetuses.mp3"
+        },
+        {
+            "title": "Terminal7 68: Stop Stealing My Son",
+            "datePublished": "Thu, 20 Jul 2017 16:24:09 +0000",
+            "description": "The rotation situation continues to evolve, and Nels and Jesse dig into what this means for the Anarchs and Criminals. Are DLR going to be missed? Probably not, but what about everyone's favourite maybe-or-maybe-not bioroid son?",
+            "length": "63231942",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/334042001-idlethumbs-terminal7-68-stop-stealing-my-son.mp3"
+        },
+        {
+            "title": "Terminal7 67: Firing Only Silver Bullets",
+            "datePublished": "Thu, 13 Jul 2017 17:08:03 +0000",
+            "description": "Terminal7 is joined by Dan Spinosa (aka CodeMarvelous)to discuss all the wonderful things he does, as well as how rotation is going to alter the game in general and shape the Shaper game in particular.",
+            "length": "80410141",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/333042279-idlethumbs-terminal7-67-firing-only-silver-bullets.mp3"
+        },
+        {
+            "title": "Terminal7 66: That Warroid is a Dick",
+            "datePublished": "Tue, 04 Jul 2017 16:16:36 +0000",
+            "description": "Blood, water and other fluids dampen Mars as Nels and Jesse talk about the fourth data pack in the Red Sands cycle- Blood & Water! Obokata is Obo-killer, we're going down to old Maui and we love dumptrucks. Join us and we learn the secrets of Martian construction, no matter what the cost.",
+            "length": "76257747",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/331460671-idlethumbs-terminal7-66-that-warroid-is-a-dick.mp3"
+        },
+        {
+            "title": "Terminal7 65: The Opal Bites Back",
+            "datePublished": "Tue, 13 Jun 2017 17:28:12 +0000",
+            "description": "In the third pack of the Red Sands cycle, we see Jinteki has bamboo wackiness, Weyland has shipping locked down, the Anarchs love to keep on punchin' and, apparently, you can never trust the cleaners on Mars.",
+            "length": "72202473",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/327888232-idlethumbs-terminal7-65-the-opal-bites-back.mp3"
+        },
+        {
+            "title": "Terminal7 64: Dean Dean Lister",
+            "datePublished": "Tue, 06 Jun 2017 20:20:32 +0000",
+            "description": "Nels and Jesse are back of a bit of a scheduling fiasco to discuss the cards from Terminal Directive as just general parts of the card pool. And, more importantly, they attempt to discover if one truly can be chosen from birth to become a provost.",
+            "length": "88486905",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/326758946-idlethumbs-terminal7-64-dean-dean-lister.mp3"
+        },
+        {
+            "title": "Terminal7 63: Steve State",
+            "datePublished": "Thu, 27 Apr 2017 17:28:26 +0000",
+            "description": "Nels and Jesse have piled into the pub and made their way through the much-anticipated campaign expansion Terminal Directive (no relation). The first half of this cast is spoiler-free high-level impressions and in the second half, the spoiler gloves are cast aside and everything is fair game. Join us, figure out why those golems are killing people (maybe) and discover exactly how the game differs when you enter the \"Steve State.\"",
+            "length": "90932008",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/319643036-idlethumbs-terminal7-63-steve-state.mp3"
+        },
+        {
+            "title": "Terminal7 62: Kickback Douche and Big Arms Douche",
+            "datePublished": "Wed, 12 Apr 2017 16:30:20 +0000",
+            "description": "We make planetfall on Mars and discover that there are new cards even at Station One. One cha-ching new runner and one big-armed douche await, along with some very important pigeon facts. And because you so love pigeon facts, join Nels and Jesse as they discuss the second datapack in the Red Sands cycle.",
+            "length": "68746209",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/317262366-idlethumbs-terminal7-62-kickback-douche-and-big-arms-douche.mp3"
+        },
+        {
+            "title": "Terminal7 61: Corpse-Fueled Rocket",
+            "datePublished": "Wed, 08 Mar 2017 17:52:01 +0000",
+            "description": "Mars crimson planet and bringer of war is where the Red Sand cycle takes place.\r\n\r\nWeyland's Jemison rocketry division builds upon sacrifice, but will they achieve success? Will the runner's ... less good cards bring them success? We explode into space and find out in the Daedalus Complex!",
+            "length": "75173769",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/311314554-idlethumbs-terminal7-61-corpse-fueled-rocket.mp3"
+        },
+        {
+            "title": "Terminal7 60: The Most Consternation",
+            "datePublished": "Tue, 24 Jan 2017 19:28:41 +0000",
+            "description": "A Quorum has been reached as the Flashpoint Cycle comes to an end. Ṣifr has brought the sky crashing down ... or has it? Aaron Marrón is secretly really damn good. And it turns out we're all guilty of something. Join Terminal7 as the sun sets of Flashpoint and a new day waits just over a crimson horizon.",
+            "length": "101025909",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/304325608-idlethumbs-terminal7-60-the-most-consternation.mp3"
+        },
+        {
+            "title": "Terminal7 59: Controlling the Mustard",
+            "datePublished": "Tue, 20 Dec 2016 16:10:23 +0000",
+            "description": "The long arm of the army law has come to New Angeles. Martial Law has been declared and with it come so many things. The eponymous satrap of Caria, friends in all the right place, a Russian witch with a very strange brew and literal Mind Games. All this and more in the 5th data pack in the Flashpoint Cycle, so come dodge the curfew and join Terminal7 as we discuss it!",
+            "length": "108142775",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/298818921-idlethumbs-terminal7-59-controlling-the-mustard.mp3"
+        },
+        {
+            "title": "Terminal7 58: You're the Omar",
+            "datePublished": "Tue, 29 Nov 2016 16:06:49 +0000",
+            "description": "Terminal7 is joined by very special guest Dan Clark of Fantasy Flight Games to discuss his new Android: Netrunner novella Monster Slayer. What's Reina's favourite food? If GRNDL is this bad, what must GRNDL's mother be like? Join us and find out!",
+            "length": "71224130",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/295275558-idlethumbs-terminal7-58-youre-the-omar.mp3"
+        },
+        {
+            "title": "Terminal7 57: The Other Eggplant",
+            "datePublished": "Tue, 15 Nov 2016 18:38:57 +0000",
+            "description": "Worlds! Terminal Directive! Intervention! There's a lot to talk about, from that sneaky Smoke to Hass-Bioroid drawing up blueprints for the future, so join Nels & Jesse as they dive it to the latest datapack in the Flashpoint cycle and more more more.",
+            "length": "99849777",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/293177061-idlethumbs-terminal7-57-the-other-eggplant.mp3"
+        },
+        {
+            "title": "Terminal7 56: Bird Uncle",
+            "datePublished": "Tue, 25 Oct 2016 17:31:46 +0000",
+            "description": "Things have escalated. In looking at Escalation, the 3rd datapack in the Flashpoint cycle, we learn that Jinteki now has a really big buzzsaw, all the conspiracies really are true and why you should never own a parrot.",
+            "length": "105175410",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/289925416-idlethumbs-terminal7-56-bird-uncle.mp3"
+        },
+        {
+            "title": "Terminal7 55: You're Watching Us and We're Watching You",
+            "datePublished": "Tue, 20 Sep 2016 15:53:20 +0000",
+            "description": "After a brief hiatus, Terminal7 returns to talk blood and money. The most impactful datapack in quite some time, a fuchsia kitten, Genghis' legacy and one dedicated report means the fallout from the 23 Seconds Incident is just starting to be felt. This is the beginning, not the end.",
+            "length": "97686731",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/283793529-idlethumbs-terminal7-55-youre-watching-us-and-were-watching-you.mp3"
+        },
+        {
+            "title": "Terminal7 54: Electric Authorella",
+            "datePublished": "Tue, 09 Aug 2016 15:30:33 +0000",
+            "description": "Special Guest Leigh Alexander returns to Terminal7 once again, this time to discuss Monitor- her newly released novella set in the Android universe!\r\n\r\nLeigh discusses how she came to write about her favourite faction and why Jackson Howard is misunderstood (but still a little creepy). Monitor captures the intersection of surveillance, social media and entertainment that is the dark heart of NBN, so join Terminal7 in looking at our new favourite piece of Android fiction!",
+            "length": "77301115",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/277513229-idlethumbs-terminal7-54-electric-authorella.mp3"
+        },
+        {
+            "title": "Terminal7 53: Sing Me A Song of Deuces",
+            "datePublished": "Tue, 26 Jul 2016 20:20:42 +0000",
+            "description": "23 seconds was how long Titan Transnational's servers were offline. In meatspace, that's not even enough time to hum Sunshine Junction's theme song. But on the net, that's lifetimes and more.\r\n\r\nTrillions of credits are just gone. Who was behind the attack? Who stands of profit? How will Weyland react and how will its competitors take advantage of the situation? Fine out as Nels and Jesse discuss the first data pack of the Flashpoint cycle- 23 Seconds!",
+            "length": "108621765",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/275459755-idlethumbs-terminal7-53-sing-me-a-song-of-deuces.mp3"
+        },
+        {
+            "title": "Terminal7 52: I Forged A Lot of Ballots",
+            "datePublished": "Tue, 05 Jul 2016 15:18:52 +0000",
+            "description": "Mighty and mad, the massive masses are massing! Election day has finally come in the Indian Union and with it, change is in the air. But with charges of rigged results and a tragic political assassination, will this new government ever be seen as legitimate? And could any government hope to challenge the sway megacorporations hold over all of Mumbad?\r\n\r\nNels and Jesse discuss the final datapack in this most exciting Mumbad Cycle, so come along and see what you ought to Fear the Masses.",
+            "length": "114859574",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/272235757-idlethumbs-terminal7-52-i-forged-a-lot-of-ballots.mp3"
+        },
+        {
+            "title": "Terminal7 51: I Have Thoughts About Vanilla",
+            "datePublished": "Tue, 31 May 2016 16:54:51 +0000",
+            "description": "Nels and Jesse have their minds freed by the fifth data pack in the Mumbad Cycle. Paths most noble, chelas most liberated and brains most stormed, The Liberated Mind is perhaps the most wonderfully weird data pack yet. And most importantly, you'll discover things about spices you never knew.",
+            "length": "109658483",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/266641256-idlethumbs-terminal7-51-i-have-thoughts-about-vanilla.mp3"
+        },
+        {
+            "title": "Terminal7 50: The Sweetest Cyber-Butler",
+            "datePublished": "Tue, 17 May 2016 17:15:15 +0000",
+            "description": "Salsette Island's population is one of the highest and most dense of any island in the world. It's also got some of the fanciest, most exclusive parties and the most sophisticated bioroid butlers in all of the three worlds. What does the four data pack in the Mumbad Cycle offer? Join Nels and Jesse in crashing the soirée and find out!",
+            "length": "106314286",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/264583592-idlethumbs-terminal7-50-the-sweetest-cyber-butler.mp3"
+        },
+        {
+            "title": "Terminal7 49: Super New India",
+            "datePublished": "Tue, 26 Apr 2016 16:23:09 +0000",
+            "description": "Clone suffrage is the biggest political question in the Indian Union, but there is an even more fundamental question beneath it- are clones human? Echoing back to the outlawed caste system, the answer seems obvious on its surface. But the consequence are more wide-spread than they might first appear. If clones are people with the right to vote, does that mean Jinteki can now simply print new voters, genetically engineered toward a certain ideology?\r\n\r\nWhatever the outcome, the actions leading up to that decision will change the world's largest democracy forever. Terminal7 discusses those questions and more as they break down the third data back in the Mumbad cycle, Democracy & Dogma.",
+            "length": "105909891",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/260999768-idlethumbs-terminal7-49-super-new-india.mp3"
+        },
+        {
+            "title": "Terminal7 48: Priority Businessing",
+            "datePublished": "Tue, 29 Mar 2016 15:24:07 +0000",
+            "description": "We have arrived at the Gujarat district of Mumbad, home to the most prolific and advanced agricultural technology in all of the Indian Union. Jinteki's Pālanā Foods division is boasting breakthrough after breakthrough. But runners throughout the union are asking just how Jinteki is making those breakthroughs and at what cost. Rumours swirl about a defective clone line- is a scandal about to break?\r\n\r\nJoin Nels and Jesse as they try to determine if Business truly is First in the second data pack of the Mumbad cycle.",
+            "length": "108727990",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/255679854-idlethumbs-terminal7-48-priority-businessing.mp3"
+        },
+        {
+            "title": "Terminal7 47: Clone-Ridden Fields",
+            "datePublished": "Tue, 23 Feb 2016 17:13:08 +0000",
+            "description": "Nels and Jesse have taken the IDs selected by the community to a Store Championship. How did they fare? Was The Professor's tenure enough to shield him from the prying eyes of the Near-Earth Hub? Did Jinteki's new mind-mapping algorithms keep their servers safe from nefarious runners? A report and many listener questions are answered in this most clone-ridden of fields.",
+            "length": "66205866",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/248353602-idlethumbs-terminal7-47-clone-ridden-fields.mp3"
+        },
+        {
+            "title": "Terminal7 46: A Black Stone Horse",
+            "datePublished": "Tue, 09 Feb 2016 14:41:47 +0000",
+            "description": "Terminal7 finds itself in India! The sights, the sounds, the smells- like nothing we've seen before. Khala Ghoda begins the Mumbad cycle and from its artist colonies to its universities and temples, India has much to offer runners and corporations alike. How will this change how we steal and advance our agendas? Join Terminal7 and find out!",
+            "length": "85044949",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/246160160-idlethumbs-terminal7-46-a-black-stone-horse.mp3"
+        },
+        {
+            "title": "Terminal7 45: I Have Mapped a Lot of Minds",
+            "datePublished": "Tue, 26 Jan 2016 17:02:52 +0000",
+            "description": "The ballot boxes have been unsealed and the votes have been tallied. The result? Our listeners are kind but cruel! Terminal7's audience have selected the IDs Nels & Jesse will play for the next while. But what did they select? And how will Terminal7 approach their selections? The only way to find out is to jack in and hit play.",
+            "length": "76132353",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/243896022-idlethumbs-terminal7-45-i-have-mapped-a-lot-of-minds.mp3"
+        },
+        {
+            "title": "Terminal7 44: The Popo's Clampdown",
+            "datePublished": "Tue, 05 Jan 2016 14:47:41 +0000",
+            "description": "It's 2016 and he NAPD has a New Year's resolution- to kick down doors of Runners and Corporations alike all across New Angeles. Their Most Wanted List has introduced a potentially huge shakeup into how tournament decks are constructed.\r\n\r\nBut not to be outdone by the NAPD, Nels and Jesse have a heap of changes of their own. New resolutions abound, include a promise to clamp down on our own flightiness. Instead of drifting from deck to deck, they're going to focus on a pair of IDs each. But which IDs? That's up for the listeners to decide!\r\n\r\nLog your vote here and in a week, Nels and Jesse will take the top selections and focus on those decks for the next several months, at least.\r\n\r\nhttp://goo.gl/forms/XzmD6CZWV8",
+            "length": "64985950",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/240477815-idlethumbs-terminal7-44-the-popos-clampdown.mp3"
+        },
+        {
+            "title": "Terminal7 43: Carved the Eyes Out of My Head",
+            "datePublished": "Tue, 22 Dec 2015 15:53:25 +0000",
+            "description": "Chris and Eady from Run Last Click come over to Terminal7's house for the holidays, where we discuss 2015 in Netrunner. From Order & Chaos to Data & Destiny, with a delicious SanSan sandwich in between, what a year 2015 was. Highlights, lowlights and one very musical interlude await!",
+            "length": "86537465",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/238672262-idlethumbs-terminal7-43-carved-the-eyes-out-of-my-head.mp3"
+        },
+        {
+            "title": "Terminal7 42: An Unexpected Gatefold",
+            "datePublished": "Tue, 01 Dec 2015 16:10:23 +0000",
+            "description": "Terminal7 sits down with FFG's Dan Clark, Katrina Ostrander and Zoë Robinson to talk about Netrunner's Android setting, the upcoming Worlds of Android book and just how sweet cyberpunk India is.\r\n\r\n\r\nFor more on Zoë Robinson and the art of Netrunner, also see Terminal7 ep. 29 - https://www.idlethumbs.net/terminal7/episodes/out-of-work-intellectual-camp",
+            "length": "57972076",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/235591070-idlethumbs-terminal7-42-an-unexpected-gatefold.mp3"
+        },
+        {
+            "title": "Terminal7 41: Stew in the Garage",
+            "datePublished": "Tue, 24 Nov 2015 16:49:53 +0000",
+            "description": "The Netrunner World Championship of 2015 has come and gone, with legendary tales of crashed centrals and unassailable remotes resounding through the icy plains of Roseville, Minnesota. Joining Terminal7 to talk about their experiences are two of the 16 best Netrunner players in the world- 2nd place finisher Timmy Wong and the best Canadian player, Toronto's Dien Tran.\r\n\r\nWhat was their secret tech? Their most clutch plays? And why is there stew in the garage? Only Terminal7 episode 41 has the answers.",
+            "length": "123893635",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/234519153-idlethumbs-terminal7-41-stew-in-the-garage.mp3"
+        },
+        {
+            "title": "Terminal7 40: Their Building Has a Haircut",
+            "datePublished": "Tue, 10 Nov 2015 17:07:16 +0000",
+            "description": "Leigh Alexander joins Quintin Smith as Terminal7 returns to discuss the NBN half of Data & Destiny!\r\n\r\nNew Angeles' best news agency, the hottest marketing agency and the worldwide global information network- NBN's new divisions have introduced a whole heap of new playstyles. With new agendas, more currents, more adverts, a wicked new sysop and one very weird piece of ICE, there's a lot to love in the \"data\" half of Data & Destiny.\r\n\r\nWhat new decks will arise and how will these new offerings make their way into our favourite old NBN lists? Join us at 11!",
+            "length": "122213982",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/232451477-idlethumbs-terminal7-40-their-building-has-a-haircut.mp3"
+        },
+        {
+            "title": "Terminal7 39: This Room Made of Flesh",
+            "datePublished": "Tue, 03 Nov 2015 15:33:14 +0000",
+            "description": "The first bioroid to stand on the brink of true sentience- shocking.\r\n\r\nAn... AI? A virus of unheard of power and reach? Maybe some other life form beyond our thinking? Truly bizarre.\r\n\r\nAnd most surprising of all- a mom.\r\n\r\nQuintin Smith from Shut Up & Sit Down joins to discuss the not one, not two, but three new mini-factions that are Data & Destiny's Runners. How malicious is Apex? How can Adam break from his chains? Just how rad is Sunny's uniform? Join us to find out!",
+            "length": "109631833",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/231368169-idlethumbs-terminal7-39-this-room-made-of-flesh.mp3"
+        },
+        {
+            "title": "Terminal7 38: A Test with No Answers",
+            "datePublished": "Tue, 06 Oct 2015 15:34:20 +0000",
+            "description": "We stand on the brink of a date ... with data. And destiny. We are destined to date data. *ahem* With the impending release of Data & Destiny, each faction will now have one major expansion for each faction, plus three new mini-Runner factions. At such an interesting time in the game's development, Terminal7 sits down the Netrunner's lead designer Lukas Litzsinger to talk about the development of Data & Destiny.\r\n\r\nIn some ways, this brings the first chapter of the game to a close. Lukas will be granting the mantle of lead designer of Netrunner to Damon Stone, so we also discussed that changing of the guard, how board/card game design differs from video game design and how Madmen was a springboard into game design.",
+            "length": "85422068",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/227177362-idlethumbs-terminal7-38-a-test-with-no-answers.mp3"
+        },
+        {
+            "title": "Terminal7 37: Hold On to Your Butts",
+            "datePublished": "Tue, 22 Sep 2015 15:51:28 +0000",
+            "description": "Nels and Jesse arrive at The Universe of Tomorrow. What splendour! What majesty! Even entrepreneur, investor and magnate Laramy Fisk has been seen at the expo.\r\n\r\nAll of the Big Four has setup their own pavilions and plazas, but whose is the most impressive? Perhaps it's not even any of the technological marvels on display at the expo itself, but rather the recent announcement of H-B sponsoring the SanSan Outlaws? Only time will tell, but there is no question that The Universe of Tomorrow is a herald for things to come.",
+            "length": "74411424",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/225056447-idlethumbs-terminal7-37-hold-on-to-your-butts.mp3"
+        },
+        {
+            "title": "Terminal7 36: Amusement Unshackled",
+            "datePublished": "Tue, 15 Sep 2015 15:35:27 +0000",
+            "description": "Nearing the end of the SanSan Cycle, we come to Old Hollywood. But always fashionably late to the party, Old Hollywood is replete with glitz, glamour and a heap of interesting new cards. NBN's Executive VP for Media Relations Leigh Alexander joins us to sort the masterpieces from the award bait.",
+            "length": "91720709",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/223978765-idlethumbs-terminal7-36-amusement-unshackled.mp3"
+        },
+        {
+            "title": "Terminal7 35: A Sad Gnome Statue",
+            "datePublished": "Thu, 27 Aug 2015 15:30:31 +0000",
+            "description": "Their cyberdecks were emblazoned with inukshuks, wild roses, le Fleurdelisé and even the simple maple leaf, but they were all there for one purpose- to win Canadian Netrunner Nationals.\r\n\r\nTerminal7 is joined by its first Winnipegger guests Ciara and Craig, to talk about their trip to Canadian Nationals, what decks they packed and how to deceive your opponents without ever even trying.\r\n\r\n",
+            "length": "83517504",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/221142437-idlethumbs-terminal7-35-a-sad-gnome-statue.mp3"
+        },
+        {
+            "title": "Terminal7 34: I'm the Crab in the Bucket",
+            "datePublished": "Tue, 11 Aug 2015 16:32:39 +0000",
+            "description": "With the Netrunner Canadian Nationals (Netrunner nationale du Canada) looming, Terminal7 is joined by Vancouver player Keith Gaudry to discuss all the factors that go into preparing for a big event. Reading the meta, deck composition, dealing with data packs released days (or day!) before the event- all play into how to get ready for a big event.\r\n\r\nAnd Keith reveals his secret weapon. No spoilers, but here's a hint- \"sausages.\"",
+            "length": "76696089",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/218938611-idlethumbs-terminal7-34-im-the-crab.mp3"
+        },
+        {
+            "title": "Terminal7 33: Let's Get on this Weird Steamboat",
+            "datePublished": "Tue, 07 Jul 2015 15:35:45 +0000",
+            "description": "The Underway belongs to the Muertos. They can be powerful allies to the Runners, but be careful, once you step on their turf, you're playing by their rules. The fourth pack in the SanSan Cycle sees a host of new Criminal cards, including one very unique ID. Not to be outdone, the corporations can now out Runners for working with such merciless criminals or just simply hire a hitman. For both sides, the seedy depths of the Underway offers some very interesting possibilities.",
+            "length": "81938923",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/217845054-idlethumbs-terminal7-33-lets-get-on-this-weird-steamboat.mp3"
+        },
+        {
+            "title": "Terminal7 32: Fundamentally Fundamental",
+            "datePublished": "Tue, 30 Jun 2015 16:30:55 +0000",
+            "description": "Finally wrapped up a much dispersed series about Runner archetypes, Nels & Jesse discuss the high-level archetypes of each faction and what makes them distinct. Also \"fundamental\" is said a lot.",
+            "length": "98795723",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/218978412-idlethumbs-terminal7-32-fundamentally-fundamental.mp3"
+        },
+        {
+            "title": "Terminal7 31: A Dog Steals Your Skull",
+            "datePublished": "Tue, 09 Jun 2015 15:36:32 +0000",
+            "description": "The BC Regional took place last weekend, and Terminal7 was out in full force. Jesse constructed his Corp deck by drafting against himself, join to learn how such things are possible.\r\n\r\nWe have also arrived in the dark alleys of Chrome City and their greymarket cyberware dealers. Is it worth having your face peeled off so your boring normal skull can be upgraded to a rad metal skull? Only one way to find out!",
+            "length": "110135474",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/217844397-idlethumbs-terminal7-31-a-dog-steals-your-skull.mp3"
+        },
+        {
+            "title": "Terminal7 30: Some Bass Next Door",
+            "datePublished": "Tue, 12 May 2015 15:40:25 +0000",
+            "description": "Nels & Jesse arrive at the University of the Californias at Breaker Bay and it's game day! Getting a campus tour from a young astrophysics student, the scale of the London Library and the Tyson Observatory are both quite impressive. And all the megacorps are on campus today, at a hiring fair. They're scouting for new talent, showing off their impressive new server-specific ICE. Excitement, energy and one wicked party out by Monterey Bay.\r\n\r\nSo, only one question remains - who is inside the Finn mascot costume? \r\n\r\nGo Sharks!",
+            "length": "81531907",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/217844138-idlethumbs-terminal7-30-some-bass-next-door.mp3"
+        },
+        {
+            "title": "Terminal7 29: Out of Work Intellectual Camp",
+            "datePublished": "Tue, 21 Apr 2015 16:20:41 +0000",
+            "description": "Netrunner's art director Zoë Robinson of Fantasy Flight Games joins Nels & Jesse to talk about the creative and visual design processes behind bringing the game to life. Everything from working with freelancers to what sounds like the world's best meetings to how to an artificial intelligence sees itself in cyberspace. And if that didn't go deep enough, a long-shared but hitherto unknown family secret between Nels and Zoë is also revealed!",
+            "length": "92773613",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/217841199-idlethumbs-terminal7-29-out-of-work-intellectual-camp.mp3"
+        },
+        {
+            "title": "Terminal7 28: I Believe Denzel is Symmetrical",
+            "datePublished": "Tue, 14 Apr 2015 15:25:33 +0000",
+            "description": "The SanSan Cycle begins in the biotech hub of northern California. The Valley hosts the best and brightest biotechology companies in the world and their breakthroughs are now available for both corporations and runner.  A new Jinteki ID has one of the three different abilities, secretly selected by the corp at the start of the game. Runners can now splice their genetic code to be smart, faster, better. Cyberware is tired and primitive, the future is modifying the very programming of life itself.",
+            "length": "90798235",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/217840047-idlethumbs-terminal7-28-i-believe-denzel-is-symmetrical.mp3"
+        },
+        {
+            "title": "Terminal7 27: The Worst was Had by You",
+            "datePublished": "Tue, 31 Mar 2015 15:23:28 +0000",
+            "description": "Picking up where things were left off all the way back in episode 23, the discussion of deck archetypes return! This time it's subtle but dangerous Jinteki and the wealthy and unscrupulous Weyland. What are the most common archetypes with each faction and what IDs enable these archetypes? Nels and Jesse discuss this, plus an exciting  announcement that Terminal7 has fully sold out! (Note: not really)",
+            "length": "107470620",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/217839107-idlethumbs-terminal7-27-the-worst-was-had-by-you.mp3"
+        },
+        {
+            "title": "Terminal7 26: Life as a Dung Beetle",
+            "datePublished": "Tue, 17 Mar 2015 14:46:58 +0000",
+            "description": "Live from the Terminal City Tabletop Convention, Nels and Jesse are joined by Eddy Boxerman and Dave Burke, the creators of the new competitive (but non-LCG) card game, Karmaka! As big fans of Netrunner, Eddy and Dave talk about how Netrunner influenced Karmaka, how they differ and what their experience has been like designing a competitive card game.",
+            "length": "64902436",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/217838863-idlethumbs-terminal7-26-life-as-a-dung-beetle.mp3"
+        },
+        {
+            "title": "Terminal7 25: Code Gates are Creamy",
+            "datePublished": "Tue, 17 Feb 2015 17:21:44 +0000",
+            "description": "Continuing to the Anarch half of Order & Chaos, Quinns from Shut Up & Sit Down returns to throw caution to the wind and live like there's no tomorrow! Little unifies the Anarchs beyond their proclivity for destruction and oh boy, does Order & Chaos ever offer up destruction. Between Kim's hammer, Valencia's truth-at-any-cost and MaxX's two finger salute, Anarchs have never been more varied or more vibrant.",
+            "length": "107133637",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/217838091-idlethumbs-terminal7-25-code-gates-are-creamy.mp3"
+        },
+        {
+            "title": "Terminal7 24: Encountering Cosmic ICE",
+            "datePublished": "Tue, 10 Feb 2015 16:27:27 +0000",
+            "description": "Order & Chaos has finally been released! Netrunner's newest deluxe expansion focusing exclusively on the Weyland consortium and the Anarchs is here, providing myriad new options for both factions. Not to break with tradition, Quinns from Shut Up & Sit Down joins Terminal7 to discuss these new developments.\r\n\r\nIn this first of a two-part O&C extravaganza, the new acquisitions of the Weyland consortium are discussed. Replete with credits and infamous for their sometimes harsh measures, O&C sees Weyland aim for the stars with extraterrestrial facilities, ICE and initiatives, perhaps this is a more charitable, progressive Weyland. Then again, they're \"liberating\" people from tyrants they didn't even know they had, so perhaps not.",
+            "length": "136211581",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/217838033-idlethumbs-terminal7-24-encountering-cosmic-ice.mp3"
+        },
+        {
+            "title": "Terminal7 23: Broom-Hands",
+            "datePublished": "Mon, 19 Jan 2015 16:40:27 +0000",
+            "description": "Returning fresh in 2015, Nels and Jesse are going to be discussing the major deck archetypes of all seven the game's factions. First up is the Teutonic titan of efficiency Haas-Bioroid and slick, surveilling NBN.\r\n\r\nBoth corporations has strong fast advance tools that can close out a game in the blink of an eye. But the eponymous bioroids of H-B and some recent new developments at NBN provide both factions some interesting options to secure their agendas and ensure victory is always just out of the runner's grasp.",
+            "length": "118170592",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/217837694-idlethumbs-terminal7-23-broom-hands.mp3"
+        },
+        {
+            "title": "Terminal7 22: It's Giving You Lyme Disease",
+            "datePublished": "Mon, 22 Dec 2014 16:28:36 +0000",
+            "description": "We gave gone upstalk, into orbit and all the way to the moon. There, we found The Source and have brought it back to earth. Nels & Jesse discuss the concluding, but no less thrilling, data pack in The Lunar Cycle.\r\n\r\nPlus, with the holidays coming up, tips are provided on how to give the mostly kingly gift anyone could ever hope to receive- the gift of (learning how to play) Netrunner.",
+            "length": "119022340",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/217833964-idlethumbs-terminal7-22-its-giving-you-lyme-disease.mp3"
+        },
+        {
+            "title": "Terminal7 21: Way Too Much Chlorine",
+            "datePublished": "Wed, 26 Nov 2014 16:16:55 +0000",
+            "description": "With the Netrunner World Championships finished, All That Remains is for Nels & Jesse to talk to top 16 player Brody Lodmell about his time at Worlds, his decks and what makes Minnesota grocery stores so special. Oh, and something about the newest data pack.",
+            "length": "135145156",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/217832377-idlethumbs-terminal7-21-way-too-much-chlorine.mp3"
+        },
+        {
+            "title": "Terminal7 20: Your Local Meta",
+            "datePublished": "Wed, 12 Nov 2014 17:04:45 +0000",
+            "description": "Netrunner is characterized by its diverse and friendly communities, all with their own quirks, tales and personalities. To celebrate this - and the Netrunner World championships this past weekend - Nels & Jesse talk to friends around the world about their local metas, why they are interesting and what makes them excited to play the game.",
+            "length": "117670016",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/217831366-idlethumbs-terminal7-20-your-local-meta.mp3"
+        },
+        {
+            "title": "Terminal7 19: That's Just My Presumptuousness",
+            "datePublished": "Thu, 23 Oct 2014 15:17:45 +0000",
+            "description": "Nels and Jesse go Up & Over to see what the fourth data pack in the Lunar Cycle has in store. From the unlimited energy at reasonable prices of Blue Sun to the vicious precision of Switchblade to the interesting - yet baffling - Angel Arena, Up & Over is clear that the moon has not given up all of its secrets quite yet.",
+            "length": "98775168",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/217829771-idlethumbs-terminal7-19-thats-just-my-presumptuousness.mp3"
+        },
+        {
+            "title": "Terminal7 18: Smash That Brain with a Rock",
+            "datePublished": "Mon, 22 Sep 2014 16:12:29 +0000",
+            "description": "First Contact is made with the latest data pack in the Lunar Cycle. Nels & Jesse meet a new Anarch with beautiful plumage, touch a fragment of Hades itself and discuss how the world as a cyperpunk dystopia has become one step closer to reality.",
+            "length": "109631616",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/217827629-idlethumbs-terminal7-18-smash-that-brain-with-a-rock.mp3"
+        },
+        {
+            "title": "Terminal7 17: A Duel of the Fates",
+            "datePublished": "Thu, 21 Aug 2014 15:53:51 +0000",
+            "description": "People like data because it's simple, honest, specific. It's either 0 or it's 1 and there's nothing in between. While that might be true for individual bits, the best runners knows that in aggregate, data isn't static. It flows and changes, depending on where it lives. Like a raging river, data too has eddies, undertow and currents.\r\n\r\nNels and Jesse explore The Spaces Between this data, looking at the latest data pack in the Lunar Cycle and its introduction of a new type of event- currents. Also discussed is the Overdrive draft set, which includes a number of as-yet unreleased Lunar Cycle cards and how they hint at things yet to come.",
+            "length": "112791680",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/217826301-idlethumbs-terminal7-17-a-duel-of-the-fates.mp3"
+        },
+        {
+            "title": "Terminal7 16: Because That's Racist",
+            "datePublished": "Thu, 31 Jul 2014 16:43:29 +0000",
+            "description": "Upstalk's release has opened the doors of the Great Glass (Space) Elevator and now Nels and Jesse see what lies at Midway. Will the Near-Earth Broadcast Hub allow NBN to further extend their reach and ability to blitz out agendas? Will Nasir Meidan and his profoundly bizarre but fascinating approach to ICE encourage new styles of play? Head upstalk and find out!",
+            "length": "105808000",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/217825120-idlethumbs-terminal7-16-because-thats-racist.mp3"
+        },
+        {
+            "title": "Terminal7 15: That Mechanical Meat",
+            "datePublished": "Mon, 23 Jun 2014 16:06:42 +0000",
+            "description": "Nels & Jesse are joined by a very special guest this week- Android: Netrunner co-designer Damon Stone. We discuss design process, how theme and mechanics get wedded together in Netrunner and Damon moonlighting as a jet-setting dance instructor.",
+            "length": "104939648",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/217822593-idlethumbs-terminal7-15-that-mechanical-meat.mp3"
+        },
+        {
+            "title": "Terminal7 14: A Mitt Full of Hot Garbage",
+            "datePublished": "Mon, 09 Jun 2014 15:33:51 +0000",
+            "description": "In two days, Nels & Jesse played 40 games of Netrunner between them ... and they were still hungry for more! In one weekend, Terminal7 hosted their first draft tournament as well as their first post-Honour & Profit standard tournament. These tournaments are examine post-mortem with thoughts on the draft format and what it looks like seeing Jinteki's new hazards and the Criminals new tricks in practice.",
+            "length": "83253376",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/217822313-idlethumbs-terminal7-14-a-mitt-full-of-hot-garbage.mp3"
+        },
+        {
+            "title": "Terminal7 13: The Emotional Damage Dealt",
+            "datePublished": "Mon, 12 May 2014 17:36:49 +0000",
+            "description": "<i>The buzzing conversation was halted by a chorus of knives tapping on champagne glasses. \"Chairman Hiro-sama is pleased to announced a revolutionary new treatment for Toxic Allergy Syndrome, developed by the Jinteki corporation's Harmony division. But of course, this breakthrough would not be possible without your extremely  gracious support, without which Jinteki's charitable works would not be possible.\"<p/>\r\n\r\nTori Hanzō glanced at the live feed, and noticed the tall blond woman in a red dress give a slightly too familiar glance to a silver-haired waiter. The exotic and glamorous locations for these fundraisers - never held in same place twice- made their connections notorious difficult to secure. Tori expected an intrusion to be detected within three minutes, but her calm was that of an unbroken pond. Resembling the shīsā that stood sentry on rooftops in her Okinawan hometown, Tori knew the newly developed ICE she had just activated would be more than adequate to ward off bad spirits, whatever form they may take.<p/></i>\r\n\r\nHonour & Profit has arrived! And Quintin Smith of Shut Up & Sit Down joins Nels and Jesse to gingerly scamper across this new digital minefield. Is Jinteki deadlier than ever? Are the Criminals more replete with tricks and unorthodox tactics than ever before? Lucky episode 13 discovers the answers to these questions ... unless that was just another bluff?",
+            "length": "153864320",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/217819969-idlethumbs-terminal7-13-the-emotional-damage-dealt.mp3"
+        },
+        {
+            "title": "Terminal7 12: Seventeen Random Accesses",
+            "datePublished": "Mon, 28 Apr 2014 16:27:07 +0000",
+            "description": "Corporate reputations are in tatters, runners' brains have seen countless neurons dissolved and questionable off-shore drilling platforms remain under digital assault. Nels & Jesse are joined by Lantz the Younger (James, to be specific) to recap the Spin Cycle, discuss how the game has changed between Opening Moves and Double Time and what we have to look forward to in the near future.",
+            "length": "86081664",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/217819470-idlethumbs-terminal7-12-seventeen-random-accesses.mp3"
+        },
+        {
+            "title": "Terminal7 11: Your Parade of Imbeciles",
+            "datePublished": "Mon, 07 Apr 2014 15:41:11 +0000",
+            "description": "The release of Double Time sees the Spin Cycle come to a close. Filled with powerful but time-consuming double events, will these prove to be a lucky find for the runner or much needed corporate shuffle for the faceless bureaucracies? Nels & Jesse find out and you should come along!",
+            "length": "0",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/217818187-idlethumbs-terminal7-11-your-parade-of-imbeciles.mp3"
+        },
+        {
+            "title": "Terminal7 10: GDC 2014 Daily Casts Spectacular!",
+            "datePublished": "Mon, 31 Mar 2014 09:10:22 +0000",
+            "description": "Nels & Jesse traveled to the Game Developer's Conference and talked to a ton of our favourite Netrunner players. First, Anthony Burch of Hey Ash Watcha Playin' and lead writer of Borderlands 2 and Paul Dean of Shut Up & Sit Down discuss their recent arrival to the game. Next Charlene Putney and Theresa Duringer discuss their strategies and perspectives. NYU's professor arrives next to Frank Lantz talk about The Local Meta and his thoughts on the game. Penultimately, Jorge Albor, Mathew Kumar and Emily Flynn-Jones get together after a GDC Netrunner meetup. And finally, we are joined again by Leigh Alexander, who runs us through the myth of Enby-chan.",
+            "length": "131473536",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/217817011-idlethumbs-terminal7-ep-10-gdc-2014-daily-casts-spectacular.mp3"
+        },
+        {
+            "title": "Terminal7 9: The Bush Shaking with Guns",
+            "datePublished": "Mon, 10 Mar 2014 09:22:02 +0000",
+            "description": "Fear & Loathing finds Nels & Jesse standing at the door of the Geostrategic Research & Neothermal Development Laboratories. The newest data pack in the Spin Cycle is discussed, along with some of our favourite but less commonly seen Neutral cards. And an exciting announcement about a new event happening at the end of May in Terminal City (literally and figuratively) awaits in the twilight of this episode.",
+            "length": "0",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/217816485-idlethumbs-terminal7-ep-9-the-bush-shaking-with-guns.mp3"
+        },
+        {
+            "title": "Terminal7 8: Eventually Your Breathing Will Stop",
+            "datePublished": "Sat, 22 Feb 2014 16:47:02 +0000",
+            "description": "Our first meat-space guest, Klei and BioShock: Infinite designer Seth Rosen joins Nels and Jesse to talk about tips for newcomers. With the complexity of a game like Netrunner, learning how to play is just one step down a long cyberroad to victory. But perhaps Seth will help folks, new and veteran alike, get a little further down that path.",
+            "length": "66574464",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/217815182-idlethumbs-terminal7-8-eventually-your-breathing-will-stop.mp3"
+        },
+        {
+            "title": "Terminal7 7: His Toy-Making Genius",
+            "datePublished": "Sun, 09 Feb 2014 20:37:54 +0000",
+            "description": "Is NBN a cold, unfeeling corporate monolith with little respect for privacy and even less for ethics? Special guest and NBN PR Director Leigh Alexander says nothing could be farther from the truth! She joins Nels and Jesse to talk about what is without question her favourite faction. From the misunderstood Jackson Howard to the tag avalanche of Midseason Replacements, NBN is definitely one an unusual but exciting organization. Also examined is the Criminal faction, with their crushing events and endless fonts of money.",
+            "length": "89751680",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/217815001-idlethumbs-terminal7-7-his-toy-making-genius.mp3"
+        },
+        {
+            "title": "Terminal7 6: We are the Homunculus",
+            "datePublished": "Mon, 27 Jan 2014 06:38:32 +0000",
+            "description": "Our True Colours are revealed as Nels and Jesse discuss that latest data pack in the Spin Cycle. Additionally, the multi-week faction breakdown continues with the second runner faction and the third corporation. Much to Jesse's delight, we take a look at the indiscriminately destructive Anarchs along with the deep coffers and dubious ethics of The Weyland Consortium.",
+            "length": "103024768",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/217813101-idlethumbs-terminal7-6-we-are-the-homunculus.mp3"
+        },
+        {
+            "title": "Terminal7 5: The Actual Best Thing",
+            "datePublished": "Tue, 07 Jan 2014 16:40:26 +0000",
+            "description": "Terminal7 hosts its first special guest as the illustrious Quintin Smith of Shut Up & Sit Down joins Nels and Jesse to talk all things Netrunner! Continuing our multi-week faction discussion, the most interesting/evocative cards from not-quite-human manufacturing empire of Haas-Bioroid are highlighted before moving on to the genius and expertise of the Shapers.",
+            "length": "119150720",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/217811746-idlethumbs-terminal7-ep-5-the-actual-best-thing.mp3"
+        },
+        {
+            "title": "Terminal7 4: Like the Prawn",
+            "datePublished": "Mon, 23 Dec 2013 09:37:12 +0000",
+            "description": "Mala Tempora has been released, so Nels and Jesse push past an etymological conundrum and talk about some of the most interesting cards in this new data pack. And with the announcement of Honour & Profit, the next deluxe expansion that will focus exclusively on Jinteki and Criminal, a multi-week faction discussion begins! Nels and Jesse look at the design, theme and iconic cards of the Jinteki corporation, with the rest of the factions to come in the weeks ahead.",
+            "length": "106174523",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/217811544-idlethumbs-terminal7-ep-4-like-the-prawn.mp3"
+        },
+        {
+            "title": "Terminal7 3: Burning the Box",
+            "datePublished": "Tue, 03 Dec 2013 16:56:08 +0000",
+            "description": "On this tripartite cast, Nels and Jesse give their reading on Second Thoughts (note: egregious \"thoughts\" pun was not made), FFG's announcement of an upcoming drafting format for Netrunner and how to run a wicked tournament.",
+            "length": "82393216",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/217809495-idlethumbs-terminal7-ep-3-burning-the-box.mp3"
+        },
+        {
+            "title": "Terminal7 2: I Flatlined An Eight Year-Old Girl",
+            "datePublished": "Mon, 18 Nov 2013 18:48:59 +0000",
+            "description": "Nels and Jesse discuss playing in FFG's Plugged-In Tour tournament in Seattle. Jesse did tremendously well while Nels unceremoniously flatlined a child he did not know. Nels also got a chance to play Lukas Litzsinger, the lead designer of Android: Netrunner. You can guess how well that went. Opening Moves is briefly discussed and plans for the future are laid out.",
+            "length": "65605453",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/217809056-idlethumbs-terminal7-ep-2-i-flatlined-an-eight-year-old-girl.mp3"
+        },
+        {
+            "title": "Terminal7 1: Tiny, Tiny Meta",
+            "datePublished": "Mon, 11 Nov 2013 14:52:02 +0000",
+            "description": "Nels from Campo Santo and Jesse from Slick Entertainment like Netrunner so much, they couldn't help but make a podcast about it. Terminal7 is that podcast. We hope you're join us whether you're a Netrunner aficionado or if you've never played a card game in your life. We also may have briefly hacked the main Idle Thumbs site. Sorry guys, but it was thematically appropriate!",
+            "length": "59930717",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/217808799-idlethumbs-terminal7-ep-1-tiny-tiny-meta.mp3"
+        }
+    ]
+}

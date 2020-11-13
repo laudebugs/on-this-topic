@@ -1,0 +1,1857 @@
+{
+    "artwork": "http://is5.mzstatic.com/image/thumb/Music62/v4/b5/fc/3c/b5fc3cd7-cfdb-34f7-f147-22ed4efa2d4c/source/100x100bb.jpg",
+    "description": "Podcast by Sooner Radio Network",
+    "feedURL": "http://feeds.soundcloud.com/users/soundcloud:users:69630438/sounds.rss",
+    "podcastURL": "http://soundcloud.com/sooner-radio-network",
+    "title": "Sooner Radio Network",
+    "episodes": [
+        {
+            "title": "OU - WVU Final Shot Big 12 Tourney 2019",
+            "datePublished": "Thu, 14 Mar 2019 12:36:52 +0000",
+            "description": "OU-WVU Final Shot",
+            "length": "577666",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/589916478-sooner-radio-network-ou-wvu-final-shot-big-12-tourney-2019.mp3"
+        },
+        {
+            "title": "Bedlam Hilites 2019 (Stillwater)",
+            "datePublished": "Thu, 24 Jan 2019 14:00:22 +0000",
+            "description": "Bedlam Hoops Hilites Stillwater",
+            "length": "4207033",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/563877753-sooner-radio-network-bedlam-hilites-2019-stillwater.mp3"
+        },
+        {
+            "title": "OU - TCU Hilites 2019 (Norman)",
+            "datePublished": "Sun, 13 Jan 2019 00:02:11 +0000",
+            "description": "OU-TCU Hoops Hilites",
+            "length": "2258777",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/558138483-sooner-radio-network-ou-tcu-hilites-2019-norman.mp3"
+        },
+        {
+            "title": "Bedlam Hilites 2019 (Norman)",
+            "datePublished": "Sun, 06 Jan 2019 01:12:24 +0000",
+            "description": "Bedlam Hilites 2019 (Norman)",
+            "length": "4727421",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/554686944-sooner-radio-network-bedlam-hilites-2019-norman.mp3"
+        },
+        {
+            "title": "OU - NW Hilites 2018",
+            "datePublished": "Sat, 22 Dec 2018 06:00:07 +0000",
+            "description": "OU-NW hoops hilites",
+            "length": "2793751",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/548585976-sooner-radio-network-ou-nw-hilites-2018.mp3"
+        },
+        {
+            "title": "OU - USC Hilites 2018",
+            "datePublished": "Sun, 16 Dec 2018 17:19:23 +0000",
+            "description": "OU-USC hilites",
+            "length": "2951324",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/545813271-sooner-radio-network-ou-usc-hilites-2018.mp3"
+        },
+        {
+            "title": "OU - Wichita State Hilites + Kruger Post 2018",
+            "datePublished": "Sat, 08 Dec 2018 21:50:53 +0000",
+            "description": "OU-Wichita State hoops",
+            "length": "4248223",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/541772853-sooner-radio-network-ou-wichita-state-hilites-kruger-post-2018.mp3"
+        },
+        {
+            "title": "OU - ND Hilites 2018",
+            "datePublished": "Wed, 05 Dec 2018 15:08:34 +0000",
+            "description": "OU-ND Hoops Hilites",
+            "length": "2196907",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/540177975-sooner-radio-network-ou-nd-hilites-2018.mp3"
+        },
+        {
+            "title": "OU - Texas (B12 Champ) Hilites 2018",
+            "datePublished": "Sun, 02 Dec 2018 21:34:36 +0000",
+            "description": "OU-Texas (B12 Champ) Hilites",
+            "length": "3435306",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/538843536-sooner-radio-network-ou-texas-b12-champ-hilites-2018.mp3"
+        },
+        {
+            "title": "OU - Dayton Hilites 2018",
+            "datePublished": "Sat, 24 Nov 2018 18:30:08 +0000",
+            "description": "OU-Dayton Hoops Hilites 2018",
+            "length": "3069200",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/534878073-sooner-radio-network-ou-dayton-hilites-2018.mp3"
+        },
+        {
+            "title": "OU - WVU Hilites 2018",
+            "datePublished": "Sat, 24 Nov 2018 18:18:50 +0000",
+            "description": "OU-WVU Hilites 2018",
+            "length": "4142497",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/534873528-sooner-radio-network-ou-wvu-hilites-2018.mp3"
+        },
+        {
+            "title": "OU - Wofford Hilites 2018",
+            "datePublished": "Mon, 19 Nov 2018 00:01:04 +0000",
+            "description": "OU-Wofford Hilites 2018",
+            "length": "1074270",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/531960396-sooner-radio-network-ou-wofford-hilites-2018.mp3"
+        },
+        {
+            "title": "OU - KU Hilites 2018",
+            "datePublished": "Sun, 18 Nov 2018 23:46:43 +0000",
+            "description": "OU-KU Hilites 2018",
+            "length": "3123532",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/531955491-sooner-radio-network-ou-ku-hilites-2018.mp3"
+        },
+        {
+            "title": "Bedlam Hilites 2018",
+            "datePublished": "Sun, 11 Nov 2018 19:17:22 +0000",
+            "description": "Bedlam Hilites 2018",
+            "length": "4504052",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/528249258-sooner-radio-network-bedlam-hilites-2018.mp3"
+        },
+        {
+            "title": "OU - TT Hilites 2018",
+            "datePublished": "Sun, 04 Nov 2018 19:08:18 +0000",
+            "description": "OU-TT Hilites 2018",
+            "length": "3789721",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/524729463-sooner-radio-network-ou-tt-hilites-2018.mp3"
+        },
+        {
+            "title": "OU - KSU Hilites 2018",
+            "datePublished": "Sun, 28 Oct 2018 17:40:53 +0000",
+            "description": "OU-KSU Hilites 2018",
+            "length": "2416348",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/521180403-sooner-radio-network-ou-ksu-hilites-2018.mp3"
+        },
+        {
+            "title": "OU - TCU Hilites 2018",
+            "datePublished": "Sun, 21 Oct 2018 16:57:38 +0000",
+            "description": "OU-TCU Hilites",
+            "length": "3057926",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/517645773-sooner-radio-network-ou-tcu-hilites-2018.mp3"
+        },
+        {
+            "title": "OU - Baylor Hilites 2018",
+            "datePublished": "Sun, 30 Sep 2018 13:41:50 +0000",
+            "description": "OU-Baylor Hilites 2018",
+            "length": "3929789",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/507342684-sooner-radio-network-ou-baylor-hilites-2018.mp3"
+        },
+        {
+            "title": "OU - Army Hilites 2018",
+            "datePublished": "Sun, 23 Sep 2018 19:53:36 +0000",
+            "description": "OU-Army Hilites 2018",
+            "length": "2146767",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/504084489-sooner-radio-network-ou-army-hilites-2018.mp3"
+        },
+        {
+            "title": "OU - ISU Hilites 2018",
+            "datePublished": "Sun, 16 Sep 2018 19:52:17 +0000",
+            "description": "OU-ISU Hilites 2018",
+            "length": "3614629",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/500807931-sooner-radio-network-ou-isu-hilites-2018.mp3"
+        },
+        {
+            "title": "OU - UCLA Hilites 2018",
+            "datePublished": "Mon, 10 Sep 2018 13:33:28 +0000",
+            "description": "OU-UCLA Hilites 2018",
+            "length": "3660193",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/497869863-sooner-radio-network-ou-ucla-hilites-2018.mp3"
+        },
+        {
+            "title": "OU - DBU Hilites+Skip Post",
+            "datePublished": "Wed, 07 Mar 2018 04:20:47 +0000",
+            "description": "OU-DBU Baseball Hilites+Skip Post",
+            "length": "2404705",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/409857948-sooner-radio-network-ou-dbu-hilitesskip-post.mp3"
+        },
+        {
+            "title": "OU DH Sweep Hilites",
+            "datePublished": "Sun, 25 Feb 2018 23:57:02 +0000",
+            "description": "OU DH Sweep Hilites",
+            "length": "1849092",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/405177066-sooner-radio-network-ou-dh-sweep-hilites.mp3"
+        },
+        {
+            "title": "OU - KSU Hilites 2018 (Norman)",
+            "datePublished": "Sun, 25 Feb 2018 01:56:50 +0000",
+            "description": "OU-KSU Hilites+Kruger",
+            "length": "3750905",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/404758197-sooner-radio-network-ou-ksu-hilites-2018-norman.mp3"
+        },
+        {
+            "title": "OU - Baylor Hilites 2018 (Norman)",
+            "datePublished": "Wed, 31 Jan 2018 05:03:33 +0000",
+            "description": "OU-Baylor Hoops Hilites",
+            "length": "1933608",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/392247873-sooner-radio-network-ou-baylor-hilites-2018-norman.mp3"
+        },
+        {
+            "title": "OU - KU Hilites 2018 (Norman)",
+            "datePublished": "Wed, 24 Jan 2018 04:32:51 +0000",
+            "description": "OU-KU Hilites",
+            "length": "4606627",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/388264844-sooner-radio-network-ou-ku-hilites-2018-norman.mp3"
+        },
+        {
+            "title": "OU - TCU Hilites 2018 (Norman)",
+            "datePublished": "Sun, 14 Jan 2018 04:24:06 +0000",
+            "description": "OU-TCU Hoops Hilites",
+            "length": "2238789",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/383305697-sooner-radio-network-ou-tcu-hilites-2018-norman.mp3"
+        },
+        {
+            "title": "Rose Bowl Hilites",
+            "datePublished": "Tue, 02 Jan 2018 04:13:53 +0000",
+            "description": "Rose Bowl Hilites 2018",
+            "length": "3092620",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/377600507-sooner-radio-network-rose-bowl-hilites.mp3"
+        },
+        {
+            "title": "#1 - Sermon Seals Bedlam...Preach!",
+            "datePublished": "Fri, 29 Dec 2017 21:26:41 +0000",
+            "description": "#1 Sermon Seals Bedlam...Preach!",
+            "length": "837480",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/376306004-sooner-radio-network-1-sermon-seals-bedlampreach.mp3"
+        },
+        {
+            "title": "#2 - Red River Comeback!",
+            "datePublished": "Fri, 29 Dec 2017 21:00:14 +0000",
+            "description": "#2 Red River Comeback!",
+            "length": "207324",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/376296356-sooner-radio-network-2-red-river-comeback.mp3"
+        },
+        {
+            "title": "#3 - Baker Give Him Heisman",
+            "datePublished": "Fri, 29 Dec 2017 20:28:25 +0000",
+            "description": "#3 \"Give Him the Heisman!\"",
+            "length": "301779",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/376285160-sooner-radio-network-3-baker-give-him-heisman.mp3"
+        },
+        {
+            "title": "#4 - Rodney Fabulous 1st Half vs TCU",
+            "datePublished": "Fri, 29 Dec 2017 20:02:07 +0000",
+            "description": "#4 Rodney Fabulous 1st Half vs TCU",
+            "length": "822584",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/376275659-sooner-radio-network-4-rodney-fabulous-1st-half-vs-tcu.mp3"
+        },
+        {
+            "title": "#5 - Back-2-Back Big12 Bombs",
+            "datePublished": "Fri, 29 Dec 2017 18:48:07 +0000",
+            "description": "#5 - Back-2-Back Big 12 Bombs",
+            "length": "473227",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/376248593-sooner-radio-network-5-back-2-back-big12-bombs.mp3"
+        },
+        {
+            "title": "#6 - Baker To Sermon Vs Ohio St",
+            "datePublished": "Fri, 29 Dec 2017 18:36:23 +0000",
+            "description": "#6 Baker Beats the Buckeyes",
+            "length": "222804",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/376244138-sooner-radio-network-6-baker-to-sermon-vs-ohio-st.mp3"
+        },
+        {
+            "title": "#6 - Baker Beats the Buckeyes",
+            "datePublished": "Fri, 29 Dec 2017 18:36:08 +0000",
+            "description": "#6 Baker Beats the Buckeyes",
+            "length": "222804",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/376244015-sooner-radio-network-6-baker-beats-the-buckeyes.mp3"
+        },
+        {
+            "title": "#7 - Rodney Wins It In Manhattan",
+            "datePublished": "Fri, 29 Dec 2017 18:02:10 +0000",
+            "description": "#7 - Rodney Wins It In Manhattan",
+            "length": "163880",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/376231025-sooner-radio-network-7-rodney-wins-it-in-manhattan.mp3"
+        },
+        {
+            "title": "#8 - \"99 Yards!\"",
+            "datePublished": "Fri, 29 Dec 2017 17:30:30 +0000",
+            "description": "#8 - \"99 Yards!\"",
+            "length": "407748",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/376219142-sooner-radio-network-8-99-yards.mp3"
+        },
+        {
+            "title": "#9 \"Scoop & Score!\"",
+            "datePublished": "Fri, 29 Dec 2017 16:59:32 +0000",
+            "description": "#9 \"Scoop & Score!\"",
+            "length": "781104",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/376207454-sooner-radio-network-9-scoop-score.mp3"
+        },
+        {
+            "title": "#10 - Motley Pick 6",
+            "datePublished": "Fri, 29 Dec 2017 16:29:54 +0000",
+            "description": "#10 - Motley Pick 6",
+            "length": "294690",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/376196819-sooner-radio-network-10-motley-pick-6.mp3"
+        },
+        {
+            "title": "#11 - \"Send it to the Smithsonian!\"",
+            "datePublished": "Fri, 29 Dec 2017 16:01:41 +0000",
+            "description": "#11 - \"Send it to the Smithsonian!\"",
+            "length": "363801",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/376187390-sooner-radio-network-11-send-it-to-the-smithsonian.mp3"
+        },
+        {
+            "title": "#12 - \"Heisman Stiff Arm\"",
+            "datePublished": "Fri, 29 Dec 2017 15:33:38 +0000",
+            "description": "#12 - \"Heisman stiff arm\"",
+            "length": "345247",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/376178279-sooner-radio-network-12-heisman-stiff-arm.mp3"
+        },
+        {
+            "title": "#13 - \"He's In!\"",
+            "datePublished": "Fri, 29 Dec 2017 14:58:21 +0000",
+            "description": "#13 \"He's In!\"",
+            "length": "158861",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/376167224-sooner-radio-network-13-baker-to-calcaterra-vs-tcu.mp3"
+        },
+        {
+            "title": "#14 - Uhles TD Vs UTEP",
+            "datePublished": "Fri, 29 Dec 2017 14:31:03 +0000",
+            "description": "#14 Jaxon Uhles TD vs UTEP",
+            "length": "456869",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/376159289-sooner-radio-network-14-uhles-td-vs-utep.mp3"
+        },
+        {
+            "title": "#15 - Kyler Vs WVU",
+            "datePublished": "Fri, 29 Dec 2017 14:04:19 +0000",
+            "description": "#15 Kyler 1st Play vs WVU",
+            "length": "237831",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/376151495-sooner-radio-network-15-kyler-vs-wvu.mp3"
+        },
+        {
+            "title": "#16 - Hollywood Bomb Vs OSU",
+            "datePublished": "Fri, 29 Dec 2017 13:30:43 +0000",
+            "description": "#16 Hollywood Bomb vs OSU",
+            "length": "302700",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/376142705-sooner-radio-network-16-hollywood-bomb-vs-osu.mp3"
+        },
+        {
+            "title": "#17 - Baker To Dimitri Vs Ohio St",
+            "datePublished": "Fri, 29 Dec 2017 13:05:04 +0000",
+            "description": "Baker to Dimitri in the Horseshoe",
+            "length": "328698",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/376136009-sooner-radio-network-17-baker-to-dimitri-vs-ohio-st.mp3"
+        },
+        {
+            "title": "OU - NW Hilites 2017",
+            "datePublished": "Sat, 23 Dec 2017 02:49:01 +0000",
+            "description": "OU-NW Hoops Hilites 2017",
+            "length": "1838707",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/373321343-sooner-radio-network-ou-nw-hilites-2017.mp3"
+        },
+        {
+            "title": "OU - NWST Hilites 2017",
+            "datePublished": "Wed, 20 Dec 2017 04:00:14 +0000",
+            "description": "OU-NWST Hilites",
+            "length": "980677",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/371977286-sooner-radio-network-ou-nwst-hilites-2017.mp3"
+        },
+        {
+            "title": "OU - USC Hilites 2017",
+            "datePublished": "Sat, 09 Dec 2017 06:12:50 +0000",
+            "description": "OU-USC Hilites",
+            "length": "2255834",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/367047278-sooner-radio-network-ou-usc-hilites-2017.mp3"
+        },
+        {
+            "title": "OU - TCU (B12 Championship) Hilites",
+            "datePublished": "Sat, 02 Dec 2017 21:52:19 +0000",
+            "description": "OU-TCU (B12 Championship)",
+            "length": "3282785",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/364104428-sooner-radio-network-ou-tcu-b12-championship-hilites.mp3"
+        },
+        {
+            "title": "OU - UNT Hilites 2017",
+            "datePublished": "Fri, 01 Dec 2017 03:37:23 +0000",
+            "description": "OU-UNT Hoops Hilites",
+            "length": "960138",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/363328616-sooner-radio-network-ou-unt-hilites-2017.mp3"
+        },
+        {
+            "title": "OU - WVU Hilites 2017",
+            "datePublished": "Sun, 26 Nov 2017 01:19:46 +0000",
+            "description": "OU-WVU Hilites 2017",
+            "length": "3668122",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/360939869-sooner-radio-network-ou-wvu-hilites-2017.mp3"
+        },
+        {
+            "title": "OU - Arkansas Scenesetter 2017",
+            "datePublished": "Thu, 23 Nov 2017 13:35:32 +0000",
+            "description": "OU-Arkansas Thanksgiving Scenesetter",
+            "length": "3155695",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/359853458-sooner-radio-network-ou-arkansas-scenesetter-2017.mp3"
+        },
+        {
+            "title": "OU - KU Hilites 2017",
+            "datePublished": "Sun, 19 Nov 2017 01:45:49 +0000",
+            "description": "OU-KU Hilites 2017",
+            "length": "2150068",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/357792947-sooner-radio-network-ou-ku-hilites-2017.mp3"
+        },
+        {
+            "title": "OU - TCU Hilites 2017",
+            "datePublished": "Sun, 12 Nov 2017 06:03:32 +0000",
+            "description": "OU-TCU Hilites 2017",
+            "length": "3510550",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/354550229-sooner-radio-network-ou-tcu-hilites-2017.mp3"
+        },
+        {
+            "title": "OU - TCU Scenesetter 2017",
+            "datePublished": "Sat, 11 Nov 2017 15:22:38 +0000",
+            "description": "OU-TCU Scenesetter (audio-only)",
+            "length": "1926522",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/354266990-sooner-radio-network-ou-tcu-scenesetter-2017.mp3"
+        },
+        {
+            "title": "Bedlam Hilites 2017",
+            "datePublished": "Sun, 05 Nov 2017 01:47:09 +0000",
+            "description": "Bedlam Hilites 2017 (Sooner Radio)",
+            "length": "4530394",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/351290563-sooner-radio-network-bedlam-hilites-2017.mp3"
+        },
+        {
+            "title": "Bedlam Scenesetter 2017",
+            "datePublished": "Fri, 03 Nov 2017 15:55:20 +0000",
+            "description": "Bedlam Scenesetter",
+            "length": "7588011",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/350664937-sooner-radio-network-bedlam-scenesetter-2017.mp3"
+        },
+        {
+            "title": "OU - TT Hilites 2017",
+            "datePublished": "Sun, 29 Oct 2017 04:49:58 +0000",
+            "description": "OU-TT Hilites 2017",
+            "length": "3184118",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/349083578-sooner-radio-network-ou-tt-hilites-2017.mp3"
+        },
+        {
+            "title": "OU - KSU Hilites 2017",
+            "datePublished": "Sun, 22 Oct 2017 01:31:45 +0000",
+            "description": "OU-KSU Hilites 2017",
+            "length": "2812972",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/348000631-sooner-radio-network-ou-ksu-hilites-2017.mp3"
+        },
+        {
+            "title": "OU - Texas Hilites 2017",
+            "datePublished": "Sun, 15 Oct 2017 00:31:02 +0000",
+            "description": "OU-Texas Hilites 2017",
+            "length": "3353407",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/346938078-sooner-radio-network-ou-texas-hilites-2017.mp3"
+        },
+        {
+            "title": "OU - Baylor Hilites 2017",
+            "datePublished": "Sun, 24 Sep 2017 03:35:53 +0000",
+            "description": "OU-Baylor Hilites 2017",
+            "length": "3472529",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/343764542-sooner-radio-network-ou-baylor-hilites-2017.mp3"
+        },
+        {
+            "title": "September 23, 2017 9:52:29 PM",
+            "datePublished": "Sun, 24 Sep 2017 03:03:19 +0000",
+            "description": "Lincoln Riley post-Baylor",
+            "length": "2107175",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/343761954-sooner-radio-network-september-23-2017-95229-pm.mp3"
+        },
+        {
+            "title": "OU - Tulane Hilites",
+            "datePublished": "Sun, 17 Sep 2017 02:34:21 +0000",
+            "description": "OU-Tulane Hilites 2017",
+            "length": "2827924",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/342702606-sooner-radio-network-ou-tulane-hilites-1.mp3"
+        },
+        {
+            "title": "OU - Ohio State Hilites 2017",
+            "datePublished": "Sun, 10 Sep 2017 04:48:54 +0000",
+            "description": "OU-Ohio State Hilites 2017",
+            "length": "4151680",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/341699663-sooner-radio-network-ou-ohio-state-hilites-2017.mp3"
+        },
+        {
+            "title": "Lincoln postgame on Sooner Radio",
+            "datePublished": "Sun, 10 Sep 2017 04:14:56 +0000",
+            "description": "Lincoln postgame on Sooner Radio",
+            "length": "1396213",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/341697328-sooner-radio-network-lincoln-postgame-on-sooner-radio.mp3"
+        },
+        {
+            "title": "OU - UTEP Hilites 2017",
+            "datePublished": "Sun, 03 Sep 2017 00:38:19 +0000",
+            "description": "OU-UTEP Hilites 2017",
+            "length": "3545251",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/340660142-sooner-radio-network-ou-utep-hilites-2017.mp3"
+        },
+        {
+            "title": "Important Sooner Sports Podcast UPDATE",
+            "datePublished": "Thu, 03 Aug 2017 17:57:26 +0000",
+            "description": "Make sure to update your subscription...\n\nhttps://itunes.apple.com/us/podcast/oklahoma-sooners-podcast/id1150475136?DB_OEM_ID=31000&mt=2\n\nAnd of course through SoonerSports.TV/Podcast",
+            "length": "1923549",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/336120850-sooner-radio-network-important-sooner-sports-podcast-update.mp3"
+        },
+        {
+            "title": "The Game Plan - Former Players Talk Coach Stoops",
+            "datePublished": "Mon, 10 Jul 2017 16:38:04 +0000",
+            "description": "Ted Lehman, Ty Darlington, and JD Runnels share memories of Head Coach Bob Stoops",
+            "length": "53259601",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/332526378-sooner-radio-network-the-game-plan-former-players-talk-coach-stoops.mp3"
+        },
+        {
+            "title": "The Tailgate -- Ten Good Minutes With Toby",
+            "datePublished": "Thu, 29 Jun 2017 17:25:20 +0000",
+            "description": "The Tailgate -- Ten Good Minutes With Toby by Sooner Radio Network",
+            "length": "16100520",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/330755000-sooner-radio-network-the-tailgate-ten-good-minutes-with-toby.mp3"
+        },
+        {
+            "title": "The Game Plan -- The Skipper And The Voice",
+            "datePublished": "Mon, 26 Jun 2017 17:03:18 +0000",
+            "description": "The Game Plan -- The Skipper And The Voice by Sooner Radio Network",
+            "length": "29275568",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/330210246-sooner-radio-network-the-game-plan-the-skipper-and-the-voice.mp3"
+        },
+        {
+            "title": "The Tailgate - Coody And The Coach",
+            "datePublished": "Fri, 23 Jun 2017 14:01:57 +0000",
+            "description": "The Tailgate - Coody And The Coach by Sooner Radio Network",
+            "length": "19374737",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/329652835-sooner-radio-network-the-tailgate-coody-and-the-coach.mp3"
+        },
+        {
+            "title": "The Game Plan - Coody Gets The '411' From The Leaders",
+            "datePublished": "Tue, 20 Jun 2017 13:49:00 +0000",
+            "description": "The Game Plan - Coody Gets The '411' From The Leaders by Sooner Radio Network",
+            "length": "32742075",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/328989909-sooner-radio-network-the-game-plan-coody-gets-the-411-from-the-leaders.mp3"
+        },
+        {
+            "title": "The Tailgate -- The Media Perspective On Riley's First Week",
+            "datePublished": "Thu, 15 Jun 2017 19:00:55 +0000",
+            "description": "The Tailgate -- The Media Perspective On Riley's First Week by Sooner Radio Network",
+            "length": "39652169",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/328245454-sooner-radio-network-the-tailgate-the-media-perspective-on-rileys-first-week.mp3"
+        },
+        {
+            "title": "The Game Plan - Cale Gundy Steals The Show",
+            "datePublished": "Mon, 12 Jun 2017 17:00:31 +0000",
+            "description": "The Game Plan - Cale Gundy Steals The Show by Sooner Radio Network",
+            "length": "46304441",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/327727095-sooner-radio-network-the-game-plan-cale-gundy-steals-the-show.mp3"
+        },
+        {
+            "title": "The Tailgate -- A Wild Week In June",
+            "datePublished": "Thu, 08 Jun 2017 16:25:45 +0000",
+            "description": "New Head Football Coach Lincoln Riley joins us as he sits down with Toby Rowland.\nChampionship are everywhere in the Sooner Nation!! Sooner Softball hitting coach JT Gasso swings by as does National Champion Golf Coach Ryan Hybl.",
+            "length": "56335305",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/327148525-sooner-radio-network-the-tailgate-a-wild-week-in-june.mp3"
+        },
+        {
+            "title": "The Sooners Are National Champions... AGAIN",
+            "datePublished": "Wed, 07 Jun 2017 13:16:13 +0000",
+            "description": "Some quick highlights from last nights 5-4 win over Florida... clinching the 4th WCWS Title in Sooner Softball History",
+            "length": "2225202",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/326964079-sooner-radio-network-the-sooners-are-national-champions-again.mp3"
+        },
+        {
+            "title": "The Game Plan - The Championship Series Everyone Wanted",
+            "datePublished": "Mon, 05 Jun 2017 18:05:22 +0000",
+            "description": "The Game Plan - The Championship Series Everyone Wanted by Sooner Radio Network",
+            "length": "39773413",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/326263623-sooner-radio-network-the-game-plan-the-championship-series-everyone-wanted.mp3"
+        },
+        {
+            "title": "WCWS Highlights",
+            "datePublished": "Sat, 03 Jun 2017 15:48:36 +0000",
+            "description": "It might be a day off for the Sooner Softball Team... but get ready for Sunday with the radio highlights from the first two days of action",
+            "length": "4595177",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/325866932-sooner-radio-network-wcws-highlights.mp3"
+        },
+        {
+            "title": "OU - Xavier NCAA Hilites",
+            "datePublished": "Sat, 03 Jun 2017 00:08:23 +0000",
+            "description": "OU-Xavier Baseball Hilites",
+            "length": "5407102",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/325784752-sooner-radio-network-ou-xavier-ncaa-hilites.mp3"
+        },
+        {
+            "title": "The Tailgate -- Toby Talks Title",
+            "datePublished": "Thu, 01 Jun 2017 19:19:47 +0000",
+            "description": "The Tailgate -- Toby Talks Title by Sooner Radio Network",
+            "length": "45412177",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/325576010-sooner-radio-network-the-tailgate-toby-talks-title.mp3"
+        },
+        {
+            "title": "The Game Plan -- The 10 Minute Celebration Edition",
+            "datePublished": "Tue, 30 May 2017 16:55:38 +0000",
+            "description": "The Game Plan -- The 10 Minute Celebration Edition by Sooner Radio Network",
+            "length": "15065517",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/325213005-sooner-radio-network-the-game-plan-the-10-minute-celebration-edition.mp3"
+        },
+        {
+            "title": "The Tailgate -- Get To Know Sarah Roberts... An Inspiration",
+            "datePublished": "Thu, 25 May 2017 22:09:32 +0000",
+            "description": "She is special... and she can tell you about the incredible relationship she has with Patty Gasso.  The reason why the Sooner players held their hands up during the WCWS in 2016... and the reason for \"The 3\"\n\nIf you listen to nothing else this week... do yourself a favor and start at 9:30 of this podcast.",
+            "length": "42348709",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/324515828-sooner-radio-network-the-tailgate-get-to-know-sarah-roberts-an-inspiration.mp3"
+        },
+        {
+            "title": "Auburn, Alabama... HERE WE COME!",
+            "datePublished": "Mon, 22 May 2017 21:47:33 +0000",
+            "description": "Highlights from the Sooners win over Tulsa to advance to the Super Regional",
+            "length": "2458434",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/323995738-sooner-radio-network-auburn-alabama-here-we-come.mp3"
+        },
+        {
+            "title": "The Game Plan - The Lombardi Chronicles",
+            "datePublished": "Mon, 22 May 2017 21:03:46 +0000",
+            "description": "The Game Plan - The Lombardi Chronicles by Sooner Radio Network",
+            "length": "50755529",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/323988744-sooner-radio-network-the-game-plan-the-lombardi-chronicles.mp3"
+        },
+        {
+            "title": "OU Knocks Off Tulsa --  The Radio Highlights",
+            "datePublished": "Mon, 22 May 2017 04:19:46 +0000",
+            "description": "What... A... Game",
+            "length": "1444543",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/323867007-sooner-radio-network-ou-knocks-off-tulsa-the-radio-highlights.mp3"
+        },
+        {
+            "title": "The Tailgate - Golf Advances... Softball Is Ready",
+            "datePublished": "Thu, 18 May 2017 16:58:07 +0000",
+            "description": "The Tailgate - Golf Advances... Softball Is Ready by Sooner Radio Network",
+            "length": "67690029",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/323242306-sooner-radio-network-the-tailgate-golf-advances-softball-is-ready.mp3"
+        },
+        {
+            "title": "The Game Plan -- OU vs. TCU... The Story Of An Incredible Series",
+            "datePublished": "Mon, 15 May 2017 17:24:56 +0000",
+            "description": "The Game Plan -- OU vs. TCU... The Story Of An Incredible Series by Sooner Radio Network",
+            "length": "67105045",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/322752089-sooner-radio-network-the-game-plan-ou-vs-tcu-the-story-of-an-incredible-series.mp3"
+        },
+        {
+            "title": "OU - TCU Hilites Game 3",
+            "datePublished": "Sun, 14 May 2017 22:18:06 +0000",
+            "description": "OU-TCU Baseball Hilites Game 3",
+            "length": "1802780",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/322635231-sooner-radio-network-ou-tcu-hilites-game-3.mp3"
+        },
+        {
+            "title": "The Oklahoma Sooners Win The Big 12 Championship",
+            "datePublished": "Sun, 14 May 2017 02:44:28 +0000",
+            "description": "OU 2\nOSU 0\n\nThe Sooners win it's 5th Big 12 Tournament Title",
+            "length": "2042565",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/322506692-sooner-radio-network-the-oklahoma-sooners-win-the-big-12-championship.mp3"
+        },
+        {
+            "title": "Renae With The Blast... Toby With The Call",
+            "datePublished": "Sun, 14 May 2017 02:36:30 +0000",
+            "description": "The Renae Martinez Walk-Off",
+            "length": "871443",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/322505904-sooner-radio-network-renae-with-the-blast-toby-with-the-call.mp3"
+        },
+        {
+            "title": "Sooner Softball Beats Texas Tech 8-0",
+            "datePublished": "Sat, 13 May 2017 13:29:40 +0000",
+            "description": "Sooner Softball Beats Texas Tech 8-0 by Sooner Radio Network",
+            "length": "2570448",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/322417990-sooner-radio-network-sooner-softball-beats-texas-tech-8-0.mp3"
+        },
+        {
+            "title": "OU beats Texas in Game One of the Big 12 Tournament",
+            "datePublished": "Fri, 12 May 2017 21:40:51 +0000",
+            "description": "OU beats Texas in Game One of the Big 12 Tournament by Sooner Radio Network",
+            "length": "2560208",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/322336803-sooner-radio-network-ou-beats-texas-in-game-one-of-the-big-12-tournament.mp3"
+        },
+        {
+            "title": "The Tailgate -- A Hall Of Famer And An All - Timer",
+            "datePublished": "Thu, 11 May 2017 17:44:07 +0000",
+            "description": "Patty Gasso... Austin O' Brien...  Jessica Coody... Toby Rowland.. and Grant Hirschman.\n\nA little bit of everything for everyone.  Enjoy \"The Tailgate\".",
+            "length": "71772217",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/322136838-sooner-radio-network-the-tailgate-a-hall-of-famer-and-an-all-timer.mp3"
+        },
+        {
+            "title": "The Game Plan - TRow Talks OU Baseball",
+            "datePublished": "Mon, 08 May 2017 19:04:03 +0000",
+            "description": "The Game Plan - TRow Talks OU Baseball by Sooner Radio Network",
+            "length": "36369553",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/321611264-sooner-radio-network-the-game-plan-trow-talks-ou-baseball.mp3"
+        },
+        {
+            "title": "OU - KSU Hilites 3",
+            "datePublished": "Sun, 07 May 2017 21:49:07 +0000",
+            "description": "OU-KSU Baseball Hilites (3-0)",
+            "length": "1923558",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/321465045-sooner-radio-network-ou-ksu-hilites-3.mp3"
+        },
+        {
+            "title": "OU - KState Hilites 1",
+            "datePublished": "Sat, 06 May 2017 05:12:45 +0000",
+            "description": "OU-KState Baseball hilites",
+            "length": "1464585",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/321224825-sooner-radio-network-ou-kstate-hilites-1.mp3"
+        },
+        {
+            "title": "The Tailgte -- A Gem Of A Freshman",
+            "datePublished": "Thu, 04 May 2017 18:54:56 +0000",
+            "description": "Nicole Mendes joins us on the Tailgate",
+            "length": "18943149",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/320982867-sooner-radio-network-the-tailgte-a-gem-of-a-freshman.mp3"
+        },
+        {
+            "title": "The Game Plan - A Preview Of The Sooner Choice Awards",
+            "datePublished": "Mon, 01 May 2017 18:07:44 +0000",
+            "description": "Jessica Coody joins us to preview the Sooner Choice Awards and re-cap the NFL Draft",
+            "length": "33005182",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/320365973-sooner-radio-network-the-game-plan-a-preview-of-the-sooner-choice-awards.mp3"
+        },
+        {
+            "title": "OU - WVU Hilites Game 3",
+            "datePublished": "Sun, 30 Apr 2017 22:36:02 +0000",
+            "description": "OU-WV Baseball Hilites Game 3",
+            "length": "2342241",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/320244395-sooner-radio-network-ou-wvu-hilites-game-3.mp3"
+        },
+        {
+            "title": "OU - WV Hilites + Post",
+            "datePublished": "Sun, 30 Apr 2017 01:03:55 +0000",
+            "description": "OU-WV Baseball hilites+post",
+            "length": "2318844",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/320122994-sooner-radio-network-ou-wv-hilites-post.mp3"
+        },
+        {
+            "title": "The Tailgate - They Did It Again... And Again... And Again",
+            "datePublished": "Thu, 27 Apr 2017 17:51:26 +0000",
+            "description": "We celebrate the Men's Gymnastics National Championship with some amazing student athletes and some amazing coaches...\n\n2:00 - Hunter Justus and Levi Anderson\n\n11:30 - Head Coach Mark Williams\n\n21:30 - Mark Williams and New Captain Hunter Justus\n\n27:30 - Taqiy Abdullah-Simmons\n\n34:00 - Colin Van Wicklen and Josh Yee",
+            "length": "73290477",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/319764230-sooner-radio-network-the-tailgate-they-did-it-again-and-again-and-again.mp3"
+        },
+        {
+            "title": "The Game Plan -- A National Championship, An Upset, And A Statement",
+            "datePublished": "Mon, 24 Apr 2017 17:02:18 +0000",
+            "description": "The Game Plan -- A National Championship, An Upset, And A Statement by Sooner Radio Network",
+            "length": "30412937",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/319256339-sooner-radio-network-the-game-plan-a-national-championship-an-upset-and-a-statement.mp3"
+        },
+        {
+            "title": "Monday Morning Refresher",
+            "datePublished": "Mon, 24 Apr 2017 06:27:29 +0000",
+            "description": "Monday Morning Refresher by Sooner Radio Network",
+            "length": "14936736",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/319194353-sooner-radio-network-monday-morning-refresher-2.mp3"
+        },
+        {
+            "title": "The Tailagate - A Championship Celebration For OU Womens Gymnastics",
+            "datePublished": "Thu, 20 Apr 2017 18:24:22 +0000",
+            "description": "Get ready for an hour long celebration of the Sooners 2nd straight National Championship... 3rd in 4 years!\n\n2:30 -- KJ Kindler\n16:45 -- Chayse Capps\n27:00 -- Maggie Nichols\n39:00 -- Assistant Coaches Lou Ball and Tom Haley\n50:00 -- McKenzie Wofford and Natalie Brown\n58:00 -- Nicole Turner and Alex Marks\n\nThanks for downloading and Boomer Sooner!\nFollow us on Twitter:  @OUontheAir and @SoonerSportsTV",
+            "length": "96526169",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/318672381-sooner-radio-network-the-tailagate-a-championship-celebration-for-ou-womens-gymnastics.mp3"
+        },
+        {
+            "title": "The Game Plan -- Never Any Doubt... OU Does It Again",
+            "datePublished": "Mon, 17 Apr 2017 18:19:47 +0000",
+            "description": "Meg McDonald was there.. front and center on Saturday night... and she gives us the 411 on National Championship #3 for OU Women's Gymnastics\n\nPlus Toby Rowland with a look back on the road trip to Ann Arbor",
+            "length": "31636261",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/318122796-sooner-radio-network-the-game-plan-never-any-doubt-ou-does-it-again.mp3"
+        },
+        {
+            "title": "Monday Morning Refresher April 17",
+            "datePublished": "Mon, 17 Apr 2017 06:14:10 +0000",
+            "description": "Monday Morning Refresher April 17 by Sooner Radio Network",
+            "length": "15806781",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/318034203-sooner-radio-network-monday-morning-refresher-april-17.mp3"
+        },
+        {
+            "title": "The Tailgate -- The Quest For A National Title",
+            "datePublished": "Thu, 13 Apr 2017 18:53:15 +0000",
+            "description": "Go in-depth on the Sooner quest for a National Title... from Head Coach KJ Kindler to Sooner Sports TV's Meg McDonald.  We've got you covered.\n\nAnd go behind the scenes on our Master's Coverage and Brad Dalke with Matt Archibald",
+            "length": "58905705",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/317542583-sooner-radio-network-the-tailgate-the-quest-for-a-national-title.mp3"
+        },
+        {
+            "title": "The Game Plan - Yul Moldauer... Get To Know The Name",
+            "datePublished": "Mon, 10 Apr 2017 18:04:11 +0000",
+            "description": "We spend a few minutes re-capping the Spring Game with Toby Rowland (1:20 -7:10) and Jessica Coody (7:30 - 9:00)\n\nBut this episode is all about a kid who thought he was getting a pet Turkey, and ended up getting a trampoline... seriously.  Get to know Sooner stand out Gymnast Yul Moldauer.  (9:30)",
+            "length": "36560661",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/317020566-sooner-radio-network-the-game-plan-yul-moldauer-get-to-know-the-name.mp3"
+        },
+        {
+            "title": "Monday Morning Refresher",
+            "datePublished": "Mon, 10 Apr 2017 06:20:39 +0000",
+            "description": "Monday Morning Refresher by Sooner Radio Network",
+            "length": "9806161",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/316949553-sooner-radio-network-monday-morning-refresher-1.mp3"
+        },
+        {
+            "title": "OU - UT Hilites 3",
+            "datePublished": "Sun, 09 Apr 2017 23:25:24 +0000",
+            "description": "OU-Texas Baseball Hilites",
+            "length": "1240112",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/316909292-sooner-radio-network-ou-ut-hilites-3.mp3"
+        },
+        {
+            "title": "The Tailgate - Spring Game Primer",
+            "datePublished": "Thu, 06 Apr 2017 17:14:18 +0000",
+            "description": "We give blanket coverage to the Sooner Spring Game...\n\n2:00 -- Eli Wilkerson with a preview of every event going on around the Sooner Spring Game\n\n9:00 -- Dusty Dvoracek talks X's and O's\n\n26:00 -- Teddy Lehman gives us some defenisve perspective",
+            "length": "53650105",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/316419903-sooner-radio-network-the-tailgate-spring-game-primer.mp3"
+        },
+        {
+            "title": "The Game Plan -- From Walk Offs To Work Outs",
+            "datePublished": "Mon, 03 Apr 2017 18:31:11 +0000",
+            "description": "The Voice of the Sooners Toby Rowland joins us to re-cap a great weekend for Sooner Baseball.\n\nJessica Coody gives a re-cap of the Sooner Saturday Scrimmage to get ready for the Spring Game.",
+            "length": "31669193",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/315926482-sooner-radio-network-the-game-plan-from-walk-offs-to-work-outs.mp3"
+        },
+        {
+            "title": "Monday Morning Refresher April 3",
+            "datePublished": "Mon, 03 Apr 2017 06:18:43 +0000",
+            "description": "Sundays are for walk-offs... AND SATURDAY",
+            "length": "14835793",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/315802873-sooner-radio-network-monday-morning-refresher-april-3.mp3"
+        },
+        {
+            "title": "The Tailgate -- Welcome To Mendys World",
+            "datePublished": "Thu, 30 Mar 2017 18:44:28 +0000",
+            "description": "Get to know the hero from the OU win over Baylor on Sunday... \n\nJunior 2nd Baseman Kyle Mendenhall",
+            "length": "24994605",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/315268281-sooner-radio-network-the-tailgate-welcome-to-mendys-world.mp3"
+        },
+        {
+            "title": "The Game Plan -- Big Weekend On The Diamond... Times Two",
+            "datePublished": "Mon, 27 Mar 2017 17:00:14 +0000",
+            "description": "The Game Plan -- Big Weekend On The Diamond... Times Two by Sooner Radio Network",
+            "length": "36752493",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/314722972-sooner-radio-network-the-game-plan-big-weekend-on-the-diamond-times-two.mp3"
+        },
+        {
+            "title": "Monday Morning Refresher March 27",
+            "datePublished": "Mon, 27 Mar 2017 06:12:25 +0000",
+            "description": "Monday Morning Refresher March 27 by Sooner Radio Network",
+            "length": "17290029",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/314654047-sooner-radio-network-monday-morning-refresher-march-27.mp3"
+        },
+        {
+            "title": "The Tailgate -- CC Steals The Show",
+            "datePublished": "Thu, 23 Mar 2017 19:13:20 +0000",
+            "description": "Caleigh Clifton hangs out to preview the weekend for OU Sooner Softball.\n\nPlus hear from Lincoln Riley, Baker Mayfield, and Cody Ford",
+            "length": "33679033",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/314134424-sooner-radio-network-the-tailgate-cc-steals-the-show.mp3"
+        },
+        {
+            "title": "The Game Plan -- Stoops Talks Spring Ball",
+            "datePublished": "Mon, 20 Mar 2017 20:31:41 +0000",
+            "description": "A complete re-cap of the Bob Stoops Spring Presser from Monday",
+            "length": "71126319",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/313491003-sooner-radio-network-the-game-plan-stoops-talks-spring-ball.mp3"
+        },
+        {
+            "title": "The Refresher March 20",
+            "datePublished": "Mon, 20 Mar 2017 06:26:19 +0000",
+            "description": "The Refresher March 20 by Sooner Radio Network",
+            "length": "19692419",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/313353100-sooner-radio-network-the-refresher-march-20.mp3"
+        },
+        {
+            "title": "OU - Kennesaw Hilites 3",
+            "datePublished": "Sun, 19 Mar 2017 20:06:28 +0000",
+            "description": "OU-Kennesaw Hilites Sunday",
+            "length": "1748782",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/313281500-sooner-radio-network-ou-kennesaw-hilites-3.mp3"
+        },
+        {
+            "title": "OU - Kennesaw Hilites+post 2",
+            "datePublished": "Sat, 18 Mar 2017 22:27:07 +0000",
+            "description": "OU-Kennesaw hilites",
+            "length": "4776655",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/313159896-sooner-radio-network-ou-kennesaw-hilitespost-2.mp3"
+        },
+        {
+            "title": "OU - Kennesaw Hilites 1",
+            "datePublished": "Sat, 18 Mar 2017 01:39:25 +0000",
+            "description": "OU-Kennesaw hilites",
+            "length": "1024051",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/313046143-sooner-radio-network-ou-kennesaw-hilites-1.mp3"
+        },
+        {
+            "title": "The Tailgate - Maddie And Peyton Unfiltered",
+            "datePublished": "Thu, 16 Mar 2017 16:11:04 +0000",
+            "description": "The Tailgate - Maddie And Peyton Unfiltered by Sooner Radio Network",
+            "length": "38921127",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/312738129-sooner-radio-network-the-tailgate-maddie-and-peyton-unfiltered.mp3"
+        },
+        {
+            "title": "OU - Ga State Hilites",
+            "datePublished": "Wed, 15 Mar 2017 22:55:38 +0000",
+            "description": "OU-GSU Baseball Hilites",
+            "length": "1853235",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/312614045-sooner-radio-network-ou-ga-state-hilites.mp3"
+        },
+        {
+            "title": "The Refresher For Spring Break",
+            "datePublished": "Mon, 13 Mar 2017 06:17:14 +0000",
+            "description": "The Refresher For Spring Break by Sooner Radio Network",
+            "length": "16824145",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/312107235-sooner-radio-network-the-refresher-for-spring-break.mp3"
+        },
+        {
+            "title": "A Complete Re - Cap Of Pro Day",
+            "datePublished": "Thu, 09 Mar 2017 19:26:29 +0000",
+            "description": "A Complete Re - Cap Of Pro Day by Sooner Radio Network",
+            "length": "48354782",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/311563418-sooner-radio-network-a-complete-re-cap-of-pro-day.mp3"
+        },
+        {
+            "title": "The Game Plan - Toby Talks KC",
+            "datePublished": "Mon, 06 Mar 2017 19:54:20 +0000",
+            "description": "The Game Plan - Toby Talks KC by Sooner Radio Network",
+            "length": "26855730",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/311047605-sooner-radio-network-the-game-plan-toby-talks-kc.mp3"
+        },
+        {
+            "title": "Monday Morning Refresher March 6",
+            "datePublished": "Mon, 06 Mar 2017 07:21:24 +0000",
+            "description": "Monday Morning Refresher March 6 by Sooner Radio Network",
+            "length": "11325194",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/310943514-sooner-radio-network-monday-morning-refresher-march-6.mp3"
+        },
+        {
+            "title": "OU - CCSU Hilites Game 4",
+            "datePublished": "Mon, 06 Mar 2017 00:04:18 +0000",
+            "description": "OU-CCSU Hilites Game 4",
+            "length": "1974481",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/310898460-sooner-radio-network-ou-ccsu-hilites-game-4.mp3"
+        },
+        {
+            "title": "OU - CCSU Hilites",
+            "datePublished": "Sat, 04 Mar 2017 13:41:41 +0000",
+            "description": "OU-CCSU Baseball Hilites",
+            "length": "1736675",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/310670817-sooner-radio-network-ou-ccsu-hilites.mp3"
+        },
+        {
+            "title": "The Tailgate - The Not Forgotten Senior",
+            "datePublished": "Thu, 02 Mar 2017 18:38:36 +0000",
+            "description": "Jordan Woodard won't be able to play on Saturday for the Sooner Basketball team after suffering a season ending knee injury.\nBut the impact the Senior had on OU Basketball will never be forgotten.  Jessica Coody sits down with Woodard to look back on his career and what it meant to be a Sooner.",
+            "length": "29433306",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/310372516-sooner-radio-network-the-tailgate-the-not-forgotten-senior.mp3"
+        },
+        {
+            "title": "OU - UALR Hilites",
+            "datePublished": "Wed, 01 Mar 2017 00:41:42 +0000",
+            "description": "OU-UALR Baseball Hilites",
+            "length": "1674813",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/310032831-sooner-radio-network-ou-ualr-hilites.mp3"
+        },
+        {
+            "title": "The Game Plan - Get To Know Meg",
+            "datePublished": "Mon, 27 Feb 2017 19:10:01 +0000",
+            "description": "Tomorrow she co-hosts Sooner Sports Spotlight for the first time... Today you get to meet the newest member of the Sooner Sports TV crew Megan McDonald.\n\nMeg has been all over the Gymnastics beat over the last few months and shares her perspective and experience.",
+            "length": "37529217",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/309831474-sooner-radio-network-the-game-plan-get-to-know-meg.mp3"
+        },
+        {
+            "title": "The Refresher - Monday February 27",
+            "datePublished": "Mon, 27 Feb 2017 07:08:45 +0000",
+            "description": "The Refresher - Monday February 27 by Sooner Radio Network",
+            "length": "14849417",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/309744601-sooner-radio-network-the-refresher-monday-february-27.mp3"
+        },
+        {
+            "title": "OU - BC Hilites Walk - Off",
+            "datePublished": "Sun, 26 Feb 2017 21:50:18 +0000",
+            "description": "OU-BC Baseball Hilites",
+            "length": "1285677",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/309685479-sooner-radio-network-ou-bc-hilites-walk-off.mp3"
+        },
+        {
+            "title": "OU - KSU Hilites 81 - 51",
+            "datePublished": "Sun, 26 Feb 2017 12:33:10 +0000",
+            "description": "OU-KSU hoops hilites",
+            "length": "983583",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/309617394-sooner-radio-network-ou-ksu-hilites-81-51.mp3"
+        },
+        {
+            "title": "The Tailgate -- A Record Setting Senior Day",
+            "datePublished": "Thu, 23 Feb 2017 14:44:06 +0000",
+            "description": "Friday night is Senior Night for the Women's Gymnastics Team.  Sooner head coach KJ Kindler joins us to talk about the Sooners incredible run.  And OU is looking to set a crowd record on Senior Night.\n\nPlus... Jessica Coody talks Sooner hoops and OU Spring Football.\n\nMake sure to follow us on Twitter:  @OUontheAir and @SoonerSportsTV",
+            "length": "38757649",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/309173008-sooner-radio-network-the-tailgate-a-record-setting-senior-day.mp3"
+        },
+        {
+            "title": "OU - Grambling Hilites",
+            "datePublished": "Thu, 23 Feb 2017 02:11:52 +0000",
+            "description": "OU-Grambling Baseball highlights",
+            "length": "1859503",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/309102212-sooner-radio-network-ou-grambling-hilites.mp3"
+        },
+        {
+            "title": "The Game Plan -- A Classic In The LNC",
+            "datePublished": "Mon, 20 Feb 2017 18:40:34 +0000",
+            "description": "Sherri Coale re-caps an amazing win for OU Women's Basketball.  Plus \n\nSenior Chayse Capps joins us to talk about the final Women's Home Gymnastic meet of the season. \n\nPlus Kevin Kruger re-caps a wild week in Sooner Basketball.",
+            "length": "46100397",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/308694598-sooner-radio-network-the-game-plan-a-classic-in-the-lnc.mp3"
+        },
+        {
+            "title": "Monday Morning Refresher February 20",
+            "datePublished": "Mon, 20 Feb 2017 07:18:53 +0000",
+            "description": "Monday Morning Refresher February 20 by Sooner Radio Network",
+            "length": "15441442",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/308618939-sooner-radio-network-monday-morning-refresher-february-20.mp3"
+        },
+        {
+            "title": "The Tailgate -- A Sooner Who Took No Days Off",
+            "datePublished": "Thu, 16 Feb 2017 03:46:09 +0000",
+            "description": "The motto for Patriots Head Coach Bill Bellicheck was \"No Days Off\" and in the end  it led to a Super Bowl Championship.  Former Sooner stand-out Geneo Grissom joins us to talk Super Bowl Championships, the new Sooner locker room, taking part in a Title celebration, and taking no days off.\n\nPlus... we talk to K.J. Kindler and new Sooner pitching coach Skip Johnson.  All on this weeks edition of The Tailgate.  \n\nMake sure to follow on Twitter:  @OUontheAir and @SoonerSportsTV",
+            "length": "49344426",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/307978655-sooner-radio-network-the-tailgate-a-sooner-who-took-no-days-off.mp3"
+        },
+        {
+            "title": "OU - Texas Hilites Norman",
+            "datePublished": "Wed, 15 Feb 2017 04:53:24 +0000",
+            "description": "OU-Texas Hilites",
+            "length": "1321721",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/307818169-sooner-radio-network-ou-texas-hilites-norman.mp3"
+        },
+        {
+            "title": "The Game Plan -- The Coale And Coody Cast",
+            "datePublished": "Mon, 13 Feb 2017 19:49:40 +0000",
+            "description": "The Voice of the Sooners Toby Rowland sits down with Sherri Coale while Chris Plank catches up with Jessica Coody to talk Mexico and Sooner Softball.",
+            "length": "55804269",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/307559530-sooner-radio-network-the-game-plan-the-coale-and-coody-cast.mp3"
+        },
+        {
+            "title": "The Tailgate -- Ohhhhh Mexico",
+            "datePublished": "Thu, 09 Feb 2017 03:56:37 +0000",
+            "description": "Get the inside scoop before first pitch for the Oklahoma Sooners with head coach Patty Gasso",
+            "length": "30936721",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/306826612-sooner-radio-network-the-tailgate-ohhhhh-mexico.mp3"
+        },
+        {
+            "title": "The Game Plan -- Toby And The Coach",
+            "datePublished": "Mon, 06 Feb 2017 19:13:54 +0000",
+            "description": "The Game Plan -- Toby And The Coach by Sooner Radio Network",
+            "length": "30343154",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/306418638-sooner-radio-network-the-game-plan-toby-and-the-coach.mp3"
+        },
+        {
+            "title": "Monday Morning Refresher",
+            "datePublished": "Mon, 06 Feb 2017 05:32:03 +0000",
+            "description": "Monday Morning Refresher by Sooner Radio Network",
+            "length": "13174642",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/306333056-sooner-radio-network-monday-morning-refresher.mp3"
+        },
+        {
+            "title": "The Tailgate - A Complete Recruiting Recap",
+            "datePublished": "Wed, 01 Feb 2017 19:49:43 +0000",
+            "description": "And by complete... we mean COMPLETE\n\n1:30 -- Bob Stoops\n\n10:20 -- Mike Stoops\n\n15:30 -- Baker Mayfield\n\n21:40 -- Dennis Simmons\n\n28:00 -- Calvin Thibodeaux\n\n32:00 -- Bill Bedenbaugh\n\n39:20 -- Cale Gundy\n\n46:00 -- Jay Boulware\n\n52:00 -- Kerry Cooks \n\n57:50 -- Baker Mayfield",
+            "length": "94072626",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/305638054-sooner-radio-network-the-tailgate-a-complete-recruiting-recap.mp3"
+        },
+        {
+            "title": "The Game Plan -- Brandon Meier Gets Us Ready For Signing Day",
+            "datePublished": "Mon, 30 Jan 2017 18:26:15 +0000",
+            "description": "We've got you covered on Signing Day and Brandon Meier from Sooner Sports TV has all the details.\n\nMake sure to follow us on Twitter:  @OUontheAir and @SoonerSportsTV",
+            "length": "20389314",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/305278299-sooner-radio-network-the-game-plan-brandon-meier-gets-us-ready-for-signing-day.mp3"
+        },
+        {
+            "title": "Monday Morning Refresher January 30",
+            "datePublished": "Mon, 30 Jan 2017 07:27:25 +0000",
+            "description": "Monday Morning Refresher January 30 by Sooner Radio Network",
+            "length": "15070274",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/305205697-sooner-radio-network-monday-morning-refresher-january-30.mp3"
+        },
+        {
+            "title": "Brent Musburger",
+            "datePublished": "Sat, 28 Jan 2017 18:43:05 +0000",
+            "description": "Pregame chat w/Brent Musburger",
+            "length": "1092779",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/304975603-sooner-radio-network-brent-musburger.mp3"
+        },
+        {
+            "title": "The Tailgate -- The Voice And The Star",
+            "datePublished": "Thu, 26 Jan 2017 18:17:45 +0000",
+            "description": "Toby Rowland re-joins the podcast to re-cap a wild week in hoops and give us a  sneak peek at OU Baseball.\n\nPLUS... Sooner Senior Peyton Little stops by less than 24 hours after putting 16 points on the board in the 4th quarter against Iowa State.\n\nRemember to follow us on Twitter:  @OUontheAir and @SoonerSportsTV",
+            "length": "44473330",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/304658822-sooner-radio-network-the-tailgate-the-voice-and-the-star.mp3"
+        },
+        {
+            "title": "OU - UT Scenesetter Austin 2017",
+            "datePublished": "Mon, 23 Jan 2017 22:12:01 +0000",
+            "description": "OU-UT Scenesetter Austin",
+            "length": "3241298",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/304183181-sooner-radio-network-ou-ut-scenesetter-austin-2017.mp3"
+        },
+        {
+            "title": "The Game Plan -- The Maddie Cast",
+            "datePublished": "Mon, 23 Jan 2017 17:56:37 +0000",
+            "description": "You will not find many more student athletes more impressive than Maddie Mannig.  \n\nWe sit down with the Sooner RS Senior to talk OU Women's Basketball, community service, and her future.\n\nAlso Jessica Coody joins us to break down the Bedlam Hoops game from Sunday.",
+            "length": "34854273",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/304143896-sooner-radio-network-the-game-plan-the-maddie-cast.mp3"
+        },
+        {
+            "title": "Monday Morning Refresher January 22",
+            "datePublished": "Mon, 23 Jan 2017 05:55:44 +0000",
+            "description": "Monday Morning Refresher January 22 by Sooner Radio Network",
+            "length": "15920877",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/304074539-sooner-radio-network-monday-morning-refresher-january-22.mp3"
+        },
+        {
+            "title": "The Tailgate - Massive Night In Morgantown",
+            "datePublished": "Thu, 19 Jan 2017 17:57:26 +0000",
+            "description": "What an amazing win for OU Basketball in Morgantown... We re-cap and review with Coach Kruger and Christian Dolittle.\n\nPLUS Sooner Tennis and Women's Gymnastics take center stage.\n\n4:30 -- Toby Rowland re-caps Morgantown\n\n10:00 -- Men's Tennis Coach Nick Crowell\n\n17:00 -- Women's Gymnastics Coach K.J. Kindler\n\nFollow us on Twitter:\n\n@OUontheAir and @SoonerSportsTV",
+            "length": "39514189",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/303517784-sooner-radio-network-the-tailgate-massive-night-in-morgantown.mp3"
+        },
+        {
+            "title": "OU - WV Hilites Morgantown",
+            "datePublished": "Thu, 19 Jan 2017 03:47:57 +0000",
+            "description": "OU-WV hilites Morgantown",
+            "length": "3543874",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/303434634-sooner-radio-network-ou-wv-hilites-morgantown.mp3"
+        },
+        {
+            "title": "Lon Kruger Postgame Interview",
+            "datePublished": "Thu, 19 Jan 2017 03:41:10 +0000",
+            "description": "Lon Kruger postgame WV LIVE",
+            "length": "4021220",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/303433860-sooner-radio-network-lon-kruger-postgame-interview.mp3"
+        },
+        {
+            "title": "January 18, 2017 9:36:54 PM",
+            "datePublished": "Thu, 19 Jan 2017 02:54:51 +0000",
+            "description": "Kruger postgame locker WV",
+            "length": "466981",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/303428583-sooner-radio-network-january-18-2017-93654-pm.mp3"
+        },
+        {
+            "title": "OU - WV Hoops Scenesetter",
+            "datePublished": "Wed, 18 Jan 2017 21:04:36 +0000",
+            "description": "OU-WV Hoops Scenesetter",
+            "length": "2868270",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/303374815-sooner-radio-network-ou-wv-hoops-scenesetter.mp3"
+        },
+        {
+            "title": "The Game Plan -All Eyes On Morgantown",
+            "datePublished": "Mon, 16 Jan 2017 20:14:18 +0000",
+            "description": "We talk a lot of hoops on this edition of the Sooner Sports Podcast:\n\n2:30 - Coach Sherri Coale and Peyton Little post the Texas Tech win\n\n6;40 - We go 1 on 1 with OU Sophomore Rashard Odomes\n\n10:30 - Lon Kruger\n\n13:40 - Sooner Senior Guard Jordan Woodard\n\n16:50 - Toby with Sooner Assistant Coach Carlin Hartman\n\nThanks for listening and remember to follow us on Twitter:\n@OUontheAir and @SoonerSportsTV",
+            "length": "40130233",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/303023020-sooner-radio-network-the-game-plan-all-eyes-on-morgantown.mp3"
+        },
+        {
+            "title": "The Monday Morning Refresher",
+            "datePublished": "Mon, 16 Jan 2017 07:06:06 +0000",
+            "description": "The Monday Morning Refresher by Sooner Radio Network",
+            "length": "16493797",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/302926923-sooner-radio-network-the-monday-morning-refresher.mp3"
+        },
+        {
+            "title": "The Tailgate - Toby's Take On The Week",
+            "datePublished": "Thu, 12 Jan 2017 18:08:25 +0000",
+            "description": "The Voice of the Sooners Toby Rowland recaps a busy week in Sooner Athletics... and previews an even wilder weekend ahead!\n\nFollow us on Twitter:  @OUontheAir and @SoonerSportsTV",
+            "length": "28220305",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/302376484-sooner-radio-network-the-tailgate-tobys-take-on-the-week.mp3"
+        },
+        {
+            "title": "The Game Plan - A Coody And A Crutch",
+            "datePublished": "Mon, 09 Jan 2017 19:01:52 +0000",
+            "description": "Jessica Coody looks back on a big weekend in Sooner Athletics including a great start for K.J. Kindler and OU Women's Gymnastics... \n\nTHEN the Voice of the Sooners Toby Rowland sits down with Sooner Assistant Basketball Coach Chris Crutchfield\n\nFollow us on Twitter:  @SoonerSportsTV and @OUontheAir",
+            "length": "35031781",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/301707931-sooner-radio-network-the-game-plan-a-coody-and-a-crutch.mp3"
+        },
+        {
+            "title": "Monday Morning Refresher January 9",
+            "datePublished": "Mon, 09 Jan 2017 07:12:10 +0000",
+            "description": "Monday Morning Refresher January 9 by Sooner Radio Network",
+            "length": "15736081",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/301637458-sooner-radio-network-monday-morning-refresher-january-9.mp3"
+        },
+        {
+            "title": "Sooner Sports Podcast - A Sugar Bowl Re - Cap And A Sweet Shot",
+            "datePublished": "Thu, 05 Jan 2017 22:01:01 +0000",
+            "description": "We sit down with the Voice of the Sooners to re-cap the incredible Sooner win in the Sugar Bowl and the career of Semaje Perine.  \nPlus... how much do you put in to bowl wins for a conference??\n\nWe also sit down with OU Sooner point guard Gabbi Ortiz after she hit a game tying 3 to force overtime against Kansas State.\n\nAs always thanks for downloading and subscribing to the Sooner Sports Podcast.  Follow us on Twitter: @SoonerSportsTV and @OUontheAir",
+            "length": "57068489",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/301118238-sooner-radio-network-sooner-sports-podcast-a-sugar-bowl-re-cap-and-a-sweet-shot.mp3"
+        },
+        {
+            "title": "Sugar Bowl Hilites",
+            "datePublished": "Tue, 03 Jan 2017 12:51:10 +0000",
+            "description": "Sugar Bowl Hilites",
+            "length": "6489360",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/300716739-sooner-radio-network-sugar-bowl-hilites.mp3"
+        },
+        {
+            "title": "Sooner Sports Podcast - The Voice Returns",
+            "datePublished": "Thu, 29 Dec 2016 20:19:33 +0000",
+            "description": "Toby Rowland returns with Chris Plank to get you ready for the start of Conference Hoops and the Sugar Bowl.",
+            "length": "22491985",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/300094694-sooner-radio-network-sooner-sports-podcast-the-voice-returns.mp3"
+        },
+        {
+            "title": "1) Dede \"Has A Day\" Vs Texas",
+            "datePublished": "Thu, 29 Dec 2016 03:03:46 +0000",
+            "description": "1) Dede has a Day! OU beats Texas.",
+            "length": "860178",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/300002492-sooner-radio-network-1-dede-has-a-day-vs-texas.mp3"
+        },
+        {
+            "title": "2) Mixon & Perine Seal Bedlam Win",
+            "datePublished": "Thu, 29 Dec 2016 02:03:46 +0000",
+            "description": "2) Mixon & Perine seal Bedlam",
+            "length": "660888",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/299997128-sooner-radio-network-2-mixon-perine-seal-bedlam-win.mp3"
+        },
+        {
+            "title": "3) Jordan Evans' Pick 6's",
+            "datePublished": "Thu, 29 Dec 2016 01:03:36 +0000",
+            "description": "3) Jordan Evans pair of Pick 6's",
+            "length": "510513",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/299991092-sooner-radio-network-3-jordan-evans-pick-6s.mp3"
+        },
+        {
+            "title": "4) Baker To Dede Vs OSU",
+            "datePublished": "Thu, 29 Dec 2016 00:11:48 +0000",
+            "description": "4) Baker to Dede in Bedlam",
+            "length": "337417",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/299985534-sooner-radio-network-4-baker-to-dede-vs-osu.mp3"
+        },
+        {
+            "title": "5) Mixon's Big Day At TT",
+            "datePublished": "Wed, 28 Dec 2016 23:07:30 +0000",
+            "description": "5) Mixon's Big Day at TT",
+            "length": "741495",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/299978121-sooner-radio-network-5-mixons-big-day-at-tt.mp3"
+        },
+        {
+            "title": "6) Baker To Dede In Snow Vs WV",
+            "datePublished": "Wed, 28 Dec 2016 22:04:41 +0000",
+            "description": "6) Baker to Dede in WV \"stiff arm\"",
+            "length": "254165",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/299970221-sooner-radio-network-6-baker-to-dede-in-snow-vs-wv.mp3"
+        },
+        {
+            "title": "7) Mixon KOR TD Vs Ohio St",
+            "datePublished": "Wed, 28 Dec 2016 21:00:20 +0000",
+            "description": "7) Mixon's KOR TD vs Ohio State",
+            "length": "360966",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/299961265-sooner-radio-network-7-mixon-kor-td-vs-ohio-st.mp3"
+        },
+        {
+            "title": "8) Baker To Dede Seals It Vs KState \"Ha Ha!\"",
+            "datePublished": "Wed, 28 Dec 2016 20:03:26 +0000",
+            "description": "8) Baker to Dede seals win vs KState",
+            "length": "209020",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/299950172-sooner-radio-network-8-baker-to-dede-seals-it-vs-kstate-ha-ha.mp3"
+        },
+        {
+            "title": "9) Flea Flicker TD Vs TCU",
+            "datePublished": "Wed, 28 Dec 2016 19:07:57 +0000",
+            "description": "9) Flea flicker vs TCU \"He's Got Him!\"",
+            "length": "165698",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/299942615-sooner-radio-network-9-flea-flicker-td-vs-tcu.mp3"
+        },
+        {
+            "title": "10) Mead Spinning TD Vs ISU",
+            "datePublished": "Wed, 28 Dec 2016 18:02:04 +0000",
+            "description": "10) Mead spinning TD vs ISU",
+            "length": "291166",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/299930371-sooner-radio-network-10-mead-spinning-td-vs-isu.mp3"
+        },
+        {
+            "title": "11) Dede PR TD Vs KU",
+            "datePublished": "Wed, 28 Dec 2016 17:10:50 +0000",
+            "description": "11) Dede PR TD vs KU",
+            "length": "237464",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/299924213-sooner-radio-network-11-dede-pr-td-vs-ku.mp3"
+        },
+        {
+            "title": "12) Mixon Leaping TD Vs KState",
+            "datePublished": "Wed, 28 Dec 2016 16:01:48 +0000",
+            "description": "12) Mixon hurdles defender for TD vs KState",
+            "length": "144465",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/299916388-sooner-radio-network-12-mixon-leaping-td-vs-kstate.mp3"
+        },
+        {
+            "title": "13) Perine \"feathers Fly\" Vs ULM",
+            "datePublished": "Wed, 28 Dec 2016 15:01:14 +0000",
+            "description": "13) Perine \"feathers fly\" vs ULM",
+            "length": "171382",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/299910084-sooner-radio-network-13-perine-feathers-fly-vs-ulm.mp3"
+        },
+        {
+            "title": "14) Will Sunderland INT Vs Texas",
+            "datePublished": "Wed, 28 Dec 2016 14:05:32 +0000",
+            "description": "14) Will Sunderland INT vs Texas",
+            "length": "390833",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/299904734-sooner-radio-network-14-will-sunderland-int-vs-texas.mp3"
+        },
+        {
+            "title": "15) Mixon TD Pass To Dede Vs KState",
+            "datePublished": "Wed, 28 Dec 2016 13:01:25 +0000",
+            "description": "15) Mixon TD Pass to Dede",
+            "length": "139887",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/299898589-sooner-radio-network-15-mixon-td-pass-to-dede-vs-kstate.mp3"
+        },
+        {
+            "title": "16) Gallimore Canadian Bacon",
+            "datePublished": "Wed, 28 Dec 2016 12:17:59 +0000",
+            "description": "16) Neville Gallimore vs WV",
+            "length": "168343",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/299894963-sooner-radio-network-16-gallimore-canadian-bacon.mp3"
+        },
+        {
+            "title": "Sooner Sports Podcast -- Dueling Voices",
+            "datePublished": "Mon, 26 Dec 2016 20:44:10 +0000",
+            "description": "Toby sits down with the play by play voice of the Auburn Tigers... Rod Bramblett\n\nJessica Coody joins us to give perspective on her Top 10 features on SoonerSports.com",
+            "length": "37347601",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/299689521-sooner-radio-network-sooner-sports-podcast-dueling-voices.mp3"
+        },
+        {
+            "title": "Sooner Sports Podcast -- Some Auburn Holiday Prep",
+            "datePublished": "Thu, 22 Dec 2016 20:01:55 +0000",
+            "description": "Sooner Sports Podcast -- Some Auburn Holiday Prep by Sooner Radio Network",
+            "length": "59002597",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/299191768-sooner-radio-network-sooner-sports-podcast-some-auburn-holiday-prep.mp3"
+        },
+        {
+            "title": "The Game Plan Holiday Edition",
+            "datePublished": "Mon, 19 Dec 2016 19:16:01 +0000",
+            "description": "The Game Plan Holiday Edition by Sooner Radio Network",
+            "length": "29453797",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/298658240-sooner-radio-network-the-game-plan-holiday-edition.mp3"
+        },
+        {
+            "title": "Monday Morning Refresher For December 19",
+            "datePublished": "Mon, 19 Dec 2016 07:10:05 +0000",
+            "description": "Monday Morning Refresher For December 19 by Sooner Radio Network",
+            "length": "10089535",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/298576568-sooner-radio-network-monday-morning-refresher-for-december-19.mp3"
+        },
+        {
+            "title": "The Tailgate -- A Little Bit Of Everything",
+            "datePublished": "Thu, 15 Dec 2016 18:17:17 +0000",
+            "description": "We take you to Atlanta and New York to find out all the behind the scenes fun from the Heisman Ceremony... Plus a preview of the HUGE game between Oklahoma and Memphis and we sit down with Sooner hoops standout Maddie Manning.\n\n2:30 -- Matt \"Arch\" Archibald on the trip to New York and Atlanta\n11:30 -- Tulsa World beat writer Eric Bailey on the Heisman Ceremony\n16:30 -- Memphis Tiger Play by Play voice Dave Woloshin\n26:00 -- Maddie Manning, OU Sooner Basketball Standout\n\nThanks for listening and make sure you follow us on Twitter... @OUontheAir and @SoonerSportsTV",
+            "length": "50315089",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/298058221-sooner-radio-network-the-tailgate-a-little-bit-of-everything.mp3"
+        },
+        {
+            "title": "The Game Plan -- The Development Of Jordan Woodard",
+            "datePublished": "Mon, 12 Dec 2016 18:23:41 +0000",
+            "description": "The Game Plan -- The Development Of Jordan Woodard by Sooner Radio Network",
+            "length": "22297573",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/297564370-sooner-radio-network-the-game-plan-the-development-of-jordan-woodard.mp3"
+        },
+        {
+            "title": "Monday Morning Refresher December 12, 2016",
+            "datePublished": "Mon, 12 Dec 2016 07:17:18 +0000",
+            "description": "Monday Morning Refresher December 12, 2016 by Sooner Radio Network",
+            "length": "11572177",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/297497474-sooner-radio-network-monday-morning-refresher-december-12-2016.mp3"
+        },
+        {
+            "title": "The Making Of A Heisman Campaign",
+            "datePublished": "Thu, 08 Dec 2016 18:29:25 +0000",
+            "description": "Congrats to Baker and Dede who are Heisman finalist... and incredible season and two worthy candidates.\n\nBut what about the story behind the campaign... the story beyond the field.  This is a look behind the scenes of the Heisman campaign",
+            "length": "62588949",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/296867189-sooner-radio-network-the-making-of-a-heisman-campaign.mp3"
+        },
+        {
+            "title": "Baker to Dede to NYC!",
+            "datePublished": "Tue, 06 Dec 2016 00:06:13 +0000",
+            "description": "Baker to Dede to NYC!",
+            "length": "339449",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/296428556-sooner-radio-network-baker-to-dede-to-nyc.mp3"
+        },
+        {
+            "title": "The Game Plan - How Sweet It Is",
+            "datePublished": "Mon, 05 Dec 2016 19:05:05 +0000",
+            "description": "Toby Rowland re-caps Bedlam and a sneak peek ahead to the Sugar Bowl against Auburn",
+            "length": "30653605",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/296383526-sooner-radio-network-the-game-plan-how-sweet-it-is.mp3"
+        },
+        {
+            "title": "Monday Morning Refresher - Monday December 5, 2015",
+            "datePublished": "Mon, 05 Dec 2016 07:15:41 +0000",
+            "description": "OU wins the Big 12 Championship for the 2nd straight season",
+            "length": "16612653",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/296260533-sooner-radio-network-monday-morning-refresher-monday-december-5-2015.mp3"
+        },
+        {
+            "title": "OU - OSU Hilites 2016 + Stoops Post",
+            "datePublished": "Sun, 04 Dec 2016 02:25:41 +0000",
+            "description": "Bedlam Hilites 2016",
+            "length": "5062511",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/296094791-sooner-radio-network-ou-osu-hilites-2016-stoops-post.mp3"
+        },
+        {
+            "title": "Bedlam Scenesetter",
+            "datePublished": "Sat, 03 Dec 2016 14:04:42 +0000",
+            "description": "Bedlam Scenesetter",
+            "length": "5592319",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/296014218-sooner-radio-network-bedlam-scenesetter.mp3"
+        },
+        {
+            "title": "The Tailgate -- A Shot At A Big 12 Title And So Much More",
+            "datePublished": "Thu, 01 Dec 2016 18:04:46 +0000",
+            "description": "Get ready for Bedlam!!\n\nWe sit down with Sooner standout receiver Dede Westbrook... and we dare to cross enemy lines to chat with the Voice of the Cowboys Dave Hunzyker and Sideline Reporter Robert Allen.\n\n5:00 -- Jessica Coody with Dede Westbrook\n\n22:00 -- Toby Rowland sits down with Dave Hunzyker\n\n36:00 -- Chris Plank with Robert Allen\n\nGet in touch with the Sooner Sports Podcast on Twitter @OUontheAir and @SoonerSportsTV\n\nBoomer!",
+            "length": "78011073",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/295736746-sooner-radio-network-the-tailgate-a-shot-at-a-big-12-title-and-so-much-more.mp3"
+        },
+        {
+            "title": "OU - N.Colorado Hilites",
+            "datePublished": "Wed, 30 Nov 2016 12:34:19 +0000",
+            "description": "OU-N.Colorado hilites",
+            "length": "1185456",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/295501966-sooner-radio-network-ou-ncolorado-hilites.mp3"
+        },
+        {
+            "title": "The Game Plan - It's Bedlam Week",
+            "datePublished": "Mon, 28 Nov 2016 19:35:18 +0000",
+            "description": "The Voice of The Sooners RETURNS!\n\nPlus Dede, Obo, and Orlando... It's Bedlam Time in Oklahoma",
+            "length": "28654265",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/295187195-sooner-radio-network-the-game-plan-its-bedlam-week.mp3"
+        },
+        {
+            "title": "The Monday Morning Refresher November 28",
+            "datePublished": "Mon, 28 Nov 2016 07:12:05 +0000",
+            "description": "The Monday Morning Refresher November 28 by Sooner Radio Network",
+            "length": "11162317",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/295107490-sooner-radio-network-the-monday-morning-refresher-november-28.mp3"
+        },
+        {
+            "title": "OU - ACU Hilites",
+            "datePublished": "Sat, 26 Nov 2016 01:59:27 +0000",
+            "description": "OU-ACU Hilites",
+            "length": "1186294",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/294808531-sooner-radio-network-ou-acu-hilites.mp3"
+        },
+        {
+            "title": "The Game Plan - It All Comes Down To This",
+            "datePublished": "Mon, 21 Nov 2016 20:32:39 +0000",
+            "description": "The Game Plan - It All Comes Down To This by Sooner Radio Network",
+            "length": "30173321",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/294122684-sooner-radio-network-the-game-plan-it-all-comes-down-to-this.mp3"
+        },
+        {
+            "title": "Monday Morning Refresher --  November 21, 2016",
+            "datePublished": "Mon, 21 Nov 2016 07:15:47 +0000",
+            "description": "Monday Morning Refresher --  November 21, 2016 by Sooner Radio Network",
+            "length": "15711889",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/294031931-sooner-radio-network-monday-morning-refresher-november-21-2016.mp3"
+        },
+        {
+            "title": "OU - Clemson Hilites",
+            "datePublished": "Mon, 21 Nov 2016 01:37:34 +0000",
+            "description": "OU-Clemson Hoops Hilites",
+            "length": "1387833",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/294001818-sooner-radio-network-ou-clemson-hilites.mp3"
+        },
+        {
+            "title": "OU - WV Hilites 2016",
+            "datePublished": "Sun, 20 Nov 2016 11:48:17 +0000",
+            "description": "OU-WV Hilites 2016",
+            "length": "2947991",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/293904444-sooner-radio-network-ou-wv-hilites-2016.mp3"
+        },
+        {
+            "title": "OU - WV Scenesetter 2016",
+            "datePublished": "Sat, 19 Nov 2016 18:13:56 +0000",
+            "description": "OU-WV Scenesetter 2016",
+            "length": "6781413",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/293812911-sooner-radio-network-ou-wv-scenesetter-2016.mp3"
+        },
+        {
+            "title": "OU - Tulane Hilites",
+            "datePublished": "Fri, 18 Nov 2016 04:14:22 +0000",
+            "description": "OU-Tulane Hoops Hilites",
+            "length": "1939880",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/293591265-sooner-radio-network-ou-tulane-hilites.mp3"
+        },
+        {
+            "title": "The Tailgate -- The Country Road To A Big 12 Title",
+            "datePublished": "Thu, 17 Nov 2016 17:59:22 +0000",
+            "description": "HUGE preview of the OU/West Virginia showdown... and we talk about the Sooner Soccer run in the NCAA Tournament\n\n5:00 -- Jordan Evans, Sooner Senior LB\n\n9:00 -- Dede Westbrook, Sooner Senior WR\n\n13:10 -- Orlando Brown Jr, Sooner LT\n\n16:10 -- Mike Casazza, West Virginia Beat Writer Charleston Gazette\n\n25:00 -- Matt Potter, OU Women's Soccer Coach",
+            "length": "46640009",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/293507583-sooner-radio-network-the-tailgate-the-country-road-to-a-big-12-title.mp3"
+        },
+        {
+            "title": "The Game Plan - Toby Rowlands Excellent Adventure",
+            "datePublished": "Mon, 14 Nov 2016 19:44:17 +0000",
+            "description": "The Game Plan - Toby Rowlands Excellent Adventure by Sooner Radio Network",
+            "length": "27460737",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/293023524-sooner-radio-network-the-game-plan-toby-rowlands-excellent-adventure.mp3"
+        },
+        {
+            "title": "The Refresher November 14",
+            "datePublished": "Mon, 14 Nov 2016 07:21:20 +0000",
+            "description": "The Refresher November 14 by Sooner Radio Network",
+            "length": "13064493",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/292940927-sooner-radio-network-the-refresher-november-14.mp3"
+        },
+        {
+            "title": "OU - NWST Hilites",
+            "datePublished": "Mon, 14 Nov 2016 02:13:01 +0000",
+            "description": "OU-NWST Hoops Hilites",
+            "length": "1019056",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/292914836-sooner-radio-network-ou-nwst-hilites.mp3"
+        },
+        {
+            "title": "OU - BU Hilites 2016",
+            "datePublished": "Sat, 12 Nov 2016 22:18:21 +0000",
+            "description": "OU-BU Hilites 2016",
+            "length": "3957360",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/292751510-sooner-radio-network-ou-bu-hilites-2016.mp3"
+        },
+        {
+            "title": "OU - BU Scenesetter 2016",
+            "datePublished": "Sat, 12 Nov 2016 12:32:38 +0000",
+            "description": "OU-Baylor Audio Scenesetter 2016",
+            "length": "4282017",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/292685062-sooner-radio-network-ou-bu-scenesetter-2016.mp3"
+        },
+        {
+            "title": "The Tailgate - Setting A Bear Trap",
+            "datePublished": "Thu, 10 Nov 2016 18:20:51 +0000",
+            "description": "It is the next to last home game of the season for OU Football... and the first weekend of home action for the Sooner Men's and Women's Basketball teams!\n\n6:30 -- We go 1 on 1 with Dmitri Flowers after his amazing game against Iowa State\n\n11:50 -- We go inside the Sooner Football story lines with Oklahoman OU Beat Writer Ryan Aber\n\n18:10 -- The Battle of the Voices!  Toby sits down with Baylor play by play guy John Morris\n\n28:00 -- Toby and Sherri Coale to preview the Sooners and SIU-C",
+            "length": "54773129",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/292415627-sooner-radio-network-the-tailgate-setting-a-bear-trap.mp3"
+        },
+        {
+            "title": "The Game Plan -- A Battle With The Bears",
+            "datePublished": "Mon, 07 Nov 2016 20:04:39 +0000",
+            "description": "Toby and Chris preview the OU/Baylor game while Plank begs for mercy after the Monday Morning Refresher disappeared!\n\nBoomer Sooner!  And follow us on Twitter.  @OUontheAir and @SoonerSportsTV",
+            "length": "26480932",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/291960275-sooner-radio-network-the-game-plan-a-battle-with-the-bears.mp3"
+        },
+        {
+            "title": "The Mobile Edition Of The Sooner Sports Podcast",
+            "datePublished": "Fri, 04 Nov 2016 17:08:57 +0000",
+            "description": "The Voice of the Sooners Toby Rowland and Sideline reporter Chris Plank re-cap the win over Iowa State on the road home from Ames.",
+            "length": "33924433",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/291504008-sooner-radio-network-the-mobile-edition-of-the-sooner-sports-podcast.mp3"
+        },
+        {
+            "title": "OU - ISU Hilites 2016",
+            "datePublished": "Fri, 04 Nov 2016 04:22:48 +0000",
+            "description": "OU - ISU Hilites 2016 by Sooner Radio Network",
+            "length": "3239675",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/291434634-sooner-radio-network-ou-isu-hilites-2016.mp3"
+        },
+        {
+            "title": "OU - ISU Scenesetter 2016",
+            "datePublished": "Thu, 03 Nov 2016 13:29:38 +0000",
+            "description": "OU - ISU Scenesetter 2016 by Sooner Radio Network",
+            "length": "4431437",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/291314904-sooner-radio-network-ou-isu-scenesetter-2016.mp3"
+        },
+        {
+            "title": "The Game Plan - We Aim Our Focus On Ames",
+            "datePublished": "Mon, 31 Oct 2016 18:43:14 +0000",
+            "description": "A short week of prep as the Sooners battle Iowa State in Ames... The Voice of the Sooners Toby Rowland takes a quick look at the Game Plan with Sideline Reporter Chris Plank",
+            "length": "23452177",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/290841983-sooner-radio-network-the-game-plan-we-aim-our-focus-on-ames.mp3"
+        },
+        {
+            "title": "The Monday Morning Refresher October 31, 2016",
+            "datePublished": "Mon, 31 Oct 2016 06:10:47 +0000",
+            "description": "The Monday Morning Refresher October 31, 2016 by Sooner Radio Network",
+            "length": "13161937",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/290764231-sooner-radio-network-the-monday-morning-refresher-october-31-2016.mp3"
+        },
+        {
+            "title": "OU - KU Hilites 2016",
+            "datePublished": "Sun, 30 Oct 2016 04:10:54 +0000",
+            "description": "OU - KU Hilites 2016 by Sooner Radio Network",
+            "length": "2777216",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/290618027-sooner-radio-network-ou-ku-hilites-2016.mp3"
+        },
+        {
+            "title": "OU - KU Scenesetter 2016",
+            "datePublished": "Sat, 29 Oct 2016 13:04:28 +0000",
+            "description": "OU-KU Audio Scenesetter",
+            "length": "3677021",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/290529778-sooner-radio-network-ou-ku-scenesetter-2016.mp3"
+        },
+        {
+            "title": "The Tailgate - A Jayhawk For Homecoming",
+            "datePublished": "Thu, 27 Oct 2016 19:13:56 +0000",
+            "description": "From KU Play by Play Voice Brian Hanni to KU Sports Radio guy and Oklahoma Native Tyler Jones... we have a complete preview of the Jayhawks.\nPlus Coach Simmons and Thibs along with Bob Stoops talk KU prep with a look back at Texas Tech... And we look back on Lubbock with OU standout DeDe Westbrook.\n\nMake sure to follow along on Twitter:  @SoonerSportsTV and @OUontheAir",
+            "length": "53265261",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/290278742-sooner-radio-network-the-tailgate-a-jayhawk-for-homecoming.mp3"
+        },
+        {
+            "title": "The Game Plan -- The Post Tortilla Edition",
+            "datePublished": "Mon, 24 Oct 2016 18:38:34 +0000",
+            "description": "Toby Rowland and Chris Plank re-cap a wild night in Lubbock",
+            "length": "29732205",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/289764455-sooner-radio-network-the-game-plan-the-post-tortilla-edition.mp3"
+        },
+        {
+            "title": "The Refresher -- October 24, 2016",
+            "datePublished": "Mon, 24 Oct 2016 06:11:02 +0000",
+            "description": "Miss anything in Sooner Athletics? We have you covered...",
+            "length": "20617481",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/289685399-sooner-radio-network-the-refresher-october-24-2016.mp3"
+        },
+        {
+            "title": "OU - TT Hilites 2016 (66 - 59)",
+            "datePublished": "Sun, 23 Oct 2016 05:44:03 +0000",
+            "description": "OU-TT Radio Hilites",
+            "length": "3728754",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/289546292-sooner-radio-network-ou-tt-hilites-2016-66-59.mp3"
+        },
+        {
+            "title": "OU - TT Scenesetter 2016",
+            "datePublished": "Sat, 22 Oct 2016 13:12:19 +0000",
+            "description": "OU-TT Scenesetter 2016",
+            "length": "5426180",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/289445096-sooner-radio-network-ou-tt-scenesetter-2016.mp3"
+        },
+        {
+            "title": "The Tailgate - A Sit Down With Joe Castiglione",
+            "datePublished": "Thu, 20 Oct 2016 13:45:38 +0000",
+            "description": "The Director of Athletics Joe Castiglione talks everything Sooners with the Sooner Sports Podcast",
+            "length": "46222309",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/289142998-sooner-radio-network-the-tailgate-a-sit-down-with-joe-castiglione.mp3"
+        },
+        {
+            "title": "The Game Plan -- The Sooners Prepare Minus Perine",
+            "datePublished": "Mon, 17 Oct 2016 18:43:57 +0000",
+            "description": "Toby Rowland and Chris Plank get you ready for OU at Texas Tech with \"The Game Plan\"",
+            "length": "34405393",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/288702819-sooner-radio-network-the-game-plan-the-sooners-prepare-minus-perine.mp3"
+        },
+        {
+            "title": "Monday Morning Refresher October 17, 2016",
+            "datePublished": "Mon, 17 Oct 2016 06:21:15 +0000",
+            "description": "The Sooners knock of the Wildcats 38-17 on the gridiron... hear from Coach Bob Stoops, Baker Mayfield, and Steven Parker II.\nPlus... Basketball news, soccer, and volleyball updates!\n\nMake sure to follow us on Twitter:  @OUontheAir and @SoonerSportsTV",
+            "length": "19969957",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/288571634-sooner-radio-network-monday-morning-refresher-october-17-2016.mp3"
+        },
+        {
+            "title": "OU - KState Hilites 2016",
+            "datePublished": "Sat, 15 Oct 2016 21:00:56 +0000",
+            "description": "OU-KState Radio Hilites 2016",
+            "length": "1959544",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/288082542-sooner-radio-network-ou-kstate-hilites-2017.mp3"
+        },
+        {
+            "title": "OU - KState Scenesetter 2016",
+            "datePublished": "Sat, 15 Oct 2016 11:30:20 +0000",
+            "description": "OU-KState Audio Scenesetter",
+            "length": "3463862",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/287933184-sooner-radio-network-ou-kstate-scenesetter-2016.mp3"
+        },
+        {
+            "title": "The Tailgate -- Finally Back At The Palace on the Prairie",
+            "datePublished": "Thu, 13 Oct 2016 18:58:52 +0000",
+            "description": "Get ready for OU and Kansas State with the Voice of the Sooners and the Voice of the Wildcats... Toby Rowland sits down with K-State Voice Wyatt Thompson.  T-Row also gives us his perspective on the Sooners game week preparations.\n\nPLUS... we give you an inside look at OU Women's Basketball practice as we spend some time with standout point guard Gabbi Ortiz and head coach Sherri Coale.",
+            "length": "42946374",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/287532858-sooner-radio-network-the-tailgate-finally-back-at-the-palace-on-the-prairie.mp3"
+        },
+        {
+            "title": "The Game Plan - Red River Re - Cap",
+            "datePublished": "Mon, 10 Oct 2016 18:38:41 +0000",
+            "description": "The Voice of the Sooners Toby Rowland is in a good mood... OU Beats Texas 45-40, we re-cap everything Red River related in today's episode",
+            "length": "32093129",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/287029343-sooner-radio-network-the-game-plan-red-river-re-cap.mp3"
+        },
+        {
+            "title": "The Refresher For Monday October 10, 2016",
+            "datePublished": "Mon, 10 Oct 2016 06:12:23 +0000",
+            "description": "The Monday Morning Refresher with Chris Plank... A complete look back at the weekend in Sooner Athletics.",
+            "length": "17468113",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/286946403-sooner-radio-network-the-refresher-for-monday-october-10-2016.mp3"
+        },
+        {
+            "title": "OU - Texas Hilites 2016",
+            "datePublished": "Sat, 08 Oct 2016 22:12:21 +0000",
+            "description": "OU-Texas Radio Hilites 2016",
+            "length": "4541214",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/286769718-sooner-radio-network-ou-texas-hilites-2016.mp3"
+        },
+        {
+            "title": "OU - Texas Scenesetter 2016",
+            "datePublished": "Sat, 08 Oct 2016 13:13:50 +0000",
+            "description": "OU-Texas Scenesetter 2016",
+            "length": "8044694",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/286710670-sooner-radio-network-ou-texas-scenesetter-2016.mp3"
+        },
+        {
+            "title": "The Tailgate -- OU vs. Texas ... It's Time",
+            "datePublished": "Thu, 06 Oct 2016 17:19:28 +0000",
+            "description": "We chat with Jordan Evans, Obo, Dmitri Flowers, Craig Way, Eric Bailey, and Toby Rowland to get you ready for OU/Texas.\n\nPlus OU Women's Basketball Coach Sherri Coale sits down with Jessica Coody to preview the Women's Hoops season and Jess swings by hoops practice to chat with Jordan Woodard.",
+            "length": "74471247",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/286358679-sooner-radio-network-the-tailgate-ou-vs-texas-its-time.mp3"
+        },
+        {
+            "title": "The Game Plan - It's Here... OU Vs Texas Week",
+            "datePublished": "Mon, 03 Oct 2016 19:05:52 +0000",
+            "description": "The Voice of the Sooners Toby Rowland and Sooner sideline reporter Chris Plank preview the OU/Texas game.\nAlso a complete recap of the Bob Stoops presser.",
+            "length": "33093641",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/285885261-sooner-radio-network-the-game-plan-its-here-ou-vs-texas-week.mp3"
+        },
+        {
+            "title": "The Refresher for Monday October 3, 2016",
+            "datePublished": "Mon, 03 Oct 2016 02:49:44 +0000",
+            "description": "Chris Plank re-caps the weekend that was in Sooner Sports",
+            "length": "13365841",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/285787084-sooner-radio-network-the-refresher-for-monday-october-3-2016.mp3"
+        },
+        {
+            "title": "OU - TCU Hilites 2016",
+            "datePublished": "Sun, 02 Oct 2016 02:02:29 +0000",
+            "description": "OU-TCU Radio Hilites 2016",
+            "length": "3091732",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/285647580-sooner-radio-network-ou-tcu-hilites-2016.mp3"
+        },
+        {
+            "title": "OU - TCU Scenesetter",
+            "datePublished": "Sat, 01 Oct 2016 13:08:27 +0000",
+            "description": "OU-TCU Scenesetter 2016",
+            "length": "4070947",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/285562847-sooner-radio-network-ou-tcu-scenesetter.mp3"
+        },
+        {
+            "title": "The Tailgate -- Behind Enemy Lines in Fort Worth",
+            "datePublished": "Thu, 29 Sep 2016 17:06:37 +0000",
+            "description": "Tons of Sooner information on this weeks edition INCLUDING a sneak peak at Sooner Hoops and the inside scoop on the Sooner Soccer squad\n\n3:00 - Mark Andrews\n6:30 - TCU Beat Writer Jimmy Burch\n18:00 - Sooner Soccer Coach Matt Potter\n28:30 - Lon Kruger with Jessica Coody",
+            "length": "53228053",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/285289522-sooner-radio-network-the-tailgate-behind-enemy-lines-on-tcu.mp3"
+        },
+        {
+            "title": "The Game Plan - A Different Breed Of Frog",
+            "datePublished": "Mon, 26 Sep 2016 18:49:45 +0000",
+            "description": "The Voice of the Sooners Toby Rowland sits down with Chris Plank to get you ready for OU vs. TCU this Saturday at 4pm.\n\nPre-Game hits the air at 2pm and remember to download the TuneIn radio app to hear all OU Football broadcasts for free in 2016",
+            "length": "29832329",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/284769860-sooner-radio-network-the-game-plan-a-different-breed-of-frog.mp3"
+        },
+        {
+            "title": "The Monday Morning Refresher for September 26, 2016",
+            "datePublished": "Mon, 26 Sep 2016 06:11:02 +0000",
+            "description": "The Monday Morning Refresher for September 26, 2016 by Sooner Radio Network",
+            "length": "11961553",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/284669762-sooner-radio-network-the-monday-morning-refresher-for-september-26-2017.mp3"
+        },
+        {
+            "title": "The Tailgate -- Breaking Down The Bye Week With The Voice",
+            "datePublished": "Thu, 22 Sep 2016 16:57:29 +0000",
+            "description": "Toby Rowland joins us to re-cap the week that has been after the tough loss to Ohio State.",
+            "length": "32472713",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/284138927-sooner-radio-network-the-tailgate-breaking-down-the-bye-week-with-the-voice.mp3"
+        },
+        {
+            "title": "The Game Plan -- The Post Ohio State Edition",
+            "datePublished": "Mon, 19 Sep 2016 18:38:46 +0000",
+            "description": "Toby Rowland and Chris Plank re-cap the OU/Ohio State game with one simple challenge... Keep The Faith",
+            "length": "28253169",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/283655290-sooner-radio-network-the-game-plan-the-post-ohio-state-edition.mp3"
+        },
+        {
+            "title": "Monday Morning Refresher -- Monday, September 19 2016",
+            "datePublished": "Mon, 19 Sep 2016 06:06:56 +0000",
+            "description": "Monday Morning Refresher -- Monday, September 19 2016 by Sooner Radio Network",
+            "length": "10198649",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/283576181-sooner-radio-network-monday-morning-refresher-monday-september-19-2016.mp3"
+        },
+        {
+            "title": "The Tailgate --  What About Bob?",
+            "datePublished": "Thu, 15 Sep 2016 18:32:47 +0000",
+            "description": "Jessica Coody gives us the cuts that didn't make the cut for her feature on Bob Stoops in his 18th season.\n\nWe preview OU/Ohio State with Fox Sports National Writer Stewart Mandel.",
+            "length": "49668893",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/283067524-sooner-radio-network-the-tailgate-what-about-bob.mp3"
+        },
+        {
+            "title": "The Game Plan -- The Biggest of Big Games Against The Buckeyes",
+            "datePublished": "Mon, 12 Sep 2016 23:08:46 +0000",
+            "description": "The Voice of the Sooners Toby Rowland previews the OU / Ohio State showdown while also re-capping the ULM win.",
+            "length": "29878985",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/282631922-sooner-radio-network-the-game-plan-the-biggest-of-big-games-against-the-buckeyes.mp3"
+        },
+        {
+            "title": "The Refresher for Monday September 12, 2016",
+            "datePublished": "Mon, 12 Sep 2016 06:15:05 +0000",
+            "description": "The Refresher for Monday September 12, 2016 by Sooner Radio Network",
+            "length": "12771985",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/282517718-sooner-radio-network-the-refresher-for-monday-september-12-2016.mp3"
+        },
+        {
+            "title": "OU - ULM Scenesetter",
+            "datePublished": "Sun, 11 Sep 2016 03:31:31 +0000",
+            "description": "OU-ULM Scenesetter",
+            "length": "6599601",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/282363982-sooner-radio-network-ou-ulm-scenesetter.mp3"
+        },
+        {
+            "title": "OU - ULM Radio Hilites",
+            "datePublished": "Sun, 11 Sep 2016 03:28:25 +0000",
+            "description": "OU-ULM Radio Hilites",
+            "length": "3217993",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/282363730-sooner-radio-network-ou-ulm-radio-hilites.mp3"
+        },
+        {
+            "title": "The Tailgate -- Gameday Information You Can Not Miss",
+            "datePublished": "Thu, 08 Sep 2016 16:43:28 +0000",
+            "description": "Need the latest on how the Sooners bounce back?  We've got you covered.  Need the latest on Stadium Entrance procedures?  We've got you covered.\n\n3:20 -- Sooner Analyst Ty Darlington joins us to talk bouncing back after a loss.\n\n12:40 -- Kenny Mossman, Sooner Sr. Associate AD for External Ops, on everything you need to know to get ready for Game Day.  Here is a hint.. make sure to check out SoonerSports.com\n\n22:30 -- Sooner Beat Writer Eric Bailey from the Tulsa World gives us some perspective from post practice availability.\n\nFollow us on Twitter:  @OUontheAir and @SoonerSportsTV",
+            "length": "41115769",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/281978600-sooner-radio-network-the-tailgate-gameday-information-you-can-not-miss.mp3"
+        },
+        {
+            "title": "The Game Plan -- Some Final Thoughts on Houston and A Preview Of ULM",
+            "datePublished": "Wed, 07 Sep 2016 02:22:50 +0000",
+            "description": "The Game Plan -- Some Final Thoughts on Houston and A Preview Of ULM by Sooner Radio Network",
+            "length": "27893413",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/281744552-sooner-radio-network-the-game-plan-some-final-thoughts-on-houston-and-a-preview-of-ulm.mp3"
+        },
+        {
+            "title": "The Refresher for Monday September 5, 2016",
+            "datePublished": "Mon, 05 Sep 2016 09:10:31 +0000",
+            "description": "The Refresher for Monday September 5, 2016 by Sooner Radio Network",
+            "length": "14123657",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/281450464-sooner-radio-network-the-refresher-for-monday-september-5-2016.mp3"
+        },
+        {
+            "title": "OU - Houston Scenesetter",
+            "datePublished": "Sat, 03 Sep 2016 00:10:45 +0000",
+            "description": "OU-Houston Scenesetter 2016",
+            "length": "3819572",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/281142646-sooner-radio-network-ou-houston-scenesetter.mp3"
+        },
+        {
+            "title": "The Coody Cast -- More About Merv",
+            "datePublished": "Fri, 02 Sep 2016 14:03:50 +0000",
+            "description": "Here is a nice Friday surprise for you!! Jessica Coody takes you inside her feature on Merv Johnson.  So check out our first episode of the Coody Cast where Jess gives you the rest of the story.\n\nMake sure to follow us on Twitter: @OUontheAir and @SoonerSportsTV",
+            "length": "45813073",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/281063519-sooner-radio-network-the-coody-cast-more-about-merv.mp3"
+        },
+        {
+            "title": "The Tailgate - What Can We Expect From Houston",
+            "datePublished": "Thu, 01 Sep 2016 17:24:34 +0000",
+            "description": "4:00 - Toby Rowland rejoins the podcast to give us his perspective on the OU vs. Houston match-up.\n16:00 - Joe Castiglione with the latest on the improvements to Gaylord Family Oklahoma Stadium\n21:00 - Houston Chronicle Houston Beat Writer Joseph Duarte gives us the inside scoop on the Houston Cougars.\n\nMake sure to follow us on Twitter... and update your link for subscribing to the Sooner Sports Podcast at SoonerSportsTV/Podcast or by searching Sooner Radio Network on iTunes.\n\n",
+            "length": "44655741",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/280935470-sooner-radio-network-the-tailgate-what-can-we-expect-from-houston.mp3"
+        },
+        {
+            "title": "Mark Andrews 1 on 1 with Plank",
+            "datePublished": "Wed, 31 Aug 2016 13:37:07 +0000",
+            "description": "Mark Andrews 1 on 1 with Plank by Sooner Radio Network",
+            "length": "2891022",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/280741074-sooner-radio-network-mark-andrews-1-on-1-with-plank.mp3"
+        },
+        {
+            "title": "The Game Plan with Toby Rowland",
+            "datePublished": "Mon, 29 Aug 2016 20:25:05 +0000",
+            "description": "The Voice of the Sooners joins the Sooner Sports Podcast with his weekly journey inside Sooner Football.",
+            "length": "35407533",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/280480832-sooner-radio-network-the-game-plan-with-toby-rowland.mp3"
+        },
+        {
+            "title": "The Refresher for August 29, 2016",
+            "datePublished": "Mon, 29 Aug 2016 02:00:14 +0000",
+            "description": "A re-cap of the weekend that was in Sooner Athletics",
+            "length": "16009657",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/280367672-sooner-radio-network-the-refresher-for-august-28-2016.mp3"
+        },
+        {
+            "title": "The Tailgate:  Mike Houck Talks About Coordinating Sooner Coverage",
+            "datePublished": "Thu, 25 Aug 2016 02:14:52 +0000",
+            "description": "As always we kick off the Podcast with Boomer Bytes... all the latest news involving Sooner Athletics.\nBut a very special guest joins us this week as we sit down with Mike Houck.  Mike is now the Assistant AD/Strategic Communications for the OU Athletic Department.  His primary objective is coordinating all things football with the media.  The long time Basketball Sports Information Director and Radio analyst is now in his second season with football and gives us some perspective on the shift from basketball to football and what goes in to a typical game week.\n\nIf you aren't already make sure you follow Mike on Twitter @MHouckOU\n\nNext week we sit down with Joe Castiglione.  Make sure to send your questions for Joe C to us @OUontheAir.\n\nBoomer!",
+            "length": "35789873",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/279775925-sooner-radio-network-the-tailgate-mike-houck-talks-about-coordinating-sooner-coverage.mp3"
+        }
+    ]
+}

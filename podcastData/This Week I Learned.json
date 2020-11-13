@@ -1,0 +1,650 @@
+{
+    "artwork": "http://is3.mzstatic.com/image/thumb/Music122/v4/1a/8b/06/1a8b0654-5ffd-1392-063a-36b55d5fe91d/source/100x100bb.jpg",
+    "description": "This weekly podcast series is your audio guide to the most fascinating and fun revelations, reports, and studies on the internet. Quick, concise, and infectiously entertaining, This Week I Learned promises to make learning fun again.\n\nNew episodes: every Friday.",
+    "feedURL": "https://rss.simplecast.com/podcasts/2095/rss",
+    "podcastURL": "http://theweek.com/audio?page=2",
+    "publisher": "frumin@theweek.com (Lauren Hansen)",
+    "title": "This Week I Learned",
+    "episodes": [
+        {
+            "title": "Ep. 79: This week I learned that crows make up after fights, and more",
+            "datePublished": "Fri, 22 Dec 2017 00:53:00 -0500",
+            "description": "Considerate crows | The Vatican's milky walls | When Iceland's women went on strike | Mountain-climbing madness\n",
+            "length": "11315264",
+            "sourceUrl": "https://audio.simplecast.com/5940d1ba.mp3",
+            "epNo": "79"
+        },
+        {
+            "title": "Ep. 78: The week I learned your ice is teeming with bacteria, and more",
+            "datePublished": "Fri, 15 Dec 2017 00:08:00 -0500",
+            "description": "Your gross ice | Play Super Mario with Grandma | The Eiffel Tower at night | Our forcefield atmosphere\n",
+            "length": "12183540",
+            "sourceUrl": "https://audio.simplecast.com/32b4a67a.mp3",
+            "epNo": "78"
+        },
+        {
+            "title": "Ep. 77: This week I learned dogs really are smarter than cats, and more",
+            "datePublished": "Fri, 08 Dec 2017 00:00:00 -0500",
+            "description": "Dogs are nerds |  The trick to learning new skills | The great Halifax explosion | Pumice stones for whales\n",
+            "length": "14508646",
+            "sourceUrl": "https://audio.simplecast.com/30092628.mp3",
+            "epNo": "77"
+        },
+        {
+            "title": "Ep. 76: This week I learned that prehistoric women were ridiculously strong, and more",
+            "datePublished": "Fri, 01 Dec 2017 00:47:00 -0500",
+            "description": "Prehistoric girl power | Turtles' butt-breathing power | How cuddling changes genetics | The negative power of perception\n",
+            "length": "12744859",
+            "sourceUrl": "https://audio.simplecast.com/d0ee143e.mp3",
+            "epNo": "76"
+        },
+        {
+            "title": "Ep. 75: This week I learned America really struggled to pin down a date for Thanksgiving, and more",
+            "datePublished": "Fri, 24 Nov 2017 00:36:00 -0500",
+            "description": "America's Thanksgiving indecision | The long history of the wishbone | Your gluten-less gluten sensitivity | A primer on naming countries\n",
+            "length": "16277868",
+            "sourceUrl": "https://audio.simplecast.com/2e76b2d2.mp3",
+            "epNo": "75"
+        },
+        {
+            "title": "Ep. 74: This week I learned the dinosaurs could still be alive today if the asteroid had hit pretty much anywhere else, and more",
+            "datePublished": "Fri, 17 Nov 2017 00:16:00 -0500",
+            "description": "How the dinosaurs could have survived | The healing powers of daytime | The room in your house that bugs prefer | The incredible efficiency of the penguin waddle\n",
+            "length": "11241877",
+            "sourceUrl": "https://audio.simplecast.com/337075df.mp3",
+            "epNo": "74"
+        },
+        {
+            "title": "Ep. 73: This week I learned that dogs can smell happiness, and more",
+            "datePublished": "Fri, 10 Nov 2017 00:54:00 -0500",
+            "description": "How you're hijacking your dog's emotions | Right-handed bees | Chopin's pickled heart | England's sin-eaters\n",
+            "length": "11836633",
+            "sourceUrl": "https://audio.simplecast.com/38edb7a1.mp3",
+            "epNo": "73"
+        },
+        {
+            "title": "Ep. 72: This week I learned plants can smell predators coming, and more",
+            "datePublished": "Fri, 03 Nov 2017 00:42:00 -0400",
+            "description": "Plants can smell | Bacteria can feel | It snows sunscreen on a planet far, far away | The purpose of those silly little T. Rex arms\n",
+            "length": "12908699",
+            "sourceUrl": "https://audio.simplecast.com/1db24287.mp3",
+            "epNo": "72"
+        },
+        {
+            "title": "Ep. 71: This week I learned that salmon sex literally moves mountains, and more",
+            "datePublished": "Fri, 27 Oct 2017 00:18:00 -0400",
+            "description": "Earth-shattering salmon love | The secret genius of daydreaming | Our innate arachnophobia | Diagnosed with a broken heart\n",
+            "length": "11024539",
+            "sourceUrl": "https://audio.simplecast.com/11f3050d.mp3",
+            "epNo": "71"
+        },
+        {
+            "title": "Ep. 70: This week I learned worms can smell danger, and more",
+            "datePublished": "Fri, 20 Oct 2017 00:09:00 -0400",
+            "description": "The olfactory defenses of the roundworm | Stress is ruining your diet | A fish's lament | The murderer behind the OED\n",
+            "length": "15545603",
+            "sourceUrl": "https://audio.simplecast.com/1c440a60.mp3",
+            "epNo": "71"
+        },
+        {
+            "title": "Ep. 69: This week I learned how female dolphins are weaponizing their vaginas to fight the underwater patriarchy, and more",
+            "datePublished": "Fri, 13 Oct 2017 00:02:00 -0400",
+            "description": "How dolphins fight 'the man' | Beware the nocebo effect | The mystery of the Amber Room | Europe's radioactive pigs problem\n",
+            "length": "12795432",
+            "sourceUrl": "https://audio.simplecast.com/f1fe8fec.mp3",
+            "epNo": "70"
+        },
+        {
+            "title": "Ep. 68: This week I learned spoilers can actually make a story better, and more",
+            "datePublished": "Fri, 06 Oct 2017 00:41:00 -0400",
+            "description": "Embrace the spoiler | Your parents' gender bias | Why clowns creep us out | How stress impairs\n",
+            "length": "14161322",
+            "sourceUrl": "https://audio.simplecast.com/38fb3716.mp3",
+            "epNo": "69"
+        },
+        {
+            "title": "Ep. 67: This week I learned a good mood can make the flu vaccine more effective, and more",
+            "datePublished": "Fri, 29 Sep 2017 00:57:00 -0400",
+            "description": "Happiness, the flu, and you | Which personality are you, cat? | The dinosaur-devouring frog | The bizarre aero-cure of the 1920s\n",
+            "length": "12145923",
+            "sourceUrl": "https://audio.simplecast.com/faa6f528.mp3",
+            "epNo": "68"
+        },
+        {
+            "title": "Ep. 66: This week I learned you should absolutely beat yourself up a little the next time you fail, and more",
+            "datePublished": "Fri, 22 Sep 2017 00:30:00 -0400",
+            "description": "The emotional trick to dealing with failure | Lightning-inducing cargo ships | The evolution of the giraffe's long neck | The Alaskan town overrun by bald eagles\n",
+            "length": "11494743",
+            "sourceUrl": "https://audio.simplecast.com/18d88c86.mp3",
+            "epNo": "67"
+        },
+        {
+            "title": "Ep. 65: This week I learned the science behind out-of-body experiences, and more",
+            "datePublished": "Fri, 15 Sep 2017 00:27:00 -0400",
+            "description": "The science of OBEs | The plastic inside us | All hail Viking warrior princesses! | Chocolate's dark medicinal history\n",
+            "length": "14900274",
+            "sourceUrl": "https://audio.simplecast.com/e3317ee4.mp3",
+            "epNo": "66"
+        },
+        {
+            "title": "Ep. 64: This week I learned your unfulfilled coffee craving is wreaking havoc with your memory, and more",
+            "datePublished": "Fri, 08 Sep 2017 00:33:00 -0400",
+            "description": "The power of a coffee craving | Swordfish heat their eyeballs | Wild dogs' democratic sneezing fit | Haagen-Dazs’ New York origins\n",
+            "length": "12137146",
+            "sourceUrl": "https://audio.simplecast.com/a663ed5f.mp3",
+            "epNo": "65"
+        },
+        {
+            "title": "Ep. 63: This week I learned the beloved starfish is a surprisingly brutal killer, and more",
+            "datePublished": "Fri, 01 Sep 2017 00:31:00 -0400",
+            "description": "The murderous starfish |  The color of breakfast | Our drug-addicted fish | A musical medical miracle\n",
+            "length": "13791428",
+            "sourceUrl": "https://audio.simplecast.com/c448a350.mp3",
+            "epNo": "64"
+        },
+        {
+            "title": "Ep. 62: This week I learned our brains can predict the future, and more",
+            "datePublished": "Fri, 25 Aug 2017 00:46:00 -0400",
+            "description": "Your clairvoyant brain | Live in the moment: take photos! | The quest for space bread | The venom that broke the mold\n",
+            "length": "13568656",
+            "sourceUrl": "https://audio.simplecast.com/e08fae2a.mp3",
+            "epNo": "63"
+        },
+        {
+            "title": "Ep. 61: This week I learned late-night snacking might make you more prone to sunburns, and more",
+            "datePublished": "Fri, 18 Aug 2017 00:05:00 -0400",
+            "description": "Midnight snacking and sunburns | Why we hold babies on the left | Disney’s propaganda machine | The science of sound underwater\n",
+            "length": "14629437",
+            "sourceUrl": "https://audio.simplecast.com/5ceaad2f.mp3",
+            "epNo": "62"
+        },
+        {
+            "title": "Ep. 60: This week I learned it might be possible to learn while you sleep, and more",
+            "datePublished": "Fri, 11 Aug 2017 00:42:00 -0400",
+            "description": "Finally, sleep-learning! | Your impeccably organized taste system | Brilliant bees | When athletes used cocaine to train\n",
+            "length": "15523033",
+            "sourceUrl": "https://audio.simplecast.com/732d24ec.mp3",
+            "epNo": "61"
+        },
+        {
+            "title": "Ep. 59: This week I learned the only way to use your phone at night without messing with your sleep, and more",
+            "datePublished": "Fri, 04 Aug 2017 00:09:00 -0400",
+            "description": "Blue-blockers for smartphone addicts | Jimmy wants to lower Jimmy's stress | Who's the boss? Baby knows. | The great Mona Lisa heist of 1911\n",
+            "length": "16031272",
+            "sourceUrl": "https://audio.simplecast.com/eabd133d.mp3",
+            "epNo": "60"
+        },
+        {
+            "title": "Ep. 58: This week I learned why so many people order tomato juice on airplanes, and more",
+            "datePublished": "Fri, 28 Jul 2017 00:57:00 -0400",
+            "description": "The science of bad airplane food | Why you're such a mosquito magnet | Ban soap! | The shy shark\n",
+            "length": "9026694",
+            "sourceUrl": "https://audio.simplecast.com/e420e7dd.mp3",
+            "epNo": "58"
+        },
+        {
+            "title": "Ep. 57: This week I learned what it would take to obliterate all life on Earth, and more",
+            "datePublished": "Fri, 21 Jul 2017 00:55:00 -0400",
+            "description": "The surprising resilience of life | Jane Austen, home brewer | You're junk, DNA | The mind-cleansing effect of showering\n",
+            "length": "14666217",
+            "sourceUrl": "https://audio.simplecast.com/a06af5c6.mp3",
+            "epNo": "59"
+        },
+        {
+            "title": "Ep. 56: This week I learned praying mantises are killing your hummingbirds and eating their brains, and more",
+            "datePublished": "Fri, 14 Jul 2017 00:14:00 -0400",
+            "description": "Praying mantises go for the brain | Frogs have ridiculously soft tongues | The 'poorly sleeping grandparent hypothesis' | Coral's magnificent protective glow\n",
+            "length": "11774357",
+            "sourceUrl": "https://audio.simplecast.com/3675c84a.mp3",
+            "epNo": "57"
+        },
+        {
+            "title": "Ep. 55: This week I learned even smelling your food can make you fat, and more",
+            "datePublished": "Fri, 07 Jul 2017 00:06:00 -0400",
+            "description": "How smell affects your weight | The memory boost of forgetfulness | Frogs, evolutionary opportunists | The inspiring fiction of Betty Crocker\n",
+            "length": "11734651",
+            "sourceUrl": "https://audio.simplecast.com/131fc698.mp3",
+            "epNo": "56"
+        },
+        {
+            "title": "Ep. 54: This week I learned just having your phone nearby is making you dumber, and more",
+            "datePublished": "Fri, 30 Jun 2017 00:16:00 -0400",
+            "description": "The smartphone brain drain | The funky thing blinking does to your brain | The sisterhood of traveling vampire bats  | How a California mailman gave us avocados\n",
+            "length": "11685332",
+            "sourceUrl": "https://audio.simplecast.com/34d42133.mp3",
+            "epNo": "55"
+        },
+        {
+            "title": "Ep. 53: This week I learned that looking at puppies can save your marriage, and more",
+            "datePublished": "Fri, 23 Jun 2017 00:07:00 -0400",
+            "description": "An excuse to look at puppies! | Heat-related airplane delays | The sea’s paragon of parenting | The most spectacular migration on Earth\n",
+            "length": "11959095",
+            "sourceUrl": "https://audio.simplecast.com/e69e2da5.mp3",
+            "epNo": "54"
+        },
+        {
+            "title": "Ep. 52: This week I learned that a low-carb diet may be changing your personality, and more",
+            "datePublished": "Fri, 16 Jun 2017 00:24:00 -0400",
+            "description": "New diet, new you | Spain's time-zone woes | The mysteriously flexible pine trees  | The dark origin of the word 'gypped'\n",
+            "length": "12805463",
+            "sourceUrl": "https://audio.simplecast.com/9b184420.mp3",
+            "epNo": "53"
+        },
+        {
+            "title": "Ep. 51: This week I learned the dark origin story of the seat belt, and more",
+            "datePublished": "Fri, 09 Jun 2017 00:59:00 -0400",
+            "description": "Hugh DeHaven was obsessed with accidents | A raven's revenge | The better, simpler way to wash your hands\n",
+            "length": "9780692",
+            "sourceUrl": "https://audio.simplecast.com/2a7a2e17.mp3",
+            "epNo": "52"
+        },
+        {
+            "title": "Ep. 50: This week I learned flight times are longer now than they were 50 years ago, and more",
+            "datePublished": "Fri, 02 Jun 2017 00:46:00 -0400",
+            "description": "Airline regress | Rainmaking fungi | Semantic satiation | The spider web that gets stronger the more it kills\n",
+            "length": "11639357",
+            "sourceUrl": "https://audio.simplecast.com/2aab4d2f.mp3",
+            "epNo": "51"
+        },
+        {
+            "title": "Ep. 49: This week I learned how the world's hottest chili would kill you, and more",
+            "datePublished": "Fri, 26 May 2017 00:55:00 -0400",
+            "description": "Don't eat the Dragon's Breath |  Your cannibalistic brain | Oral Allergy Syndrome! | How flamingos balance\n",
+            "length": "10692679",
+            "sourceUrl": "https://audio.simplecast.com/d6892d15.mp3",
+            "epNo": "50"
+        },
+        {
+            "title": "Ep. 48: This week I learned about a 'zombie madness' that consumed medieval English villagers, and more",
+            "datePublished": "Fri, 19 May 2017 00:58:00 -0400",
+            "description": "Medieval 'zombie madness' | The powers of happy memory | The bizarre breastfeeding habits of orangutans | The twisted origins of dentistry\n",
+            "length": "9419993",
+            "sourceUrl": "https://audio.simplecast.com/904a417c.mp3",
+            "epNo": "49"
+        },
+        {
+            "title": "Ep. 47: This week I learned smiling actually makes you look older, and more",
+            "datePublished": "Fri, 12 May 2017 01:38:00 -0400",
+            "description": "The fairest expression of them all | Language is a time warp | The lady pirates of the 18th century | The brain-breaking regularity of stripes\n",
+            "length": "11142403",
+            "sourceUrl": "https://audio.simplecast.com/f540872b.mp3",
+            "epNo": "48"
+        },
+        {
+            "title": "Ep. 46: This week I learned squirrels were once America's most beloved pet, and more",
+            "datePublished": "Fri, 05 May 2017 00:34:00 -0400",
+            "description": "The beloved pet squirrel | Ban workplace complaining | Astronauts with nothing to wear | Why we prune in the bath\n",
+            "length": "11360578",
+            "sourceUrl": "https://audio.simplecast.com/9db5f8d7.mp3",
+            "epNo": "47"
+        },
+        {
+            "title": "Ep. 45: This week I learned female dragonflies will fake death to avoid male suitors, and more",
+            "datePublished": "Fri, 28 Apr 2017 00:58:00 -0400",
+            "description": "How female dragonflies escape male suitors | Believing your broken heart better | Your dog feels you | Meet the space phenomenon called 'Steve'\n",
+            "length": "11444170",
+            "sourceUrl": "https://audio.simplecast.com/5d4c9b9b.mp3",
+            "epNo": "46"
+        },
+        {
+            "title": "Ep. 44: This week I learned United once offered men-only flights complete with 'manly' services, and more",
+            "datePublished": "Fri, 21 Apr 2017 00:27:00 -0400",
+            "description": "Flying the 'club in the sky' |  The evolution of expression | The Synalpheus pinkfloydi | The mystery of the 'Tsavo Two'\n",
+            "length": "8350436",
+            "sourceUrl": "https://audio.simplecast.com/e4587209.mp3",
+            "epNo": "45"
+        },
+        {
+            "title": "Ep. 43: This week I learned you're tying your shoes wrong, and more",
+            "datePublished": "Fri, 14 Apr 2017 00:52:00 -0400",
+            "description": "How to tie your shoes | SCOTUS hazing | The 1993 pantsuit revolution | Get your baby a dog\n",
+            "length": "11355144",
+            "sourceUrl": "https://audio.simplecast.com/c77a051a.mp3",
+            "epNo": "44"
+        },
+        {
+            "title": "Ep. 42: This week I learned how Las Vegas once cashed in on 'atomic tourism,' and more",
+            "datePublished": "Fri, 07 Apr 2017 00:15:00 -0400",
+            "description": "Las Vegas' 'atomic tourism' | Why we lose sleep as we age | The cost of intelligence in the wild | One is the loneliest cold\n",
+            "length": "12646638",
+            "sourceUrl": "https://audio.simplecast.com/dcb81f5e.mp3",
+            "epNo": "43"
+        },
+        {
+            "title": "Ep. 41: This week I learned that sleep walking is an evolutionary trait gone terribly wrong, and more",
+            "datePublished": "Fri, 31 Mar 2017 01:30:00 -0400",
+            "description": "The ancient origins of sleep walking | The spinach heart | A woman's right to go by her own name | The two faces of the smiley emoji\n",
+            "length": "12093260",
+            "sourceUrl": "https://audio.simplecast.com/7f304fa0.mp3",
+            "epNo": "42"
+        },
+        {
+            "title": "Ep. 40: This week I learned the word pink used to mean yellow, and more",
+            "datePublished": "Fri, 24 Mar 2017 01:14:00 -0400",
+            "description": "Pink’s murky origins  | Our wide-eyed transition from water to land | The super blind mind | The ever mischievous Jane Austen\n",
+            "length": "8711553",
+            "sourceUrl": "https://audio.simplecast.com/b9b2213a.mp3",
+            "epNo": "41"
+        },
+        {
+            "title": "Ep. 39: This week I learned some metals have memory, and more",
+            "datePublished": "Fri, 17 Mar 2017 01:28:00 -0400",
+            "description": "Metal memory | Living the slow life history strategy | Your dog, the liar | Why we itch\n",
+            "length": "9667425",
+            "sourceUrl": "https://audio.simplecast.com/c6dd2cfa.mp3",
+            "epNo": "40"
+        },
+        {
+            "title": "38: This week I learned you could probably outrun a T. Rex, and more",
+            "datePublished": "Fri, 10 Mar 2017 01:47:00 -0500",
+            "description": "\nRex, speed walker | Forever-young ants | Tattoos for health? | The sad truth about seltzer\n\n\n",
+            "length": "7454331",
+            "sourceUrl": "https://audio.simplecast.com/39edb164.mp3",
+            "epNo": "39"
+        },
+        {
+            "title": "37: This week I learned the unexpected ways an asteroid could kill us all, and more",
+            "datePublished": "Fri, 03 Mar 2017 01:37:00 -0500",
+            "description": "How an asteroid takes us down | The revolting necessity of vultures | That \"grima\" feeling | Sleepless in the Serengeti\n",
+            "length": "11209277",
+            "sourceUrl": "https://audio.simplecast.com/dbe947e2.mp3",
+            "epNo": "38"
+        },
+        {
+            "title": "Ep. 36: This week I learned why we're all suckers for the good cop/bad cop routine, and more",
+            "datePublished": "Fri, 24 Feb 2017 01:44:00 -0500",
+            "description": "The emotional seesaw phenomenon | Fatherhood hormones | How fish \"talk\" | Introducing: Zealandia!\n",
+            "length": "9267438",
+            "sourceUrl": "https://audio.simplecast.com/cf56d8d4.mp3",
+            "epNo": "37"
+        },
+        {
+            "title": "Ep. 35: This week I learned honeybees say 'oops' when they're startled, and more",
+            "datePublished": "Fri, 17 Feb 2017 01:38:00 -0500",
+            "description": "Decoding clumsy bees | Your morning cup of memory boost | Goat BFFs | Panda diplomacy\n",
+            "length": "11897237",
+            "sourceUrl": "https://audio.simplecast.com/e00ca243.mp3",
+            "epNo": "36"
+        },
+        {
+            "title": "Ep. 34: This week I learned that Brazil and France almost went to war over lobster, and more",
+            "datePublished": "Fri, 10 Feb 2017 01:54:00 -0500",
+            "description": "The Lobster War | The efficiency of right-hand loops | How whales yell | Lunar hay fever\n",
+            "length": "10328637",
+            "sourceUrl": "https://audio.simplecast.com/a66aa2a1.mp3",
+            "epNo": "35"
+        },
+        {
+            "title": "Ep. 33: This week I learned dogs dig reggae, and more",
+            "datePublished": "Fri, 03 Feb 2017 01:52:00 -0500",
+            "description": "Music fit for a dog | A plant's smelly defense | Our terrifying ancestors | The mystery of synched pendulums\n",
+            "length": "8783860",
+            "sourceUrl": "https://audio.simplecast.com/43584255.mp3",
+            "epNo": "34"
+        },
+        {
+            "title": "Ep. 32: This week I learned ancient otters were terrifyingly huge, and more",
+            "datePublished": "Fri, 27 Jan 2017 01:08:00 -0500",
+            "description": "Wolf-sized otters | How nicotine calms a schizophrenic brain | The real power of ritual | Where the Declaration of Independence safely sleeps\n",
+            "length": "9259915",
+            "sourceUrl": "https://audio.simplecast.com/7b73583d.mp3",
+            "epNo": "33"
+        },
+        {
+            "title": "Ep. 31: This week I learned the CIA once hired psychics for intelligence gathering, and more",
+            "datePublished": "Fri, 20 Jan 2017 01:27:00 -0500",
+            "description": "Program Star Gate | Human-hunting vampire bats | Leonie, the asexual zebra shark mom | The dinosaurs' cold, dark death\n",
+            "length": "10639180",
+            "sourceUrl": "https://audio.simplecast.com/267711b0.mp3",
+            "epNo": "32"
+        },
+        {
+            "title": "Ep. 30: This week I learned your appendix might be useful after all, and more",
+            "datePublished": "Fri, 13 Jan 2017 01:48:00 -0500",
+            "description": "Your hard-working appendix | Cramming for exercise | The end of the Megalodon shark | Baby talk and your dog\n",
+            "length": "8642171",
+            "sourceUrl": "https://audio.simplecast.com/c0934a09.mp3",
+            "epNo": "31"
+        },
+        {
+            "title": "Ep. 29: This week I learned how fake news can be good for your brain, and more",
+            "datePublished": "Fri, 06 Jan 2017 01:09:00 -0500",
+            "description": "A benefit to fake news | Dinosaur eggs and doom | The perils of cotton swabs | Your filthy money\n",
+            "length": "10298544",
+            "sourceUrl": "https://audio.simplecast.com/ca4e82d8.mp3",
+            "epNo": "30"
+        },
+        {
+            "title": "Ep. 28: This week I learned 1 in 8 people is carrying around remnants of a twin consumed in the womb, and more",
+            "datePublished": "Fri, 30 Dec 2016 01:00:00 -0500",
+            "description": "The vanishing twins phenomenon | Garlic-enhanced BO | Who sells seashells by the seashore? | The scientific curiosity of reindeer eyes\n",
+            "length": "8013561",
+            "sourceUrl": "https://audio.simplecast.com/3f95fb41.mp3",
+            "epNo": "29"
+        },
+        {
+            "title": "Ep. 27: This week I learned cavemen brushed their teeth, and more",
+            "datePublished": "Fri, 23 Dec 2016 01:18:00 -0500",
+            "description": "The dental hygiene of cavemen | The bagpiper and the penguin | Your breath, your health | The brain-boosting benefits of the sauna\n",
+            "length": "9020424",
+            "sourceUrl": "https://audio.simplecast.com/802ed976.mp3",
+            "epNo": "28"
+        },
+        {
+            "title": "Ep. 26: This week I learned how to tell if a rat is smiling, and more",
+            "datePublished": "Fri, 16 Dec 2016 01:54:00 -0500",
+            "description": "How rat smile | Is man-flu real? | How sleep hard-wires negative thoughts | Movie set snow of the 1940s\n",
+            "length": "7751918",
+            "sourceUrl": "https://audio.simplecast.com/9048d8ba.mp3",
+            "epNo": "27"
+        },
+        {
+            "title": "Ep. 25: This week I learned plants can be conditioned just like Pavlov's dog, and more",
+            "datePublished": "Fri, 09 Dec 2016 01:05:00 -0500",
+            "description": "Pavlov's plant | The sad evolution of tuskless elephants | Sleep deprivation can lift depression | Your joyless MP3s\n",
+            "length": "8808519",
+            "sourceUrl": "https://audio.simplecast.com/70fe06e6.mp3",
+            "epNo": "26"
+        },
+        {
+            "title": "Ep. 24: This week I learned your brain doesn't know the difference between feeling high and feeling spiritual, and more",
+            "datePublished": "Fri, 02 Dec 2016 01:03:00 -0500",
+            "description": "Your brain on God | The complex memory of dogs | Spider daddy issues | The rule of re-freezing food\n",
+            "length": "10274302",
+            "sourceUrl": "https://audio.simplecast.com/9b4e1864.mp3",
+            "epNo": "25"
+        },
+        {
+            "title": "Ep. 23: This week I learned 'ahoy' was nearly the universal telephone greeting, and more",
+            "datePublished": "Fri, 25 Nov 2016 01:19:00 -0500",
+            "description": "The origins of the telephone greeting | The hijacking effects of eye contact | The other Gettysburg Address | The only government agency with a catchy theme song\n",
+            "length": "9371510",
+            "sourceUrl": "https://audio.simplecast.com/b0432ea1.mp3",
+            "epNo": "24"
+        },
+        {
+            "title": "Ep. 22: This week I learned Australia wiggles back and forth, pigs can be optimists, and more",
+            "datePublished": "Fri, 18 Nov 2016 01:53:00 -0500",
+            "description": "Australia's seasonal dance | A pigpen, half full | George Washington's herculean immune system | A brief history of \"baby shows\"\n",
+            "length": "10426439",
+            "sourceUrl": "https://audio.simplecast.com/6c642572.mp3",
+            "epNo": "23"
+        },
+        {
+            "title": "Ep. 21: This week I learned there's a bright side to the gripping fear of death, and more",
+            "datePublished": "Fri, 11 Nov 2016 01:02:00 -0500",
+            "description": "A fear of death is good for you | Stop washing your office coffee mug | The science behind a lump in your throat | The envious work-life balance of medieval peasants\n",
+            "length": "7022997",
+            "sourceUrl": "https://audio.simplecast.com/29b15db4.mp3",
+            "epNo": "22"
+        },
+        {
+            "title": "Ep. 20: This week I learned elevator close-door buttons don’t do anything, and more",
+            "datePublished": "Fri, 04 Nov 2016 01:14:00 -0400",
+            "description": "The uselessness of the elevator close-button | The most effective workout motivator | The confidence-boosting effects of disgust | Marijuana's influence on night vision\n",
+            "length": "7169283",
+            "sourceUrl": "https://audio.simplecast.com/29d78bd4.mp3",
+            "epNo": "21"
+        },
+        {
+            "title": "Ep. 19: This week I learned stressful jobs can actually prolong your life, and more",
+            "datePublished": "Fri, 28 Oct 2016 01:39:00 -0400",
+            "description": "What makes a stressful job healthy | Patient Zero's mistaken identity | A lost language's mark on the brain | Drought disrupts fall foliage\n",
+            "length": "9510691",
+            "sourceUrl": "https://audio.simplecast.com/910c1480.mp3",
+            "epNo": "20"
+        },
+        {
+            "title": "Ep. 18: This week I learned fish have accents, and more",
+            "datePublished": "Fri, 21 Oct 2016 01:46:00 -0400",
+            "description": "The particular sadness of fish dialects | Relieve an itch with trickery | Don't refrigerate tomatoes | The Donald Trump of the 1800s\n",
+            "length": "7489440",
+            "sourceUrl": "https://audio.simplecast.com/a7ada1f8.mp3",
+            "epNo": "19"
+        },
+        {
+            "title": "Ep. 17: This week I learned your avocado is radioactive, and more",
+            "datePublished": "Fri, 14 Oct 2016 01:00:00 -0400",
+            "description": "Everyday radiation | Embracing your middle name | The dark origins of the Nobel Prizes | The jiu jitsu-fighting suffragettes\n",
+            "length": "9328042",
+            "sourceUrl": "https://audio.simplecast.com/8619a260.mp3",
+            "epNo": "18"
+        },
+        {
+            "title": "Ep. 16: This week I learned dogs can tell time with their noses, and more",
+            "datePublished": "Fri, 07 Oct 2016 01:18:00 -0400",
+            "description": "Dogs sense time through smell | The life-extending effects of humor | Easing regret through temperature | The pineapple's luxe history\n",
+            "length": "9854253",
+            "sourceUrl": "https://audio.simplecast.com/b8104ad7.mp3",
+            "epNo": "17"
+        },
+        {
+            "title": "Ep. 15: This week I learned your dog may be smarter than your kid, and more",
+            "datePublished": "Fri, 30 Sep 2016 01:20:00 -0400",
+            "description": "Dogs are practical learners | Good news for acne sufferers | The health boosts of a happy spouse | Pureed pumpkin is a lie\n",
+            "length": "7832584",
+            "sourceUrl": "https://audio.simplecast.com/23237844.mp3",
+            "epNo": "16"
+        },
+        {
+            "title": "Ep. 14: This week I learned why turbulence isn’t as scary as it feels, and more",
+            "datePublished": "Fri, 23 Sep 2016 01:31:00 -0400",
+            "description": "The science of turbulence | Pigeons can read! | The health benefits of fidgeting | Do big ears hear better?\n",
+            "length": "9277469",
+            "sourceUrl": "https://audio.simplecast.com/87b8c753.mp3",
+            "epNo": "15"
+        },
+        {
+            "title": "Ep. 13: This week I learned binge watching TV is good for your relationship, and more",
+            "datePublished": "Fri, 16 Sep 2016 01:48:00 -0400",
+            "description": "Binge watching as couples therapy | You're imagining your nicotine addiction | Why paper cuts hurt so much | The sartorial defense against snakebites\n",
+            "length": "7632382",
+            "sourceUrl": "https://audio.simplecast.com/08877ac4.mp3",
+            "epNo": "14"
+        },
+        {
+            "title": "Ep. 12: This week I learned why you should celebrate airline baggage fees, and more",
+            "datePublished": "Fri, 09 Sep 2016 01:20:00 -0400",
+            "description": "Your bag shouldn't fly free | The sixth taste | Your cat wants to work | The love songs of coral fish\n",
+            "length": "8675608",
+            "sourceUrl": "https://audio.simplecast.com/4eb0c8a6.mp3",
+            "epNo": "13"
+        },
+        {
+            "title": "Ep. 11: This week I learned there’s a mathematically correct way to sort your socks, and more",
+            "datePublished": "Fri, 02 Sep 2016 01:27:00 -0400",
+            "description": "Math helps with your laundry | The etymology of the slang word \"lit\" | The post office has a floating zip code | A low-carb diet will make you smell better\n",
+            "length": "8635066",
+            "sourceUrl": "https://audio.simplecast.com/d4288228.mp3",
+            "epNo": "12"
+        },
+        {
+            "title": "Ep. 10: This week I learned how screen addicts can get a good night's sleep, and more",
+            "datePublished": "Fri, 26 Aug 2016 01:38:00 -0400",
+            "description": "Good news for screen addicts | Why humans are so hairless | The whistle of the Caribbean sea | John F. Kennedy's goat\n",
+            "length": "11304153",
+            "sourceUrl": "https://audio.simplecast.com/32d3cf96.mp3",
+            "epNo": "11"
+        },
+        {
+            "title": "Ep. 9: This week I learned just thinking about exercising improves your fitness, and more",
+            "datePublished": "Fri, 19 Aug 2016 01:58:00 -0400",
+            "description": "The power of motor imagery | Taxing Olympic medals | Your brain's feel-good response to rejection | The dark history of the American flag salute\n",
+            "length": "10154766",
+            "sourceUrl": "https://audio.simplecast.com/28d4184f.mp3",
+            "epNo": "10"
+        },
+        {
+            "title": "Ep. 8: This week I learned a massive solar storm nearly sparked a nuclear war, and more",
+            "datePublished": "Fri, 12 Aug 2016 01:51:00 -0400",
+            "description": "A close call during the Cold War | The terrifying world of insect zombies | The life-extending benefits of reading | The first American woman to win gold\n",
+            "length": "12219902",
+            "sourceUrl": "https://audio.simplecast.com/c925833d.mp3",
+            "epNo": "9"
+        },
+        {
+            "title": "Ep. 7: This week I learned why sleeping with the lights on is a terrible idea, and more",
+            "datePublished": "Fri, 05 Aug 2016 01:12:00 -0400",
+            "description": "Artificial light at night | Cinnamon's brain-boosting powers | Humpback whales' altruism | The complicated history of doves at the Olympics\n",
+            "length": "10344519",
+            "sourceUrl": "https://audio.simplecast.com/715a596b.mp3",
+            "epNo": "8"
+        },
+        {
+            "title": "Ep. 6: This week I learned you're charging your phone wrong, and more",
+            "datePublished": "Fri, 29 Jul 2016 01:11:00 -0400",
+            "description": "Your phone battery is stressed | The most electrified place on Earth | The evolution of human speech | How a whale mourns\n",
+            "length": "10598220",
+            "sourceUrl": "https://audio.simplecast.com/faf4fd49.mp3",
+            "epNo": "7"
+        },
+        {
+            "title": "Ep. 5: This week I learned why people in old movies talk weird, and more",
+            "datePublished": "Fri, 22 Jul 2016 01:18:00 -0400",
+            "description": "Fun and interesting facts from around the web\n",
+            "length": "6859993",
+            "sourceUrl": "https://audio.simplecast.com/0240aba2.mp3",
+            "epNo": "5"
+        },
+        {
+            "title": "Ep. 4: This week I learned eating more fruits and veggies makes you happier immediately, and more",
+            "datePublished": "Fri, 15 Jul 2016 01:35:00 -0400",
+            "description": "Fun and interesting facts from around the web\n",
+            "length": "8444895",
+            "sourceUrl": "https://audio.simplecast.com/ebe7b26d.mp3",
+            "epNo": "6"
+        },
+        {
+            "title": "Ep. 3: This week I learned that we think with our hands, and more",
+            "datePublished": "Fri, 08 Jul 2016 01:08:00 -0400",
+            "description": "Fun and interesting facts from around the web\n",
+            "length": "9811203",
+            "sourceUrl": "https://audio.simplecast.com/e3f57838.mp3",
+            "epNo": "4"
+        },
+        {
+            "title": "Ep. 2: This week I learned why dogs are so freaked out by fireworks, and more",
+            "datePublished": "Fri, 01 Jul 2016 01:13:00 -0400",
+            "description": "Fun and interesting facts from the web\n",
+            "length": "10528421",
+            "sourceUrl": "https://audio.simplecast.com/47dc027e.mp3",
+            "epNo": "3"
+        },
+        {
+            "title": "Ep. 1: This week I learned that parts of our body come back to life after we die, and more",
+            "datePublished": "Thu, 23 Jun 2016 16:02:00 -0400",
+            "description": "Fun and interesting facts from around the web\n",
+            "length": "8885006",
+            "sourceUrl": "https://audio.simplecast.com/416c6672.mp3",
+            "epNo": "2"
+        },
+        {
+            "title": "Welcome to This Week I Learned!",
+            "datePublished": "Wed, 22 Jun 2016 09:12:00 -0400",
+            "description": "Introducing a new podcast from The Week!\n",
+            "length": "2295788",
+            "sourceUrl": "https://audio.simplecast.com/ea7b7d18.mp3",
+            "epNo": "1"
+        }
+    ]
+}

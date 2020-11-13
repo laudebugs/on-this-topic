@@ -5,16 +5,30 @@ let podcasts = JSON.parse(fs.readFileSync("podcastData/podcasts.json"));
 
 let parser = new Parser();
 
-const podcastsWEpisodes = [];
+const writeFilePromise = (value) =>
+  new Promise((resolve, reject) => {
+    fs.writeFileSync("podcastData/podcastsWEpisodes.json", value, (err) => {
+      if (err) {
+        reject(err);
+      } else resolve(value);
+    });
+  });
 
-const populateEpisodes = (podcasts) => {
+// writeFilePromise('fdsa').then(res => )
+
+populateEpisodes = (podcasts) => {
   const promises = podcasts.map(async (pod) => {
-    let feed = await parser.parseURL(pod.feedURL);
-    // input the episodes
+    let feed;
+    try {
+      feed = await parser.parseURL(pod.feedURL);
+    } catch (error) {
+      // console.log(error);
+    }
+    console.log(".");
     pod["episodes"] = [];
-    // console.log(feed);
 
-    feed.items.forEach((item) => {
+    feed.items.map((item) => {
+      // For each podcast, initialize a list of episodes
       let episode = {
         title: item["title"],
         datePublished: item["pubDate"],
@@ -28,21 +42,22 @@ const populateEpisodes = (podcasts) => {
       pod["episodes"].push(episode);
       pod["publisher"] = item["creator"];
     });
-    podcastsWEpisodes.push(pod);
-    const data = JSON.stringify(podcastsWEpisodes, null, 4);
-
-    fs.writeFileSync("podcastData/podcastsWEpisodes.json", data, (err) => {
+    const data = JSON.stringify(pod, null, 4);
+    fs.writeFileSync(`podcastData/${pod.title}.json`, data, (err) => {
       if (err) {
         console.log("error writing to file");
       } else console.log("data is saved");
     });
-    // console.log(podcastsWEpisodes);
+    console.log(res.length);
+    return feed;
   });
-  console.log(podcastsWEpisodes);
+  // console.log(podcastsWEpisodes);
   return Promise.all(promises)
-    .then(console.log(promises.length))
-    .catch(function () {
-      console.log("errr");
+    .then((results) => {
+      console.log("completed");
+    })
+    .catch(function (e) {
+      // console.log(e, "errr");
     });
 };
 

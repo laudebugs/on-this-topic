@@ -1,0 +1,926 @@
+{
+    "artwork": "http://is1.mzstatic.com/image/thumb/Music71/v4/6a/8b/db/6a8bdbc3-d863-a91d-bdd3-be656a39400d/source/100x100bb.jpg",
+    "description": "Podcast by Arthur Falls",
+    "feedURL": "http://feeds.soundcloud.com/users/soundcloud:users:26172268/sounds.rss",
+    "podcastURL": "http://soundcloud.com/arthurfalls",
+    "title": "The Ether Review",
+    "episodes": [
+        {
+            "title": "Understanding Urbit #7 - Tlon Operations  Community",
+            "datePublished": "Mon, 13 Apr 2020 20:47:24 +0000",
+            "description": "Tlon COO Erik Newton and Community Manager Kenny Rowe join this session to provide some additional background to Tlon and the Urbit Community. \n\nErik Newton begins by explaining the relationship between the Tlon corporation and the Urbit project. We also discuss the reason behind the valuation of the address space, business opportunities, and plans for the launch of Urbit OS 1.\n\nThen Kenny describes the cultural reach of the Urbit aesthetic and how he found himself pulled into the project from his prior employer, Maker. In particular the notion of the Kelvin versioning system evolving toward stability as opposed to complexity, and the power of unique terminology to avoid false cognates.\n\nKenny elaborates on the community on-boarding strategy of Urbit and its suitability for the collaboration needs of DAOs and front end requirements of smart contracts.\n\nurbit.org/install/\n\nUrbit.live",
+            "length": "61527289",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/797797891-arthurfalls-understanding-urbit-7-tlon-operations-community-mixdown.mp3"
+        },
+        {
+            "title": "Understanding Urbit #6 - Built to Last",
+            "datePublished": "Mon, 13 Apr 2020 20:44:21 +0000",
+            "description": "The recurrent theme of calm computing is explored more deeply in this discussion with Logan Allen whose focus is infrastructure and product at Tlon.\n\nLogan sees the attention economy, with all it’s popups and news feed clickbait as a result of the way startups are organised and funded. In between rebukes of VC capital and the growth business model, Logan describes a software landscape where the user is king, extending the views of Christian and Anthony.\n\nThe only way Logan believes this can be achieved is to create a computing platform with different product design incentives.\n\nPart of this picture is a unified tech stack that applications share rather than the bespoke, but very similar, internal tooling built individually by major tech companies like uber, facebook, airbnb and others. \n\nFor Logan, Urbit addresses this by standardizing a large part of the system stack. As an abstract I/O interface it separates the software and hardware layers in a way that allows applications to be developed for an environment that is consistent across hardware.\n\nThis makes Urbit a much more efficient way of developing software from a corporate perspective by reducing dev-ops and the size of the layer that security concerns can happen in.\n\nOne of Logan’s most powerful revelations is that today, system software, linux for example, is deeply complex and growing ever more so and the number of people who understand the way it works is shrinking proportionally to the task of maintaining that software. Designing a new platform that evolves toward stability may be the only way to ensure a secure computing landscape in the future.\n\nurbit.org/install/\n\nUrbit.live",
+            "length": "44997079",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/797795881-arthurfalls-understanding-urbit-6-built-to-last.mp3"
+        },
+        {
+            "title": "Understanding Urbit #5 - Urbit & Bitcoin",
+            "datePublished": "Mon, 13 Apr 2020 20:41:35 +0000",
+            "description": "Christian Langalis is the resident bitcoin ambassador to the Urbit team. His motto is sound money requires sound computing and this well describes his role is to develop Bitcoin infrastructure for the Urbit ecosystem. \n\nChristian’s interest in Urbit derives from a desire for a sound foundation on which Bitcoin can operate. He makes the argument that for all its potential, bitcoin cannot offer the benefits of sound money (sound being a term that requires specific definition in this case) without a sound computing platform on which to operate. Unix sysadmins have access to this today, but that leaves the future unevenly distributed.\n\nMore than just a piece of Bitcoin infrastructure, Christian sees Urbit as a response to the shift toward unowned software and data caused the popularity of Software as a Service and content streaming platforms. He also sees the platform as an opportunity for individuals to access the full power of server computing, instead having to rent individual functionalities from subscription based services. \n\nChristian views data harvesting, and the pursuit of user attention as deep personal abuses in a way that recalls Galen’s reference to Stockholm Syndrome in episode 1\n\nurbit.org/install/\n\nUrbit.live",
+            "length": "31210852",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/797793859-arthurfalls-understanding-urbit-5-urbit-bitcoin.mp3"
+        },
+        {
+            "title": "Understanding Urbit #4 - Urbit ID & the Network",
+            "datePublished": "Mon, 13 Apr 2020 20:35:36 +0000",
+            "description": "As Ted indicated in episode 2, The Urbit ID public key infrastructure and the Urbit network are core to the way individual Urbits communicate and maintain self-sovereignty. In this episode we hear from three members of the Tlon team, each explaining the part of the system they are most familiar with. OS lead Ted returns to introduce the subject.\n\nTlon engineer, Logan, Explains the use experience of Urbit ID, The reason for some of the design choices, and the topography of the Urbit Network.\n\nPhilip is a resident cryptographer at Tlon focussed on Public Key Infrastructure. He rounds this episode out by explaining what a PKI is, the differences between PKIs, and the way the Urbit ID PKI is implemented.\n\nurbit.org/install/\n\nUrbit.live",
+            "length": "32832492",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/797789590-arthurfalls-understanding-urbit-4-urbit-id-the-network.mp3"
+        },
+        {
+            "title": "Understanding Urbit #3 - Technology & Freedom",
+            "datePublished": "Mon, 13 Apr 2020 20:30:26 +0000",
+            "description": "The effect technology has on individual freedom is a recurring theme in lunchtime discussions in the Tlon office. Chief Product Officer, Anthony Arroyo has a background in linguistics and the philosophy of technology. This positions him well to explain the nature of this relationship and how Urbit positions itself between the two.\n\nAnthony offered the key insight that today computers have evolved from their nature as tools into mechanical colonizers of our lives. More than just absorbing our attention, the online services advertising greater human connection are in reality limiting the way we relate to one another to a centrally defined mode of interaction. This extends to the way we consume news, poisoning the well of information and leading to a toxic mass social environment.\n\nHe offers Urbit as a solution that allows the user to determine their mode of interaction, and the scale of their social graph, rather than a graph that is global by default.\n\nAnthony also introduces three characteristics of a virtual tool that are needed for it to conform to our expectations of physical tools. He describes those characteristics as simple, durable, and yours.\n\nFinally, we learn about Urbit’s decrementing versioning system and the benefit of software that evolves toward stability.\n\nurbit.org/install/\n\nUrbit.live",
+            "length": "57899238",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/797785981-arthurfalls-understanding-urbit-3-technology-freedom-mixdown.mp3"
+        },
+        {
+            "title": "Understanding Urbit #2 - Under the Hood of the Urbit OS",
+            "datePublished": "Mon, 13 Apr 2020 20:22:53 +0000",
+            "description": "Engineer Ted Blackman works on the Urbit OS kernel. Like many Tlon employees, Ted initially came to the project as an open source contributor. In this discussion Ted breaks the operating system down into its components and explains its relationship to Urbit ID which we will cover in-depth in episode 4. \n\nTed begins by helping us establish a foundational understanding of what an operating system is and what roles traditional OSs excel in. Then he explores how Urbit functions as a layer above, creating a unique environment for applications to run within.\n\nA major question raised by the first half of this discussion, and which many Urbit enthusiasts will already have in the back of their minds is how can such a minimalist, universal operating system take advantage of the task specific performance benefits some CPUs offer? The answer lies in a unique Urbit innovation called Jets. In understanding Jets we can grasp the inherent performance limitations of an operating system like Urbit, and understand how those limitations can be overcome.\n\nTed has a talent for making the complex understandable, so while this is a very advanced episode, even a non-technical person will find this discussion educational and entertaining.\n\nurbit.org/install/\n\nurbit.live",
+            "length": "26495090",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/797780683-arthurfalls-understanding-urbit-2-under-the-hood-of-the-urbit-os.mp3"
+        },
+        {
+            "title": "Understanding Urbit #1 - Introducing the Personal Server",
+            "datePublished": "Mon, 13 Apr 2020 20:17:48 +0000",
+            "description": "Few software projects today share either the contemporary relevance or fringe mystique of the Urbit Operating and Identity System. As a highly secure personal server, Urbit aims to deliver on many of the ideas pioneered by the Cypherpunks, and, after nearly 20 years in development the platform has begun a phased launch. Urbit gives us persistent digital identity, a new benchmark for secure computing, and maybe even an open source response to more modern social computing platforms like WeChat and Kakaotalk. \n\nIn February of this year, Tlon, the main company developing Urbit, invited me to their San Francisco office to interview the team for a podcast series. During the three weeks I was there we recorded many hours of discussion.\n\nThis series is a collage of excerpts from those discussions. The episodes aim to introduce the philosophy of Urbit, establish the problems it is designed to address, explain the way the platform works, and relate it to the world through the lens of Bitcoin, Software as a Service, and the growth model of Silicon Valley startups.\n\nWe begin our journey with Urbit veteran Galen Wolfe-Pauley who introduces the project and its design principles while reflecting on the collective Stockholm syndrome we suffer in the grasp of existing computing models. \n\nUrbit.org/install\n\nUrbit.live",
+            "length": "45834264",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/797777161-arthurfalls-understanding-urbit-1-introducing-the-personal-server.mp3"
+        },
+        {
+            "title": "The Third Web #17 - Arthur Brock, Holochain",
+            "datePublished": "Thu, 09 May 2019 23:17:28 +0000",
+            "description": "Holochain has been a project simminging in the background of the blockchain space for several years now. The promise has been a panaceaic solution to the performance and scalability issues facing decentralised hosting platforms. It’s an oft heard claim, but, as founder Arthur Brock expounds in this interview, by giving up our insistence on global consensus in favor of discoverable and verifiable local state, a world of options is opened to us. \nThis kind of discussion follows from the Secure Scuttlebutt and Urbit episodes. It raises, and offers answers, to questions of data vs agent based ontologies. But most interesting of all, it forces us to reconsider why we wanted to use a blockchain in the first place.\n\n\n\nArthur Brock from Denver Colorado\nInterested in alternative currencies in 2001\nSelf organising companies are just a form of currency hacking\nDiscovered what a huge leverage point for change currency is\nChange the business incentives and all business will reshape towards those incentives\nThe Future of Money, Bernard Leotard\n2003 alternative currency became main gig\nMetacurrency project 2004\nMet Harris Brown\nCurrencies as more than money - symbol systems that we use to coordinate at scale\nOut of metacurrency project came Ceptr 2006\nInteract/transact with anyone else without intermediary\nRequired a reinvention of most of the communications stack. Modeling on nature - biomimicry\nPrototyped for rewrite of computation, communication, commerce\nTook piece of Ceptr and built Holochain, completed in Go in 2017\nBitcoin neither blindsided nor felt like a culmination of work\nSeemed like a ham handed design\nQuestionably successful\nHas captured a large following\nHas not achieved what Arthur Brock wants to achieve\nNot to dismiss blockchain - if nothing else it has prepared public consciousness and awareness for dealing with these problems.\nBlockchain has altered the discourse\nPulled discourse in a crazy direction\nRecreates unhealthy patterns turbocharged\nDefinitely need new money but need to do it in a manor that does not amplify volatility and wealth concentration\nRecreating old problems won't get us somewhere new\nCore issue is validation, not consensus\nEveryone must use the same validation scheme to participate in consensus [validation is more fundamental than consensus]\nPush for global state is a lazy way of modeling problems\nIn reality there is no global state or time. Only relative state and time.\nHolochain uses an Agent Centric approach rather than a Data Centric approach.\nEach agent has their own chain for an application, only tracking the agents activity.\nGenesis block of each chain includes a hash of the source code of the application.\n\n\nHolochain.org\nHolo.host\nArtbrock.com\nCeptr.org\nMetacurrency.org\n\n#webscale\n#patriciatree",
+            "length": "52816247",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/618318591-arthurfalls-holo-mixdown.mp3"
+        },
+        {
+            "title": "The Third Web #16 - Urbit, Your New Server",
+            "datePublished": "Mon, 18 Mar 2019 01:13:16 +0000",
+            "description": "The range of third-web platforms in development today is greater than ever. From data-centric blockchain based approaches to agent-centric designs like Secure Scuttlebut, the potential futures of the third web are rapidly expanding. \n\nToday we look at another approach with the Urbit platform. Like Secure Scuttlebutt, Urbit is agent centric. It is a deterministic operating system designed to be the filter between a user and the online services they use. \n\nI last covered Urbit in 2016 and the project is now nearing public launch. Galen Wolf-Pauly explains.\n\nWhat is Urbit?\nA personal Server\nA secure computer that \nyou actually own\nStores an event log of everything that has ever happened to it\nThat’s designed to live on any cloud server\nBut be controlled by a private key that you actually own\nYour Urbit is meant to replace all of the consumer cloud software that you already use\n\nHow can it possibly be better than all of the expensive software that has already been created?\nThe basic thesis is that everything we use today runs on top of a unix of some kind.\nThe reason we wound up in this centralised world of cloud-based software is that Unix is too complicated.\nBecause the Unix is complicated, complicated layers between Unix and the application are needed.\nThe Urbit solution is to rip all of that out and create a single, extremely simple, complex system.\nUrbit is a virtual machine, programming language, and operating system in 30,000 lines of code.\nFor comparison, Wordpress, an application that runs on Unix is 500,000 lines of code\nTechnical simplicity should turn into user interface simplicity.\nAdditionally, by hosting your Urbit in the cloud you no longer have a middleman serving you applications, Instead you only need them to host your virtual computer. \n\nWhat does an Urbit future look like?\nA single platform allows tighter integration of, for example, productivity software like Git & Asana.\nAs a designer, Galen looks forward to interface standardisation, -having messaging, documenting, code collaboration, task management and other consumer software working seamlessly as one system.\nRather than interfaces built for many people.\n\nDo we need a new back end for a new front end? Hasn’t Wechat done this?\nToday we use many services that have unified UIs\nGoogle has both email and documents but do you really trust Google to have total control and visibility into your use of those services?\nWhat if Google goes away?\nBeing able to run a server myself that I trust will be around a long time and is secure to me makes me feel alot better. [Platform Risk]\nWechat is a really great achievement\nApps are more like modules\nBut you have given total power to a single company\nThe decentralised Wechat pitch has gotten tired but Urbit is very much targeting that problem.\nThe future of cloud computing does look like that but makes no compromises in privacy or durability.",
+            "length": "42992534",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/591252117-arthurfalls-the-third-web-16-urbit-your-new-server.mp3"
+        },
+        {
+            "title": "The Third Web #15 - Edgeware & Parity, Infrastructure on Top of Infrastructure",
+            "datePublished": "Sun, 03 Mar 2019 22:29:00 +0000",
+            "description": "What is Edgeware\nEdgeware being developed by an entity called Commonwealth Labs\nBuilt on Parity’s Substrate\nGrandpa finality tool\nOn-chain governance\nScripting built in.\nUsing Web Assembly (Wasm)\n\nBuilding on Substrate\nPeople used to build their own web servers, now they use the cloud.\nPeople used to build new chains, now they can use Substrate.\nThis enables builders to focus on the area of their expertise.\nOne month after development began a test net was operational\nThree months the project was live.\nEOS was too centralised\nEthereum was not flexible enough\n\nWebAssembly\nBeing able to use Rust or C++ is great\nStill being experimented with\n\nThe Polkadot and Substrate ecosystem\nFriendly and helpful community\n20 projects underway\n100 planned for the end of the year\nPlatform still stabilizing\nPeople are building now planning to switch to the security of the Polkadot chain.\n\nSecuring the edgeware chain\nDelegated PoS aiming to move to Nominated PoS as Sybil resistance mechanism\nGrandpa for finality\nRound Robin leader selection\nThe ultimate goal is to rely on the security of Polkadot\n\nThe problem of governance\nIt’s a problem that has been pursued by humanity for all time\nBlockchains increase social scalability\nImproves legibility\nEnables new organisations\nThese new organisations need new governance systems\nBlockchains are new so there is naturally experimentation and opportunity.\nWant to further this human endeavour in the blockchain world\n\n\nHow does edgeware actually do governance?\nAllocate tokens using a “Lock Drop” of ether.\nOne token one vote.\nVote can be allocated\nFocusing on core changes to the network/protocol, allocation of on-chain treasury that is bootstrapped by the block reward.\n\nThe Lock Drop\nInitial token distribution is the linchpin of effective network governance\nRequire the belief in the economic value of the token\nPrevious ways of doing this were an ICO or airdropping a token\nThe Livepeer Merkle Mine was an interesting experiment\nEdgeware hopes to get the same effect of distributing tokens to people who want to actively participate without the bloat of a Merkle Mine.\nEther tokens are locked in a contract that prevents the tokens from moving for a period of 3, 6, or 12 months. The registry of locked tokens is used to initiate the Edgeware chain with additional tokens allocated to individuals who locked their tokens up for longer periods.\n\nInfrastructure on top of infrastructure\nAre we locked in an infrastructure phase?",
+            "length": "85585425",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/584491671-arthurfalls-the-third-web-15-edgeware-parity-infrastructure-on-top-of-infrastructure.mp3"
+        },
+        {
+            "title": "The Third Web #14 - Dawn Of An Ecosystem: Substrate & Polkadot",
+            "datePublished": "Wed, 30 Jan 2019 18:00:25 +0000",
+            "description": "Care of DFINITY I was privileged to attend the Web 3 Summit in Berlin last year. While there I interviewed Aeron Buchanan, the Executive Vice President of the Web 3 Foundation and Gavin Wood, Founder of Ethereum, Parity, and the Web 3 Foundation. These guys are two of the individuals that launched the programmable blockchain revolution and these interviews plot a course from the founding of Ethereum to their vision of the decentralized web and give us a trajectory beyond.\nA quick production note. These interviews were filmed in the style of the other filmed interviews on The Third Web, unfortunately the footage was lost to a dead macbook leaving only the audio. As I usually cut myself out of the filmed interviews my contribution is less geared for production. \n\nVisit https://web3.foundation/ , https://www.parity.io/ for more information\n\nAeron Buchanan\nExecutive vice president of Web 3 Foundation\nMasters in Computer science with a focus on engineering at Oxford\nWorked in film\nThen completed a PHD in computer vision\nBecame algorytm designer\n\nTell us about your time at Ethereum\nEthereum was initial exciting\nWent from raising interest to actually delivering and things changed a lot\nAareon ran most of Eth Dev\nVery stressful\n\nWas Ming Chan hard to work with?\nCame later\nEventually delivery of Ethereum was on course.\nA CEO or COO type role was needed.\nEth foundation was not doing much at the time.\nThe plan was to transition EthDev responsibilities to foundation\nAfter a worldwide search Vitalik chose Ming Chan\nAeron transitioned out shortly thereafter\n\nWeb 3 Foundation\nDrives the development and deployment of polkadot.\nParity is building the rust implementation\nThe runtime of polkadot is Parity’s Substrate.\n\nWhat is Web 3?\nWeb 3 is different things to different people.\nTo The Web 3 foundation Web 3 is the deentralized web.\nThe Web 3 foundation aims to map out and build the technologies needed.\n\nThis seems very blockchain focussed\nYes, and polkadot is blockchain platform\nThe blockchain platform part is only part.\nThere needs to be a large number of other components to build the decentralized web\n\nHow do you build decentralised messaging and storage?\nWe are leaving that to others like IPFS.\nProof of replication is something that people who looked at proof of storafge instead of proof of work overlooked.\nWhisper and Secure scuttlebutt are interesting options\nCoordination can happen on the blockchain but messaging on the blockchain is a non-starter.\n\nWhen will all this stuff come together to make ausable platform?\nWe are not yet at a stage of maturity.\nThe technologists building all of this know we are not at the end yet.\nWe started with scripting\nMoved to scalability, reputation, messaging & everything else. We are not yet through the checklist.\nPolkadot takes us 95% of the way to scalability\nThe next one is reputation. No clear solution yet.\n\nWhats the challenge with reputation?\nProposals look at the result rather than the approach.\nReputation is different in different contexts.\nThere must not be an originator. Reputation must be decentralized.\n\nGavin Wood\nFounded Ethereum\nFounded Parity\nFounded Web 3 Foundation\nLead of Polkadot.",
+            "length": "39681398",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/565572636-arthurfalls-the-third-web-14-dawn-of-an-ecosystem-substrate-polkadot.mp3"
+        },
+        {
+            "title": "The Third Web #13 - Consensus Primer with Aparna Krishnan",
+            "datePublished": "Thu, 20 Dec 2018 09:00:49 +0000",
+            "description": "Aparna Krishnan is head of education at Blockchain at Berkeley and co-founder of Mechanism Labs, an open source blockchain research lab. Earlier this year, Aparna was awarded a scholarship by the DFINITY Foundation for Mechanism Labs’ research into consensus mechanisms. This episode is essentially a primer for advanced discussion of consensus in decentralized networks.\n\nhttps://mechanismlabs.io/\nhttps://github.com/aparnakr\nhttps://twitter.com/aparnalocked\nhttps://medium.com/@aparnalocked\n\nAparna Krishnan\nCo-founder mechanism labs open source research lab\nAll work and research is on Github\nTelegram: @mechanism_labs\nCo-founder of the education team at Blockchain Berkeley\nConsensus researcher\nTeaches executive education courses\n\nConsensus\nProof of Work\nProof of Stake\nOld Field\n\nHistory\nCynthia Dwork developed stronger adversarial models\nDid not have many applications\nBlockchain has brought cryptography and consensus into the mainstream eye\n\n\n\nProtocols\nDFINITY\nTendermint\nBitcoin\nFocus has been on proof of stake protocols\nMining may not be sustainable\nLong term sustainabilities and lack of externalities is important\nProof of stake offers efficiently\nAs does proof of elapsed time and proof of space and time\n\nConsensus\nSybil control\nComing to agreement relies on traditional consensus\nPoS, PoW refer to the sybil control mechanism\nPoS - Putting down capital\nFinancial penalty for misbehavior\nToken holders are participants\nPoW - burning energy\nOne cpu, one vote\nNo connection between token custody and rewards\nP o Elapsed Time \nProof of Authority placing reputation\nA cost of playing ball\nTraditional Consensus (PBFT)\nNo concept of probabilistic finality\nAll honest nodes come to final agreement\nClosed, permissioned\nBlockchain\nAll nodes may with a high degree of probability agree\nA probabilistic guarantee\n\nLongest Chain Rule\nLongest sequence of blocks is the \nEthereum\nGhost\nCan be attacked by a stealthy entity\nOpen, permissionless, decentralized\nInefficient\nNode churn\nBetter liveness properties\n\nEarly PoS 2013\nPeerCoin\nNXT\nBitshares\nPrimitive\nState grinding attack vulnerable\nRandomness derived from blockhashes\n\nNew Generation\nDFINITY\nUses threshold relay decentralized randomness\nTendermint\nRound robin\nHas social layer fallback\nEthereum Casper\nThunderella\nAlgorand\nHides the block creator until the block has been created\n\nIn Tendermint a minority below the assumption cannot break finality\nIn Bitcoin >10% can change the finality through threatening to censor \n\nHard to get both economic and cryptographic security. Not clear that bribing and collusion attacks have been solved. No protocols have shown sophisticated economic models.\n\nMechanism Labs\nFocussing on incentive schemes\nWhat does it mean to have a stable, scalable protocol\nScalability\n\nProof of Replication\nRecent work with Verifiable delay functions\nIn commit/reveal schemes there is an opportunity to manipulate by giving only one person the ability to reveal the randomness\nVerifiable delay functions allow anyone to reveal the randomness\nASIC resistance because not parallelizable",
+            "length": "31679618",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/547650351-arthurfalls-the-third-web-13-consensus-primer-with-aparna-krishnan.mp3"
+        },
+        {
+            "title": "The Third Web #12 - The Actor Model",
+            "datePublished": "Wed, 12 Dec 2018 15:00:06 +0000",
+            "description": "Subodh Sharma is a professor of computer science at IIT Delhi, one of the most prestigious universities in India. While he’s not teaching, Subodh conducts research into the formal verification of distributed systems, and his work on the automated formal verification of smart contacts has drawn international interest. \n\nI called up Subodh because I was looking for someone to explain an approach to writing software called the actor model. The actor model essentially involves sandboxing tasks in such a way that complexity is minimized and all behaviors of a software system can be known under all conditions. \n\nCurrently the actor model is applied to the management of telecommunications networks through the Erlang language, and also in secure servers. Understanding the way robust distributed systems are constructed assists in the assessment of platform designs and gives us a view into the future of the ultimate distributed system - the Third Web.",
+            "length": "36077717",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/542938266-arthurfalls-the-third-web-12-the-actor-model.mp3"
+        },
+        {
+            "title": "The Third Web #11 - Scuttlebutt & Cypherspace",
+            "datePublished": "Tue, 20 Nov 2018 15:54:21 +0000",
+            "description": "Dominic Tarr is a hacker who resides on a sailboat, usually found in New Zealand's beautiful Hauraki Gulf. In recent years he has risen to fame as the creator of the Secure Scuttlebutt protocol, Scuttlebutt for short. Scuttlebutt is comprised of a standardized message format and a subjective append only log stored locally by users. \n\nThe first application has been a multi-client decentralized social media platform that is an absolute joy to use, and I encourage everyone to download my favourite desktop client, Patchwork, or Manyverse for Android. As an autonomous software system, like Bitcoin, Scuttlebutt rewards the provisioning of resources to support the network, only rather than a point system and money myth, Scuttlebutt offers something far more valuable, conversation. This mostly covers the origin of the protocol but I will definitely conduct more interviews with Dom and others close to the project, which is today one of the most impressive, and well used decentralized applications in existence.\n\nVisit scuttlebutt.nz for more information, \n\nhttps://twitter.com/thethirdweb\n\n@ecfGe81VMJ3iko5++/KfD51omfNtLSd50nS1omUyj/Y=.ed25519\n\nHistory of Secure Scuttlebutt\nThe name is coincidental. It comes from an old amazon paper describing a subsystem of the amazon dynamo database that used a gossip protocol.\nGossip protocols are robust because, like human gossip, messages can be passed through third parties ensuring that if a network is disrupted communication can still take place.\nHowever as the message is passed from party to party there is the opportunity to manipulate its contents. This is easily countered using cryptography \n\nWhat is secure scuttlebutt?\nCame from looking at the problem of getting two databases to store the same information.\nDom was looking at building something like IPFS he called Cyphernet\nCyberspace is the space made by signals, cypherspace is the space made by algorithms\n Hyperlinks tell you where to go to find a piece of information, a hash is the primary identifier in cypherspace. The hash tells you what the thing is once you have found it but not where to find it.\n With hyperlinks the server can give you anything. With a hash you always know you have the right thing but another system is required to help you find the thing.\nDom found that in private software development there was an incentive to make poor software because that results in more billable hours for the service industry\nThis is because software contains a power structure encoded in it\nToday we live in an age of digital feudalism\n\nFrom reading the Dynamo paper and learning node.js dominic became recognised as a distributed systems expert.\nThis was the toolkit needed for the data replication he imagined.\nAfter presenting at a javascript meetup people responded well\nHe got a job at a company, nearform, to build a distributed database. Through this project the idea for secure scuttlebut emerfged and dom gained the skills he needed to build it\n\nDisappointment with blockchain\nThere is so much potential in cypherlinks - hashes and signatures - an opportunity to create a “third web”\nIn the early days of the internet everything worked so well just being free, why would you make everything cost money?\nInsisting on strict ordering makes it really hard to “get life done”\n\nAdditional third web projects\nIPFS\nDapp\nGit\nGun\nSwarm\nSSB\nMaidsafe",
+            "length": "73625096",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/532923045-arthurfalls-the-third-web-11-scuttlebutt-cypherspace.mp3"
+        },
+        {
+            "title": "The Third Web #10 - An Emerging India",
+            "datePublished": "Tue, 06 Nov 2018 15:04:47 +0000",
+            "description": "Recently I visited India representing the DFINITY Foundation. The trip was supported by upstart venture production and consulting group, Dunya Labs, and advocacy group, InCrypt. Those ten days altered my understanding of the way technology manifests products and the driving role the needs of high growth nations will have in defining the digital landscape of tomorrow.\n\nIn this episode, I’m joined by co-founder of Dunya Labs, Cathy Guo, and co-founders of InCrypt, Nitin Sharma & Sumukh Shetty. We examine the Indian startup, business and regulatory environments. We also look at the growth of telecommunications infrastructure alongside macro demographic trends and the unique business conditions they create. \n\nhttps://www.incrypt.co/\nhttps://www.dunyalabs.io/\n\nIncrypt\nInvestment, community building, and policy research and advocacy \nHas produced study and guidence on regulation\n\nDunya Labs\n Research Arm\nProduct specific research\nInfrastructiure team connecting applications to protocols\nCommunity and incubatioon\n\nCathy’s Book\nEntrepreneurial philosophy\nCorporate responsibility\nEmerging tech landscape in India\nEmerging startup ecosystem\nThe way that Indian startups create social and economic value \n\nHow do you see blockchain technology beign deployed in india?\nLow trust, high administrative friction in india\nMiddlemen are a big problem\nDesire for transparency and automation\nMore data is moved through Indian infrastructure than the US\nBeginning with banks and private ledgers\nSupplychain, etc. basic pilots that we are used to seeing in the first phase of blockchain experimentation\nNext step is public blockchain\nThis is limited by the regulatory environment\nLook at india for talent, users & capital\n\nThe 4g Rollout\nIndia is experiencing a leap frog effect for technology rollout \n\nTech companies\nIndian tech companies are moving from a service based model through a period of optimizing external business models for the indian market to a native innovation model where they will begin exporting technology\nThere are 18 tech companies valued at over USD1b \nIt is important not to overestimate the Indian consumer base\nThere is limited local market protectionism\nThere may be 1.3 billion people but the number of consumers of tech products may be 30-50 million\nUsers can’t pay the way that they can in China or the US\nCompanies survive by being very lean\nTalent is cheaper\nThis makes it a good place to launch\nDeep tech is still limited\nNeed funding and educational support\nIf we compare the indian market to where it was 10 years ago you see 10 - 100x growth  but it is still an order of magnitude lower than china/us\nThere is a huge impact in reducing fees on increassing addressible market\nAlmost 50% of indians are under 30\nLittle legacy infrastructure but high web and mobile penetration\n3 million software developers in india with a 50-70% increase in graduates yoy \n\nLegacy\nPrimacy of agriculture\nFear of automation (computers)\nThis has changed\n\nWhat are the business models that will drive the next generation of Indian unicorns\nMany current unicorns are already expanding overseas\nEnterprised focussed, or SaaS companies can be based in india and address markets abroad - Zoho, Freshworks\nA new crop of SaaS companies are emerging with that model\nThis allows the targeting of specific niches because of the lower cost of talent\nMany blockchain projects fit this model\n\nEngineering Education\nTheoretical\nLack of innovation focus\nDesiged to pass you on to a services company\nMOOCs and open source are enabling autodidacts and hackers to innovate \nTertiary education is of variable quality \nBrain drain is a major problem\n\nRegulation\n\n\n\nBit Connect took USD3b equiv from India\n  \nhttps://factordaily.com/walmart-turns-to-flipkart-for-tech/\n\nhttps://www.dunyalabs.io/\nhttps://www.incrypt.co/",
+            "length": "42795361",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/525651702-arthurfalls-the-third-web-11-an-emerging.mp3"
+        },
+        {
+            "title": "The Third Web #9 - Jack du Rose, Colony & Coase",
+            "datePublished": "Sat, 27 Oct 2018 12:30:30 +0000",
+            "description": "In 2015 I interviewed Jack du Rose about Colony - his autonomous platform that could track contribution to a common enterprse and reward tokens representing stake in said enterprise. Three years and two private betas on, we hear from Jack about his experience building a system to revolutionize the way we work together.\n\nPart of what makes Colony facinating is to see the enormity of the events that have taken place in the years since it’s conception and how in spite of these events, the process of product design has proceeded in a linear and systematic fashion, uninfluenced by the white hot speculative market. \n\nColony is preparing to go live this year if you’d like to learn more visit colony.io, or visit them on twitter https://twitter.com/joincolony\n\nhttps://twitter.com/the3rdweb",
+            "length": "21936362",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/520669779-arthurfalls-the-third-web-10-jack-du-rose-colony-coase.mp3"
+        },
+        {
+            "title": "The Third Web #8 - Zilliqa & Singapore",
+            "datePublished": "Fri, 24 Aug 2018 00:00:00 +0000",
+            "description": "Zilliqa is a Practical Byzantine Fault Tolerance based, public, programmable blockchain platform that uses Proof of Work as a syble resistance mechanism. Combining PBFT and PoW is a brilliant trick to bring the state finality required for scaling through network and state sharding.\r\n\r\nAmrit Kumar, Head of Research, and Xinshu Dong, CEO, offer an overview of the project.\r\nAt the same time, we learn from two of Singapore's innovation magnates of innovation about the advantage provided by both the government and educational institutions of the region. [Especially noteworthy after the success of Project Ubin]\r\n\r\nEpicenter episode:\r\nhttps://epicenter.tv/episode/209/\r\n\r\n@the3rdweb\r\nthe3rdweb.net\r\ncontact@the3rdweb.net",
+            "length": "32464045",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/491304303-arthurfalls-the-third-web-5-zilliqa.mp3"
+        },
+        {
+            "title": "The Third Web #7 - Brian Behlendorf",
+            "datePublished": "Fri, 06 Apr 2018 14:11:18 +0000",
+            "description": "On this episode of Web 3.0, we hear from Brian Behlendorf, the head of the Hyperledger project at the Linux Foundation, and leading figure in the open-source software movement.\n\nBrian began developing open-source code during  the mid-1990's and was also the lead developer of Apache Web Server — one of the worlds most used pieces of software.\n\nToday, in the midst of a blockchain boom, Brian’s focus is still on free software development. I spoke with Brian in October. We were both in Cancun for Def Con 3. \n\nthirdweb.net\nhttps://www.hyperledger.org/",
+            "length": "26047887",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/425702997-arthurfalls-the-third-web-5-brian-behlendorf.mp3"
+        },
+        {
+            "title": "The Third Web #6 - DFINITY Consensus",
+            "datePublished": "Wed, 24 Jan 2018 01:38:21 +0000",
+            "description": "\"The DFINITY project was formed to research ways of enabling public decentralized networks to host a virtual computer of unlimited capacity. This rests upon a new blockchain computer that is similar in concept to Ethereum but has vastly improved performance and, ultimately, unlimited capacity. The starting requirement was that the systems developed should be useful in joining 1 million or more mining clients.\"\n\nHuge claims, but the DFINITY project is indeed one of the most interesting infrastructure builds in blockchain today. This episode has been under embargo for almost four months so it's with great pleasure that I finally get to publish.\n\nDominic Williams, the inventor of many of the technologies employed by DFINITY joins to walk me through the consensus paper. This is a highly technical episode, but as the white paper is now available it will make a valuable companion.\n\nThirdweb.net",
+            "length": "45274173",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/387952643-arthurfalls-the-third-web-4-dfinity-consensus.mp3"
+        },
+        {
+            "title": "The Third Web #5 - SingularityNet",
+            "datePublished": "Thu, 18 Jan 2018 23:55:02 +0000",
+            "description": "Artificial Intelligence Researcher Ben Goertzal and Blockchain Solution Architect, Simone Vulpem discuss the SingularityNet artificial intelligence marketplace. Currently, the market for artificial intelligence is dominated by industry giants with huge monolithic offerings with features far beyond the often niche applications may businesses have a need for. \nSmaller organisations provide bespoke solutions but these can be expensive and configuration heavy.\nSingularityNet gives independent developers the ability to place their purpose specific components in a wrapper which can be plugged into a global network of AI components. These components can be hired to perform tasks, and may outsource tasks to one another through the use of a reputation system. This allows an optimal configuration of independent components to self assemble. \nWhat is really exciting about SingularityNet is the sheer demand it places on blockchain systems. Applications like this are creating economic pressure to solve the scalable blockchain problem in a way that is effective not only as a PR tool, but also in practical applications.\nthirdweb.net",
+            "length": "60136502",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/385729697-arthurfalls-singularity-net-mixdown.mp3"
+        },
+        {
+            "title": "The Third Web #4 - SpankChain",
+            "datePublished": "Mon, 11 Dec 2017 01:51:23 +0000",
+            "description": "In today’s episode we look at spank chain, an adult industry cryptocurrency payment system built using Ethereum.  Currently, financial intermediaries in the adult entertainment industry exploiting their position to impose arbitrary rules on content by refusing to serve participants who produce content a specific payment processor finds objectionable. \n\nThe effect of this is to persecute already marginalized groups like trans men and women and as well as severing the income of both individuals and businesses in a one hundred Billion dollar industry.\n\nUsing payment channels and a novel ethereum based tech stack, Ameen Soleimani and Janice Griffith aim to liberate the adult industry from exploitation by evil financial intermediaries. Soon there may be a place so spend ether.\n\nThis episode contains graphic descriptions of pornographic content so if that makes you feel uncomfortable you’ll want to give this one a miss. Take a moment now to stop this recording.\n\nFor more visit thirdweb.net\nspankchain.com",
+            "length": "66499756",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/367797902-arthurfalls-the-third-web-micro-economies-2-spankchain-mixdown.mp3"
+        },
+        {
+            "title": "The Third Web #3 - Quantifying Gaze",
+            "datePublished": "Tue, 21 Nov 2017 01:24:14 +0000",
+            "description": "Today we are taking a quick look at a range of problems and their solutions through the lens of a little known project known as Gazecoin. Under the gaze coin banner are a range of projects, among them, a virtual world with purchasable real estate which serves as a content delivery channel.\n\nI first encountered Gazecoin when founder Jonny peters invited me to check out the project’s pilot content-creation studio in Sydney. \n\nJonny is an accomplished entrepreneur who made his first move in the entertainment tech space in 1998. He began looking into transmedia and virtual worlds in the mid 2000, and hosted cryptocon, a cryptocurrency summit in 2014. His vision for a narrative driven virtual world and economy enters around one simple input: measuring a users direction of gaze.\n\nBok Khoo is the legendary Australian Ethereum developer tasked with making Jonny’s vision a reality. This requires a range of tools and is the subject of our discussion today.",
+            "length": "21083622",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/358713482-arthurfalls-the-third-web-2-quantifying-gaze.mp3"
+        },
+        {
+            "title": "The Third Web #2 - The Props Project by YouNow",
+            "datePublished": "Mon, 13 Nov 2017 05:17:55 +0000",
+            "description": "Video, mobile first, open APIs, an existing two-sided market, and a userbase already transacting digitally. The YouNow live video platform is an ideal candidate for a monetary network-based business. YouNow’s Props project aims to achieve just this.\n\nDecentralized economies will reshape digital media.\nDecentralized monetary networks work well when applied to existing producer-consumer networks.\nToday digital media is a producer-consumer network with despotic intermediaries like youtube, Spotify, existing live video sites, etc. \nIt may be possible to build a new type of business that can compete symmetrically with these intermediaries using a monetary network.\n\nWhich businesses can adopt the micro-economic business model?\nTwo-sided marketplaces\nEstablished digital economies\nNetwork-based businesses\n\nhttps://www.younow.com/\nhttps://propsproject.com/\nthirdweb.net\nhttps://itunes.apple.com/us/podcast/the-third-web/id899090462?mt=2",
+            "length": "44611502",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/354974678-arthurfalls-yonatan-of-younow-props-mixdown.mp3"
+        },
+        {
+            "title": "The Third Web #1 - Re - Examining The Legality Of ICOs",
+            "datePublished": "Tue, 07 Nov 2017 16:53:20 +0000",
+            "description": "Joshua Ashley Klayman, co-founded the blockchain and smart contracts working group at the law firm Morrison and Foerster and the WSBA’s Legal Working Group. We caught up in person at a Cafe in Central Park to discuss gender disparity in tech and ICO regulation, a subject of considerable significance right now.\n\nWomen in blockchain:\nSocial barriers to entry,\nCounterproductive responses to gender disparity in blockchain,\nPublic displays of bigotry.\n\nICO Regulation:\nWhat percentage of ICOs are legal?\nHow do “facts and circumstances” bear on the Howy test?\nAnalyzing the SEC ruling that TheDAO was a security\nRegulatory focus on preserving the innovation space\nFear of fraud, scams and terrorist financing\nMost ICO tokens are securities\nThe utility token misunderstanding\nThe Swiss foundation model and the challenges of separation of governance\nIs it irresponsible for ICOs to be raising $200MM in funding?\n\nThirdweb.net",
+            "length": "52970329",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/352431224-arthurfalls-the-third-web-1-re-examining-the-legality-of-icos.mp3"
+        },
+        {
+            "title": "The Third Web #0 - The Ether Review Final Episode",
+            "datePublished": "Mon, 30 Oct 2017 15:05:04 +0000",
+            "description": "Welcome to the Third Web. A podcast about the technologies powering the next generation of human civilisation. I’m your host, Arthur Falls. \n\nThis podcast is targeted at industry observers looking for a technical examination of issues on the frontier of what has become known as the blockchain space. However, for those less versed in the field, supplementary content will be published in anticipation of each episode. Failing that, I’ll add links in the notes to help along the casual listener.\n\nBlockchain technology, and specifically, the idea of a value-transport enabled internet is no longer new. Looking at the recent history of the space, we see a hockey stick of innovation and investment. \n\nIn 2014, just as the first ICO boom launched,  I began producing my first podcast, Beyond Bitcoin. It explored the explosion of new blockchain platforms and other innovations in the space. \n\nAs exciting as this technology was, common problems existed across all platforms: scaling to support broad adoption, and providing a service the mainstream market would accept.\n\nAfter speaking with Meher Roy and Tim Swanson about these problems in early 2015, the line of questioning  that inspired me to create Beyond Bitcoin came to an end.  In that final episode, we settled on a view of the future in which a network of blockchains secured by permissioned validators would enable global value transfer. This made more sense than a future based on permissionless blockchain networks and all the challenges that came with them. \n\nThen came Ethereum. Infinite functionality paired with an aggressive scaling roadmap reopened the question of what might come next, this time examined in a new podcast, The Ether Review. \n\nTwo years on, having been immersed in the world of Ethereum, interviewed hundreds of people for podcasts, articles and videos and worked for the largest blockchain centric company in the world - ConsenSys, a disturbing reality has become apparent. We have not moved on from the paradigm of 2014, and the Ethereum scaling roadmap will not provide the performance new use cases need to emerge. \n\nIn future episodes of The Third Web, we will examine blockchain scaling, and ask the questions:  What are the design trends bringing greater transaction supply to the market? What new business models will this enable? What new services can we expect to see, and what products will be built using those services? \n\nWhat will the Third Web really look like?\n\nMeher Roy was a virologist working in the vaccines industry when we first spoke in 2014. Today he is focussed full time on the blockchain space and hosts the excellent Epicenter podcast.\n\nTim Swanson was director of market research at R3 for two years and has recently founded his own research company, Post Oak Labs  \n\nToday we’re wrapping up The Ether Review and kicking off The Third Web. Some of the remarks I make in this episode are overstated and under qualified. Please feel free to critique anything views you disagree with in the comments and if there is sufficient intelligent controversy I’ll revisit the subjects in question in subsequent episodes.\n\nThat was it! The first episode of The Third Web! A big thanks to Breakmaster Cylinder for the tunes. No social, email, or web accounts just yet but you can reach me on twitter @arthurfalls. Of course you should subscribe on itunes or your favorite podcast manager. this feed will probably still be called The Ether Review but it will update in time.\n\nhttp://www.ofnumbers.com\nhttps://www.validitylabs.org\nhttps://twitter.com/MeherRoy\nhttps://twitter.com/ofnumbers\nhttps://en.wikipedia.org/wiki/Hawala\nhttps://propsproject.com\nhttps://soundcloud.com/arthurfalls/beyond-bitcoin-7-trivial-issuance-of-a-useful-asset",
+            "length": "88666218",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/349272657-arthurfalls-third-web-0-the-ether-review-final-mixdown.mp3"
+        },
+        {
+            "title": "The Ether Review #76 — Attores & Indorse, Smart Contracts as a Service",
+            "datePublished": "Tue, 17 Oct 2017 18:38:59 +0000",
+            "description": "The founders of Attores,  Gorang Torvekar and David Moskowitz discuss their notion of “smart contracts as a service”. \nThe platform is currently being piloted by nanyang polytechnic in Singapore as a digital diploma registry. This is being extended into a full professional network platform called Indorse, which ran an ICO earlier this year.\nIn addition to the above we discuss the birth of the Ethereum Kovan testnet, which has it’s origins in a pub, just outside the Attores/Ethereum Foundation/Digix co-working space in Singapore.\nhttp://www.attores.com/\netherreview.info\nhttps://itunes.apple.com//podcast/the-ether-review/id899090462?mt=2",
+            "length": "23734038",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/347345628-arthurfalls-the-ether-review-76-attores-smart-contracts-as-a-service.mp3"
+        },
+        {
+            "title": "The Ether Review #75 — Streamr, Completing the Data Services Trifecta",
+            "datePublished": "Wed, 11 Oct 2017 19:18:10 +0000",
+            "description": "Current solutions for decentralized data processing like Golem or Truebit provide part of a data services solution. Storj, Filecoin, Sia, and others offer storage solutions. \nStreamer tokenizes the value in streams of Data. Using the same interface for both data delivery and payment, Streamr hopes to create a two sided market for data. This rounds out the basic data services portfolio, operating synergistically with existing projects. \nCEO Henri Pihkala and COO Risto Karjalainen explain.\netherreview.info\nhttps://itunes.apple.com//podcast/the-ether-review/id899090462?mt=2",
+            "length": "26494848",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/346444734-arthurfalls-streamrmix.mp3"
+        },
+        {
+            "title": "The Ether Review #74 —An Emerging Capital Market",
+            "datePublished": "Mon, 09 Oct 2017 22:25:55 +0000",
+            "description": "Element Group is a full service investment bank for the crypto-token markets.\nStan Miroshnik has a background in traditional finance. After watching the crypto-markets form, Stan and his colleagues began working to understand these new markets and build a traditional finance business to serve the space.\nWe discuss the maturity of  the companies using the token launch fundraising mechanism, and those investing in the tokens. Stan sees an emerging market with strong similarities to traditional capital markets and opportunities for institutions used to investing there.\nThe entry of organizations like Element Group into the crypto-asset space indicates the fulfillment of the prophetic prediction of a super fluid economy Joe Lubin expounded in an episode of Beyond Bitcoin three years ago. It is also a harbinger of a stable paradigm for Ethereum: Capital markets 2.0\n\netherreview.info\n\nhttps://itunes.apple.com//podcast/the-ether-review/id899090462?mt=2",
+            "length": "18878592",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/346160111-arthurfalls-the-ether-review-74-an-emerging-capital-market.mp3"
+        },
+        {
+            "title": "The Ether Review #73 — Kik, Establishing a Micro-economy",
+            "datePublished": "Wed, 04 Oct 2017 02:26:51 +0000",
+            "description": "Today we hear from Ted Livingston, who founded Kik interactive in 2009 to address the problem of chat between blackberry, android and iPhone. Since then their chat app, Kik, has exploded in popularity, experiencing use by up to 40% of US teenagers.\nIn 2015 Tencent, the builder of Chinese chat giant Wechat, purchased a 5% stake in the company at a Billion dollar valuation. A move that some are saying has anointed Kik as the Wechat of the west. It’s interesting to see the youth focus with One Direction leading their award winning marketing campaign of 2014 .\nKik is a somewhat anonymous platform, with it’s own economy in which stickers are traded and users can be charged for access to certain chat rooms.\nBy launching the Kik in-app currency, Kin, as a cryptocurrency, Kik interactive aims to enable the Kik micro-economy to grow independently and organically. The Token launch ended recently with nearly one hundred million USD equivalent raised. No surprises there. What is interesting is that registered contributors numbered over 10,000 and resided in over 100 countries, indicating that the currency is indeed broadly distributed compared to other tokens. Though, my guess is it’s concentrated in the hands of speculators, rather than the 15 million community participants. \nThis episode was recorded over two months ago so it’s interesting to look back from the other side of the Token Launch and see Ted’s claims of broad distribution validated.\nkin.kik.com\nconsensys.net\nconsensysmedia.net\netherreview.info\nhttps://itunes.apple.com//podcast/the-ether-review/id899090462?mt=2",
+            "length": "37602160",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/345264878-arthurfalls-the-ether-review-73-kik-establishing-a-micro-economy.mp3"
+        },
+        {
+            "title": "The Ether Review #72 — Nick Dodson and Governx",
+            "datePublished": "Thu, 21 Sep 2017 20:36:58 +0000",
+            "description": "Between re-constructing TheDAO and building his own governance platform Governex (once Boardroom), ConsenSys developer Nick Dodson is building a portfolio of powerful Ethereum based tools.\nDisappointingly, the Enterprise Ethereum Alliance instantiation of Governx is not up for discussion. However, we do dig into the abstract structure of governance tools, data-driven design, the flaws of The DAO, and what can be salvaged from that project.\nAres DAO is a joint project between Nick and shadowy Ethereum community member Dino Mark. By applying the research conducted during the development of Governex, and lessons learned from watching DAOs in the wild, the two man team has repaired and refactored TheDAO.\nIn doing so curators have been removed, direct democracy has been implemented, and the proposal deposit has been raised significantly. \nThe team plan to launch a charity DAO to test the Ares DAO’s functionality.\nWe also chat about the demise of the nation state and the role of tribalism in the evolution of blockchain governance. \nconsensys.net\nconsensysmedia.net\netherreview.info\nhttps://itunes.apple.com//podcast/the-ether-review/id899090462?mt=2",
+            "length": "22910208",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/343134492-arthurfalls-nickdodsongovernx.mp3"
+        },
+        {
+            "title": "Ether Review Legal #6 — Playing in a Sandbox",
+            "datePublished": "Thu, 14 Sep 2017 19:58:10 +0000",
+            "description": "In today's long overdue, landmark episode we are joined by an international panel of leaders in fin-tech and blockchain law:\nClaire Wivell, Hannah Glass (Australia), Alex Simms (New Zealand), Peter van Valkenburgh (USA), and James Duchenne (USA/Mauritius)\nThe theme for the discussion was regulatory sandboxes — frameworks for enabling businesses to operate in a deregulated environment. The goal is to allow legislative bodies to develop an understanding of new businesses before regulating them. We have seen a successful example in the United Kingdom, but Australia’s efforts to replicate this have not been so successful. Claire Wivell explains why.\nWe follow this with a discussion of the unique environments of Australia, Mauritius, Singapore and Dubai. New Zealand unfortunately is not so interesting at this stage (both Alex Simms and myself have independently been involved in some interesting conversations since this episode was recorded so watch this space).\nWe conclude that a US regulatory sandbox is impossible due to the interaction of federal and state legislation and the complexity of their enforcement agencies. However, there is hope if a bright line can be defined between the regulation of custodial and non-custodial businesses\n\nconsensys.net\nconsensysmedia.net\netherreview.info\nhttps://itunes.apple.com//podcast/the-ether-review/id899090462?mt=2",
+            "length": "80168832",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/342383065-arthurfalls-ether-review-legal-6-playing-in-a-sandbox.mp3"
+        },
+        {
+            "title": "Ether Review Legal #5 - BernsWeiss Stops the IRS in its Tracks",
+            "datePublished": "Wed, 23 Aug 2017 00:00:00 +0000",
+            "description": "Lee Weiss of the US law firm BernsWeiss discusses the Coinbase/IRS dispute. The dispute began in November 2016, when the IRS summoned Coinbase to hand over data about all users who were active on the exchange from 2013 to 2015, with a view to investigating the tax compliance of individuals who have transacted in cryptocurrencies.\n\nOn behalf of one or more anonymous Coinbase users, BernsWeiss took the issue to court and was recently granted permission to argue against the summons, which among other things demanded access to users’ public and private keys. If complied with, this would effectively give the IRS access to all customer funds, making it a clear and easy target for hackers.\n\nThis is an unprecedented use of the John Doe summons procedure, which was intended for situations where the IRS has identified specific tax avoidance but can’t identify the specific parties who have engaged in that illicit conduct. If determined to be legal, this summons would set a precedent under which the IRS could demand the same from other exchanges. BernsWeiss intends to continue fighting this massive government overreach unless and until the IRS can identify a specific subset of taxpayers who it is reasonably certain are engaging in tax avoidance.\n\nAfter the hearing, the government removed the request for private keys, now only requiring public keys. The IRS also voluntarily narrowed the scope of the summons to only cover individuals who engaged in virtual currency transactions in excess of $20,000 in a given year. This figure is likely arbitrary, and suggests that the government is simply trying to gather as much information as possible rather than engaging in a specific investigation.\n\nThis case illustrates the lack of understanding about these new financial instruments within government. With this summons, the IRS effectively places virtual currencies into the “inherently suspicious” tax avoidance category with things like large transactions, questionable tax shelters, and other mechanisms which are clearly designed to avoid taxes and typically don’t have a legitimate purpose - unlike cryptocurrencies.\n\n\nBerns Weiss LLP - www.law111.com\ntwitter.com/BernsWeiss\n\nconsensys.net\nconsensysmedia.net\netherreview.info\nhttps://itunes.apple.com//podcast/the-ether-review/id899090462?mt=2",
+            "length": "21175528",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/339093594-arthurfalls-ether-review-legal-5-bernsweiss-stops-the-irs-in-its-tracks.mp3"
+        },
+        {
+            "title": "Ether Review #71 - David Bailey on Po.et & the MtGox/BTC-e Connection",
+            "datePublished": "Thu, 10 Aug 2017 03:47:55 +0000",
+            "description": "David Bailey, CEO of BTC Media, discusses the recent shutdown of BTC-e and its mysterious connection to the MtGox hack which led to the exchange’s demise in 2014. He also introduces Po.et, a revolutionary proof-of-existence blockchain platform.\n\nThe arrest of Alexander Vinnik and seizure of the BTC-e website by the FBI in late July shed some long-awaited light on the cold case of the 650,000 bitcoins which went missing from MtGox over several years from 2011 to 2013. Upon his arrest, WizSec released a comprehensive report detailing their findings on the matter, and stating that “Vinnik is [their] chief suspect for involvement in the MtGox theft (or the laundering of the proceeds thereof).”\n\nBailey also talks about BTC Media’s partnership with Po.et, whose proof-of-existence mechanism uses hashing to allow media producers to timestamp and license their content in an unalterable system which will verify and automatically issue digital ownership. Po.et combines this timestamp with metadata about the published content to build an open ledger of media assets which includes information such as the original URL, the word count, the author’s name and the publisher.\n\nPo.et also enables split-equity and payments terms for writers whose work is published by BTC Media, as well as different licensing agreements. Other use cases include the re-monetization of old content and individual profile management systems for employees of media outlets.\n\nThe Po.et platform will ultimately build a digital fingerprint of each author’s history and preserve their portfolio on a blockchain, revolutionizing the way in which digital content is published, leveraged and monetized.\n\n\ntwitter.com/davidfbailey\nbtcmedia.org\n\ntwitter.com/_poetproject\npo.et\n\nconsensys.net\nconsensysmedia.net\netherreview.info\nhttps://itunes.apple.com//podcast/the-ether-review/id899090462?mt=2\n\nRead more about the developing timeline of the MtGox and BTC-e connection (medium.com/@liesleichholz/mtgox-btc-e-and-the-missing-coins-a-living-timeline-of-the-greatest-cyber-crime-ever-f94fbb1eb42)\n& the lasting regulatory legacy of the hack (https://etherreview.info/mtgoxs-lasting-regulatory-legacy-a21960867600)",
+            "length": "31876608",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/337242677-arthurfalls-ether-review-71-david-bailey-on-poet-the-mtgoxbtc-e-connection.mp3"
+        },
+        {
+            "title": "Ether Review Legal #4 - MME, the Beating Heart of Crypto Valley",
+            "datePublished": "Fri, 04 Aug 2017 03:48:06 +0000",
+            "description": "Luka Müller and Dianne Schepers of MME - the Swiss law firm famous for running the Ethereum crowdsale - discuss jurisdictional constraints, Crypto Valley, novel crypto-asset classes and the “second wave” of tokenization.\n\nWith 25 previous “token generating events” and 60 pending projects, MME is a clear leader in the crypto law realm. The firm is now welcoming a “second wave” of clients; companies from the legacy economy which are seeking ways to enter the blockchain world through tokenizing their pre-existing equity.\n\nIn this discussion Luka outlines some of the major distinctions between US and Swiss law in relation to token issuance, looking at securities law, donations, and the commonly used foundation model. These and other regulatory differences, compounded by the stable and already-decentralized nature of Swiss government, make Switzerland the ideal jurisdiction for Crypto Valley, the rapidly growing successor to Silicon Valley based in Zug, a financial center.\n\nAlongside its long list of clients, MME is now focussed on creating Blockchain Crypto Property (BCP) standards. The final BCP paper, to be published in August, will classify tokens under a range of asset classes and outline a quality checklist for various token models. These standards will simplify risk assessment and ensure that tokens issued in Switzerland will be globally listable and tradeable.\n\nmme.ch\ntwitter.com/MME_Switzerland\n\nconsensys.net\nconsensysmedia.net\netherreview.info\nhttps://itunes.apple.com//podcast/the-ether-review/id899090462?mt=2",
+            "length": "25408991",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/336194022-arthurfalls-ether-review-legal-4-mme-the-beating-heart-of-crypto-valley.mp3"
+        },
+        {
+            "title": "Ether Review Legal #3 - The Simple Agreement for Future Tokens",
+            "datePublished": "Mon, 24 Jul 2017 00:00:00 +0000",
+            "description": "Juan Benet and Jesse Clayburgh of Protocol Labs, and Ryan Zurrer of Polychain Capital, discuss the Simple Agreement for Future Tokens (SAFT). Inspired by Y Combinator’s “Simple Agreement for Future Equity”, the SAFT standardizes the legal framework surrounding token issuance and governs the nature of the transactions involved (i.e. the deployment of capital and distribution of tokens).\n\nThe complex legal environment surrounding tokens, especially in the US, has led many entrepreneurs to choose to leave Silicon Valley because they can develop the technology better elsewhere. Those who remain in the US have had to compromise on the optimization of their models in order to comply with legacy regulatory frameworks. Recognising these limitations, and seeking to mature the ecosystem beyond such models, several interested parties (including Protocol Labs, AngelList and CoinCenter) have worked together to create standard legal agreements for this novel asset class.\n\nEssentially, a SAFT represents a promise for future tokens at a fixed price. The agreement can be structured so that investors receive these tokens when the network launches, or with inbuilt vesting to incentivise continued support by investors.\n\nThe development of the SAFT model involved consultations with the foremost legal experts at the intersection of cryptocurrencies, securities law and regulatory compliance. By simplifying token issuance and the requisite compliance concerns, it provides an essential bridging of the gap between current technological progress and future regulation.\n\n\nprotocol.ai\ntwitter.com/protocollabs\ntwitter.com/juanbenet\ntwitter.com/jesseclayburgh\n\npolychain.capital\nangel.co/polychain-capital\ntwitter.com/ryanzurrer\n\nconsensys.net\nconsensysmedia.net\netherreview.info\nhttps://itunes.apple.com//podcast/the-ether-review/id899090462?mt=2",
+            "length": "48074127",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/334505656-arthurfalls-ether-review-legal-3-the-simple-agreement-for-future-tokens.mp3"
+        },
+        {
+            "title": "The Ether Review #70 - CoinList Battens down the Hatches with Watertight Token Launch Compliance",
+            "datePublished": "Fri, 21 Jul 2017 00:00:00 +0000",
+            "description": "Juan Benet and Jesse Clayburgh of Protocol Labs, and Ryan Zurrer of Polychain Capital, discuss CoinList, a platform for token-backed networks to raise money through pre-launch token sales.\n\nWhile planning the Filecoin token sale, the team at Protocol Labs developed a method of accreditation for US investors in order to comply with securities law. Realising the importance of such a system for the whole ecosystem, they partnered with AngelList to develop this into a platform on which other projects can host their token pre-sales. The end result, CoinList, streamlines the complicated token launch process for developers and investors alike.\n\nBy supporting a wide variety of sale mechanics, contracts, and pricing schemes within a standard set of requirements, the platform allows developers to focus on optimising their projects instead of spending time on convoluted compliance processes. Its focus on simplifying due diligence reduces complications for developers while “filtering out the signal from the noise”.\n\nWith the ability to clear transactions simultaneously across fiat and cryptocurrencies, and the aim of hosting high-quality and high-integrity projects, CoinList opens up the token ecosystem to an influx of capital from a range of new investors. It gives these investors visibility into the progress of a sale, a clear quality checklist for each token, and a record of their previous investments and the requisite legal agreements.\n\nThe significant institutional capital still pushing into the cryptocurrency space highlights the demand for such a versatile yet user-friendly platform at this time. With its solutions to regulatory uncertainty, costly compliance and the current knowledge barrier to investing, CoinList is well-placed to bring in the era of Web 3.0\n\n\ncoinlist.co\ntwitter.com/coinlist\n\nangel.co\ntwitter.com/angellist\n\nprotocol.ai\ntwitter.com/protocollabs\ntwitter.com/juanbenet\ntwitter.com/jesseclayburgh\n\npolychain.capital\nangel.co/polychain-capital\ntwitter.com/ryanzurrer\n\nconsensys.net\nconsensysmedia.net\netherreview.info\nhttps://itunes.apple.com//podcast/the-ether-review/id899090462?mt=2",
+            "length": "27474546",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/334139530-arthurfalls-the-ether-review-70-coinlist-battens-down-the-hatches-with-watertight-token-launch-compliance.mp3"
+        },
+        {
+            "title": "Ether Review #69 - IOTA & the Post-Blockchain Era",
+            "datePublished": "Tue, 18 Jul 2017 00:00:00 +0000",
+            "description": "David Sønstebø, co-founder of IOTA, discusses this next-generation post-blockchain platform designed to serve as the backbone for the Internet-of-Things (IoT).\n\nIOTA is a groundbreaking new open-source distributed ledger that does not use a blockchain. Its innovative new quantum-proof protocol, known as the Tangle, gives rise to unique new features like zero fees, infinite scalability, fast transactions, secure data transfer and many others.\n\nBecause the Tangle uses a Directed Acyclic Graph (DAG) instead of a blockchain, users automatically act as validators, allowing transaction validation to become an intrinsic property of utilising the network. Each transaction requires the sender to verify two previous transactions, resulting in infinite scalability while avoiding the validation centralization that is common with existing consensus mechanisms.\n\nIOTA is also developing a novel standard for embedding minuscule ASIC chips in all IoT devices. These chips perform nominal proof-of-work hashes in order to prevent spam and Sybil attacks, and because the network is partition-tolerant and only eventually consistent, brute force hashing attacks are prevented.\n\nWith a transaction volume limited only by the speed of light, IOTA is a promising new solution to the limitations presented by blockchains.\n\n\niota.org\ntwitter.com/iotatoken\ntwitter.com/davidsonstebo\n\nconsensys.net\nconsensysmedia.net\netherreview.info\nhttps://itunes.apple.com//podcast/the-ether-review/id899090462?mt=2\n\nIOTA white paper: iota.org/IOTA_Whitepaper.pdf\nDirected Acyclic Graph: https://cdn-images-1.medium.com/max/800/1*F-rjJqQ1PyF8dOnjOaiLFg.png",
+            "length": "50425520",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/333680258-arthurfalls-ether-review-69-iota-the-post-blockchain-era.mp3"
+        },
+        {
+            "title": "The Ether Review #68 - Numerai, The Last Hedge Fund",
+            "datePublished": "Thu, 06 Jul 2017 23:16:45 +0000",
+            "description": "Xander Dunn and Richard Craib discuss Numerai, a new kind of hedge fund built by a network of data scientists.\n\nThe Numerai platform crowdsources machine learning by releasing encrypted data sets to data scientists, incentivising them to develop machine learning algorithms to analyse the data. Scientists then bid their predictions to the hedge fund by staking funds, and are paid returns in Numeraire, the platform’s native cryptocurrency, for correct predictions.\n\nBy abstracting its financial data to be only machine-readable, Numerai ensures that human biases and overfitting are overcome, and that short-term and long-term returns are equally weighted.\n\nWith the ultimate goal of “owning all of the money in the world”, the Numerai hedge fund has high hopes for the future.\n\nnumer.ai\netherreview.info\ntwitter.com/xanderai\ntwitter.com/richardcraib\nhttps://itunes.apple.com//podcast/the-ether-review/id899090462?mt=2",
+            "length": "26226937",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/332015116-arthurfalls-the-ether-review-68-numerai-the-last-hedge-fund.mp3"
+        },
+        {
+            "title": "Ether Review Legal Discussion #2 The Legality of Raising Money Using Tokens",
+            "datePublished": "Sat, 24 Jun 2017 11:11:38 +0000",
+            "description": "In today’s discussion we look at the legality of raising money through token launches, the potential risks involved, and approaches to improving the safety of these new bearer assets. We also examine the term ICO in depth and find that terminology, while relevant is second to the nature of the offer and state of the project involved. Following the discussion is an interview With Peter Van Valkenburg recorded at Devcon2, applying the Howey test to The DAO. \n\n\nweekinethereum.com\netherreview.info\nhttps://itunes.apple.com/podcast/the-ether-review/id899090462?mt=2",
+            "length": "70510967",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/329789604-arthurfalls-ether-review-legal-discussion-2-the-legality-of-raising-money-using-tokens.mp3"
+        },
+        {
+            "title": "The Ether Review #67 — Celebrating Erik Voorhees Week with Erik Voorhees!",
+            "datePublished": "Mon, 12 Jun 2017 02:37:47 +0000",
+            "description": "What?! Another Erik Voorhees podcast?!!!\n\nIn this, the sixty seventh episode of The Ether Review, we set out to understand Prism, Shapeshift’s new non-custodial synthetic asset built on the Ethereum network. In reviewing this episode I feel I was unsuccessful in achieving this. However, the peripheral conversation about Erik’s view of the space is extremely enlightening, especially writ large in his positioning of Shapeshift. The Bitcoin scaling debate, the future of digital assets, the financial world’s response — it’s all here. Some of this interview was geared to fit Shapeshift’s messaging, not something you’ll hear on TER very often. None the less, it’s fun to hear such an astute thinker and communicator knock  some soft ball questions out of the park.\n\netherreview.info\nshapeshift.io\nhttps://twitter.com/ErikVoorhees\nhttp://www.weekinethereum.com/\nitunes.apple.com/podcast/the-ether-review/id899090462?mt=2\nLetstalkbitcoin.com\nthebitcoinpodcast.com",
+            "length": "40722432",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/327632731-arthurfalls-the-ether-review-67-celebrating-erik-voorhees-week-with-erik-voorhees.mp3"
+        },
+        {
+            "title": "The Ether Review #66 - Gnosis, Martin Köppelmann",
+            "datePublished": "Mon, 22 May 2017 00:00:00 +0000",
+            "description": "After a stunning token launch Gnosis has become a classic example of the hope for greater and more powerful decentralized applications. Founder Martin Köppelmann walks us through the projects genesis, growth, and road to success\n\nitunes.apple.com/podcast/the-ethe…id899090462?mt=2\nhttps://twitter.com/koeppelmann",
+            "length": "28123122",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/324274801-arthurfalls-the-ether-review-66-gnosis.mp3"
+        },
+        {
+            "title": "Ether Review Legal Discussion #1 — Challenges in Blockchain Law",
+            "datePublished": "Sun, 14 May 2017 00:00:00 +0000",
+            "description": "In Brief: A walkthrough of the pressing legal issues in blockchain today. \r\nOver the last few months a varying group of legal professionals from New Zealand, Australia, and the USA have been meeting to discuss current events, challenges, and peculiarities in the interaction between blockchain and law. As facilitator I suggested we might record the sessions. This is the first to be published.\r\nAttendees:\r\nHannah Glass: Solicitor, King & Wood Mallesons\r\nMatt Corva: Law and Business, ConsenSys\r\nAlex Sims: Associate Professor, Head of Commercial Law, The University of Auckland\r\nLiesl Eichholz: Studying Master of Laws, University of Otago\r\nArthur Falls: Host of The Ether Review, State Change, Director of Media, ConsenSys\r\nhttps://itunes.apple.com/podcast/the-ether-review/id899090462?mt=2",
+            "length": "63915674",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/322525025-arthurfalls-ether-review-legal-discussion.mp3"
+        },
+        {
+            "title": "The Ether Review #64 - Conversations with the Swarm",
+            "datePublished": "Mon, 01 May 2017 00:00:00 +0000",
+            "description": "In Brief: Swarm City, once Arcade City, is one of the most ambitious, and controversial projects in the Ethereum ecosystem. Having shed their founder, the remaining team have made considerable development progress. More than just a would be ride sharing DApp, Swarm City aims to provide an exchange infrastructure for any two sided market.\r\n\r\nSwarm City Mayor Bernd Lapp and Architect Michael Thuy discuss the deeper intricacies of 2 sided market transactional infrastructure in a social setting. We also look at Swarm City’s stage of development and the rollout practices of the Swarm City team.\r\nSubscribe on iTunes: \r\n\r\nhttps://itunes.apple.com/podcast/the-ether-review/id899090462?mt=2",
+            "length": "34040400",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/320293269-arthurfalls-the-ether-review-64.mp3"
+        },
+        {
+            "title": "The Ether Review #63 — Meet DAD, the Digital Aussie Dollar",
+            "datePublished": "Wed, 26 Apr 2017 00:00:00 +0000",
+            "description": "In Brief: Tokenizing fiat currency in a way that is compatible with our existing financial infrastructure and legislation is no easy feat. The consequences however reach across the entirety of industry, the economy, and society. \r\n\r\nNick Addison is the CTO of AgriDigital, an agricultural finance company first covered in episode 45 of TER. As part of his work at AgriDigital, Nick is researching ways to port the existing financial infrastructure into the blockchain age. It’s not easy, but as the inventory of tools grows, so do the number of possible solutions to the problems Nick has uncovered. \r\nIn this episode we look at a prospective architecture for a Digital Australian Dollar (DAD), the problems with implementing that architecture and the consequences of making such a transition. It’s a great tour through the solution space of today.\r\n\r\nhttps://itunes.apple.com/podcast/the-ether-review/id899090462?mt=2",
+            "length": "33881147",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/319508742-arthurfalls-the-ether-review-63-meet-dad.mp3"
+        },
+        {
+            "title": "The Ether Review #62—The Biggest City in Blockchain Pt 2",
+            "datePublished": "Sun, 16 Apr 2017 00:00:00 +0000",
+            "description": "Matt Hale of Divvi is the first speaker in the second half of the conversation we began last week. Divvi is a Sydney based decentralized energy market startup. The huge scale of residential solar deployment makes Australia a uniquely appropriate environment for this kind of solution. We also look at the challenges of breaking into the highly regulated and cartel run infrastructure space. Secondly Luke Anderson, describes the dilemma of selecting blockchain as an appropriate solution to a problem. \r\n\r\nThe Sydney Ethereum community is huge, possibly the largest geographically concentrated group of Eth heads in the world. It’s a geographical location well worth paying attention to.",
+            "length": "33691145",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/317995591-arthurfalls-the-ether-review-62-the.mp3"
+        },
+        {
+            "title": "The Ether Review #61 - The Biggest City in Blockchain Part 1",
+            "datePublished": "Wed, 12 Apr 2017 00:00:00 +0000",
+            "description": "Last week I was honoured with the privilege of representing New Zealand at the inaugural ISO/TC-307 Blockchain and Distributed Ledger Technologies standards committee meeting. The event was hosted by the secretariat, Standards Australia. 18 nations attended. \n\nWhile at the meeting, blockchain legend Nick Addison wrangled together a who’s who of blockchain entrepreneurs for a round table discussion. We convened in the media room at the international convention center. The group grew piecemeal over the course of three hours during which we discussed everyone’s projects and the state of blockchain in Australia. \nThe attendees were:\n\nTim Bass of Block 8\nBok Khoo of the Internet, and Bok Consulting\nSam Brooks CTO of Veredictum\nRussell Mclernon of Rexmls\nLuke Anderson of Sigma Prime\nSergei Sergienko of Chronobank\nMatt Hale of Divvi\n\nI’ve split the conversation into two episodes so the next will be coming up soon. Before we get stuck in, I want to draw your attention to the Blockchain NZ conference and the Auckland and Wellington Blockchain Meetups. Things are gathering pace down here and with Vitalik soon to grace our shores with his presence, the whole country is abuzz. You can pick up conference tickets at a discount by following the link in this episode's notes at etherreview.info. I’ll be there and everyone will be invited to my place for a barbecue in the days following.\n\nSo let’s hear from they guys in Sydney. First up we have Tim Bass, on joint real estate investing, then Bok Khoo on decentralized exchanges and derivatives markets. After some general chat Sergei discusses Chronobank and Russell explains Rex before we move into discussions about usability, insurance and end user friendly key management. Finally\nSam outlines the processes behind the operation of Veredictum.\n\netherreview.info",
+            "length": "50513462",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/317273673-arthurfalls-the-ether-review-61-den-of.mp3"
+        },
+        {
+            "title": "The Ether Review #60 — MeDAOs & Crypto Branding",
+            "datePublished": "Tue, 28 Mar 2017 00:00:00 +0000",
+            "description": "Today we hear first from Joe Reed who won the Seattle IPFS / Ethereum Hackathon in February. His entry Matriarch expands on the ERC20 compliant Minime token, using it as a basis for crowdfunded MeDAOs. It’s an avant-garde idea and compliments his decentralized reddit project, Community.\r\nThen Gabriel Mitchell of ethereumclothing.com raises the subject of branding in cryptocurrency. These interviews have been buried in my content bank for months now and it’s fun to sometimes unearth gems. Short interviews with people from the Ethereum community are great in that they yield insights that would not otherwise percolate to the surface of popular discourse. Also, it’s fun to plug community merch while having a productive conversation.\r\n\r\nhttps://etherreview.info/",
+            "length": "27679104",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/314813617-arthurfalls-the-ether-review-60-medaos.mp3"
+        },
+        {
+            "title": "The Ether Review #59 — Money Talks, Polychain Capital",
+            "datePublished": "Mon, 20 Mar 2017 00:00:00 +0000",
+            "description": "By now word of the Andreessen-Horowitz/Union Square Ventures investment in the digital asset hedge fund Polychain Capital was reached far and wide across the cryptoverse. Among other things, this interview with founders Olaf Carlson-Wee and Ryan Zurrer explores the questions that must be asked while establishing a long term crypto portfolio. Much of the discussion is especially pertinent in light of the recent ETH jump and fork concerns with Bitcoin.",
+            "length": "51879007",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/313496527-arthurfalls-the-ether-review-59-money.mp3"
+        },
+        {
+            "title": "The Ether Review #58 — “Status” Conquers Mobile",
+            "datePublished": "Mon, 13 Mar 2017 00:00:00 +0000",
+            "description": "Ever wished for a final login, a final app? The last user name you would ever need, the last thing you would ever need to download?\r\nThe Ethereum mobile client Status promises just that and it’s release is just around the corner. Founders Jarad Hope and Carl Bennetts join us to explain.\r\n\r\nNick Szabo’s blog Post: Money, Blockchains and Social Scalability\r\nhttps://medium.com/r/?url=http%3A%2F%2Funenumerated.blogspot.co.nz%2F2017%2F02%2Fmoney-blockchains-and-social-scalability.html\r\n\r\netherreview.info",
+            "length": "23562304",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/312117019-arthurfalls-the-ether-review-58-status.mp3"
+        },
+        {
+            "title": "The Ether Review #57 — The First Compliant-by Design Blockchain Asset",
+            "datePublished": "Fri, 03 Mar 2017 21:33:59 +0000",
+            "description": "Charlie Shrem and Jason Granger explain the Mainstreet investment fund. A limited partnership which distributes it’s revenues to addresses associated with self verified token holders. A separate company, Intellisys, manages the fund.\nThe intricate problem solving required to create a legal token on the Ethereum blockchain that is backed by traditional investments, is fascinating.\nMainstreet started accepting funding on the 27th, so this episode is coming out a bit late. You can links to both Mainstreet and Intellisys in the episode notes.\n\netherreview.info",
+            "length": "28695813",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/310581343-arthurfalls-the-ether-review-57-the-first-compliant-by-design-blockchain-asset.mp3"
+        },
+        {
+            "title": "The Ether Review #56 - Serfs in the Attention Economy",
+            "datePublished": "Wed, 22 Feb 2017 18:11:02 +0000",
+            "description": "In Brief: On today’s episode Kenny Rowe joins to discuss:\nMaker DAO Governance\nThe decision making around forks\nDAOs in relation to stable value tokens\nThe double token model of stable token platforms\nCommunity diversification as it relates to application development\nThe serfdom of the attention economy\nBitcoin on telephone poles\nFriction in fundraising rails\nThe magic of technology\n\nKenny Rowe has been a part of the Maker DAO team since shortly after its inception. Initially a community organizer, Kenny has become more involved in the governance of Maker. This is the second time he has appeared on TER, the first being in early 2016. If you would like to learn more about Maker check out this episode. The Steemit article “Help Emma fight cystic fibrosis” can be found here.\nKenny’s good will and spirit of experimentation is infectious, and this is a particularly meandering and enjoyable conversation.\n \n Content: Kenny Rowe, Arthur Falls\n\netherreview.info",
+            "length": "41902970",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/309030249-arthurfalls-the-ether-review-56-serfs-in-the-attention-economy.mp3"
+        },
+        {
+            "title": "The Ether Review #55 — DAOs with Wings",
+            "datePublished": "Fri, 10 Feb 2017 00:00:00 +0000",
+            "description": "In Brief: Stas Oskin, Wings founder, explains how DAOs can be packaged for use by startups outside the blockchain space.\r\n\r\nLearning from others mistakes, the team at Wings are building a platform with the ability to vet, fund and launch DAOs based on input from its community. The idea of decentralized due diligence is powerful and if the mechanisms perform as expected, we may see a more refined crop or projects emerging as a result. \r\n\r\nEspecially interesting is Wings’ aspiration to use the ambitious RSK platform. While the project was delayed considerably, RSK intends to use Bitcoin’s blockchain and mining network combined with a group of trusted parties to secure sidechains. In particular, a sidechain operating the Ethereum Virtual Machine. Hopefully this will happen with the RSK launch this summer/fall, in the mean time, pressure from groups waiting to use the platform have resulted in an early launch on the Ethereum network.\r\n\r\nContent: Stas Oskin, Arthur Falls\r\n\r\netherreview.info",
+            "length": "20718281",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/307011197-arthurfalls-the-ether-review-55-daos-with.mp3"
+        },
+        {
+            "title": "The Ether Review #54 — Demian Brenner of Open Zeppelin",
+            "datePublished": "Fri, 03 Feb 2017 00:00:00 +0000",
+            "description": "In Brief: If there is one thing we learned in 2016 it’s that building a secure, stable, decentralized application is difficult. One of the responses to the problem has been the Open Zeppelin smart contract framework.\r\n\r\nOpen Zeppelin is really a community of developers 300 strong. Collectively they have built the framework over time in a similar fashion to Truffle or Dapple. In addition to maintaining the Open Zeppelin framework, the community audits smart contract deployments like the Golem, First Blood, and Wings token launches.\r\n\r\nContent: Demian Brenner, Arthur Falls\r\n\r\netherreview.info",
+            "length": "18653707",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/305860777-arthurfalls-the-ether-review-54-demian.mp3"
+        },
+        {
+            "title": "The Ether Review #53 - Dan Boneh, Master Cryptographer",
+            "datePublished": "Fri, 13 Jan 2017 00:00:00 +0000",
+            "description": "In Brief: From better signature schemes for blockchains, to quantum preparedness, to novel cryptography like zero knowledge proofs and threshold signatures, Dan Boneh takes us on a tour of cryptography in our age.\r\n\r\nProfessor of Computer Science at Stanford University, Dan Boneh, has been working in the field of cryptography for over 25 years. During which time he has co-developed a signature scheme known as BLS Signatures. This was an opportunity to have some real questions answered, or more accurately, anticipated, by a master of the field.\r\n* Signature aggregation: http://crypto.stanford.edu/~dabo/pubs/abstracts/aggsurvey.html\r\n* Verifying Bitcoin exchange solvency: http://crypto.stanford.edu/~dabo/pubs/abstracts/provisions.html\r\n* Non-crypto applications of quantum computing: https://research.google.com/pubs/QuantumAI.html\r\nPost-quantum cryptography: https://www.amazon.com/Post-Quantum-Cryptography-Daniel-J-Bernstein/dp/3540887016/\r\n\r\nContent: Dan Boneh, Arthur Falls\r\n\r\nhttps://medium.com/the-ether-review\r\nSubscribe on iTunes",
+            "length": "61866329",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/302473527-arthurfalls-the-ether-review-53-dan-boneh.mp3"
+        },
+        {
+            "title": "The Ether Review #52 — Arcade City is Back on the Road",
+            "datePublished": "Sun, 08 Jan 2017 00:00:00 +0000",
+            "description": "In Brief: In spite of the tumultuous public life of it’s founder, the sharing economy project is evolving and moving forward rapidly. We’ve just seen the end of a successful token launch and an all star advisory board informing new leadership fronting a strong dev team. Arcade City is back on the road.\r\n\r\nThree members of the post-Chris David team: Bernd Lapp, Michael Thuy, and Stephan Ponnet discuss the status and future roadmap of Arcade City. What was once thought of only as a ride sharing App has been reimagined as a network of services modeled after games, all using the ARC token. \r\n\r\nContent: Bernd Lapp, Michael Thuy, Stephan Ponnet, Arthur Falls\r\n\r\nSubscribe on iTunes: http://itunes.apple.com/us/podcast/the-e%E2%80%A6id899090462?mt=2",
+            "length": "33753199",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/301459247-arthurfalls-the-ether-review-52-arcade.mp3"
+        },
+        {
+            "title": "The Ether Review #51 — Hack Ether Camp: There Can be Only One",
+            "datePublished": "Tue, 20 Dec 2016 00:00:00 +0000",
+            "description": "In Brief: Round 2 of the biggest hackathon in blockchain is nearing it's apex. On the 22nd of December a winner will be announced. Today the man behind the hack.ether.camp virtual accelerator, Roman Mandeleil looks back over the last two months of competition and explains how the platform operates. Then we hear from some of the leading contestants:\r\n\r\nOnce artchain has been established, the art market can be securitized, which has heretofore been an impossibility. This is the Blockchain Revolution. Together, with the new consensus artchain can provide, we can build a coalition of art industry professionals and participants facing the future of mutual self-regulation of transactions and provenance.\r\n\r\nThe art industry is rife with undetected fraud. Currently, the art market suffers from incompleteness of information due a lack of trust among its participants. \r\nEstablishing the authenticity of art assets is expensive and often disputed which leads to artificially raised costs of conveyancing in an attempt to protect ‒ imperfectly ‒ against fraud. \r\n\r\nProject Oaken - Smart Cities/IIot Gateway Prototype by Ethembedded.com\r\nOaken is a secure, autonomous, machine to machine platform built to provide the underlying infrastructure(hardware & software) needed to power smart cities. This infrastructure is made up of a suite of projects, individually called ACORNS. \r\n\r\nThe Decentralized Court\r\nThe decentralized court would act as an opt-in legal crypto-institution.\r\nParties would select the court to arbitrate their contracts in case of disputes.\r\nDispute will be first handled by arbitrators, but parties will have the possibility to appeal to a jury system. Both arbitrators and jury members will have game theoretical incentive to arbitrate disputes in an honest manner.\r\n\r\nContent: Roman Mandeleil, Worthy Contestants, Arthur Falls\r\n\r\nhttps://hack.ether.camp/scoreboard\r\n\r\niTunes:\r\nhttps://exit.sc/?url=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2Fthe-ether-review%2Fid899090462%3Fmt%3D2",
+            "length": "47498415",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/298794985-arthurfalls-the-ether-review-51-ether-camp.mp3"
+        },
+        {
+            "title": "The Ether Review #50 - Tezos, Forkless Protocol Upgrades",
+            "datePublished": "Sat, 10 Dec 2016 00:00:00 +0000",
+            "description": "In Brief: Tezos is a blockchain based smart contract platform that incorporates protocol level governance, modular design, and a functional scripting language. Pretty much the shopping list of features the Ethereum community is looking for.\n\nYes, Yes, I know this is supposed to be a show about Ethereum, but examining emerging platforms is the best way to understand what the people with the deepest understanding would like to see changed in the protocol. \n\nTezos is modular, designed to enable drop in replacement of most components without hard fork, it has a built in governance mechanism, and it uses a functional scripting language. These three elements are emerging as the most desirable traits missing from the Ethereum protocol. With EIP#86/EIP#96 Ethereum will move closer to what Tezos aspires to be. For now though these younger, more nimble upstarts can help show is what is possible with blockchain based smart contract platforms.\n\nContent: Kathleen Breitman, Arthur Falls\n\nhttps://twitter.com/breitwoman\nhttps://tezos.com/\nhttps://medium.com/the-ether-review\nhttps://itunes.apple.com/us/podcast/the-ether-review/id899090462?mt=2",
+            "length": "16342624",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/297292153-arthurfalls-the-ether-review-50-tezos.mp3"
+        },
+        {
+            "title": "The Ether Review #49 - Digital Markets and Steemfest",
+            "datePublished": "Thu, 01 Dec 2016 00:00:00 +0000",
+            "description": "In today's episode we compare two books by William Mougayar: Opening Digital Markets (1997), and The Business Blockchain(2016). We also discuss the Steemfest conference which took place in Amsterdam last month.\r\n\r\nWilliam Mougayar is an entrepreneur, venture advisor and angel investor, who previously held senior positions at Hewlett-Packard and Cognizant. He is the founder of Startup Management (http://startupmanagement.org/) where he blogs and curates on start-ups and the cryptocurrency economy. \r\n\r\nhttp://steemfest.com/\r\nhttps://www.amazon.com/Opening-Digital-Markets-Strategies-CommerceNet/dp/0070435421/\r\nhttps://www.amazon.com/Business-Blockchain-Practice-Application-Technology/dp/1119300312/\r\nhttps://twitter.com/wmougayar\r\n\r\nContent: William Mougayar, Arthur Falls\r\n\r\nSubscribe on \r\n\r\niTunes (https://exit.sc/?url=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2Fthe-ether-review%2Fid899090462%3Fmt%3D2) & Soundcloud (https://soundcloud.com/arthurfalls)",
+            "length": "26769647",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/295748444-arthurfalls-the-ether-review-49-digital.mp3"
+        },
+        {
+            "title": "The Ether Review <5:00 - Polkadot & Melonport",
+            "datePublished": "Thu, 24 Nov 2016 00:00:00 +0000",
+            "description": "In Brief: Melon is a protocol and asset management software suite  for setting up and managing portfolios containing cryptocurrencies. It achieves this through the use of the Polkadot blockchain network.\r\n\r\nRaison D’etre:\r\n\r\nPolkadot, designed by Gavin Wood, is like an internet of blockchains. It is the communication protocol that Melon needed to manage digital assets across multiple blockchains. \r\nRight now there is no safe way to give the ability to secure and manage digital assets to another entity. Evidenced by the ongoing occurrence of hacks on digital asset exchanges - $70M in the Bitfinex hack alone. There is also no sure way to determine the performance of portfolio managers in the digital asset space. Melon solves these problems:\r\nby allowing portfolio owners to maintain control of the digital assets contained therein, while allowing a manager to adjust the exposure to each asset.\r\nBy tracking the performance of individual asset managers using the provability, provable history of the Polkadot protocol.\r\n\r\nWhat factors have converged to create a need for Melon?\r\nThere is already a wealth of valuable digital assets emerging as a result of the development of blockchain. The digitization of securities like Overstock equity represent yet another new class of digital asset. To fully take advantage of the correlation properties, fluidity, programmability, and low counterparty and custodian risk these assets have to offer, infrastructure is needed to allow traditional financial roles to exist in the digital world.\r\n\r\nContent: Mona Elisa, Reto Trinkler, Arthur Falls\r\n\r\nhttp://www.melonport.com/\r\nhttp://polkadot.network/\r\nhttps://twitter.com/perham83\r\nhttps://twitter.com/reto_trinkler\r\n\r\nSubscribe on iTunes:\r\nhttps://exit.sc/?url=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2Fthe-ether-review%2Fid899090462%3Fmt%3D2",
+            "length": "4893565",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/294631345-arthurfalls-the-ether-review-5-00-polkadot.mp3"
+        },
+        {
+            "title": "The Ether Review #48 - Tracking A Hacker",
+            "datePublished": "Wed, 16 Nov 2016 17:01:22 +0000",
+            "description": "In Brief: The DAO hacker and Geth attacker have left a trail of evidence that can provide high quality identifying information about their persons.\n\nBok Khoo is an actuary in the finance industry and software enthusiast. Recently Bok has turned his interest toward blockchain forensics. In particular tracing malicious actors on the Ethereum network.\n\nhttps://www.bokconsulting.com.au/blog/100-tricky-stick-puzzles-disrupt-the-ethereum-devcon2-conference-in-shanghai/\nhttps://www.bokconsulting.com.au/blog/the-ongoing-ethereum-attacks/\nhttps://www.reddit.com/r/ethereum/comments/58hhry/the_ongoing_ethereum_attacks_work_in_progress/\nhttps://www.bokconsulting.com.au/blog/the-dao-hackers-booty-is-on-the-move/\n\nContent: Bok Khoo, Arthur Falls",
+            "length": "31440775",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/293324428-arthurfalls-the-ether-review-48-tracking-a-hacker.mp3"
+        },
+        {
+            "title": "The Ether Review #47 - Epic Infrastructure in China",
+            "datePublished": "Mon, 07 Nov 2016 18:59:07 +0000",
+            "description": "**In Brief:**\nChinese multinational, Wanxiang Group, has purchased over 700 hectares of land on which to build a smart city where it plans to experiment with blockchain based systems. \n\nWanxiang Group is a  Chinese multinational focused primarily on automotive parts manufacturing. Recently Wanxiang has been moving into finance and agriculture. Now, with the establishment of the Wanxiang Blockchain Labs research organization and Fenbushi Capital investment fund, Wanxiang is making big moves into the blockchain space. To add to the intrigue, the group recently purchased 770 hectares of land in the Chinese province of Hangzhou where it plans to build a “smart city”. The goal is to house it's many employees in a setting that makes use of it's technological portfolio.\n\nAndy Dan, Project Manager of Wanxiang Blockchain Labs joins to discuss what is quickly becoming the most epic of blockchain stories. \n\nhttp://www.blockchainlabs.org/\nhttp://fenbushi.vc/\n\n\nContent: Andy Dan, Arthur Falls",
+            "length": "24917816",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/291950333-arthurfalls-the-ether-review-47-epic-infrastructure-in-china.mp3"
+        },
+        {
+            "title": "The Ether Review #46 - Curtis Yarvin & Galen Wolfe-Pauly on Urbit",
+            "datePublished": "Mon, 24 Oct 2016 20:30:49 +0000",
+            "description": "Sometimes the urge to layer in-jokes into a podcast title is impossible to resist. . . and then 24hrs later you change it. \n\nThe effort to understand the significance of type based and functional programming languages led me to the Urbit project. This attempt to re-design the internet is one of a number of technologies that have evolved alongside blockchain and address some of the same problems. The Urbit developer's focus on mechanical perfection is a sensibility worth observing.\n\nThe first title was in reference to Mike Goldin's tweet about deterministic finite automata:\nhttps://twitter.com/voidsnax/status/712044031090540545\n\nThis from the Urbit website:\n\"We believe controlling your own data, code and identity is the definition of digital freedom. We believe everyone needs digital freedom, not just a few hackers. We believe the only tool needed to solve this problem is a general-purpose server made for human beings.\nYour urbit is your cryptographic identity, personal archive, application platform, and device hub. It's as easy to manage as an iPhone.\"\n\nContent: Galen Wolfe-Pauly, Curtis Yarvin, Arthur Falls\n\nSubscribe on iTunes:  https://itunes.apple.com/us/podcast/the-ether-review/id899090462?mt=2",
+            "length": "56045294",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/289783332-arthurfalls-the-ether-review-46-smoking-dmt-with-mencius-moldbug.mp3"
+        },
+        {
+            "title": "The Ether Review #45 - Australia - Agricultural Finance, Financial Assets, & Antipiracy",
+            "datePublished": "Mon, 17 Oct 2016 23:05:20 +0000",
+            "description": "In many ways still a frontier nation, Australia's style of innovation is practical and direct. Three of the startups covered in todays interviews come from industries outside of tech, each looking to blockchain to solve a problem unique to their industries. Finhaus Labs, a research and consulting team offers supporting services and friendly advice to these, and the rest of the local blockchain business community.\n\nInterviews:\nNick Addison, Finhaus Labs\nConnor Svendsen, independent\n\nEmma Weston, Full Profile. Full Profile is a first purchase agricultural finance provider using a blockchain rail to minimize first payment counterparty risk for producers.\n\nTim Lea, Veridictum. Veridictum is a video piracy prevention tool focussed on the theft of content on social media. Tim Lea is the author of Down the Rabbit Hole: Discover the Power of the Blockchain\n\nJohn Pellew, Othera. The team at Othera aim to enable the sale of credit backed tokens on the Ethereum public blockchain and provide tools for tracking the provenance and measuring the yield and risk profile of each asset.\n\nContent: Nick Addison, Connor Svendson, Emma Weston, Tim Lea, John Pellew\n\nAdditional music provided by Dreamers Delight\n\nhttps://twitter.com/naddison\nhttps://twitter.com/emmamweston\nhttps://twitter.com/timothylea2\nhttp://downtherabbithole.news/\nhttp://othera.com.au/\nhttp://finhaus.com.au/\nhttp://www.fullprofile.com.au/\nhttp://www.veredcitum.io/",
+            "length": "134474175",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/288740360-arthurfalls-the-ether-review-45-practical-applications-in-australia-agricultural-finance-financial-assets-anti-piracy.mp3"
+        },
+        {
+            "title": "The Ether Review #43 - BHP, Tracking the Most Valuable Rock on Earth",
+            "datePublished": "Wed, 28 Sep 2016 00:00:00 +0000",
+            "description": "Core samples from oil wells can be worth more than gold. BHP Billiton, one of the largest mining companies in the world, is piloting a program to track their custodianship and provenance using IPFS and Ethereum.\n\nNot only is this an interesting use case, but it is also the first time we have seen a production deployment of both IPFS and Ethereum.\n\nIf you would like to contact Tyler, please email me at the address mentioned in the podcast.\n\nhttps://twitter.com/FreeMyVunk\nhttps://twitter.com/arthurfalls\n\nContent: Arthur Falls, R. Tyler Smith PHD\n\nSubscribe on iTunes: \nhttps://itunes.apple.com/nl/podcast/the-ether-review/id899090462?mt=2",
+            "length": "37517243",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/285242848-arthurfalls-the-ether-review-43-bhp.mp3"
+        },
+        {
+            "title": "The Ether Review #42 - Dominic Williams, Dfinity and Infinite Scaling",
+            "datePublished": "Wed, 14 Sep 2016 00:00:00 +0000",
+            "description": "\tDominic Williams is a cryptographic researcher focussed on scaling and the representation of real world assets in digital form. Dfinity, Dominic’s infinitely scalable virtual machine, is simple, and extremely powerful.\r\n\r\nThis is the third time I’ve interviewed Dominic. The first was for the final episode of Beyond Bitcoin. Dominic enters at the 1hr 32min mark to explain Practical Byzantine Fault Tolerance. The second was in February 2016 on The Ether Review to discuss his work on synthetic digital assets. Today, we hear about the aforementioned Dfinity. \r\n\r\nhttp://dfinity.network/\r\n\r\nhttps://soundcloud.com/arthurfalls/beyond-bitcoin-27th-and-final-an-architecture-for-the-internet-of-money\r\n\r\nhttps://www.etherreview.info/2016/02/16/ether-review-16-dominic-williams-synthetic-assets/\r\n\r\nhttps://twitter.com/dominic_w\r\n\r\nhttps://twitter.com/arthurfalls\r\n\r\nContent: Dominic Williams,  Arthur Falls\r\n\r\nSubscribe on iTunes: https://exit.sc/?url=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2Fthe-ether-review%2Fid899090462%3Fmt%3D2\r\n",
+            "length": "59441059",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/283054245-arthurfalls-the-ether-review-42-dominic.mp3"
+        },
+        {
+            "title": "The Ether Review #41 - Martin Lundfall, Rage Against the Machine",
+            "datePublished": "Wed, 07 Sep 2016 00:00:00 +0000",
+            "description": "What is the Ethereum Virtual Machine, what design trends and decisions influence its operation and what does that mean for Ethereum the platform?\n\nToday we dive deep. There is a debate around whether the flexibility of the imperative paradigm of programming language design or the verifiability of the functional paradigm are more appropriate for the Ethereum Virtual Machine. Martin is in the functional camp which he believes can make Ethereum a more robust and powerful platform. The EVM itself is often overlooked as a black box, but is one of a tripartite of technologies including the consensus mechanism and the distributed ledger, whose design is interdependent. Exploring the relationship between these components is an interesting way to gain a deeper understanding of everyone's favourite world computer.\n\t\nContent: Martin Lundfall, Arthur Falls\n\nSubscribe on iTunes:\nhttps://itunes.apple.com/us/podcast/the-ether-review/id899090462?mt=2",
+            "length": "32056161",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/282022517-arthurfalls-the-ether-review-41-martin.mp3"
+        },
+        {
+            "title": "The Ether Review #40 - Perianne, Don & Alex discuss The Muskoka Group",
+            "datePublished": "Thu, 01 Sep 2016 00:00:00 +0000",
+            "description": "\tBetween August 24th-26th, a group of leaders in blockchain thought, business, and advocacy met at the Tapscott’s lodge in Muskoka, Canada. The goal of the meeting was to discuss strategies of stewardship and governance of the blockchain space. Currently, the Chamber of Digital Commerce is the most prominent advocacy group. Founder & President, Perianne Boring joined Don and Alex Tapscott, on the eve of the event to discuss their goals.\n\nhttp://www.muskokagroup.org/\nhttps://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business\nhttp://blockchain-revolution.com/\nhttp://www.digitalchamber.org/\n\nContent: Don Tapscott, Perianne Boring, Alex Tapscott, Arthur Falls\n\nBe sure to subscribe on iTunes: exit.sc/?url=https%3A%2F%2Fit…Fid899090462%3Fmt%3D2",
+            "length": "32116104",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/281111213-arthurfalls-the-ether-review-40-perianne.mp3"
+        },
+        {
+            "title": "The Ether Review #39 - Zooko Wilcox, Zcash and Cryptography in the 1990s",
+            "datePublished": "Mon, 29 Aug 2016 00:00:00 +0000",
+            "description": "In Brief\nZooko Wilcox has more than 20 years of experience in open, decentralized systems, cryptography and information security, and startups. He is recognized for his work on DigiCash, Mojo Nation, ZRTP, “Zooko's Triangle”, Tahoe-LAFS, BLAKE2, and SPHINCS. He is also the Founder and CEO of Least Authority. He sometimes blogs about health science. . \n\nIn recent years, progress in the area of zero knowledge proofs has made it possible to construct a blockchain whose miners can verify transactions, or state changes, without seeing the information contained in those transactions. Many of the individuals developing these tools have joined Zooko to form the Zcash company. Zcash aims to be a truly anonymous cryptocurrency, but more than just a currency, it is the first step toward managing privacy on public blockchains. Recently, at the Cornell University blockchain hackathon, Zcash team members participated in a successful effort to include an implementation of zero knowledge proofs known as ZKsnarks into an ethereum client running on a test net a monumental achievement in blockchain anonymity. In addition to this, the Zcash team are using the BTCRelay codebase to construct ZRelay, a bridge between the Zcash, Ethereum and Bitcoin blockchains.\n\nThe final third of this episode is a casual discussion of the culture of the field of cryptography roughly between 1990 and 2000.\n\nhttps://z.cash\n\nChain analysis tools:\nBlockchain.info\nOTX.me\nlive.ether.camp\n\nChain analysis services:\nElliptic: https://www.elliptic.co/\nChain Analysis: https://www.chainalysis.com/\n\nA very limited article on the history of cryptography but a conclusion worth skipping to:\nhttp://www.inquiriesjournal.com/articles/41/a-brief-history-of-cryptography\n\nThe Cypherpunk FAQ:\nhttps://www.cypherpunks.to/faq/cyphernomicron/cyphernomicon.txt\n\nWikipedia links:\nPhil Zimmerman: https://en.wikipedia.org/wiki/Phil_Zimmermann\nDavid Chaum:https://en.wikipedia.org/wiki/David_Chaum\nHistory of cryptography: https://en.wikipedia.org/wiki/History_of_cryptography#World_War_II_cryptography\n\nGreat Forbes article on the dismay some mathematicians feel at the dominance of the NSA in their field of employment: http://www.forbes.com/sites/kashmirhill/2014/06/05/mathematicians-urge-colleagues-to-refuse-to-work-for-the-nsa/#2f02244c6c2e\n\n\nContent: Zooko Wilcox, Arthur Falls\n\nBe sure to subscribe on iTunes: https://exit.sc/?url=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2Fthe-ether-review%2Fid899090462%3Fmt%3D2",
+            "length": "36384966",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/280579916-arthurfalls-the-ether-review-39-zooko.mp3"
+        },
+        {
+            "title": "The Ether Review #38 - Pelle Braendgaard, Prehistory",
+            "datePublished": "Fri, 12 Aug 2016 00:00:00 +0000",
+            "description": "In Brief\nBlockchain is a recent innovation, cryptocurrency is not. From the mid 80s to the end of the Dot Com Boom in the late 90s, cryptographers and developers tackled many of the problems we are encountering today in this new era of digital currency.\n\nPelle Braendgaard is a veteran search engine webmaster (AltaVista) and participant in the cryptocurrency space of the early nineties. Back then, the Crypto Finance Conference, held in Aguila was the epicenter of the community. A tremendous amount of progress was made but the Dot Com crash and terror attacks of 9/11 caused a halt to almost all progress. It was not until the emergence of Bitcoin that the wheels again began to turn.\n\nPelle takes us on a tour of forgotten knowledge and reaffirms some basic principles which the Ethereum community has lost sight of:\n\nWhat is a contract really? \n“It’s something that came out of - you could call it an open source community of business people over  thousands of years . . . It’s not a piece of paper, it’s not a piece of code, but it’s actually a relationship with multiple parties where each party has some kind of duty, some kind of obligation and then some kind of right in exchange. That’s what a contract is . . . it’s more an ephemeral concept” \n\nBlog.stakeventures.com\netherreview.info\n\nContent: Pelle Braendgaard, Arthur Falls\n\nBe sure to follow the show on iTunes & Soundcloud\n\nhttps://itunes.apple.com/us/podcast/the-ether-review/id899090462?mt=2\nhttps://soundcloud.com/arthurfalls",
+            "length": "27392174",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/278419984-arthurfalls-the-ether-review-38-pelle.mp3"
+        },
+        {
+            "title": "The Ether Review #37 - Jaan Tallinn, Threats to Human Life on Earth",
+            "datePublished": "Wed, 03 Aug 2016 00:00:00 +0000",
+            "description": "Jaan Talinn is the founder of Skype and Kazaa and long time angel investor. More recently, Jaan has concerned himself with preventing the destruction of humanity. Strong Artificial intelligence is the least understood of threats and this is Jaan's chief concern.\n\nslatestarcodex.com/2014/07/30/meditations-on-moloch\nslatestarcodex.com/2016/05/30/ascended-economy\n\ncser.org\nfutureoflife.org\netherreview.info\n\nContent: Jaan Tallinn, Siri, Arthur Falls",
+            "length": "36087514",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/276888610-arthurfalls-the-ether-review-37-jaan.mp3"
+        },
+        {
+            "title": "The Ether Review #36 - Emin Gün Sirer, Wrapping it all up",
+            "datePublished": "Sun, 24 Jul 2016 00:00:00 +0000",
+            "description": "Crypto guru Emin Gün Sirer wraps up the DAO hack and hard fork. While the entire episode is over for the main Ethereum chain, some questions remain unanswered. After speaking with Emin, the intrigue seems to have only deepened. \n\nNote: River Keefer is in fact in his final year \n\nhackingdistributed.com\ninitc3.org\ntwitter.com/el33th4xor\ntwitter.com/arthurfalls\netherreview.info\n\nContent: Emin Gün Sirer, Arthur Falls",
+            "length": "42200798",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/275348849-arthurfalls-the-ether-review-36-emin-guen.mp3"
+        },
+        {
+            "title": "The Ether Review #35 - Coinfund & Synereo",
+            "datePublished": "Mon, 18 Jul 2016 20:56:39 +0000",
+            "description": "Lucius Gregory Meredith, chief technology officer at Synereo is a mathematician and cryptocurrency expert. The Synereo platform began as a decentralized social network but out of a need for smart contracts, high scalability, and concurrent transactions, the project has become something much more than a replacement for facebook. Greg’s work is fascinating and novel, and frankly I don’t do it justice in this interview. Interested listeners should follow up on the provided links. What lead me to Synereo however was not the tech, but the idea that conversations about the direction of development could be conducted by users, on the platform in question itself. This would filter the noise of open forums like Reddit and Twitter, where uninvolved parties have equal voice. \n\nAfter we’ve heard from Greg, Jake Brukhman of CoinFund discusses investment in the cryptocurrency space. The CoinFund blog is one of the most insightful and impartial out there, driven by the research their team conducts. We occasionally syndicate CoinFund content on ConsenSys Media  - it’s definitely worth a read. \n\nsynereo.com\nCoinfund.io\n\nContent: Lucius Gregory Meredith, Jake Brukhman, Arthur Falls\n\nAdditional music for today’s episode was provided by Dreamers Delight",
+            "length": "72017083",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/274283103-arthurfalls-ter-35-coinfund-synereo.mp3"
+        },
+        {
+            "title": "The Ether Review #34 - Vinay Gupta on Rethinking Blockchain Use Cases",
+            "datePublished": "Thu, 07 Jul 2016 00:00:00 +0000",
+            "description": "The threat of Ethereum regulation as a result of the DAO fiasco raises the question: At its core, is blockchain a financial technology? \r\nThe Crypto project is viewed by many to be an effort to safeguard mankind's future. \r\nVinay Gupta says it’s time to realign the crypto project with human survival rather than human greed.\r\n\r\nTopics Covered:\r\n\r\nWill Ethereum become regulated and merge with Fintech? Is this a bad thing?\r\n\r\nIn the event of a global financial collapse, have we built an infrastructure which will benefit the many, or enable the few to hide their wealth?\r\n\r\nIs the anarcho-capitalist/crypto-anarchist dream fading in favor of more pragmatic views?\r\n\r\nRather than finance, should we focus on problems like climate change and global popular representation?\r\n\r\nAnd what about provably fair online dating?\r\n\r\nhttps://twitter.com/leashless\r\nhttps://twitter.com/arthurfalls\r\n\r\nContent: Vinay Gupta, Arthur Falls",
+            "length": "56575613",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/272783970-arthurfalls-the-ether-review-34-vinay.mp3"
+        },
+        {
+            "title": "The Ether Review # 33 - Blockchain on Wall St & CPU Cycles for Rent",
+            "datePublished": "Fri, 01 Jul 2016 00:00:00 +0000",
+            "description": "Julian Zawistowski, of Project Golem explains the distributed computing platform he and his team at Imapp are producing. The first alpha, Brass Golem will be released in weeks. The Imapp organisation itself is an interesting organization worth having a look at.\r\nBefore we get to Golem however, Wall Street veteran Caitlin Long explains what blockchain can offer to financial institutions, regulators, and the Wall St as a whole. \r\n\r\nhttps://caitlin-long.com/\r\nhttp://golemproject.net/\r\nhttp://imapp.pl/en/index\r\nhttps://twitter.com/caitlinflong\r\nhttps://twitter.com/julianofimapp\r\nhttps://twitter.com/arthurfalls\r\n\r\n\r\n\r\nContent: Caitlin Long, Julian Zawistowski, Arthur Falls",
+            "length": "46079694",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/271725350-arthurfalls-the-ether-review-33-blockchain.mp3"
+        },
+        {
+            "title": "The Ether Review #32 - Peter Van Valkenburgh, The DAO & Regulation",
+            "datePublished": "Wed, 22 Jun 2016 00:00:00 +0000",
+            "description": "Peter Van Valkenburgh, Director of Research at Coin Center explains the regulatory considerations that may bear on DAO tokens. This episode was recorded before the hack but is still an excellent guide for those interested in understanding the importance of due legal diligence in advance of a crowd sale.\n\nhttps://coincenter.org/\netherreview.info\n\nThank you to cryptocompare.com\n\nContent: Arthur Falls, Peter Van Valkenburgh",
+            "length": "39624828",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/270833193-arthurfalls-the-ether-review-32-peter-van.mp3"
+        },
+        {
+            "title": "The Ether Review #31 - Aftermath, Discussing the DAO Hack",
+            "datePublished": "Mon, 20 Jun 2016 00:00:00 +0000",
+            "description": "\tSo the DAO was hacked. Karl Floersch and myself discuss the state of play. What happened? Was it the fault of the DAO developers or a bug in the Solidity language? What does this mean for the ecosystem? How should we respond as a community? \r\n\r\nWhat is certain is that this event will drive the maturity of Ethereum forward.\r\n\r\nHackingdistributed.com\r\nblog.ethereum.org/\r\nUnderstanding The DAO Hack for Journalists - https://goo.gl/JIFgNJ\r\nKarl.tech\r\n\r\nCredits:\r\n\r\nContent: Karl Floersch, Arthur Falls",
+            "length": "37215527",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/270040528-arthurfalls-the-ether-review-31-aftermath.mp3"
+        },
+        {
+            "title": "The Ether Review #30 - Vinay Gupta - All Roads lead to the Singularity",
+            "datePublished": "Sun, 12 Jun 2016 21:04:32 +0000",
+            "description": "This episode features a somewhat undirected discussion with critical thinker Vinay Gupta. Starting with the technological components of Bitcoin and Ethereum, we find that all roads lead to the singularity.\n\nThank you to cryptocompare.com for the support\n\netherreview.info\nhttp://t.co/xrESgq7lBz (Vinay's site)\nhttps://twitter.com/leashless\nhttps://twitter.com/arthurfalls\n\nContent: Vinay Gupta, Arthur Falls\nEditing: Connor O'Day",
+            "length": "67571231",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/268780956-arthurfalls-the-ether-review-30-vinay-gupta-all-roads-lead-to-the-singularity.mp3"
+        },
+        {
+            "title": "The Ether Review #29 - Gavin and Ken of Ethcore, Parity and Web 3",
+            "datePublished": "Thu, 02 Jun 2016 00:00:00 +0000",
+            "description": "Today we have Ethereum founder and Ethcore CEO, Gavin Wood and head of business development at Ethcore, Ken Kappler. We take a look at their Parity client and the Web 3 concept. We look at the future of Bitcoin - Ethereum interoperation, Geth security flaws, Whisper, Swarm, the DAO and even the possibility of sidechains on Ethereum. There was additional content cut into this episode so it’s a bit choppy but altogether this episode offers a fresh glimpse into the ever changing future of Ethereum. Before we dive in though, this episode’s sponsor, the enterprise blockchain solution provider Blockapps, has a request for the community.\n\nethcore.io\nblockapps.net\n\nhttps://twitter.com/gavofyork\nhttps://twitter.com/KapplerKen",
+            "length": "35544997",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/267366859-arthurfalls-the-ether-review-29-gavin-and.mp3"
+        },
+        {
+            "title": "The Ether Review #28 - Dapp Structure and the New Decentralized Exchange, Bitsquare",
+            "datePublished": "Mon, 23 May 2016 18:11:26 +0000",
+            "description": "This episode features two interviews. First, Karl Floersch discusses the underlying structures which shape distributed applications. Karl’s ability to explain the deeper mechanics of software running in the Ethereum environment is unique and discussions with him are always fun, insightful, and visionary.\n\nThen we have Manfred Karrer, the creator of Bitsquare. For the uninitiated, Bitsquare is a decentralized fiat to crypto exchange. While it is completely self contained and doesn’t use Ethereum in any way. It’s a standalone DApp and that’s pretty cool. On top of that that we have a comprehensive, decentralized version of local bitcoins now which is extremely newsworthy. Bitsquare is especially interesting because by looking at the challenges Manfred faced throughout its development we can gain an understanding of the need for a unified DApp platform.\n\nBitsquare.io\n\nKarl.tech\n\nhttps://twitter.com/ArthurFalls",
+            "length": "45090856",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/265536316-arthurfalls-the-ether-review-28-dapp.mp3"
+        },
+        {
+            "title": "The Ether Review #27 - Blockchain Revolution",
+            "datePublished": "Fri, 13 May 2016 18:28:21 +0000",
+            "description": "Blockchain Revolution, the acclaimed book by Alex and Don Tapscott has been stirring interest in elite tech circles in advance of it's launch. Steve Wozniac called it \"Mindblowing in its expansiveness and profundity.\"\n\nAlex Tapscott joins to discus the work.\n\nContent: Alex Tapscott, Arthur Falls\n\nhttps://twitter.com/alextapscott\nhttps://twitter.com/arthurfalls\nhttp://goo.gl/lrll0H",
+            "length": "27677210",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/263980941-arthurfalls-the-ether-review-27-blockchain.mp3"
+        },
+        {
+            "title": "The Ether Review #26 - The DAO is Here!",
+            "datePublished": "Fri, 06 May 2016 00:00:00 +0000",
+            "description": "In the few days between this episodes interview and the recording of this introduction, the DAO has raised over ten million dollars, bringing its total cash reserves to twenty three million. Such investor enthusiasm is unprecedented in the cryptocurrency world. But is such enthusiasm justified? What is the DAO anyway? Where does Slockit fit into the picture? Will the investor control of the DAO result in overly optimistic capital management? Do these investors realize the highly speculative nature, and general poor performance of venture capital investment? Stephan Tual fields these questions and more. Please guys, this is not investment advice.\n\nhttps://daohub.org/\nhttps://twitter.com/slockitproject\nhttps://twitter.com/stephantual\nhttps://twitter.com/arthurfalls?lang=en\n\nContent: Stephen Tual, Arthur Falls",
+            "length": "30367254",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/262966048-arthurfalls-the-ether-review-26-the-dao-is.mp3"
+        },
+        {
+            "title": "The Ether Review #25 - Bob Summerwill of the C++ Team",
+            "datePublished": "Thu, 28 Apr 2016 00:00:00 +0000",
+            "description": "Bob Summerwill has been developing the C++ Ethereum client since July last year. His background is primarily in game development but he spent a short time in finance as a “Solutions Architect” giving him a unique insight into development and culture across these fields. There are some interesting posts we speak about in this episode on his company website DoubleThink. Today we look primarily at the importance of C++ but I took the chance to ask Bob a few questions that had been accumulating over the last few weeks. \r\n\r\nhttps://bobsummerwill.com/\r\nhttp://www.ethdocs.org/en/latest/ethereum-clients/cpp-ethereum/\r\nhttps://github.com/doublethinkco/cpp-ethereum-cross \r\nhttp://github.com/ethereum/cpp-ethereum \r\n\r\nContent: Bob Summerwill, Arthur Falls\r\nEditing: Richard Toth \r\n\r\nhttps://twitter.com/bobsummerwill\r\nhttps://twitter.com/arthurfalls\r\nhttp://podcast-editing.com",
+            "length": "32883223",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/261510522-arthurfalls-the-ether-review-25-bob.mp3"
+        },
+        {
+            "title": "The Ether Review #24 - Christoph Jentzsch, Slockit and the DAO",
+            "datePublished": "Fri, 22 Apr 2016 00:00:00 +0000",
+            "description": "Christoph Jentzsch is a theoretical physicist and high performance computing expert. The road \r\nto co-founding Slockit lead Christoph through the world of mining to testing the Ethereum codebase to developing the DAO concept to it’s most advanced state. In this episode we cover not only the internet of things but also the challenges of creating a new model for online community entrepreneurship. \r\n\r\nhttps://slock.it/\r\n\r\nContent: Christoph Jentzsch, Arthur Falls\r\nEditing: Richard Toth \r\n\r\nhttps://twitter.com/ChrJentzsch\r\nhttps://twitter.com/arthurfalls\r\nhttp://podcast-editing.com",
+            "length": "34410536",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/260420808-arthurfalls-the-ether-review-24-christoph.mp3"
+        },
+        {
+            "title": "The Ether Review #23 - Aaron Davis, Dan Finlay, MetaMask",
+            "datePublished": "Mon, 18 Apr 2016 00:00:00 +0000",
+            "description": "MetaMask is a Chrome browser extension that will enable trustless interaction with DApps. Developers Aaron Davis and Dan Finlay discuss self sovereign identity, leaving Apple to develop on Ethereum and developing decentralized web services. We also talk about the Web 3 experience.\r\n\r\nhttp://metamask.io\r\n\r\nContent: Aaron Davis, Dan Finlay, Arthur Falls\r\nEditing: Richard Toth http://podcast-editing.com\r\n",
+            "length": "27533472",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/259692111-arthurfalls-the-ether-review-23-aaron.mp3"
+        },
+        {
+            "title": "The Ether Review #22 - John Lilic, The Transactive Grid",
+            "datePublished": "Sat, 09 Apr 2016 13:46:06 +0000",
+            "description": "John Lilic discusses the Transactive Grid project which aims to localize energy production through the creation of micro grids. John’s idea of using a pure incentive system to solve and infrastructure problem is inspired. We also touch on early days of ConsenSys and the Total Return Swap\n\nContent: @johnlilic, @arthurfalls\n\n@etherreview\netherreview.info\n",
+            "length": "26142122",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/258132021-arthurfalls-the-ether-review-22-edited-and-mastered-by-richardtoth.mp3"
+        },
+        {
+            "title": "The Ether Review #21 - Roman Mandeleil, Ethereum Full Transparency",
+            "datePublished": "Thu, 31 Mar 2016 00:00:00 +0000",
+            "description": "Ethereum Full Transparency is a feature that has recently been added to the live.ether.camp blockchain explorer. It now allows the user to explore the operations of a smart contract in both interpreted and raw form. It's the most interesting exposition of the inner workings of Ethereum to date and  definitely something everyone should take a look at.\r\n\r\n@mandeleil\r\n@arthurfalls\r\n\r\nlive.ether.camp\r\nethchamps.org\r\netherreview.org",
+            "length": "18960998",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/256750838-arthurfalls-the-ether-review-21-roman.mp3"
+        },
+        {
+            "title": "The Ether Review #20 - Maker, the Stable Currency Platform",
+            "datePublished": "Mon, 21 Mar 2016 00:00:00 +0000",
+            "description": "The stable token platform Maker is the focus of today’s episode. It’s a mature design that builds on both the academic and technological legacy of Bitshares. It’s live right now and has been for months. This is a great follow on to episode 16 with Dominic Williams. \n\nhttps://makerdao.com/\n\nRune Cristiansen, @arthurfalls\n\netherreview.info\n@etherreview\ncontact@etherreview.info",
+            "length": "43893995",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/254898044-arthurfalls-the-ether-review-20-maker-the.mp3"
+        },
+        {
+            "title": "The Ether Review #19 - Arcade City",
+            "datePublished": "Thu, 17 Mar 2016 00:00:00 +0000",
+            "description": "Christopher David, founder of the transportation network Arcade City came on the show today to discuss the project. Arcade City aims ultimately to be owned by the drivers themselves using a suite of technologies built on our favorite platform. It was interesting to hear the complaints many drivers had about incumbent Uber and how this has turned into grass roots support for Arcade City. It’s also interesting to see a single use case employ so many technologies. It’s a taste of things to come, I’ll let Chris give you the details\r\n\r\nContent: Cristopher David, @arthurfalls\r\n\r\nhttps://arcade.city/\r\n\r\netherreview.info\r\n@etherreview\r\ncontact@etherreview.info",
+            "length": "28517964",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/252616796-arthurfalls-the-ether-review-19-arcade.mp3"
+        },
+        {
+            "title": "The Ether Review #18 - DevUpdate, Digix DAO Crowdsale",
+            "datePublished": "Thu, 10 Mar 2016 00:00:00 +0000",
+            "description": "Taylor Gerring brings us an Ethereum Development update. Then we’re taking another look at Digix, a gold backed token issuance and exchange platform. The platform featured in episode 8 but given their crowdsale begins on the first of next month and their DAO goes live on the first of the following I figured it was worth revisiting. I’m a big fan of what Kai, Anthony and Shaun have done here. It’s no frills recombinant innovation. Robust and uncomplex. For a critical view of their methodology check out episode 16 with Dominic Williams.\r\n\r\nDigix.io \r\nethereum.org \r\n\r\nContent: @taylorgerring, Anthony Eufemio, Shaun Djie, @arthurfalls\r\n\r\nContact:\r\n@etherreview \r\ncontact@etherreview.info",
+            "length": "40362881",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/251360278-arthurfalls-the-ether-review-18-devupdate.mp3"
+        },
+        {
+            "title": "The Ether Review Dev Update 2-19-16",
+            "datePublished": "Wed, 24 Feb 2016 00:00:00 +0000",
+            "description": "This is a special episode of The Ether Review. Today Taylor Gerring, the director of technology at the Ethereum Foundation joins to offer a quick development update and answer a few listener  questions.\r\n\r\nIf you’re interested in finding out more or would like to participate, head over to ethereum.org. Questions should be sent to contact@etherreview.info",
+            "length": "11364750",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/248754521-arthurfalls-the-ether-review-dev-update-2.mp3"
+        },
+        {
+            "title": "The Ether Review #16 - Dominic Williams, Synthetic Assets",
+            "datePublished": "Tue, 16 Feb 2016 00:00:00 +0000",
+            "description": "Today we have one of my favourite thinkers in the cryptocurrency space. Dominic Williams featured briefly in the last episode of Beyond Bitcoin discussing Practical Byzantine Fault Tolerant consensus processes. Today we talk about Synthetic Assets: Colored Coins, Dynamically Collateralized Coins,  Hedged Dao Assets, and Smart Market Instruments. \nThis is really significant stuff and this conversation significantly deepened my understanding of the challenges of creating value pegged tokens. It’s a very technical one and Dominic moves super fast so get ready for some super dense content. \n\n@dominic_w\nhttp://dfinity.io/\nhttp://string.technology/\n\n@arthurfalls\n@etherreview\n\nContent: Dominic Williams, Arthur Falls\nProduction and Editing: Arthur Falls",
+            "length": "58668444",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/247858541-arthurfalls-the-ether-review-16-dominic.mp3"
+        },
+        {
+            "title": "The Ether Review #15 - Thomas Bertani, Oraclize",
+            "datePublished": "Thu, 11 Feb 2016 00:00:00 +0000",
+            "description": "Oraclize is a project developing tools to provide trustable data feeds to smart contacts and prediction markets. Founder Thomas Bertani joins me today to explain oracles, oracle networks, TLS Notary and the emerging decentralised ecosystem.\n\n@ThomasBertani\n@oraclizeit\noraclize.it\nContent: Thomas Bertani, Arthur Falls\nProduction and Editing: Arthur Falls",
+            "length": "32078858",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/246891848-arthurfalls-the-ether-review-15-thomas.mp3"
+        },
+        {
+            "title": "The Ether Review #14 - Juan Benet, IPFS",
+            "datePublished": "Thu, 04 Feb 2016 00:00:00 +0000",
+            "description": "Juan Bennet  is the founder and CEO of Protocol Labs. The chief project under development over there is IPFS or the Interplanetary Storage Network. I keep hearing IPFS mentioned in the same sentence as Ethereum so I thought I’d ask Juan what the deal was.\r\n\r\n[Note: This episode does not contain a magic word.]\r\n\r\nJuan Benet:\r\n@juanbenet\r\nIPFS:\r\nhttps://ipfs.io/\r\nEpicenter Episode:\r\nhttps://epicenterbitcoin.com/podcast/100/\r\nJosh Stern:\r\n@joshuastern\r\nhttp://www.joshstern.info/\r\nContent: Juan Benet, Arthur Falls\r\nProduction and Editing: Arthur Falls\r\n",
+            "length": "29389779",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/245369509-arthurfalls-the-ether-review-14-juan-benet.mp3"
+        },
+        {
+            "title": "The Ether Review #13 - Alex Van de Sande, Wallet, Contracts, Mist",
+            "datePublished": "Fri, 22 Jan 2016 00:00:00 +0000",
+            "description": "Alex Van de Sande  is the lead designer for the Ethereum Foundation and Eth Dev. Originally working on the Mist browser, more recently Alex has been focussed on the developing the Ethereum wallet. The exercise tutorials he published on the official Ethereum Blog were a blast to work through and examining them makes up much of the content of this episode.\r\n\r\n[Note: This episode does not contain a magic word.]\r\n\r\nAdam Van de Sande:\r\n@avsa\r\n\r\nWallet Tutorials\r\nhttps://blog.ethereum.org/author/avsa/\r\n\r\nJosh Stern:\r\n@joshuastern\r\nhttp://www.joshstern.info/\r\n\r\nContent: Alex Van de Sande, Arthur Falls\r\nProduction and Editing: Arthur Falls\r\n",
+            "length": "38953604",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/243300892-arthurfalls-the-ether-review-13-alex-van.mp3"
+        },
+        {
+            "title": "The Ether Review #12 - Stephan Tual, Slock.it",
+            "datePublished": "Sat, 16 Jan 2016 00:00:00 +0000",
+            "description": "Joining me today is Stephen Tual is a one time member of the Ethereum team and one of the founders of Slock.it, a project that aims to be Ethereum’s bridge to the internet of things. Their Devcon 1 presentation was lauded as one of the most stark illustrations of the power of Ethereum. Well worth looking up on youtube: https://www.youtube.com/watch?v=49wHQoJxYPo\r\n\r\n[Note: This episode does not contain a magic word.]\r\nStephan Tual:\r\n@stephantual\r\n@slockitproject\r\nslock.it\r\nJosh Stern:\r\n@joshuastern\r\nhttp://www.joshstern.info/\r\nContent: Stephan Tual, Arthur Falls\r\nProduction and Editing: Arthur Falls, Kerry Guy",
+            "length": "56975529",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/242192694-arthurfalls-the-ether-review-12-stephan.mp3"
+        },
+        {
+            "title": "The Ether Review #11 - Free My Vunk!",
+            "datePublished": "Thu, 07 Jan 2016 00:00:00 +0000",
+            "description": "Free My Vunk is a movement to port game items and assets into the blockchain. The goal is to give control of these hard won in game rewards entirely to the players themselves. On the surface this seems like a simple, maybe even mundane use case but the significance a gamer may attach to a specific achievement can be a real source of economic value. We see this in phenomena like world of warcraft gold mining and character sale. \nThis is an especially interesting project due to the numerous collaborations involved. From Digix and Colony to Jon NEVERDIE Jacobs.\n\nwww.freemyvunk.com/\n\nSponsored by: Josh Stern Joshstern.info @joshuagstern\n\nContent: Tyler Smith, Arthur Falls\nProduction and Editing: Arthur Falls, Richard Toth, Kerry Guy",
+            "length": "42358671",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/240892635-arthurfalls-the-ether-review-11-free-my.mp3"
+        },
+        {
+            "title": "The Ether Review #10 - hack.ether.camp Session 2",
+            "datePublished": "Fri, 25 Dec 2015 00:00:00 +0000",
+            "description": "Today is our second episode covering the ether.camp hackathon. Familiar voice Hudson Jameson returns with Jaden Hess to explain their milestone reward Dapp kit “Motivate”. Then Roman Mandeleil wraps things up for us. Mea culpa next week due to the holidays.\n\nContent: Tjaden Hess, Hudson Jameson, Roman Mandeleil, Arthur Falls\nProduction and Editing: Arthur Falls\n\nInfo\nJaden Hess:\nhttps://github.com/tjade273\nHudson Jameson:\nhttp://hudsonjameson.com/\nRoman Mandeleil:\nhttps://twitter.com/mandeleil\n<hack.ether.camp>:\nhttp://hack.ether.camp/\n\n",
+            "length": "45413345",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/239120915-arthurfalls-the-ether-review-10-hack-ether.mp3"
+        },
+        {
+            "title": "The Ether Review #9 - hack.ether.camp Session 1",
+            "datePublished": "Thu, 17 Dec 2015 00:00:00 +0000",
+            "description": "On the first of this month Roman Mandeleil and the ether camp team kicked off the first decentralised ethereum based hackathon. It was a tremendous opportunity to see the developer community showcase the ideas that were simmering away behind the scenes. There were a ton of solid entries and hundreds of people active in the ether camp slack. All tolled the event was a roaring success and showed that the grass roots development community is vibrant and active. As a spectator, it felt like we’d watched a the first cricket test match of a long summer.\r\nThe next two episodes consist of a series of interviews with some of the people involved. Today, Christian Reitwiessner, Judge and solidity language designer dscusses the language itself; Peter Kolakovic  explains his proof of individuality entry etherealand Sebastian Burgel introduces us to Dlab book.\r\n\r\n[Note: This episode does not contain a magic word.]\r\n\r\n \r\nContent: Christian Reitwiessner, Peter Kolakovic, Sebastian Burgel, Arthur Falls\r\n\r\nProduction and Editing: Arthur Falls\r\n\r\nhttps://solidity.readthedocs.org\r\nhttp://kolakovic.net/ etherreal@etherre.al \r\nhttps://github.com/dlabbook/dlabbook/commits?author=SCBuergel",
+            "length": "34270210",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/238057439-arthurfalls-the-ether-review-9-hack-ether.mp3"
+        },
+        {
+            "title": "The Ether Review #8 - Digix",
+            "datePublished": "Tue, 08 Dec 2015 00:00:00 +0000",
+            "description": "DiGix is a digital asset issuance and tracking platform built on Ethereum. It is designed to minimise KYC intrusion and offer physical asset shadowing while offering the protection from loss of funds customers expect of contemporary financial products. Digix appears to be on track to providing the most comprehensive and customer oriented digital asset platform around. Initially they will be offering gold backed tokens using a powerful Proof Of Asset Certificate.\n\nhttp://www.digix.io/\n\nContent: Kai Cheng Chng, Carl Mullan, Anthony Eufemio, Arthur Falls\n\nProduction and Editing: Arthur Falls",
+            "length": "34738630",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/237015932-arthurfalls-the-ether-review-8-digix.mp3"
+        },
+        {
+            "title": "The Ether Review #7 - Aron Von Ammers, Devcon 1",
+            "datePublished": "Sun, 29 Nov 2015 00:00:00 +0000",
+            "description": "Aron Von Ammers is a business developer who covered Devcon 1 as it was in session for coin telegraph. His two major ventures in the space, blockstars and outlier ventures aim to rapidly develop and launch blockchain oriented startups. Today we discuss Devcon, business on the blockchain and the altcon space. \n\nContent: Arthur Falls and Aron Von Ammers\nProduction and Editing: Arthur Falls",
+            "length": "32004496",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/235952325-arthurfalls-the-ether-review-7-aron-von.mp3"
+        },
+        {
+            "title": "The Ether Review #6 - Devcon 1 Debrief",
+            "datePublished": "Thu, 26 Nov 2015 00:00:00 +0000",
+            "description": "Today we have a panel of Devcon attendees. Alex Amsel, Hudson Jameson and Jack du Rose.We discuss the Ethereum community, the development state of the consensus process, storage solutions, Free My Vunk, Slock, Oraclize and much more.\r\n\r\nAlex Amsel: http://newretro.org/\r\n\r\nHudson Jameson: http://hudsonjameson.com/\r\n\r\nJack du Rose: http://colony.io/\r\n\r\nProduction and Editing: Arthur Falls",
+            "length": "40242843",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/234941046-arthurfalls-current-file-the-ether-review.mp3"
+        },
+        {
+            "title": "The Ether Review #5 - Colony, Jack Du Rose",
+            "datePublished": "Fri, 13 Nov 2015 00:00:00 +0000",
+            "description": "Today Jack Du Rose explains his social collaboration platform colony and his old job designing the most expensive work of art ever sold.\r\n",
+            "length": "36615066",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/232965220-arthurfalls-the-ether-review-5-colony-jack.mp3"
+        },
+        {
+            "title": "The Ether Review #4 - Augur",
+            "datePublished": "Fri, 06 Nov 2015 00:00:00 +0000",
+            "description": "The Ether Review #4 - Augur by Arthur Falls",
+            "length": "52141632",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/231885755-arthurfalls-the-ether-review-4-augur.mp3"
+        },
+        {
+            "title": "The Ether Review #3 - Roman Mandeleil",
+            "datePublished": "Fri, 30 Oct 2015 00:00:00 +0000",
+            "description": "Roman Mandeleil, builder of the Ethercamp blockchain explorer and the java implimentation of Ethereum discusses among other things, what it is like to be a longtime developer in the Ethereum community.",
+            "length": "26067695",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/230826829-arthurfalls-the-ether-review-3-roman.mp3"
+        },
+        {
+            "title": "The Ether Review #2 - Vlad Zamfir",
+            "datePublished": "Thu, 22 Oct 2015 00:00:00 +0000",
+            "description": "The Ether Review #2 - Vlad Zamfir by Arthur Falls",
+            "length": "28692044",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/229676466-arthurfalls-the-ether-review-2-vlad-zamfir.mp3"
+        },
+        {
+            "title": "The Ether Review #1 - Joseph Lubin",
+            "datePublished": "Wed, 14 Oct 2015 00:00:00 +0000",
+            "description": "Arthur speaks with Joseph Lubin, one of the founders of the Ethereum project and also Consensys, a constellation of Ethereum focused companies.\n\nThis is the first episode of a weekly show featuring interviews with the people building the Ethereum ecosystem.\n\nContent: Joseph Lubin, Arthur Falls\nAdditional assistance: Rob Mitchell of The Bitcoin Game and Jarrad Hope.\nTwitter: @etherreview",
+            "length": "36538812",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/228578547-arthurfalls-the-ether-review-1-joseph.mp3"
+        },
+        {
+            "title": "Beyond Bitcoin - 27th And Final - An Architecture For The Internet Of Money",
+            "datePublished": "Thu, 19 Feb 2015 04:02:12 +0000",
+            "description": "todays episode is my favourite of all, not to diminish all of the wonderful interviews and guests I've been lucky enough to have on the show.\n Sorry Adam, I forgot to thank you for getting me into this. The mark of a great catalyst is that he's taken for granted :-)\nEnjoy. I know I sure did.\n\nhttp://www.blockstream.com/\nhttp://hyperledger.com\nrichard brown - http://gendal.me/\ndavid birch - http://www.dgwbirch.com/\nhttps://onename.com/\nhttp://www.ofnumbers.com/2014/05/29/will-colored-coin-extensibility-throw-a-wrench-into-the-automated-information-security-costs-of-bitcoin/\nhttp://organofcorti.blogspot.co.nz/\nhttp://cryptonomics.org/\nhttps://www.cypherpunks.to/faq/cyphernomicron/cyphernomicon.txt\nhttps://erisindustries.com/\nhttp://tendermint.com/\nhttps://www.melotic.com/\nhttp://tezos.com/\nhttp://filecoin.io/\nhttp://szabo.best.vwh.net/\nhttps://bithalo.org/\nethttps://www.ethereum.org/\nhttps://empoweredlaw.wordpress.com/bio/\nhttps://twitter.com/petertoddbtc/\n\nThank you Tim, Meher and Dominic\nFind tim swanson at ofnumbers.com\nDominic Williams at pebble.io\nMeher Roy's on https://medium.com/@meher\n\nRichard Toth - Mixing and Mastering\nhttp://podcast-mastering.com/\nCSUS - Music\n\nbeyondbitcoinshow@gmail.com\n@arthurfalls",
+            "length": "121838862",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/191877478-arthurfalls-beyond-bitcoin-27th-and-final-an-architecture-for-the-internet-of-money.mp3"
+        },
+        {
+            "title": "Beyond Bitcoin - 26 - Darkcoin",
+            "datePublished": "Thu, 05 Feb 2015 07:52:34 +0000",
+            "description": "All about Darkcoin. Having sworn my allegiance to the 2.0 space long ago I was blown away to see how deeply innovative a single token tracking platform could be. Darkcoin is a project I will watch closely following this fascinating discussion.Thanks to Fernando for introducing me to Evan and organising this interview.\n\ndarkcoin.io\nhttps://bitsquare.io/crowdfunding/\nhttp://podcast-mastering.com/\n\nContent: Fernando Gutierez, Evan Duffield, Arthur Falls\nMusic: CSUS\nMixing and Mastering: Richard Toth\n\n@arthurfalls\nbeyondbitcoinshow@gmail.com\n\nBitsquare Donation: 33KyHsPZcCqNVNaqK3jbx9aeubGaXgLgzt\nBeyond Bitcoin Address: 1Dy8TtQvc9W7WqdowN4avVtnLDu3VLJch9\n",
+            "length": "58831098",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/189581358-arthurfalls-beyond-bitcoin-26-darkcoin.mp3"
+        },
+        {
+            "title": "Beyond Bitcoin - 25 - Considering Identity Systems With Chris Mountford",
+            "datePublished": "Tue, 27 Jan 2015 06:47:14 +0000",
+            "description": "Chris Mountford is a developer at Atlassian, a software company based in Australia and has been interested in digital currency for over twenty years. In this episode we discuss reputation and personal information management systems.\nChris' ability to identify the issues and dangers of various approaches make him an excellent commentator.\n\nhttp://blockzombie.com/\nhttp://wiki.bitshares.org/index.php/.p2p_(BitShares_DNS)\nbitsquare.io\nhttp://freepages.genealogy.rootsweb.ancestry.com/~chriskorte/article1982Suicide.html\n[Podcast mastering](http://podcast-mastering.com)\nBitcoin Address: 1Dy8TtQvc9W7WqdowN4avVtnLDu3VLJch9\nBitsquare Donation: 33KyHsPZcCqNVNaqK3jbx9aeubGaXgLgzt\nbeyondbitcoinshow@gmailcom\nTwitter: @ArthurFalls @blockzombie",
+            "length": "79522168",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/188089986-arthurfalls-beyond-bitcoin-25-considering-identity-systems-with-chris-mountford.mp3"
+        },
+        {
+            "title": "Beyond Bitcoin - 24 - The Second To Last - A Nu Approach",
+            "datePublished": "Wed, 07 Jan 2015 10:43:42 +0000",
+            "description": "In this, the second to last episode of Beyond  Bitcoin We Look at Nubits, the value controlled digital currency that has emerged from the Peercoin/Peershares team.\n\ndiscus.nubits.com\nnubits.com\ndocs.nubits.com\n\nThe Internet of Money, Meher Roychoudhury:\nhttps://www.dropbox.com/s/r2ulmzif92lbdh3/An%20architecture%20for%20the%20Internet%20of%20Money.pdf?dl=0\n\nContent: Ben Rossi\nMusic: Csus\nContact: beyondbitcoinshow@gmail.com",
+            "length": "66625200",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/184876821-arthurfalls-beyond-bitcoin-24-the-second-to-last-a-nu-approach.mp3"
+        },
+        {
+            "title": "Beyond Bitcoin - 23 - Menger, Mises And Bitcoin",
+            "datePublished": "Wed, 17 Dec 2014 18:00:51 +0000",
+            "description": "Jeffrey Tucker joins for this episode!\n\"Could you please compare Menger and Mises views on the origin of value in money and explain how their views relate to bitcoin?\"\n\nfee.org\nliberty.me\nmises.org\n\nCSUS: Music\nBIP38wallets.com: Sponsorship\nJeffrey Tucker: Content\n\nbeyondbitcoinshow@gmail.com",
+            "length": "37886420",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/181965366-arthurfalls-beyond-bitcoin-23-menger-mises-and-bitcoin.mp3"
+        },
+        {
+            "title": "Beyond Bitcoin - 22 - BitAssets and the Austrians",
+            "datePublished": "Thu, 04 Dec 2014 08:49:31 +0000",
+            "description": "Austrian economics is one of these impenetrable black boxes that you hear referenced occasionally but that has little meaning for many people.\nRecently I was perusing Cameron Harwick's blog, Thrica where I periodically go to soak up some free market goodness, and I found myself re-reading\na post entitled Hayek vs. Rothbard on Free-Market Money. The article and the comments illucidate many interesting and relevant ideas that can not\nonly help us understand cryptocurrency but also show that the problem of discovering what is a good kind of money has been mulled over by\nbrilliant people long before the cypherpunks sunk their teeth into it. A clearly novel approach has been taken by the team working on Bitshares.\nI asked Dan Larimer to explane the roots of his idea and update us on the progress of the platform.\n\nBitshares.org\nbitsharestalk.org \nwiki.bitshares.org\nthri.ca/blog/hayek-vs-rothbard-on-money\n\nContent: Arthur Falls, Dan Larimer\nSponsor: Matthew Jones, Bitshares Delegate: argentina-marketing.matt608\nMixing and mastering: Richard Toth, www.audio-cleaning-online.com\nMusic: Csus\n\nContact: beyondbitcoinshow@gmail.com",
+            "length": "53403784",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/179911648-arthurfalls-beyond-bitcoin-22-bitasset.mp3"
+        },
+        {
+            "title": "Beyond Bitcoin - 21 - Consensus Without Mining",
+            "datePublished": "Thu, 20 Nov 2014 09:43:23 +0000",
+            "description": "Jae Kwon joins to discuss his consensus algorithm Tendermint. Following from there we cover sideshains, quantifiable security, stealth coins, and much more.\n\nToday's episode was sponsored by bip38wallets.com.\n\nbip38wallets.com\nhttps://bitcointalk.org/index.php?topic=129317.0\nhttp://tendermint.com/\nhttp://groups.csail.mit.edu/tds/papers/Lynch/jacm88.pdf\nofnumbers.com\n\nbeyondbitcoinshow@gmail.com",
+            "length": "53309944",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/177788179-arthurfalls-beyond-bitcoin-21-consensus-without-mining.mp3"
+        },
+        {
+            "title": "Beyond Bitcoin - 20 - Codius",
+            "datePublished": "Tue, 04 Nov 2014 08:29:34 +0000",
+            "description": "Stephen Thomas and Evan Schwartz discuss Ripple Labs open source smart contract system Codius!\n\nCodius.org\n\nThanks to CSUS for the music\nbeyondbitcoinshow@gmail.com\n",
+            "length": "47446467",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/175270697-arthurfalls-beyond-bitcoin-20-codius.mp3"
+        },
+        {
+            "title": "Beyond Bitcoin - 19 - SuperNET",
+            "datePublished": "Wed, 29 Oct 2014 07:34:24 +0000",
+            "description": "A technical writer known on the forums as \"Cassius\" chats about jl777's SuperNET and related subjects.\n\njl777.org\nthesupernet.org\nforum.thesupernet.org\n\nCsus provided the music\nbeyondbitcoinshow@gmail.com",
+            "length": "48705570",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/174358531-arthurfalls-beyond-bitcoin-19-supernet.mp3"
+        },
+        {
+            "title": "Beyond Bitcoin - 18 - Cryptonite",
+            "datePublished": "Wed, 15 Oct 2014 09:46:53 +0000",
+            "description": "Cryptonite is a currency built on the mini-blockchain scheme. It features tons of features not present in any other coins as well as some limitations. \n\nMusic: Csus\nCryptonite.info\narthur.falls@gmail.com",
+            "length": "42713501",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/172241105-arthurfalls-beyond-bitcoin-18-cryptonite.mp3"
+        },
+        {
+            "title": "Beyond Bitcoin - 17 - Counterpartying With Robby Dermody",
+            "datePublished": "Wed, 08 Oct 2014 04:33:09 +0000",
+            "description": "Today Robby Dermody of Counterparty, also known on the forums as Xnova joins to discuss the platform's recent Armory implementation, two factor authentication, asset development, Dogeparty, a potential Counterparty foundation in the works and more. \n\ncounterparty.io\n\nMusic: Csus\nContact: beyondbitcoinshow@gmail.com\n",
+            "length": "53136264",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/171142888-arthurfalls-beyond-bitcoin-17-counterpartying-with-robby-dermody.mp3"
+        },
+        {
+            "title": "Beyond Bitcoin - 16 - The Future Is Not Mad Max",
+            "datePublished": "Mon, 29 Sep 2014 08:55:54 +0000",
+            "description": "Today Justus Ranvier returns to discuss Monetas, a start up he is involved with which is building on the Open Transactions protocol. We also dig into cryptoequities, reputation, arbitration and the informal economy as well as the current price fluctuations. As usual, no investment advice.\n\nbeyondbitcoinshow@gmail.com\nhttp://monetas.net/\nhttp://bitcoinism.liberty.me/\n\nMusic: Csus\n",
+            "length": "38049059",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/169838897-arthurfalls-beyond-bitcoin-16-the-future-is-not-mad-max.mp3"
+        },
+        {
+            "title": "Beyond Bitcoin - 15 - Culture On The Blockchain",
+            "datePublished": "Mon, 22 Sep 2014 11:14:36 +0000",
+            "description": "This time we're checking out culture on the block chain with Alex co Author of the Bitcoin graphic novel which is at this moment awating a name. We talk making money interesting, working with the guys at Swarm, funding models, the Bitcoin ethos and the power of the graphic novel medium.\n Alex Preukschat (content)  \nCsus (music)\n https://www.swarm.co/comiccoin.html#/comiccoin\nbeyondbitcoinshow@gmail.com",
+            "length": "36123940",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/168836055-arthurfalls-beyond-bitcoin-15-culture-on-the-blockchain.mp3"
+        },
+        {
+            "title": "Beyond Bitcoin - 14 - Hyperledger",
+            "datePublished": "Tue, 16 Sep 2014 18:22:17 +0000",
+            "description": "Dan O'Prey, Daniel Feichtinger and Tim Swanson discuss Hyperledger.\n\nhyperledger.com\nwww.ofnumbers.com/author/timswanson/\n\nCredits:\nContent - Dan O'Prey, Daniel Feichtinger, Tim Swanson and Arthur Falls\nMusic - Csus\n\nContact: beyondbitcoinshow@gmail.com",
+            "length": "45315237",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/168021497-arthurfalls-beyond-bitcoin-14-hyperledger-1.mp3"
+        },
+        {
+            "title": "Beyond Bitcoin - 13 - One To Rule Them All",
+            "datePublished": "Sun, 07 Sep 2014 10:06:24 +0000",
+            "description": "In this episode Justus Ranvier joins for a discussion about Open Transactions and the future of smart contract platforms.\nThen a few words from international man of mystery jl777 on the SuperNET and the life of an anonymous coding machine. \n\nhttp://bitcoinism.liberty.me/\nhttps://nxtforum.org/nxtservices-releases/darkpaper-for-teleport/\nwww.jl777.org\nhttp://thesupernet.org/\n\nCredits:\nContent - Justus Ranvier and jl777 \nMusic - Csus\nContact - beyondbitcoinshow@gmail.com",
+            "length": "51733901",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/166606294-arthurfalls-beyond-bitcoin-13-one-to-rule-them-all.mp3"
+        },
+        {
+            "title": "Beyond Bitcoin - 12 - The Future Of Storj",
+            "datePublished": "Thu, 28 Aug 2014 10:08:16 +0000",
+            "description": "After an involuntary hiatus BB is back with a very late interview with Shaun Wilkinson and . . . a magic word!",
+            "length": "69652854",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/165131735-arthurfalls-beyond-bitcoin-12-the-future-of-storj.mp3"
+        },
+        {
+            "title": "Beyond Bitcoin - 11 - The NXT Economy",
+            "datePublished": "Thu, 31 Jul 2014 10:56:01 +0000",
+            "description": "This episode Bas Wisselink, an NXT community organiser joins me again to discuss what's going on in the next ecosystem. \r\nFrom a little grand theft crypto to a new altcoin adapter for the next asset exchange, there is a ton of interesting stuff going on\r\nand Bas is always great value. \r\n\r\nThanks to Csus for the tune\r\n\r\nMultigateway:\r\nhttp://multigateway.com/",
+            "length": "58254066",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/161085653-arthurfalls-beyond-bitcoin-11-the-nxt-economy.mp3"
+        },
+        {
+            "title": "Beyond Bitcoin - 10 - Exploring The Open Bazaar...",
+            "datePublished": "Wed, 23 Jul 2014 07:00:36 +0000",
+            "description": "Brian Hoffman and Washington Sanchez join me to discuss Open Bazaar, a marketplace built from Amir Taaki's Toronto Hackathon winning \"Dark Market\". A great exposition of a broad range of new ideas.\r\n\r\nCREDITS\r\nAudio production by Kerry Guy.\r\nMusic provided by Csus. Check them out on Soundcloud.\r\nContent provided by Washington Sanchez and Brian Hoffman\r\nAny questions or comments? Email beyondbitcoinshow@gmail.com.\r\nCheck out beyondbitcoin.fm for more material and recordings of developer hangouts",
+            "length": "67697045",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/159908471-arthurfalls-beyond-bitcoin-10-exploring-the-open-bazaar.mp3"
+        },
+        {
+            "title": "Beyond Bitcoin - 9 - A New Breed of Exchange",
+            "datePublished": "Wed, 16 Jul 2014 08:43:31 +0000",
+            "description": "Alex joins to discuss his platform for betting on binary feeds in Counterparty and the basics of BIP32 wallet recovery.\r\nhttps://xcpfeeds.info\r\nThen Manfred Karrer explains the operation of the peer to peer fiat - Bitcoin exchange he's working on - bitsquare.\r\nhttp://bitsquare.io/ \r\n\r\nCREDITS\r\nMusic provided by Csus. Check them out on Soundcloud.\r\nContent provided by Alex and Manfred Karrer\r\nAny questions or comments? Email beyondbitcoinshow@gmail.com.\r\nCheck out beyondbitcoin.fm for more material and recordings of developer hangouts\r\n",
+            "length": "77630232",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/158928912-arthurfalls-beyond-bitcoin-9-a-new-breed-of-exchange.mp3"
+        },
+        {
+            "title": "Beyond Bitcoin - 8 - Crowdsales, Carbon & Asset Machines",
+            "datePublished": "Wed, 09 Jul 2014 10:38:38 +0000",
+            "description": "Today we’re, focusing on higher level deployments of the counterparty protocol. Joel Dietz joins me again with Ben Ingram. Also with us Is Jeremy Lam of Vennd We look at XBTC, bringing Altcoins onto the counterparty exchange, customer and employee rewards, carbon credits and Swarm's voting system. ",
+            "length": "61852629",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/157941255-arthurfalls-beyond-bitcoin-8-crowdsales-carbon-asset-machines.mp3"
+        },
+        {
+            "title": "Beyond Bitcoin - 7 - Trivial Issuance Of A Useful Asset",
+            "datePublished": "Wed, 02 Jul 2014 09:43:26 +0000",
+            "description": "Adan Krellenstein, Counterparty co-founder and developer discusses OP_RETURN, proof of burn, other distribution methods, asset issuance, improvements to Bitcoin and the importance of the first mover advantage. Adam's great to talk to and in light of the increasingly important role that Counterparty is assuming in the user designated asset space, he's one of the guys on the pulse. Pity this interview is two months old. Still, an appropriately concise overview of the protocol that everyone is talking about.",
+            "length": "30583441",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/156960075-arthurfalls-beyond-bitcoin-7-trivial-issuance-of-a-useful-asset.mp3"
+        },
+        {
+            "title": "Beyond Bitcoin - 6 - A New Direction For Bitcoin?",
+            "datePublished": "Wed, 25 Jun 2014 10:40:08 +0000",
+            "description": "In this hangout session, Stephen Reed presents his proposed reengineering of Bitcoin, Cooperative Proof Of Stake. Dan Larimer and others join the conversation to have their questions answered. CPOS is a fresh solution to the problems Bitcoin faces which maintains what remains of Satoshi's social contract while dramatically improving the efficency of the ecosystem.\r\n\r\nCREDITS\r\nMusic provided by Csus. Check them out on Soundcloud.\r\nContent provided by Stephen Reed - https://bitcointalk.org/index.php?topic=584719.0, https://bitcointalk.org/index.php?topic=366214.0\r\nThe recording of the Weka courtesy of Department of Conservation - http://www.doc.govt.nz.\r\nAny questions or comments? Email beyondbitcoinshow@gmail.com.\r\nCheck out beyondbitcoin.fm for more material and recordings of developer hangouts ",
+            "length": "69862712",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/155944022-arthurfalls-beyond-bitcoin-6-a-new-direction-for-bitcoin.mp3"
+        },
+        {
+            "title": "Beyond Bitcoin - 5 - Delegates & Forgers",
+            "datePublished": "Fri, 20 Jun 2014 09:07:00 +0000",
+            "description": "This weeks episode features Dan Larimer of Invictus Innovations discussing the shift from Proof Of Work to Delegated Proof Of Stake and the thought process behind the change. We go on to discuss pretty much everything else going on in the development of the bitshares platform. It was a great opportunity to tie up all the loose ends I could think of and Dan was happy to oblige.\r\n\r\nThen a fellow named Ian with the deepest knowledge of NXT of anyone I've met does pretty much the same thing. We began with Transparent forging and the scope of the interview just widened from there to cover the value of Javascript as a language, some of the frankly astonishing capabilities being developed in the NXT ecosystem and even NEM, a fork of NXT with aspirations of its own!\r\n\r\nCREDITS\r\nMusic provided by Csus. Check them out on Soundcloud.\r\nContent provided by Dan Larimer - www.bitshares.org, and Ian - www.nxtcommunity.org.\r\nThe recording of the Bellbird courtesy of Department of Conservation - http://www.doc.govt.nz.\r\nAny questions or comments? Email beyondbitcoinshow@gmail.com.\r\nCheck out beyondbitcoin.fm for more material and recordings of developer hangouts",
+            "length": "79042768",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/155203760-arthurfalls-beyond-bitcoin-5-delegates-forgers.mp3"
+        },
+        {
+            "title": "Beyond Bitcoin - 4 - Money Memes & The Coming Swarm",
+            "datePublished": "Tue, 10 Jun 2014 09:18:55 +0000",
+            "description": "Great guests this week!\r\n\r\nFirst is a brief talk with Joel Deitz  of Swarm. Swarm is a crowd funding platform with some checks in place to protect both project creators and investors. This, along side anonymous transactions and remission is in my mind a top killer app of cryptocurrency. Swarm is itself looking for capital investment from the public, beginning in a few days. Editing out connection difficulties turned this solid interview into a brief short but the important stuff is in there. http://www.swarmcorp.com/\r\n\r\nNext up, Neil and Jonathan from Altcoin Labs chat amiably about the time when as kids they engaged in manipulating the price of pickaxes, the meme on USD bank notes, currency agnostic wallets, the importance of altcoins . . . It goes on, these guys have tons to impart. http://altcoinlabs.org/\r\n\r\nCREDITS\r\nMusic provided by Csus. Check them out on Soundcloud.\r\nContent provided by Joel Dietz, Neill Miller and Jonathan Zevallos.\r\nAny questions or comments? Email beyondbitcoinshow@gmail.com ",
+            "length": "63681668",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/153681675-arthurfalls-beyond-bitcoin-4-money-memes-the-coming-swarm.mp3"
+        },
+        {
+            "title": "Beyond Bitcoin - 3 - Research and Fluidity",
+            "datePublished": "Wed, 04 Jun 2014 10:10:16 +0000",
+            "description": "Nikos Bentenitis and Panos Skourtis discuss the difficulties of educating in cryptocurrency, the efficacy of technical analysis in understanding price movements and scientific peer review enhanced by blockchain reputation systems.\r\nThen Joseph Lubin of Ethereum joins to talk about all kinds of interesting stuff including the super fluid economy of the future and consensus vs hierarchical organisation structure.\r\n\r\nCREDITS\r\nMusic provided by Csus. Check them out on Soundcloud.\r\nContent provided by Nikos Bentenitis, Panos Skourtis and Joseph Lubin.\r\nAny questions or comments? Email beyondbitcoinshow@gmail.com\r\n1Dy8TtQvc9W7WqdowN4avVtnLDu3VLJch9",
+            "length": "71418774",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/152755505-arthurfalls-beyond-bitcoin-3-research-and-fluidity.mp3"
+        }
+    ]
+}

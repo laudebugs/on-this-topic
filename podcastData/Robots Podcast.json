@@ -1,0 +1,818 @@
+{
+    "artwork": "http://is1.mzstatic.com/image/thumb/Music/v4/f9/eb/a9/f9eba987-08de-3a4d-e162-8c6e4d0b6b67/source/100x100bb.jpg",
+    "description": "Robots is the podcast for news, interviews and discussions on all aspects of robotics. New episodes are released every two weeks, on Fridays at 9am GMT. For more information click the robot or visit http://www.robotspodcast.com",
+    "feedURL": "http://feeds.feedburner.com/robotspodcast",
+    "podcastURL": "http://robohub.org",
+    "publisher": "Robohub Podcast",
+    "title": "Robots Podcast",
+    "episodes": [
+        {
+            "title": "#322: Exploring Venus with a Clockwork Rover, with  Jonathan Sauder  ",
+            "datePublished": "Wed, 04 Nov 2020 07:00:00 GMT",
+            "description": "Jonathan Sauder on designing a robot for the harsh heat of the Venus surface.",
+            "length": "0",
+            "sourceUrl": "http://feedproxy.google.com/~r/robotspodcast/~5/JToFXbg03hU/923082355-robohubpodcast-exploring-venus-with-a-clockwork-rover.mp3",
+            "categories": [
+                "Podcast",
+                "c-Space",
+                "cx-Space",
+                "podcast",
+                "space"
+            ]
+        },
+        {
+            "title": "#321: Empowering Farmers Through Root AI, with  Josh Lessing  ",
+            "datePublished": "Mon, 19 Oct 2020 07:00:00 GMT",
+            "description": "Lessing discusses how Root AI autonomously harvests crops and tracks data ",
+            "length": "0",
+            "sourceUrl": "http://feedproxy.google.com/~r/robotspodcast/~5/eLr_XZJnB6w/913097575-robohubpodcast-empowering-farmers-through-rootai.mp3",
+            "categories": [
+                "Podcast",
+                "Actuation",
+                "c-Environment-Agriculture",
+                "cx-Environment-Agriculture",
+                "Manipulation",
+                "podcast",
+                "Sensing",
+                "startup"
+            ]
+        },
+        {
+            "title": "#320: Planetary Drilling, with  Kris Zacny  ",
+            "datePublished": "Wed, 07 Oct 2020 07:00:00 GMT",
+            "description": "Kris Zacny from Honeybee Robotics on space mining robots.",
+            "length": "0",
+            "sourceUrl": "http://feedproxy.google.com/~r/robotspodcast/~5/TyvhJBqe2bw/906066838-robohubpodcast-planetary-drilling.mp3",
+            "categories": [
+                "Podcast",
+                "c-Space",
+                "cx-Space",
+                "Robotics technology",
+                "space"
+            ]
+        },
+        {
+            "title": "#319: Micro-scale Surgical Robots, with  Eric Diller  ",
+            "datePublished": "Wed, 23 Sep 2020 07:00:00 GMT",
+            "description": "Eric Diller on the design, control, and manufacture of micro-scale surgical robotic devices.",
+            "length": "0",
+            "sourceUrl": "http://feedproxy.google.com/~r/robotspodcast/~5/R2Xo4xqMOGE/898059061-robohubpodcast-micro-scale-surgical-robots.mp3",
+            "categories": [
+                "Podcast",
+                "Actuation",
+                "c-Research-Innovation",
+                "cx-Health-Medicine",
+                "Micro",
+                "podcast",
+                "Research",
+                "Robotics technology"
+            ]
+        },
+        {
+            "title": "#318: Humanized Intelligence in Academia and Industry, with  Ayanna Howard  ",
+            "datePublished": "Tue, 08 Sep 2020 07:00:00 GMT",
+            "description": "A look into Professor Ayanna Howard's path through robotics in both industry and academia.",
+            "length": "0",
+            "sourceUrl": "http://feedproxy.google.com/~r/robotspodcast/~5/VGyKYoUVthQ/889902946-robohubpodcast-humanized-intelligence-in-academia-and-industry.mp3",
+            "categories": [
+                "Podcast",
+                "Algorithm AI-Cognition",
+                "c-Research-Innovation",
+                "cx-Education-DIY",
+                "cx-Research-Innovation",
+                "cx-Space",
+                "human-robot interaction",
+                "humanoid",
+                "podcast",
+                "Research",
+                "Robotics technology"
+            ]
+        },
+        {
+            "title": "#317: Environmental Monitoring with the SlothBot, with  Gennaro Notomista  ",
+            "datePublished": "Tue, 25 Aug 2020 07:00:00 GMT",
+            "description": "Gennaro Notomista on a sloth-like robot that efficiently observes its environment from above.",
+            "length": "0",
+            "sourceUrl": "http://feedproxy.google.com/~r/robotspodcast/~5/KLQFFYS3j5I/881924518-robohubpodcast-environmental-monitoring-with-the-slothbot.mp3",
+            "categories": [
+                "Podcast",
+                "c-Research-Innovation",
+                "cx-Environment-Agriculture",
+                "cx-Mapping-Surveillance",
+                "cx-Research-Innovation",
+                "podcast",
+                "Research",
+                "robot",
+                "Sensing"
+            ]
+        },
+        {
+            "title": "#316: Introspective Robots, with  Nathan Michael  ",
+            "datePublished": "Sun, 09 Aug 2020 07:00:00 GMT",
+            "description": "Nathan Michael from the Resilient Intelligent Systems Lab at CMU on control, perception, and cognition.",
+            "length": "0",
+            "sourceUrl": "http://feedproxy.google.com/~r/robotspodcast/~5/Ye36blU5EV4/872981128-robohubpodcast-introspective-robots.mp3",
+            "categories": [
+                "Podcast",
+                "Algorithm Controls",
+                "cx-Research-Innovation",
+                "Research"
+            ]
+        },
+        {
+            "title": "#315: Exploring from a Distance, with  Muralidharan Arikara  ",
+            "datePublished": "Tue, 28 Jul 2020 07:00:00 GMT",
+            "description": "Muralidharan Arikara on augmented and virtual reality experiences with Xarpie Labs.",
+            "length": "0",
+            "sourceUrl": "http://feedproxy.google.com/~r/robotspodcast/~5/uDwUsxtG8tI/865787758-robohubpodcast-exploring-from-a-distance.mp3",
+            "categories": [
+                "Podcast",
+                "Business",
+                "c-Research-Innovation",
+                "cx-Arts-Entertainment",
+                "cx-Consumer-Household",
+                "cx-Research-Innovation",
+                "podcast",
+                "software",
+                "virtual reality"
+            ]
+        },
+        {
+            "title": "#314: High Earth Orbit Robotics, with  William Crowe  ",
+            "datePublished": "Tue, 14 Jul 2020 07:00:00 GMT",
+            "description": "William Crowe on satellite health checks via high quality imagery.",
+            "length": "0",
+            "sourceUrl": "http://feedproxy.google.com/~r/robotspodcast/~5/LcJwbTnuebY/857792134-robohubpodcast-high-earth-orbit-robotics.mp3",
+            "categories": [
+                "Podcast",
+                "c-Space",
+                "cx-Space",
+                "podcast",
+                "space",
+                "startup"
+            ]
+        },
+        {
+            "title": "#313: Solid State Lidar – the 3D Camera, with  Erin Bishop  ",
+            "datePublished": "Mon, 29 Jun 2020 07:00:00 GMT",
+            "description": "How Solid State Lidar enables robots to sense objects better than traditional Lidar",
+            "length": "0",
+            "sourceUrl": "http://feedproxy.google.com/~r/robotspodcast/~5/NvLiIQ0kms8/848691523-robohubpodcast-solid-state-lidar-the-3d-camera.mp3",
+            "categories": [
+                "Podcast",
+                "c-Industrial-Automation",
+                "cx-Industrial-Automation",
+                "Industrial Automation",
+                "podcast",
+                "robot",
+                "Sensing"
+            ]
+        },
+        {
+            "title": "#312: Safe Motion Planning in Real-time, with  Luca Colasanto  ",
+            "datePublished": "Fri, 19 Jun 2020 07:00:00 GMT",
+            "description": "Luca Colasanto discusses Realtime Robotic’s fast motion planning technology",
+            "length": "0",
+            "sourceUrl": "http://feedproxy.google.com/~r/robotspodcast/~5/fmPa-VD52g8/842930386-robohubpodcast-safe-motion-planning-in-real-time.mp3",
+            "categories": [
+                "Podcast",
+                "Algorithm Controls",
+                "c-Industrial-Automation",
+                "interview",
+                "podcast",
+                "software"
+            ]
+        },
+        {
+            "title": "#311: Robotics Manipulation with MoveIt, with  Dave Coleman  ",
+            "datePublished": "Sun, 31 May 2020 07:00:00 GMT",
+            "description": "Dave Coleman on the open source robotics manipulation platform called MoveIt. ",
+            "length": "0",
+            "sourceUrl": "http://feedproxy.google.com/~r/robotspodcast/~5/BKhfx4prNVk/831870919-robohubpodcast-robotics-manipulation-with-moveit.mp3",
+            "categories": [
+                "Podcast",
+                "Business",
+                "c-Research-Innovation",
+                "Industrial Automation",
+                "interview",
+                "open source",
+                "podcast",
+                "Robotics technology",
+                "software"
+            ]
+        },
+        {
+            "title": "#310: RoboBee’s Untethered Flight, with  Farrell Helbling  ",
+            "datePublished": "Wed, 20 May 2020 07:00:00 GMT",
+            "description": "Farrell Helbling on an insect-inspired robot that is the lightest vehicle to achieve untethered flight",
+            "length": "0",
+            "sourceUrl": "http://feedproxy.google.com/~r/robotspodcast/~5/ru-WsOiwSeU/824223262-robohubpodcast-robobees-untethered-flight.mp3",
+            "categories": [
+                "Podcast",
+                "Actuation",
+                "bio-inspired",
+                "c-Research-Innovation",
+                "Flying",
+                "podcast",
+                "Prototype",
+                "Research",
+                "robot",
+                "Sensing"
+            ]
+        },
+        {
+            "title": "#309: Learning to Grasp, with  Jeannette Bohg  ",
+            "datePublished": "Mon, 11 May 2020 07:00:00 GMT",
+            "description": "Jeannette Bohg on perception for robotic manipulators and her research lab at Stanford.",
+            "length": "0",
+            "sourceUrl": "http://feedproxy.google.com/~r/robotspodcast/~5/ZfW0y4-xg4Y/817973335-robohubpodcast-learning-to-grasp.mp3",
+            "categories": [
+                "Podcast",
+                "Manipulation",
+                "podcast",
+                "Research"
+            ]
+        },
+        {
+            "title": "#308: Seeing like a Rover, with  Janet Vertessi  ",
+            "datePublished": "Tue, 28 Apr 2020 07:00:00 GMT",
+            "description": "Janet Vertessi on her experience living and working with NASA's Mars Rover team.",
+            "length": "0",
+            "sourceUrl": "http://feedproxy.google.com/~r/robotspodcast/~5/v42MDqZ_uwE/809115166-robohubpodcast-seeing-like-a-rover.mp3",
+            "categories": [
+                "Podcast",
+                "Business",
+                "c-Space",
+                "podcast",
+                "Research",
+                "Social aspect",
+                "space"
+            ]
+        },
+        {
+            "title": "#307: Commercializing Robot Brains, with  Kajal Gada  ",
+            "datePublished": "Mon, 13 Apr 2020 07:00:00 GMT",
+            "description": "Kajal Gada discusses her work at the company behind BrainOS, a technology stack for autonomous solutions.",
+            "length": "0",
+            "sourceUrl": "http://feedproxy.google.com/~r/robotspodcast/~5/o2awttvsVXU/797667541-robohubpodcast-commercializing-robot-brains.mp3",
+            "categories": [
+                "Podcast",
+                "c-Industrial-Automation",
+                "podcast"
+            ]
+        },
+        {
+            "title": "#306: Microlocation, with  David Mindell  ",
+            "datePublished": "Sat, 28 Mar 2020 07:00:00 GMT",
+            "description": "David Mindell discusses a system developed to measure location at centimeter accuracy ",
+            "length": "0",
+            "sourceUrl": "http://feedproxy.google.com/~r/robotspodcast/~5/Ta--8vnngEI/784992817-robohubpodcast-microlocation.mp3",
+            "categories": [
+                "Podcast",
+                "Business",
+                "c-Industrial-Automation",
+                "cx-Industrial-Automation",
+                "cx-Mapping-Surveillance",
+                "Industrial Manufacturing",
+                "Micro",
+                "podcast",
+                "Sensing"
+            ]
+        },
+        {
+            "title": "#305: Coordination, Cooperation, and Collaboration, with  Vijay Kumar  ",
+            "datePublished": "Sun, 01 Mar 2020 07:00:00 GMT",
+            "description": "Vijay Kumar, director of GRASP Lab at UPenn, on multi-robot systems.",
+            "length": "0",
+            "sourceUrl": "http://feedproxy.google.com/~r/robotspodcast/~5/Q_tOYPys20g/769067893-robohubpodcast-coordination-cooperation-and-collaboration.mp3",
+            "categories": [
+                "Podcast",
+                "Flying",
+                "podcast",
+                "Research",
+                "Swarming"
+            ]
+        },
+        {
+            "title": "#304: Haptics and Virtual Interactions, with  Heather Culbertson   ",
+            "datePublished": "Mon, 17 Feb 2020 07:00:00 GMT",
+            "description": "Dr. Heather Culbertson discusses her research in haptics at the University of Southern California",
+            "length": "0",
+            "sourceUrl": "http://feedproxy.google.com/~r/robotspodcast/~5/Yk0gOh1eEAA/761914468-robohubpodcast-haptics-and-virtual-interactions.mp3",
+            "categories": [
+                "Podcast",
+                "Actuation",
+                "Algorithm AI-Cognition",
+                "Algorithm Controls",
+                "c-Research-Innovation",
+                "cx-Research-Innovation",
+                "education",
+                "humanoid",
+                "Manipulation",
+                "podcast",
+                "Research",
+                "Robotics technology",
+                "Sensing",
+                "Service Household Other",
+                "software"
+            ]
+        },
+        {
+            "title": "#303: Fostering Creativity: RSS Pioneers and the YOLO Robot, with  Patrícia Alves-Oliveira  ",
+            "datePublished": "Sun, 02 Feb 2020 07:00:00 GMT",
+            "description": "Patrícia Alves-Oliveira on RSS Pioneers and how robots can support creativity in children",
+            "length": "0",
+            "sourceUrl": "http://feedproxy.google.com/~r/robotspodcast/~5/7SBxAWkgKNA/753523132-robohubpodcast-fostering-creativity-rss-pioneers-and-the-yolo-robot.mp3",
+            "categories": [
+                "Podcast",
+                "Algorithm AI-Cognition",
+                "c-Research-Innovation",
+                "cx-Education-DIY",
+                "cx-Research-Innovation",
+                "education",
+                "human-robot interaction",
+                "podcast",
+                "Research",
+                "robot",
+                "software"
+            ]
+        },
+        {
+            "title": "#302: Robots That Can See, Do, and Win, with  Juxi Leitner  ",
+            "datePublished": "Wed, 29 Jan 2020 07:00:00 GMT",
+            "description": "Juxi Leitner, co-founder of Lyro Robotics, on grasping and manipulation.",
+            "length": "0",
+            "sourceUrl": "http://feedproxy.google.com/~r/robotspodcast/~5/2bKF-80hU3A/751638202-robohubpodcast-robots-that-can-see-do-and-win.mp3",
+            "categories": [
+                "Podcast",
+                "Industrial Automation",
+                "Manipulation",
+                "podcast",
+                "Robotics technology",
+                "startup"
+            ]
+        },
+        {
+            "title": "#301: Listening like a Human, Playing like a Machine, with  Gil Weinberg  ",
+            "datePublished": "Fri, 10 Jan 2020 07:00:00 GMT",
+            "description": "Gil Weinberg on his improvisational robots and prostheses.",
+            "length": "0",
+            "sourceUrl": "http://feedproxy.google.com/~r/robotspodcast/~5/YRIP4nb5Bwc/741439780-robohubpodcast-listening-like-a-human-playing-like-a-machine.mp3",
+            "categories": [
+                "Podcast",
+                "Actuation",
+                "Algorithm AI-Cognition",
+                "c-Research-Innovation",
+                "podcast",
+                "Research",
+                "Sensing"
+            ]
+        },
+        {
+            "title": "#300: Past and Present Podcast Team Members, with  Sabine Hauert,  Peter Dürr\r\n and  Andra Keay  ",
+            "datePublished": "Sun, 22 Dec 2019 07:00:00 GMT",
+            "description": "We catch up with some of our former and current volunteers on their involvement in the podcast and on their careers.",
+            "length": "0",
+            "sourceUrl": "http://feedproxy.google.com/~r/robotspodcast/~5/XH5qq7yZlB4/732384913-robohubpodcast-past-and-present-podcast-team-members.mp3",
+            "categories": [
+                "Podcast",
+                "Person",
+                "podcast",
+                "Research",
+                "startup"
+            ]
+        },
+        {
+            "title": "#299: On the Novelty Effect in Human-Robot Interaction, with  Catharina Vesterager Smedegaard  ",
+            "datePublished": "Mon, 09 Dec 2019 07:00:00 GMT",
+            "description": "Catharina Vesterager Smedegaard with a new take on the novelty effect in human-robot interaction",
+            "length": "0",
+            "sourceUrl": "http://feedproxy.google.com/~r/robotspodcast/~5/rSsbea9amuQ/725319268-robohubpodcast-on-the-novelty-effect-in-human-robot-interaction.mp3",
+            "categories": [
+                "Podcast",
+                "c-Research-Innovation",
+                "ethics",
+                "podcast",
+                "Research"
+            ]
+        },
+        {
+            "title": "#298: Cognitive Robotics Under Uncertainty, with  Marlyse Reeves  ",
+            "datePublished": "Tue, 26 Nov 2019 07:00:00 GMT",
+            "description": "Marlyse Reeves, PhD Student at MIT, discusses cognitive robotics, hybrid planning, and space analog missions.",
+            "length": "0",
+            "sourceUrl": "http://feedproxy.google.com/~r/robotspodcast/~5/Nbh1PUjDUrQ/718665118-robohubpodcast-cognitive-robotics-under-uncertainty.mp3",
+            "categories": [
+                "Podcast",
+                "podcast",
+                "Research",
+                "space"
+            ]
+        },
+        {
+            "title": "#297: Using Natural Language in Human-Robot Collaboration, with  Brad Hayes  ",
+            "datePublished": "Mon, 11 Nov 2019 07:00:00 GMT",
+            "description": "Brad Hayes on how why collaboration may at times be preferable to full autonomy and automation and how human naration can be used to help robots learn from demonstration.",
+            "length": "0",
+            "sourceUrl": "http://feedproxy.google.com/~r/robotspodcast/~5/2-Z_wKT7IfM/710956726-robohubpodcast-using-natural-language-in-human-robot-collaboration.mp3",
+            "categories": [
+                "Podcast",
+                "Algorithm AI-Cognition",
+                "c-Research-Innovation",
+                "podcast",
+                "Research",
+                "Robotics technology"
+            ]
+        },
+        {
+            "title": "#296: Robust Robotics and the Quest for Intelligence, with  Nicholas Roy  ",
+            "datePublished": "Tue, 29 Oct 2019 07:00:00 GMT",
+            "description": "Nicholas Roy, Professor of Aeronautics and Astronautics at MIT, talks about the Quest for Intelligence initiative and his research in robust robotics.",
+            "length": "0",
+            "sourceUrl": "http://feedproxy.google.com/~r/robotspodcast/~5/Y899tYAR9aA/703569622-robohubpodcast-robust-robotics-and-the-quest-for-intelligence.mp3",
+            "categories": [
+                "Podcast",
+                "Algorithm AI-Cognition",
+                "c-Research-Innovation",
+                "education",
+                "podcast",
+                "Research"
+            ]
+        },
+        {
+            "title": "#295: inVia Robotics: Product-Picking Robots for the Warehouse, with  Rand Voorhies  ",
+            "datePublished": "Mon, 07 Oct 2019 07:00:00 GMT",
+            "description": "Rand Voorhies discusses inVia Robotics' mission to make warehouses smarter with mobile robots.",
+            "length": "0",
+            "sourceUrl": "http://feedproxy.google.com/~r/robotspodcast/~5/wvUSww_BAZU/692093014-robohubpodcast-invia-robotics-product-picking-robots-for-the-warehouse.mp3",
+            "categories": [
+                "Podcast",
+                "Algorithm AI-Cognition",
+                "c-Industrial-Automation",
+                "cx-Industrial-Automation",
+                "cx-Research-Innovation",
+                "Industrial Automation",
+                "podcast",
+                "robot"
+            ]
+        },
+        {
+            "title": "#294: Autonomous Bricklaying by FBR, with  Mark Pivac  ",
+            "datePublished": "Wed, 18 Sep 2019 07:00:00 GMT",
+            "description": "In this episode, Ron Vanderkley interviews Mark Pivac, Chief Technical Officer and co-founder of FBR (formerly Fastbrick Robotics) about the world’s first end-to-end autonomous bricklaying robot, ‘Hadrian X’. Three years after his first interview, we catch up with Pivac to see how FBR has expanded its operation and chat about their latest commercial prototype, ‘Hadrian [&#8230;]",
+            "length": "0",
+            "sourceUrl": "http://feedproxy.google.com/~r/robotspodcast/~5/8-mrzHBMtHA/682709651-robohubpodcast-autonomous-bricklaying.mp3",
+            "categories": [
+                "Podcast",
+                "Business",
+                "Business Deal",
+                "c-Industrial-Automation",
+                "HadrianX",
+                "Industrial Automation",
+                "interview",
+                "Manipulation",
+                "modular",
+                "Prototype",
+                "Research",
+                "Robotics technology",
+                "Sensing",
+                "software",
+                "startup",
+                "Stocks"
+            ]
+        },
+        {
+            "title": "#293: A Robot to Help with Artificial Insemination, with  Zhuoran Zhang  ",
+            "datePublished": "Mon, 02 Sep 2019 07:00:00 GMT",
+            "description": "Zhuoran Zhang on robotic manipulators and computer vision techniques to assist artificial insemination",
+            "length": "0",
+            "sourceUrl": "http://feedproxy.google.com/~r/robotspodcast/~5/-WJyifo1rKc/675166022-robohubpodcast-a-robot-to-help-with-artificial-insemination.mp3",
+            "categories": [
+                "Podcast",
+                "Actuation",
+                "c-Research-Innovation",
+                "cx-Health-Medicine",
+                "human-robot interaction",
+                "podcast",
+                "Research",
+                "Sensing"
+            ]
+        },
+        {
+            "title": "#292: Robot Operating System (ROS) & Gazebo, with  Brian Gerkey  ",
+            "datePublished": "Tue, 06 Aug 2019 07:00:00 GMT",
+            "description": "Brian Gerkey on a set of software libraries and tools for building robot application and on a 3D robotics simulator",
+            "length": "0",
+            "sourceUrl": "http://feedproxy.google.com/~r/robotspodcast/~5/8U9jfJ0MP3w/661770425-robohubpodcast-robot-operating-system-ros-gazebo.mp3",
+            "categories": [
+                "Podcast",
+                "c-Research-Innovation",
+                "podcast",
+                "Research",
+                "Robotics technology",
+                "software"
+            ]
+        },
+        {
+            "title": "#291: Medieval Automata and Cathartic Objects: Modern Robots Inspired by History, with  Michal Luria  ",
+            "datePublished": "Mon, 22 Jul 2019 07:00:00 GMT",
+            "description": "Michal Luria discusses her research into medieval robots and cathartic objects for emotional release.",
+            "length": "0",
+            "sourceUrl": "http://feedproxy.google.com/~r/robotspodcast/~5/CaP78XU82Sk/659118074-robohubpodcast-robots-20190719-episode291-2.mp3",
+            "categories": [
+                "Podcast",
+                "Actuation",
+                "c-Research-Innovation",
+                "cx-Research-Innovation",
+                "human-robot interaction",
+                "podcast",
+                "Research",
+                "robot"
+            ]
+        },
+        {
+            "title": "#290: AI Powered Robotic Picking at Promat 2019, with  Vince Martinelli,  Jim Liefer,  Pete Blair,  Sean Davis\r\n and  Erik Nieves  ",
+            "datePublished": "Tue, 09 Jul 2019 07:00:00 GMT",
+            "description": "Several companies speak on their technology for autonomously picking and placing objects.",
+            "length": "0",
+            "sourceUrl": "http://feedproxy.google.com/~r/robotspodcast/~5/kp1n6v8B6mw/648357051-robohubpodcast-ai-powered-robotic-picking-at.mp3",
+            "categories": [
+                "Podcast",
+                "c-Industrial-Automation",
+                "Manipulation",
+                "podcast",
+                "startup"
+            ]
+        },
+        {
+            "title": "#289: On Design in Human-Robot Interaction, with  Bilge Mutlu  ",
+            "datePublished": "Mon, 24 Jun 2019 07:00:00 GMT",
+            "description": "Bilge Mutlu on the design space, the evaluation space, and how features are used within a context for human-robot interaction.",
+            "length": "0",
+            "sourceUrl": "http://feedproxy.google.com/~r/robotspodcast/~5/uB2D8oJJYqU/641216664-robohubpodcast-on-design-in-human-robot-interaction.mp3",
+            "categories": [
+                "Podcast",
+                "Algorithm AI-Cognition",
+                "Algorithm Controls",
+                "c-Research-Innovation",
+                "podcast",
+                "Research",
+                "Social aspect"
+            ]
+        },
+        {
+            "title": "#288: On Artificial Intelligence for Wildlife Conservation, with  Milind Tambe  ",
+            "datePublished": "Tue, 11 Jun 2019 07:00:00 GMT",
+            "description": "Dr. Milind Tambe on the use of security games to combat the poaching of wildlife.",
+            "length": "0",
+            "sourceUrl": "http://feedproxy.google.com/~r/robotspodcast/~5/j3qs9KeUP2Y/635121144-robohubpodcast-on-artificial-intelligence-for-wildlife-conservation.mp3",
+            "categories": [
+                "Podcast",
+                "c-Research-Innovation",
+                "Research",
+                "Robotics technology"
+            ]
+        },
+        {
+            "title": "#287: Robonomics Platform: Integrating Robots into the Economy, with  Aleksandr Kapitonov  ",
+            "datePublished": "Tue, 28 May 2019 07:00:00 GMT",
+            "description": "Aleksandr Kapitonov on integrating robots and cyber-physical systems into the economy via Ethereum blockchain.",
+            "length": "0",
+            "sourceUrl": "http://feedproxy.google.com/~r/robotspodcast/~5/Tu2sy6qb6jQ/627960105-robohubpodcast-robonomics-platform-integrating-robots-into-the-economy.mp3",
+            "categories": [
+                "Podcast",
+                "open source",
+                "podcast"
+            ]
+        },
+        {
+            "title": "#286: Halodi Robotics’ EVEr3: A Full-size Humanoid Robot, with  Bernt Børnich  ",
+            "datePublished": "Mon, 13 May 2019 07:00:00 GMT",
+            "description": "Bernt Børnich on Eve, including it's motors, direct force control, and how they plan to work with researchers.",
+            "length": "0",
+            "sourceUrl": "http://feedproxy.google.com/~r/robotspodcast/~5/05orFZ5cTKc/619721826-robohubpodcast-halodi-robotics-ever3-a-full-size-humanoid-robot.mp3",
+            "categories": [
+                "Podcast",
+                "Actuation",
+                "c-Research-Innovation",
+                "cx-Health-Medicine",
+                "human-robot interaction",
+                "humanoid",
+                "podcast",
+                "Prototype",
+                "Research",
+                "robot",
+                "Service Household Elder Care",
+                "software",
+                "startup"
+            ]
+        },
+        {
+            "title": "#285: On Storytelling Robots for Children, with  Hae Won Park  ",
+            "datePublished": "Wed, 01 May 2019 07:00:00 GMT",
+            "description": "Dr. Hae Won Park on educational robots for children, and how they can be personalized for long-term use.",
+            "length": "0",
+            "sourceUrl": "http://feedproxy.google.com/~r/robotspodcast/~5/EtaSx0sqR68/614203707-robohubpodcast-on-storytelling-robots-for-children.mp3",
+            "categories": [
+                "Podcast",
+                "c-Research-Innovation",
+                "podcast",
+                "Research",
+                "robot"
+            ]
+        },
+        {
+            "title": "#284: ERICA: A Robot Made to Look Human, with  Dylan Glas  ",
+            "datePublished": "Mon, 15 Apr 2019 07:00:00 GMT",
+            "description": " Dylan Glas on ERICA's design, the uncanny valley, and on research studies that ERICA's been involved in.",
+            "length": "0",
+            "sourceUrl": "http://feedproxy.google.com/~r/robotspodcast/~5/9cDuqRkXnGA/606408366-robohubpodcast-erica-a-robot-made-to-look-human.mp3",
+            "categories": [
+                "Podcast",
+                "c-Research-Innovation",
+                "podcast",
+                "Research",
+                "robot"
+            ]
+        },
+        {
+            "title": "#283: Misty II: A Robotics Platform for Developers, with  Ian Bernstein  ",
+            "datePublished": "Sun, 07 Apr 2019 07:00:00 GMT",
+            "description": "Ian Bernstein on the design and features of a small mobile robot designed for developers.",
+            "length": "0",
+            "sourceUrl": "http://feedproxy.google.com/~r/robotspodcast/~5/bBoG86QoZs4/598804065-robohubpodcast-misty-ii-a-robotics-platform-for-developers.mp3",
+            "categories": [
+                "Podcast",
+                "Actuation",
+                "c-Consumer-Household",
+                "DIY",
+                "open source",
+                "podcast",
+                "robot",
+                "startup"
+            ]
+        },
+        {
+            "title": "#282: A Social Robot Companion for Older Adults, with  Dor Skuler  ",
+            "datePublished": "Mon, 18 Mar 2019 07:00:00 GMT",
+            "description": "Dor Skuler on how the robot infers context and changes its behavior accordingly, and how its behavior is adapted over time.",
+            "length": "0",
+            "sourceUrl": "http://feedproxy.google.com/~r/robotspodcast/~5/s46p4bLg86U/591772392-robohubpodcast-a-social-robot-companion-for-older-adults.mp3",
+            "categories": [
+                "Podcast",
+                "c-Health-Medicine",
+                "podcast",
+                "Prototype",
+                "robot",
+                "Sensing",
+                "Service Household Other",
+                "startup"
+            ]
+        },
+        {
+            "title": "#281: On Demand Drone Deliveries, with  Yariv Bash  ",
+            "datePublished": "Tue, 05 Mar 2019 07:00:00 GMT",
+            "description": "Yariv Bash discusses Flytrex's implementation of a drone delivery system used for on demand local deliveries.",
+            "length": "0",
+            "sourceUrl": "http://feedproxy.google.com/~r/robotspodcast/~5/SIW51B0YVUI/585165192-robohubpodcast-on-demand-drone-deliveries.mp3",
+            "categories": [
+                "Podcast",
+                "c-Aerial",
+                "cx-Aerial"
+            ]
+        },
+        {
+            "title": "#280: Semantics in Robotics, with  Amy Loutfi  ",
+            "datePublished": "Mon, 18 Feb 2019 07:00:00 GMT",
+            "description": "Amy Loutfi on how semantics representations can be used to help robots reason about the world.",
+            "length": "0",
+            "sourceUrl": "http://feedproxy.google.com/~r/robotspodcast/~5/n6T5iacAQ8U/577139673-robohubpodcast-semantics-in-robotics.mp3",
+            "categories": [
+                "Podcast",
+                "c-Research-Innovation",
+                "podcast",
+                "Research",
+                "Robotics technology"
+            ]
+        },
+        {
+            "title": "#279: Safe Robot Learning on Hardware, with  Jaime Fernández Fisac  ",
+            "datePublished": "Mon, 04 Feb 2019 07:00:00 GMT",
+            "description": "Jaime Fernández Fisac on learning how to control robots while keeping them from hurting themselves or others. ",
+            "length": "0",
+            "sourceUrl": "http://feedproxy.google.com/~r/robotspodcast/~5/J8f6KfQz310/569785236-robohubpodcast-safe-robot-learning-on-hardware.mp3",
+            "categories": [
+                "Podcast",
+                "Algorithm Controls",
+                "c-Research-Innovation",
+                "cx-Aerial",
+                "cx-Research-Innovation",
+                "podcast",
+                "Research"
+            ]
+        },
+        {
+            "title": "#278: IROS 2018 Exhibition (Part 3 of 3), with  Ryan Gariepy,  Lars Grimstad\r\n and  Péter Fankhauser  ",
+            "datePublished": "Sun, 20 Jan 2019 07:00:00 GMT",
+            "description": "Mobile research platforms, modular agricultural robot, and a quadrupedal robot for inspection",
+            "length": "0",
+            "sourceUrl": "http://feedproxy.google.com/~r/robotspodcast/~5/TXxJqhzb034/561725550-robohubpodcast-iros-2018-exhibition-part-3-of-3.mp3",
+            "categories": [
+                "Podcast",
+                "Business",
+                "c-Research-Innovation",
+                "cx-Research-Innovation",
+                "podcast",
+                "Research",
+                "startup"
+            ]
+        },
+        {
+            "title": "#277: Presented work at IROS 2018 (Part 3 of 3), with  Pauline Pounds,  Philippe Morere\r\n and  Yujung Liu  ",
+            "datePublished": "Wed, 09 Jan 2019 07:00:00 GMT",
+            "description": "Making a robot to high-five children, reinforcement learning, and robotic paintings. ",
+            "length": "0",
+            "sourceUrl": "http://feedproxy.google.com/~r/robotspodcast/~5/0tv1-e2MiBE/556212327-robohubpodcast-presented-work-at-iros-2018-part-3-of-3.mp3",
+            "categories": [
+                "Podcast",
+                "Algorithm Controls",
+                "c-Research-Innovation",
+                "podcast",
+                "Research",
+                "Robotics technology"
+            ]
+        },
+        {
+            "title": "#276: IROS 2018 Exhibition (Part 2 of 3), with  Kristoffer Richardsson,  Michael Zillich\r\n and  Paulo Alvito  ",
+            "datePublished": "Thu, 27 Dec 2018 07:00:00 GMT",
+            "description": "Open source unmanned aerial vehicles, a robot to help pickup toys, and robots to inspect sewers.",
+            "length": "0",
+            "sourceUrl": "http://feedproxy.google.com/~r/robotspodcast/~5/cnM9GBhloE8/550633833-robohubpodcast-iros-2018-exhibition-part-2-of-3.mp3",
+            "categories": [
+                "Podcast",
+                "Actuation",
+                "Algorithm Controls",
+                "c-Events",
+                "Flying",
+                "Manipulation",
+                "podcast",
+                "Prototype",
+                "Research",
+                "robot",
+                "Sensing",
+                "startup"
+            ]
+        },
+        {
+            "title": "#275: Presented work at IROS 2018 (Part 2 of 3), with  Robert Lösch,  Ali Marjovi\r\n and  Sophia Sakr  ",
+            "datePublished": "Mon, 10 Dec 2018 07:00:00 GMT",
+            "description": "Navigating mines, giving robots a sense of smell, and haptic tweezers. ",
+            "length": "0",
+            "sourceUrl": "http://feedproxy.google.com/~r/robotspodcast/~5/WHs0zKMUjFk/542377434-robohubpodcast-presented-work-at-iros-2018-part-2-of-3.mp3",
+            "categories": [
+                "Podcast",
+                "c-Research-Innovation",
+                "podcast",
+                "Research",
+                "Robotics technology",
+                "Service Professional Mining"
+            ]
+        },
+        {
+            "title": "#274: IROS 2018 Exhibition (Part 1 of 3), with  Gabriel Lopes\r\n and  Bernt Børnich  ",
+            "datePublished": "Tue, 27 Nov 2018 07:00:00 GMT",
+            "description": "A robotic walker for older adults and a prototype of an affordable general home robot.",
+            "length": "0",
+            "sourceUrl": "http://feedproxy.google.com/~r/robotspodcast/~5/wsIxLohdgNI/542371407-robohubpodcast-iros-2018-exhibition-part-1-of-3-v2.mp3",
+            "categories": [
+                "Podcast",
+                "Actuation",
+                "c-Consumer-Household",
+                "podcast",
+                "Prototype",
+                "Research",
+                "robot",
+                "Service Household Elder Care",
+                "startup"
+            ]
+        },
+        {
+            "title": "#273: Presented work at IROS 2018 (Part 1 of 3), with  Alexandros Kogkas,  Katie Driggs-Campbell\r\n and  Martin Karlsson  ",
+            "datePublished": "Mon, 12 Nov 2018 07:00:00 GMT",
+            "description": "A gaze tracking framework, making inferences from human behavior in autonomous cars, and mirroring forces without force sensors at IROS 2018.",
+            "length": "0",
+            "sourceUrl": "http://feedproxy.google.com/~r/robotspodcast/~5/Of0f4I5xBFU/528486942-robohubpodcast-presented-work-at-iros-2018-part-1-of-3.mp3",
+            "categories": [
+                "Podcast",
+                "Actuation",
+                "Algorithm Controls",
+                "c-Research-Innovation",
+                "Industrial Automation",
+                "podcast",
+                "Research",
+                "Robotics technology",
+                "Sensing"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,2229 @@
+{
+    "artwork": "http://is3.mzstatic.com/image/thumb/Music71/v4/2d/28/a9/2d28a985-7803-8a41-f5b9-a71263d0ceee/source/100x100bb.jpg",
+    "description": "The world of tabletop games is a lot bigger than most people realize. In fact it's so big that the idea of investigating it can actually be kind of intimidating. When you see all those games you've never heard of, with rules and concepts and themes you've never seen before in a game, it's hard to know where to start.\nThe answer is: start with the SnakesCast. Every week, we'll bring you ten or fifteen minutes' worth of banter about what makes these games worth playing. With a different theme every episode and a rotating cast of both gurus and non-gurus from Toronto's premiere boardgame café, we'll show you just how much there is to play with out there.",
+    "feedURL": "http://podcast.snakesandlattes.com/podcast/1/feed.xml",
+    "podcastURL": "http://www.snakesandlattes.com/",
+    "title": "The SnakesCast",
+    "episodes": [
+        {
+            "title": "Canadian Board Games, Part 3 - Toronto designers and designers' nights",
+            "datePublished": "Fri, 22 Jun 2018 03:00:00 EST",
+            "length": "25341431",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/370/CanadianBoardGamesPart3-Torontodesignersanddesignersnights.mp3"
+        },
+        {
+            "title": "Canadian Board Games, Part 2 - Classics from Canada",
+            "datePublished": "Wed, 20 Jun 2018 03:00:00 EST",
+            "length": "14508102",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/369/CanadianBoardGamesPart2-ClassicsfromCanada.mp3"
+        },
+        {
+            "title": "Canadian Board Games, Part 1 - We stand on guard for games",
+            "datePublished": "Mon, 18 Jun 2018 03:00:00 EST",
+            "length": "14885786",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/368/CanadianBoardGamesPart1-Westandonguardforgames.mp3"
+        },
+        {
+            "title": "Trick-Taking Games, Part 3 - Looking towards potential evolution",
+            "datePublished": "Fri, 15 Jun 2018 03:00:00 EST",
+            "length": "15950251",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/367/Trick-TakingGamesPart3-Lookingtowardspotentialevolution.mp3"
+        },
+        {
+            "title": "Trick-Taking Games, Part 2 - Contemporary examples",
+            "datePublished": "Wed, 13 Jun 2018 03:00:00 EST",
+            "length": "12473050",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/366/Trick-TakingGamesPart2-Contemporaryexamples.mp3"
+        },
+        {
+            "title": "Trick-Taking Games, Part 1 - What is trick-taking?",
+            "datePublished": "Mon, 11 Jun 2018 03:00:00 EST",
+            "length": "12386576",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/365/Trick-TakingGamesPart1-Whatistrick-taking.mp3"
+        },
+        {
+            "title": "Non-verbal Gaming, Part 3 - Further examples of non-verbal communication in gaming",
+            "datePublished": "Fri, 08 Jun 2018 03:00:00 EST",
+            "length": "21951364",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/364/Non-verbalGamingPart3-Furtherexamplesofnon-verbalcommunicationingaming.mp3"
+        },
+        {
+            "title": "Non-verbal Gaming, Part 2 - Teaching games without speaking",
+            "datePublished": "Wed, 06 Jun 2018 03:00:00 EST",
+            "length": "11532512",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/363/Non-verbalGamingPart2-Teachinggameswithoutspeaking.mp3"
+        },
+        {
+            "title": "Non-verbal Gaming, Part 1 - Games in which at least one player doesn't speak",
+            "datePublished": "Mon, 04 Jun 2018 03:00:00 EST",
+            "length": "12061231",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/362/Non-verbalGamingPart1-Gamesinwhichatleastoneplayerdoesntspeak.mp3"
+        },
+        {
+            "title": "How Important is Theme in Games?, Part 3 - What about games that do something different?",
+            "datePublished": "Fri, 01 Jun 2018 03:00:00 EST",
+            "length": "15298340",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/361/HowImportantisThemeinGamesPart3-Whataboutgamesthatdosomethingdifferent.mp3"
+        },
+        {
+            "title": "How Important is Theme in Games?, Part 2 - Should theme always be applied?",
+            "datePublished": "Wed, 30 May 2018 03:00:00 EST",
+            "length": "10684488",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/360/HowImportantisThemeinGamesPart1-Shouldthemealwaysbeapplied.mp3"
+        },
+        {
+            "title": "How Important is Theme in Games?, Part 1 - What is theme and do we like it?",
+            "datePublished": "Mon, 28 May 2018 03:00:00 EST",
+            "length": "8662402",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/359/HowImportantisThemeinGamesPart1-Whatisthemeanddowelikeit.mp3"
+        },
+        {
+            "title": "Games Based on Literature, Part 3 - Middle-Earth, and writing your stories",
+            "datePublished": "Fri, 25 May 2018 03:00:00 EST",
+            "length": "15907299",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/358/GamesBasedonLiteraturePart3-Middle-Earthandwritingyourstories.mp3"
+        },
+        {
+            "title": "Games Based on Literature, Part 2 - More famous fiction",
+            "datePublished": "Wed, 23 May 2018 03:00:00 EST",
+            "length": "10929405",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/357/GamesBasedonLiteraturePart2-Morefamousfiction.mp3"
+        },
+        {
+            "title": "Games Based on Literature, Part 1 - On works of fiction",
+            "datePublished": "Mon, 21 May 2018 03:00:00 EST",
+            "length": "10561183",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/356/GamesBasedonLiteraturePart1-Onworksoffiction.mp3"
+        },
+        {
+            "title": "Cottage Games 2018, Part 3 – \"Whole weekend\" games",
+            "datePublished": "Fri, 18 May 2018 03:00:00 EST",
+            "length": "10713313",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/355/CottageGames2018Part3Wholeweekendgames.mp3"
+        },
+        {
+            "title": "Cottage Games 2018, Part 2 - Game Night",
+            "datePublished": "Wed, 16 May 2018 03:00:00 EST",
+            "length": "9986482",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/354/CottageGames2018Part2-GameNight.mp3"
+        },
+        {
+            "title": "Cottage Games 2018, Part 1 – Starting Out",
+            "datePublished": "Mon, 14 May 2018 03:00:00 EST",
+            "length": "8445049",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/353/CottageGames2018Part1StartingOut.mp3"
+        },
+        {
+            "title": "Building Your Home Collection, Part 3 - The bigger games",
+            "datePublished": "Fri, 11 May 2018 03:00:00 EST",
+            "length": "12403548",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/352/BuildingYourHomeCollectionPart3-Thebiggergames.mp3"
+        },
+        {
+            "title": "Building Your Home Collection, Part 2 - Next steps",
+            "datePublished": "Wed, 09 May 2018 03:00:00 EST",
+            "length": "10498908",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/351/BuildingYourHomeCollectionPart1-Nextsteps.mp3"
+        },
+        {
+            "title": "Building Your Home Collection, Part 1 - Where to start",
+            "datePublished": "Mon, 07 May 2018 03:00:00 EST",
+            "length": "9914601",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/350/BuildingYourHomeCollectionPart1-Wheretostart.mp3"
+        },
+        {
+            "title": "Building or Growing Games, Part 3 - What you can build or grow",
+            "datePublished": "Fri, 27 Apr 2018 03:00:00 EST",
+            "length": "16892429",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/349/BuildingorGrowingGamesPart3-Whatyoucanbuildorgrow.mp3"
+        },
+        {
+            "title": "Building or Growing Games, Part 2 - Planting the seeds",
+            "datePublished": "Wed, 25 Apr 2018 03:00:00 EST",
+            "length": "12670205",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/348/BuildingorGrowingGamesPart2-Plantingtheseeds.mp3"
+        },
+        {
+            "title": "Building or Growing Games, Part 1 - Laying the foundations",
+            "datePublished": "Mon, 23 Apr 2018 03:00:00 EST",
+            "length": "12969046",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/347/BuildingorGrowingGamesPart1-Layingthefoundations.mp3"
+        },
+        {
+            "title": "Superhero Games, Part 3 - Arriving in the nick of time",
+            "datePublished": "Fri, 20 Apr 2018 03:00:00 EST",
+            "length": "18539596",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/346/SuperheroGamesPart3-Arrivinginthenickoftime.mp3"
+        },
+        {
+            "title": "Superhero Games, Part 2 - It is a bird? Is it a plane?",
+            "datePublished": "Wed, 18 Apr 2018 03:00:00 EST",
+            "length": "12813555",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/345/SuperheroGamesPart2-ItisabirdIsitaplane.mp3"
+        },
+        {
+            "title": "Superhero Games, Part 1 - Where are all the superhero games?",
+            "datePublished": "Mon, 16 Apr 2018 03:00:00 EST",
+            "length": "10280305",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/344/SuperheroGamesPart1-Whereareallthesuperherogames.mp3"
+        },
+        {
+            "title": "Organisational Games, Part 3 - Different kinds of organisation",
+            "datePublished": "Fri, 13 Apr 2018 03:00:00 EST",
+            "length": "13433394",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/343/OrganisationalGamesPart3-Differentkindsoforganisation.mp3"
+        },
+        {
+            "title": "Organisational Games, Part 2 - Neat and Tidy",
+            "datePublished": "Wed, 11 Apr 2018 03:00:00 EST",
+            "length": "9891608",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/342/OrganisationalGamesPart2-NeatandTidy.mp3"
+        },
+        {
+            "title": "Organisational Games, Part 1 - What is an organisational game?",
+            "datePublished": "Mon, 09 Apr 2018 03:00:00 EST",
+            "length": "7965234",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/341/OrganisationalGamesPart1-Whatisanorganisationalgame.mp3"
+        },
+        {
+            "title": "Curating a Café Game Library, Part 3 - Preparing games for café life",
+            "datePublished": "Fri, 06 Apr 2018 03:00:00 EST",
+            "length": "9769211",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/340/CuratingaCafGameLibraryPart3-Preparinggamesforcaflife.mp3"
+        },
+        {
+            "title": "Curating a Café Game Library, Part 2 - Game selection",
+            "datePublished": "Wed, 04 Apr 2018 03:00:00 EST",
+            "length": "12099333",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/339/CuratingaCafGameLibraryPart2-Gameselection.mp3"
+        },
+        {
+            "title": "Curating a Café Game Library, Part 1 - What do our curators do?",
+            "datePublished": "Mon, 02 Apr 2018 03:00:00 EST",
+            "length": "8455565",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/338/CuratingaCafGameLibraryPart1-Whatdoourcuratorsdo.mp3"
+        },
+        {
+            "title": "Challenges at the Table, Part 3 - Alpha Players and Aggression",
+            "datePublished": "Fri, 30 Mar 2018 03:00:00 EST",
+            "length": "14416437",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/337/ChallengesattheTablePart3-AlphaPlayersandAggression.mp3"
+        },
+        {
+            "title": "Challenges at the Table, Part 2 - More distraction, and Analysis Paralysis",
+            "datePublished": "Wed, 28 Mar 2018 03:00:00 EST",
+            "length": "13673723",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/336/ChallengesattheTablePart1-MoredistractionandAnalysisParalysis.mp3"
+        },
+        {
+            "title": "Challenges at the Table, Part 1 - Distracted Gamers",
+            "datePublished": "Mon, 26 Mar 2018 03:00:00 EST",
+            "length": "10158687",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/335/ChallengesattheTablePart1-DistractedGamers.mp3"
+        },
+        {
+            "title": "Resource Management Games, Part 3 - Games that think outside the box",
+            "datePublished": "Fri, 23 Mar 2018 03:00:00 EST",
+            "length": "13337686",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/334/ResourceManagementGamesPart3-Gamesthatthinkoutsidethebox.mp3"
+        },
+        {
+            "title": "Resource Management Games, Part 2 - Exploring examples",
+            "datePublished": "Wed, 21 Mar 2018 03:00:00 EST",
+            "length": "14187815",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/333/ResourceManagementGamesPart2-Exploringexamples.mp3"
+        },
+        {
+            "title": "Resource Management Games, Part 1 - Defining Resource Management",
+            "datePublished": "Mon, 19 Mar 2018 03:00:00 EST",
+            "length": "13178026",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/332/ResourceManagementGamesPart1-DefiningResourceManagement.mp3"
+        },
+        {
+            "title": "The Player Contract, Part 3 - Games where the player contract can be very different",
+            "datePublished": "Fri, 16 Mar 2018 03:00:00 EST",
+            "length": "17516854",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/331/ThePlayerContractPart3-Gameswheretheplayercontractcanbeverydifferent.mp3"
+        },
+        {
+            "title": "The Player Contract, Part 2 - Where not playing your best may still be part of the contract",
+            "datePublished": "Wed, 14 Mar 2018 03:00:00 EST",
+            "length": "13465576",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/330/ThePlayerContractPart2-Wherenotplayingyourbestmaystillbepartofthecontract.mp3"
+        },
+        {
+            "title": "The Player Contract, Part 1 - What is the player contract?",
+            "datePublished": "Mon, 12 Mar 2018 03:00:00 EST",
+            "length": "10720002",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/329/ThePlayerContractPart1-Whatistheplayercontract.mp3"
+        },
+        {
+            "title": "Games Inspired by Chess, Part 3 - A couple more like Chess, a couple that aren't",
+            "datePublished": "Fri, 09 Mar 2018 03:00:00 EST",
+            "length": "14693126",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/328/GamesInspiredbyChessPart3-AcouplemorelikeChessacouplethatarent.mp3"
+        },
+        {
+            "title": "Games Inspired by Chess, Part 2 - Excellent games that use some mechanisms from Chess",
+            "datePublished": "Wed, 07 Mar 2018 03:00:00 EST",
+            "length": "12063327",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/327/GamesInspiredbyChessPart2-ExcellentgamesthatusesomemechanismsfromChess.mp3"
+        },
+        {
+            "title": "Games Inspired by Chess, Part 1 - Chess, it's appeal, and why it is great to riff off",
+            "datePublished": "Mon, 05 Mar 2018 03:00:00 EST",
+            "length": "8083937",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/326/GamesInspiredbyChessPart1-Chessitsappealandwhyitisgreattoriffoff.mp3"
+        },
+        {
+            "title": "It Came From the Internet, Part 3 - Games that went viral",
+            "datePublished": "Fri, 23 Feb 2018 03:00:00 EST",
+            "length": "8699592",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/325/ItCameFromtheInternetPart3-Gamesthatwentviral.mp3"
+        },
+        {
+            "title": "It Came From the Internet, Part 2 - Games based on internet properties (aka This Is Fine)",
+            "datePublished": "Wed, 21 Feb 2018 03:00:00 EST",
+            "length": "9640418",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/324/ItCameFromtheInternetPart2-GamesbasedoninternetpropertiesakaThisIsFine.mp3"
+        },
+        {
+            "title": "It Came From the Internet, Part 1 - Games about internet culture",
+            "datePublished": "Mon, 19 Feb 2018 03:00:00 EST",
+            "length": "9294348",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/323/ItCameFromtheInternetPart1-Gamesaboutinternetculture.mp3"
+        },
+        {
+            "title": "Games That Fire Other Games, Part 3 - Our last batch of targets (for now...)",
+            "datePublished": "Fri, 16 Feb 2018 03:00:00 EST",
+            "length": "12651399",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/322/GamesThatFireOtherGamesPart3-Ourlastbatchoftargetsfornow.mp3"
+        },
+        {
+            "title": "Games That Fire Other Games, Part 2 - Games we'd like to fire",
+            "datePublished": "Wed, 14 Feb 2018 03:00:00 EST",
+            "length": "13007082",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/321/GamesThatFireOtherGamesPart2-Gameswedliketofire.mp3"
+        },
+        {
+            "title": "Games That Fire Other Games, Part 1 - The popular targets",
+            "datePublished": "Mon, 12 Feb 2018 03:00:00 EST",
+            "length": "11393342",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/320/GamesThatFireOtherGamesPart1-Thepopulartargets.mp3"
+        },
+        {
+            "title": "Murder Mystery Games, Part 3 - Uncovering Mr Jack",
+            "datePublished": "Fri, 09 Feb 2018 03:00:00 EST",
+            "length": "16996495",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/319/MurderMysteryGamesPart3-UncoveringMrJack.mp3"
+        },
+        {
+            "title": "Murder Mystery Games, Part 2 - Elementary, My Dear Poirot",
+            "datePublished": "Wed, 07 Feb 2018 03:00:00 EST",
+            "length": "13873922",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/318/MurderMysteryGamesPart2-ElementaryMyDearPoirot.mp3"
+        },
+        {
+            "title": "Murder Mystery Games, Part 1 - What is the appeal of these games?",
+            "datePublished": "Mon, 05 Feb 2018 03:00:00 EST",
+            "length": "9485350",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/317/MurderMysteryGamesPart1-Whatistheappealofthesegames.mp3"
+        },
+        {
+            "title": "2017 Retrospective, Part 3 - Bringing out the big guns",
+            "datePublished": "Fri, 29 Dec 2017 03:00:00 EST",
+            "length": "12827768",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/316/2017RetrospectivePart3-Bringingoutthebigguns.mp3"
+        },
+        {
+            "title": "2017 Retrospective, Part 2 - Café games",
+            "datePublished": "Wed, 27 Dec 2017 03:00:00 EST",
+            "length": "9028937",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/315/2017RetrospectivePart2-Cafgames.mp3"
+        },
+        {
+            "title": "2017 Retrospective, Part 1 - Sequels, escapes, consumable games and Mars",
+            "datePublished": "Mon, 25 Dec 2017 03:00:00 EST",
+            "length": "8420806",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/314/2017RetrospectivePart1-SequelsescapesconsumablegamesandMars.mp3"
+        },
+        {
+            "title": "Games about the Cold, Part 3 - Into the icy depths",
+            "datePublished": "Fri, 22 Dec 2017 03:00:00 EST",
+            "length": "13996802",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/313/GamesabouttheColdPart3-Intotheicydepths.mp3"
+        },
+        {
+            "title": "Games about the Cold, Part 2 - Digging deeper (into the snow?)",
+            "datePublished": "Wed, 20 Dec 2017 03:00:00 EST",
+            "length": "10130261",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/312/GamesabouttheColdPart2-Diggingdeeperintothesnow.mp3"
+        },
+        {
+            "title": "Games about the Cold, Part 1 - Wintery games for kids",
+            "datePublished": "Mon, 18 Dec 2017 03:00:00 EST",
+            "length": "7342892",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/311/GamesabouttheColdPart1-Winterygamesforkids.mp3"
+        },
+        {
+            "title": "Abstraction and Theme, Part 3 - ...might be pasted on",
+            "datePublished": "Fri, 15 Dec 2017 03:00:00 EST",
+            "length": "11317266",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/310/AbstractionandThemePart3-mightbepastedon.mp3"
+        },
+        {
+            "title": "Abstraction and Theme, Part 2 - A theme by any other name...",
+            "datePublished": "Wed, 13 Dec 2017 03:00:00 EST",
+            "length": "12425276",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/309/AbstractionandThemePart2-Athemebyanyothername.mp3"
+        },
+        {
+            "title": "Abstraction and Theme, Part 1 - What's in a theme?",
+            "datePublished": "Mon, 11 Dec 2017 03:00:00 EST",
+            "length": "13593054",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/308/AbstractionandThemePart1-Whatsinatheme.mp3"
+        },
+        {
+            "title": "Robinson Crusoe, Part 3 - Escaping the Island",
+            "datePublished": "Fri, 08 Dec 2017 03:00:00 EST",
+            "length": "15610119",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/307/RobinsonCrusoePart3-EscapingtheIsland.mp3"
+        },
+        {
+            "title": "Robinson Crusoe, Part 2 - Surviving the Island",
+            "datePublished": "Wed, 06 Dec 2017 03:00:00 EST",
+            "length": "11007135",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/306/RobinsonCrusoePart2-SurvivingtheIsland.mp3"
+        },
+        {
+            "title": "Robinson Crusoe, Part 1 - Finding the Island",
+            "datePublished": "Mon, 04 Dec 2017 03:00:00 EST",
+            "length": "11945035",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/305/RobinsonCrusoePart1-FindingtheIsland.mp3"
+        },
+        {
+            "title": "Holiday Gift Ideas, Part 3 - Party Games and Stocking Stuffers",
+            "datePublished": "Fri, 01 Dec 2017 03:00:00 EST",
+            "length": "12094250",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/304/HolidayGiftIdeasPart3-PartyGamesandStockingStuffers.mp3"
+        },
+        {
+            "title": "Holiday Gift Ideas, Part 2 - Family Strategy or \"Café\" Games",
+            "datePublished": "Wed, 29 Nov 2017 03:00:00 EST",
+            "length": "10673606",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/303/HolidayGiftIdeasPart1-FamilyStrategyorCafGames.mp3"
+        },
+        {
+            "title": "Holiday Gift Ideas, Part 1 - Tips for the heavier side of gaming",
+            "datePublished": "Mon, 27 Nov 2017 03:00:00 EST",
+            "length": "9870707",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/302/HolidayGiftIdeasPart1-Tipsfortheheaviersideofgaming.mp3"
+        },
+        {
+            "title": "Campaign Games, Part 3 - Campaigns for everyone!",
+            "datePublished": "Fri, 24 Nov 2017 03:00:00 EST",
+            "length": "12900489",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/301/CampaignGamesPart3-Campaignsforeveryone.mp3"
+        },
+        {
+            "title": "Campaign Games, Part 2 - Journey with me, in the dark",
+            "datePublished": "Wed, 22 Nov 2017 03:00:00 EST",
+            "length": "12183689",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/300/CampaignGamesPart2-Journeywithmeinthedark.mp3"
+        },
+        {
+            "title": "Campaign Games, Part 1 - The game continues",
+            "datePublished": "Mon, 20 Nov 2017 03:00:00 EST",
+            "length": "11746921",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/299/CampaignGamesPart1-Thegamecontinues.mp3"
+        },
+        {
+            "title": "Solitaire Games, Part 3 - Digging deeper into the solitaire experience",
+            "datePublished": "Fri, 17 Nov 2017 03:00:00 EST",
+            "length": "12635922",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/298/SolitaireGamesPart3-Diggingdeeperintothesolitaireexperience.mp3"
+        },
+        {
+            "title": "Solitaire Games, Part 2 - Some great examples of solo games",
+            "datePublished": "Wed, 15 Nov 2017 03:00:00 EST",
+            "length": "14737838",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/297/SolitaireGamesPart2-Somegreatexamplesofsologames.mp3"
+        },
+        {
+            "title": "Solitaire Games, Part 1 - What do you mean you can play board games by yourself?",
+            "datePublished": "Mon, 13 Nov 2017 03:00:00 EST",
+            "length": "11392911",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/296/SolitaireGamesPart1-Whatdoyoumeanyoucanplayboardgamesbyyourself.mp3"
+        },
+        {
+            "title": "Legacy Games, Part 3 - Opening up the Legacy",
+            "datePublished": "Fri, 10 Nov 2017 03:00:00 EST",
+            "length": "16392118",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/295/LegacyGamesPart3-OpeninguptheLegacy.mp3"
+        },
+        {
+            "title": "Legacy Games, Part 2 - Turn this card over at the end of your first game in January",
+            "datePublished": "Wed, 08 Nov 2017 03:00:00 EST",
+            "length": "13932010",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/294/LegacyGamesPart2-TurnthiscardoverattheendofyourfirstgameinJanuary.mp3"
+        },
+        {
+            "title": "Legacy Games, Part 1 - Everything that happens is your responsibility",
+            "datePublished": "Mon, 06 Nov 2017 03:00:00 EST",
+            "length": "11061884",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/293/LegacyGamesPart1-Everythingthathappensisyourresponsibility.mp3"
+        },
+        {
+            "title": "Fear in games, Part 3 - What really makes a scary game?",
+            "datePublished": "Fri, 03 Nov 2017 03:00:00 EST",
+            "length": "12505516",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/292/FearingamesPart3-Whatreallymakesascarygame.mp3"
+        },
+        {
+            "title": "Fear in games, Part 2 - Great spooky, cooperative games",
+            "datePublished": "Wed, 01 Nov 2017 03:00:00 EST",
+            "length": "8880974",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/291/FearingamesPart2-Greatspookycooperativegames.mp3"
+        },
+        {
+            "title": "Fear in games, Part 1 - How do games try to create fear?",
+            "datePublished": "Mon, 30 Oct 2017 03:00:00 EST",
+            "length": "9256302",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/290/FearingamesPart1-Howdogamestrytocreatefear.mp3"
+        },
+        {
+            "title": "Euro vs. Amerithrash, Part 3 - The differences, and coming together",
+            "datePublished": "Fri, 20 Oct 2017 03:00:00 EST",
+            "length": "15194255",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/289/EurovsAmerithrashPart3-Thedifferencesandcomingtogether.mp3"
+        },
+        {
+            "title": "Euro vs. Amerithrash, Part 2 - Defining Amerithrash (or American-style games)",
+            "datePublished": "Wed, 18 Oct 2017 03:00:00 EST",
+            "length": "11962594",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/288/EurovsAmerithrashPart1-DefiningAmerithrashorAmerican-stylegames.mp3"
+        },
+        {
+            "title": "Euro vs. Amerithrash, Part 1 - What is a Euro game?",
+            "datePublished": "Mon, 16 Oct 2017 03:00:00 EST",
+            "length": "16183564",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/287/EurovsAmerithrashPart1-WhatisaEurogame.mp3"
+        },
+        {
+            "title": "Cottage Garden, Part 3 - Challenges and Obstacles. And Cats.",
+            "datePublished": "Fri, 13 Oct 2017 03:00:00 EST",
+            "length": "13215630",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/286/CottageGardenPart3-ChallengesandObstaclesAndCats.mp3"
+        },
+        {
+            "title": "Cottage Garden, Part 2 - Flower Pots, Cloches and More Cats!",
+            "datePublished": "Wed, 11 Oct 2017 03:00:00 EST",
+            "length": "10154497",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/285/CottageGardenPart2-FlowerPotsClochesandMoreCats.mp3"
+        },
+        {
+            "title": "Cottage Garden, Part 1 - A Wheelbarrow Full of Cats",
+            "datePublished": "Mon, 09 Oct 2017 03:00:00 EST",
+            "length": "9618255",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/284/CottageGardenPart1-AWheelbarrowFullofCats.mp3"
+        },
+        {
+            "title": "Trivia Games, Part 3 - There is something for everyone",
+            "datePublished": "Fri, 29 Sep 2017 03:00:00 EST",
+            "length": "13003305",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/283/TriviaGamesPart3-Somethingforeveryone.mp3"
+        },
+        {
+            "title": "Trivia Games, Part 2 - Some ways around the knowledge problem",
+            "datePublished": "Wed, 27 Sep 2017 03:00:00 EST",
+            "length": "12961091",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/282/TriviaGamesPart2-Somewaysaroundtheknowledgeproblem.mp3"
+        },
+        {
+            "title": "Trivia Games, Part 1 - What is the best-known trivia game?",
+            "datePublished": "Mon, 25 Sep 2017 03:00:00 EST",
+            "length": "10868787",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/281/TriviaGamesPart1-Whatisthebest-knowntriviagame.mp3"
+        },
+        {
+            "title": "How many players?, Part 3 - Excellent two-player versions",
+            "datePublished": "Fri, 22 Sep 2017 03:00:00 EST",
+            "length": "13938702",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/280/HowmanyplayersPart3-Excellenttwo-playerversions.mp3"
+        },
+        {
+            "title": "How many players?, Part 2 - Why can't I play this with two players?",
+            "datePublished": "Wed, 20 Sep 2017 03:00:00 EST",
+            "length": "11653302",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/279/HowmanyplayersPart2-WhycantIplaythiswithtwoplayers.mp3"
+        },
+        {
+            "title": "How many players?, Part 1 - What do small player counts matter?",
+            "datePublished": "Mon, 18 Sep 2017 03:00:00 EST",
+            "length": "10100583",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/278/HowmanyplayersPart1-Whatdosmallplayercountsmatter.mp3"
+        },
+        {
+            "title": "Fundraising with games, Part 3 - Catan, guests and wasabi - oh my!",
+            "datePublished": "Fri, 15 Sep 2017 03:00:00 EST",
+            "length": "9660901",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/277/FundraisingwithgamesPart3-Catanguestsandwasabi-ohmy.mp3"
+        },
+        {
+            "title": "Fundraising with games, Part 2 - Other fundraisers and what we learned",
+            "datePublished": "Wed, 13 Sep 2017 03:00:00 EST",
+            "length": "8414547",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/276/FundraisingwithgamesPart2-Otherfundraisersandwhatwelearned.mp3"
+        },
+        {
+            "title": "Fundraising with games, Part 1 - Introducing the Catan-a-thon Against Cancer",
+            "datePublished": "Mon, 11 Sep 2017 03:00:00 EST",
+            "length": "8577969",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/275/FundraisingwithgamesPart1-IntroducingtheCatan-a-thonAgainstCancer.mp3"
+        },
+        {
+            "title": "Space Month: Stuff Goes Wrong in Space, Part 3 - The true panic sets in",
+            "datePublished": "Fri, 08 Sep 2017 03:00:00 EST",
+            "length": "18364076",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/274/SpaceMonthStuffGoesWronginSpacePart3-Thetruepanicsetsin.mp3"
+        },
+        {
+            "title": "Space Month: Stuff Goes Wrong in Space, Part 2 - She can't take much more of this!",
+            "datePublished": "Wed, 06 Sep 2017 03:00:00 EST",
+            "length": "12160726",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/273/SpaceMonthStuffGoesWronginSpacePart2-Shecanttakemuchmoreofthis.mp3"
+        },
+        {
+            "title": "Space Month: Stuff Goes Wrong in Space, Part 1 - The chaos begins",
+            "datePublished": "Mon, 04 Sep 2017 03:00:00 EST",
+            "length": "10648968",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/272/SpaceMonthStuffGoesWronginSpacePart1-Thechaosbegins.mp3"
+        },
+        {
+            "title": "Space Month: Planets and Exploration, Part 3 - The Red Planet",
+            "datePublished": "Fri, 01 Sep 2017 03:00:00 EST",
+            "length": "17717491",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/271/SpaceMonthPlanetsandExplorationPart3-TheRedPlanet.mp3"
+        },
+        {
+            "title": "Space Month: Planets and Exploration, Part 2 - Planets to control",
+            "datePublished": "Wed, 30 Aug 2017 03:00:00 EST",
+            "length": "16924623",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/270/SpaceMonthPlanetsandExplorationPart2-Planetstocontrol.mp3"
+        },
+        {
+            "title": "Space Month: Planets and Exploration, Part 1 - Travelling the void",
+            "datePublished": "Mon, 28 Aug 2017 03:00:00 EST",
+            "length": "10661922",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/269/SpaceMonthPlanetsandExplorationPart1-Travellingthevoid.mp3"
+        },
+        {
+            "title": "Space Month: Galactic Conquest, Part 3 - Conquering the rest",
+            "datePublished": "Fri, 25 Aug 2017 03:00:00 EST",
+            "length": "13694210",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/268/SpaceMonthGalacticConquestPart3-Conqueringtherest.mp3"
+        },
+        {
+            "title": "Space Month: Galactic Conquest, Part 2 - War or diplomacy?",
+            "datePublished": "Wed, 23 Aug 2017 03:00:00 EST",
+            "length": "10155768",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/267/SpaceMonthGalacticConquestPart2-Warordiplomacy.mp3"
+        },
+        {
+            "title": "Space Month: Galactic Conquest, Part 1 - The grandest space epic of board gaming",
+            "datePublished": "Mon, 21 Aug 2017 03:00:00 EST",
+            "length": "10529423",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/266/SpaceMonthGalacticConquestPart1-Thegrandestspaceepicofboardgaming.mp3"
+        },
+        {
+            "title": "Space Month: Franchise Games, Part 3 - The great unknown",
+            "datePublished": "Fri, 18 Aug 2017 03:00:00 EST",
+            "length": "19691923",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/265/SpaceMonthFranchiseGamesPart3-Thegreatunknown.mp3"
+        },
+        {
+            "title": "Space Month: Franchise Games, Part 2 - The final frontier",
+            "datePublished": "Wed, 16 Aug 2017 03:00:00 EST",
+            "length": "12689016",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/264/SpaceMonthFranchiseGamesPart2-Thefinalfrontier.mp3"
+        },
+        {
+            "title": "Space Month: Franchise Games, Part 1 - A galaxy far, far away",
+            "datePublished": "Mon, 14 Aug 2017 03:00:00 EST",
+            "length": "14706087",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/263/SpaceMonthFranchiseGamesPart1-Agalaxyfarfaraway.mp3"
+        },
+        {
+            "title": "Visual-spatial games, Part 3 - Some of our favourites",
+            "datePublished": "Fri, 11 Aug 2017 03:00:00 EST",
+            "length": "15198436",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/262/Visual-spatialgamesPart3-Someofourfavourites.mp3"
+        },
+        {
+            "title": "Visual-spatial games, Part 2 - Further examples and evolutions",
+            "datePublished": "Wed, 09 Aug 2017 03:00:00 EST",
+            "length": "9253803",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/261/Visual-spatialgamesPart2-Furtherexamplesandevolutions.mp3"
+        },
+        {
+            "title": "Visual-spatial games, Part 1 - What do we mean by visual-spatial?",
+            "datePublished": "Mon, 07 Aug 2017 03:00:00 EST",
+            "length": "9217022",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/260/Visual-spatialgamesPart1-Whatdowemeanbyvisual-spatial.mp3"
+        },
+        {
+            "title": "Teaching Games, Part 3 - Troubleshooting the process",
+            "datePublished": "Fri, 04 Aug 2017 03:00:00 EST",
+            "length": "13348541",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/259/TeachingGamesPart3-Troubleshootingtheprocess.mp3"
+        },
+        {
+            "title": "Teaching Games, Part 2 - How to approach teaching a game",
+            "datePublished": "Wed, 02 Aug 2017 03:00:00 EST",
+            "length": "11815467",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/258/TeachingGamesPart2-Howtoapproachteachingagame.mp3"
+        },
+        {
+            "title": "Teaching Games, Part 1 - Things to know before you even get to the table",
+            "datePublished": "Mon, 31 Jul 2017 03:00:00 EST",
+            "length": "10536094",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/257/TeachingGamesPart1-Thingstoknowbeforeyouevengettothetable.mp3"
+        },
+        {
+            "title": "Deception: Murder in Hong Kong - Part 3 - Imperfections and preferences",
+            "datePublished": "Fri, 28 Jul 2017 03:00:00 EST",
+            "length": "11774941",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/256/DeceptionMurderinHongKong-Part3-Imperfectionsandpreferences.mp3"
+        },
+        {
+            "title": "Deception: Murder in Hong Kong - Part 2 - The mechanical DNA of the game",
+            "datePublished": "Wed, 26 Jul 2017 03:00:00 EST",
+            "length": "11369938",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/255/DeceptionMurderinHongKong-Part2-ThemechanicalDNAofthegame.mp3"
+        },
+        {
+            "title": "Deception: Murder in Hong Kong - Part 1 - What is Deception all about?",
+            "datePublished": "Mon, 24 Jul 2017 03:00:00 EST",
+            "length": "12903430",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/254/DeceptionMurderinHongKong-Part1-WhatisDeceptionallabout.mp3"
+        },
+        {
+            "title": "Hidden Movement, Part 3 - Taking the concept further",
+            "datePublished": "Fri, 14 Jul 2017 03:00:00 EST",
+            "length": "9882824",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/253/HiddenMovementPart3-Takingtheconceptfurther.mp3"
+        },
+        {
+            "title": "Hidden Movement, Part 2 - You can't see me",
+            "datePublished": "Wed, 12 Jul 2017 03:00:00 EST",
+            "length": "9918351",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/252/HiddenMovementPart2-Youcantseeme.mp3"
+        },
+        {
+            "title": "Hidden Movement, Part 1 - Mysterious Movement",
+            "datePublished": "Mon, 10 Jul 2017 03:00:00 EST",
+            "length": "8215585",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/251/HiddenMovementPart1-MysteriousMovement.mp3"
+        },
+        {
+            "title": "Lovecraft, Part 3 - Exploring the depths of insanity",
+            "datePublished": "Fri, 07 Jul 2017 03:00:00 EST",
+            "length": "19670169",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/250/LovecraftPart3-Exploringthedepthsofinsanity.mp3"
+        },
+        {
+            "title": "Lovecraft, Part 2 - Different types of Lovecraftian games, and games the theme has been attached to",
+            "datePublished": "Wed, 05 Jul 2017 03:00:00 EST",
+            "length": "10781849",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/249/LovecraftPart2-DifferenttypesofLovecraftiangamesandgamesthethemehasbeenattachedto.mp3"
+        },
+        {
+            "title": "Lovecraft, Part 1 - The themes of Lovecraft's work and how they are represented in modern media",
+            "datePublished": "Mon, 03 Jul 2017 03:00:00 EST",
+            "length": "9004686",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/248/LovecraftPart1-ThethemesofLovecraftsworkandhowtheyarerepresentedinmodernmedia.mp3"
+        },
+        {
+            "title": "Abstract Games, Part 3 - Abstract vs. Representational",
+            "datePublished": "Fri, 23 Jun 2017 03:00:00 EST",
+            "length": "11209844",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/247/AbstractGamesPart3-AbstractvsRepresentational.mp3"
+        },
+        {
+            "title": "Abstract Games, Part 2 - Some excellent, contemporary abstract games",
+            "datePublished": "Wed, 21 Jun 2017 03:00:00 EST",
+            "length": "14446938",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/246/AbstractGamesPart2-Someexcellentcontemporaryabstractgames.mp3"
+        },
+        {
+            "title": "Abstract Games, Part 1 - What is an abstract game? Which ones might you know?",
+            "datePublished": "Mon, 19 Jun 2017 03:00:00 EST",
+            "length": "9713132",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/245/AbstractGamesPart1-WhatisanabstractgameWhichonesmightyouknow.mp3"
+        },
+        {
+            "title": "Drawing Games - Part 3 - More complex games, and the definition of a drawing game",
+            "datePublished": "Fri, 16 Jun 2017 03:00:00 EST",
+            "length": "14835638",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/244/DrawingGames-Part3-Morecomplexgamesandthedefinitionofadrawinggame.mp3"
+        },
+        {
+            "title": "Drawing Games - Part 2 - Party games and others to get you started",
+            "datePublished": "Wed, 14 Jun 2017 03:00:00 EST",
+            "length": "11326870",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/243/DrawingGames-Part2-Partygamesandotherstogetyoustarted.mp3"
+        },
+        {
+            "title": "Drawing Games - Part 1 - The nostalgia effect",
+            "datePublished": "Mon, 12 Jun 2017 03:00:00 EST",
+            "length": "7085839",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/242/DrawingGames-Part1-Thenostalgiaeffect.mp3"
+        },
+        {
+            "title": "Dinosaurs, Part 3 - Dinosaur games to get your teeth into",
+            "datePublished": "Fri, 09 Jun 2017 03:00:00 EST",
+            "length": "13843819",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/241/DinosaursPart3-Dinosaurgamestogetyourteethinto.mp3"
+        },
+        {
+            "title": "Dinosaurs, Part 2 - Dinosaur games for kids and giant monster games",
+            "datePublished": "Wed, 07 Jun 2017 03:00:00 EST",
+            "length": "9575202",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/240/DinosaursPart2-Dinosaurgamesforkidsandgiantmonstergames.mp3"
+        },
+        {
+            "title": "Dinosaurs, Part 0 - The Meteor Strike",
+            "datePublished": "Mon, 05 Jun 2017 03:00:00 EST",
+            "length": "1311753",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/239/DinosaursPart0-TheMeteorStrike.mp3"
+        },
+        {
+            "title": "Suburbia and Ludwig, Part 3 - Comparing the two!",
+            "datePublished": "Fri, 02 Jun 2017 03:00:00 EST",
+            "length": "10085954",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/238/SuburbiaandLudwigPart3-Comparingthetwo.mp3"
+        },
+        {
+            "title": "Suburbia and Ludwig, Part 2 - Exploring Castles of Mad King Ludwig",
+            "datePublished": "Wed, 31 May 2017 03:00:00 EST",
+            "length": "10045830",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/237/SuburbiaandLudwigPart1-ExploringCastlesofMadKingLudwig.mp3"
+        },
+        {
+            "title": "Suburbia and Ludwig, Part 1 - Examining Suburbia",
+            "datePublished": "Mon, 29 May 2017 03:00:00 EST",
+            "length": "12718260",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/236/SuburbiaandLudwigPart1-ExaminingSuburbia.mp3"
+        },
+        {
+            "title": "Board Game Apps, Part 3 - More apps,some of their other benefits, and future possibilities",
+            "datePublished": "Fri, 26 May 2017 03:00:00 EST",
+            "length": "19397666",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/235/BoardGameAppsPart3-Moreappssomeoftheirotherbenefitsandfuturepossibilities.mp3"
+        },
+        {
+            "title": "Board Game Apps, Part 2 - Companion apps, examples, and how they interact with games",
+            "datePublished": "Wed, 24 May 2017 03:00:00 EST",
+            "length": "20102763",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/234/BoardGameAppsPart2-Howappsworkwithgamesandsomeexamples.mp3"
+        },
+        {
+            "title": "Board Game Apps, Part 1 - The origins of board game apps, and some of their benefits",
+            "datePublished": "Mon, 22 May 2017 03:00:00 EST",
+            "length": "10243534",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/233/BoardGameAppsPart1-Whatdoappsmeantogameplayers.mp3"
+        },
+        {
+            "title": "Racing games, Part 3 - Wagering, obstacles and unusual ways of racing",
+            "datePublished": "Fri, 19 May 2017 03:00:00 EST",
+            "length": "14361672",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/232/RacinggamesPart3-Wageringobstaclesandunusualwaysofracing.mp3"
+        },
+        {
+            "title": "Racing games, Part 2 - Some excellent, accessible racing games",
+            "datePublished": "Wed, 17 May 2017 03:00:00 EST",
+            "length": "10407778",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/231/RacinggamesPart2-Someexcellentaccessibleracinggames.mp3"
+        },
+        {
+            "title": "Racing games, Part 1 - Why is racing fun, and what challenges does it present?",
+            "datePublished": "Mon, 15 May 2017 03:00:00 EST",
+            "length": "8066789",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/230/RacinggamesPart1-Whyisracingfunandwhatchallengesdoesitpresent.mp3"
+        },
+        {
+            "title": "Ticket to Ride, Part 3 - Cool expansions, and how they mitigate some of our problems",
+            "datePublished": "Fri, 12 May 2017 03:00:00 EST",
+            "length": "17044136",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/229/TickettoRidePart3-Coolexpansionsandhowtheymitigatesomeofourproblems.mp3"
+        },
+        {
+            "title": "Ticket to Ride, Part 2 - What are Ticket to Ride's flaws?",
+            "datePublished": "Wed, 10 May 2017 03:00:00 EST",
+            "length": "10872969",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/228/TickettoRidePart2-WhatareTickettoRidesflaws.mp3"
+        },
+        {
+            "title": "Ticket to Ride, Part 1 - What is Ticket to Ride?",
+            "datePublished": "Mon, 08 May 2017 03:00:00 EST",
+            "length": "8567924",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/227/TickettoRidePart1-WhatisTickettoRide.mp3"
+        },
+        {
+            "title": "Dice Rolling, part 3 - Different ways to use dice, custom dice, and dice versions of previously existing games",
+            "datePublished": "Fri, 05 May 2017 03:00:00 EST",
+            "length": "17335870",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/226/DiceRollingpart3-Differentwaystousedicecustomdiceanddiceversionsofpreviouslyexistinggames.mp3"
+        },
+        {
+            "title": "Dice Rolling, part 2 - Dice games, classic and contemporary",
+            "datePublished": "Wed, 03 May 2017 03:00:00 EST",
+            "length": "12497574",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/225/DiceRollingpart2-Dicegamesclassicandcontemporary.mp3"
+        },
+        {
+            "title": "Dice Rolling, part 1 - Why are dice such a great mechanism and component in gaming?",
+            "datePublished": "Mon, 01 May 2017 03:00:00 EST",
+            "length": "10321679",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/224/DiceRollingpart1-Whyaredicesuchagreatmechanismandcomponentingaming.mp3"
+        },
+        {
+            "title": "Food-themed games, Part 3 - Other ways food is used in games",
+            "datePublished": "Fri, 28 Apr 2017 03:00:00 EST",
+            "length": "10558988",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/223/Food-themedgamesPart3-Otherwaysfoodisusedingames.mp3"
+        },
+        {
+            "title": "Food-themed games, Part 2 - Games in which you eat",
+            "datePublished": "Wed, 26 Apr 2017 03:00:00 EST",
+            "length": "8275259",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/222/Food-themedgamesPart2-Gamesinwhichyoueat.mp3"
+        },
+        {
+            "title": "Food-themed games, Part 1 - Food as a theme, and as a veneer on a game",
+            "datePublished": "Mon, 24 Apr 2017 03:00:00 EST",
+            "length": "9991483",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/221/Food-themedgamesPart1-Foodasathemeandasaveneeronagame.mp3"
+        },
+        {
+            "title": "Imhotep, Part 3 - Board layouts, player counts, and who will or won't like this game?",
+            "datePublished": "Fri, 21 Apr 2017 03:00:00 EST",
+            "length": "12900482",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/220/ImhotepPart3-Boardlayoutsplayercountsandwhowillorwontlikethisgame.mp3"
+        },
+        {
+            "title": "Imhotep, Part 2 - The five methods of scoring - and their alternative B-sides",
+            "datePublished": "Wed, 19 Apr 2017 03:00:00 EST",
+            "length": "10608812",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/219/ImhotepPart2-Thefivemethodsofscoring-andtheiralternativeB-sides.mp3"
+        },
+        {
+            "title": "Imhotep, Part 1 - Discussing the basic gameplay of this Spiel des Jahres 2016 runner-up",
+            "datePublished": "Mon, 17 Apr 2017 03:00:00 EST",
+            "length": "10299522",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/218/ImhotepPart1-DiscussingthebasicgameplayofthisSpieldesJahres2016runner-up.mp3"
+        },
+        {
+            "title": "Drafting Games, Part 3 - Two-player games, and comparing drafting to worker placement",
+            "datePublished": "Fri, 14 Apr 2017 03:00:00 EST",
+            "length": "12246365",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/217/DraftingGamesPart3-Two-playergamesandcomparingdraftingtoworkerplacement.mp3"
+        },
+        {
+            "title": "Drafting Games, Part 2 - Styles of drafting, and how the mechanism can vary",
+            "datePublished": "Wed, 12 Apr 2017 03:00:00 EST",
+            "length": "11281297",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/216/DraftingGamesPart2-Moreexamplesandhowthemechanismcanvary.mp3"
+        },
+        {
+            "title": "Drafting Games, Part 1 - What is drafting?",
+            "datePublished": "Mon, 10 Apr 2017 03:00:00 EST",
+            "length": "8714192",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/215/DraftingGamesPart1-Whatisdrafting.mp3"
+        },
+        {
+            "title": "Pirates, Part 3 - The big guns, and pirates in space",
+            "datePublished": "Fri, 07 Apr 2017 03:00:00 EST",
+            "length": "14339514",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/214/PiratesPart3-Thebiggunsandpiratesinspace.mp3"
+        },
+        {
+            "title": "Pirates, Part 2 - Pirate games for kids, and examining the mid-weight games",
+            "datePublished": "Wed, 05 Apr 2017 03:00:00 EST",
+            "length": "15237709",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/213/PiratesPart2-Pirategamesforkidsandexaminingthemid-weightgames.mp3"
+        },
+        {
+            "title": "Pirates, Part 1 - Discussing the Pirate theme, and looking at Friday",
+            "datePublished": "Mon, 03 Apr 2017 03:00:00 EST",
+            "length": "10406931",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/212/PiratesPart1-DiscussingthePiratethemeandlookingatFriday.mp3"
+        },
+        {
+            "title": "Raptor, Part 3 - Games with some similarities, and two-player and asymmetrical games",
+            "datePublished": "Fri, 31 Mar 2017 03:00:00 EST",
+            "length": "15015353",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/211/RaptorPart3-Gameswithsomesimilaritiesandtwo-playerandasymmetricalgames.mp3"
+        },
+        {
+            "title": "Raptor, Part 2 - Card actions and game strategy",
+            "datePublished": "Wed, 29 Mar 2017 03:00:00 EST",
+            "length": "11564264",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/210/RaptorPart2-Cardactionsandgamestrategy.mp3"
+        },
+        {
+            "title": "Raptor, Part 1 - What is Raptor, and what is the basic gameplay like?",
+            "datePublished": "Mon, 27 Mar 2017 03:00:00 EST",
+            "length": "8074723",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/209/RaptorPart1-WhatisRaptorandwhatisthebasicgameplaylike.mp3"
+        },
+        {
+            "title": "Worker Placement games, Part 3 - The history of worker placement, and examples of mechanisms that work well with this one",
+            "datePublished": "Fri, 24 Mar 2017 03:00:00 EST",
+            "length": "12668946",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/208/WorkerPlacementgamesPart3-Thehistoryofworkerplacementandexamplesofmechanismsthatworkwellwiththisone.mp3"
+        },
+        {
+            "title": "Worker Placement games, Part 2 - Agricola, and how worker placement games evolve between turns",
+            "datePublished": "Wed, 22 Mar 2017 03:00:00 EST",
+            "length": "9051426",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/207/WorkerPlacementgamesPart2-Agricolaandhowworkerplacementgamesevolvebetweenturns.mp3"
+        },
+        {
+            "title": "Worker Placement games, Part 1 - What is the worker placement mechanic, and what are some examples?",
+            "datePublished": "Mon, 20 Mar 2017 03:00:00 EST",
+            "length": "7104572",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/206/WorkerPlacementgamesPart3-Whatistheworkerplacementmechanicandwhataresomeexamples.mp3"
+        },
+        {
+            "title": "Zombies, Part 3 - Zombie games that we enjoy, and what makes them good",
+            "datePublished": "Fri, 17 Mar 2017 03:00:00 EST",
+            "length": "15580853",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/205/ZombiesPart3-Zombiegamesthatweenjoyandwhatmakesthemgood.mp3"
+        },
+        {
+            "title": "Zombies, Part 2 - The Walking Dead franchise in board games",
+            "datePublished": "Wed, 15 Mar 2017 03:00:00 EST",
+            "length": "9525878",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/204/ZombiesPart2-TheWalkingDeadfranchiseinboardgames.mp3"
+        },
+        {
+            "title": "Zombies, Part 1 - Why are zombies so common in board games?",
+            "datePublished": "Mon, 13 Mar 2017 03:00:00 EST",
+            "length": "11529575",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/203/ZombiesPart1-Whyarezombiessocommoninboardgames.mp3"
+        },
+        {
+            "title": "Isle of Skye, Part 3 - Inspiration and comparable games",
+            "datePublished": "Fri, 10 Mar 2017 03:00:00 EST",
+            "length": "11826749",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/202/IsleofSkyePart3-Inspirationandcomparablegames.mp3"
+        },
+        {
+            "title": "Isle of Skye, Part 2 - Gameplay and strategies",
+            "datePublished": "Wed, 08 Mar 2017 03:00:00 EST",
+            "length": "10559078",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/201/IsleofSkyePart2-Gameplayandstrategies.mp3"
+        },
+        {
+            "title": "Isle of Skye, Part 1 - An introduction to the game",
+            "datePublished": "Mon, 06 Mar 2017 03:00:00 EST",
+            "length": "8795709",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/200/IsleofSkyePart1-Anintroductiontothegame.mp3"
+        },
+        {
+            "title": "Hidden Traitor Games, Part 3 - Games to get your teeth into",
+            "datePublished": "Fri, 03 Mar 2017 03:00:00 EST",
+            "length": "13072191",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/199/HiddenTraitorGamesPart3-Gamestogetyourteethinto.mp3"
+        },
+        {
+            "title": "Hidden Traitor Games, Part 2 - Accessible examples",
+            "datePublished": "Wed, 01 Mar 2017 03:00:00 EST",
+            "length": "11493978",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/198/HiddenTraitorGamesPart1-Accessibleexamples.mp3"
+        },
+        {
+            "title": "Hidden Traitor Games, Part 1 - What are they?",
+            "datePublished": "Mon, 27 Feb 2017 03:00:00 EST",
+            "length": "8542768",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/197/HiddenTraitorGamesPart1-Accessiblehiddentraitorgames.mp3"
+        },
+        {
+            "title": "Introduction to Gaming Terminology, Part 3 - Game Genres",
+            "datePublished": "Fri, 24 Feb 2017 03:00:00 EST",
+            "length": "14306080",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/196/IntroductiontoGamingTerminologyPart3-GameGenres.mp3"
+        },
+        {
+            "title": "Introduction to Gaming Terminology, Part 2 - Game Mechanisms",
+            "datePublished": "Wed, 22 Feb 2017 03:00:00 EST",
+            "length": "13876403",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/195/IntroductiontoGamingTerminologyPart2-GameMechanisms.mp3"
+        },
+        {
+            "title": "Introduction to Gaming Terminology, Part 1 - Game Categories",
+            "datePublished": "Mon, 20 Feb 2017 03:00:00 EST",
+            "length": "9330261",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/194/IntroductiontoGamingTerminologyPart1-GameCategories.mp3"
+        },
+        {
+            "title": "Out With the Old",
+            "datePublished": "Tue, 20 Dec 2016 03:00:00 EST",
+            "length": "14352717",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/193/OutWiththeOld.mp3"
+        },
+        {
+            "title": "Game Spotlight: For Sale",
+            "datePublished": "Tue, 13 Dec 2016 03:00:00 EST",
+            "length": "16308830",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/192/GameSpotlightForSale.mp3"
+        },
+        {
+            "title": "Bluffing and Deception",
+            "datePublished": "Tue, 06 Dec 2016 03:00:00 EST",
+            "length": "18578348",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/191/BluffingandDeception.mp3"
+        },
+        {
+            "title": "Meet the Curator",
+            "datePublished": "Mon, 28 Nov 2016 03:00:00 EST",
+            "length": "19226603",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/190/MeettheCurator.mp3"
+        },
+        {
+            "title": "The Panic! Series",
+            "datePublished": "Tue, 22 Nov 2016 03:00:00 EST",
+            "length": "18475112",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/189/ThePanicSeries.mp3"
+        },
+        {
+            "title": "Publishers We Love",
+            "datePublished": "Tue, 15 Nov 2016 03:00:00 EST",
+            "length": "21077262",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/188/PublishersWeLove.mp3"
+        },
+        {
+            "title": "Favourite Designers",
+            "datePublished": "Tue, 08 Nov 2016 03:00:00 EST",
+            "length": "21514512",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/187/FavouriteDesigners.mp3"
+        },
+        {
+            "title": "Game Spotlight: A Touch Of Evil",
+            "datePublished": "Tue, 01 Nov 2016 03:00:00 EST",
+            "length": "18821954",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/186/GameSpotlightATouchOfEvil.mp3"
+        },
+        {
+            "title": "Top 10 Café Recommendations, Part Two",
+            "datePublished": "Tue, 25 Oct 2016 03:00:00 EST",
+            "length": "18442930",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/185/Top10CafRecommendationsPartTwo.mp3"
+        },
+        {
+            "title": "Top 10 Cafe Recommendations, part one",
+            "datePublished": "Fri, 21 Oct 2016 03:00:00 EST",
+            "length": "18215142",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/184/Top10CafeRecommendationspartone.mp3"
+        },
+        {
+            "title": "Technical Difficulties",
+            "datePublished": "Tue, 18 Oct 2016 03:00:00 EST",
+            "length": "304273",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/183/TechnicalDifficulties.mp3"
+        },
+        {
+            "title": "Game Spotlight: ...And Then We Held Hands",
+            "datePublished": "Tue, 11 Oct 2016 03:00:00 EST",
+            "length": "14988497",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/182/GameSpotlightAndThenWeHeldHands.mp3"
+        },
+        {
+            "title": "Game Spotlight: The Long Night",
+            "datePublished": "Tue, 04 Oct 2016 03:00:00 EST",
+            "length": "15075432",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/181/GameSpotlightTheLongNight.mp3"
+        },
+        {
+            "title": "Limited Play",
+            "datePublished": "Tue, 27 Sep 2016 03:00:00 EST",
+            "length": "19940895",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/180/LimitedPlay.mp3"
+        },
+        {
+            "title": "Absolute Beginners",
+            "datePublished": "Tue, 20 Sep 2016 03:00:00 EST",
+            "length": "17478280",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/179/AbsoluteBeginners.mp3"
+        },
+        {
+            "title": "Game Spotlight: Ra",
+            "datePublished": "Tue, 13 Sep 2016 03:00:00 EST",
+            "length": "17273062",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/178/GameSpotlightRa.mp3"
+        },
+        {
+            "title": "Git Gud",
+            "datePublished": "Tue, 06 Sep 2016 03:00:00 EST",
+            "length": "16770257",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/177/GitGud.mp3"
+        },
+        {
+            "title": "Hand Management",
+            "datePublished": "Tue, 30 Aug 2016 03:00:00 EST",
+            "length": "17251264",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/176/HandManagement.mp3"
+        },
+        {
+            "title": "GenCon 2016!",
+            "datePublished": "Tue, 23 Aug 2016 03:00:00 EST",
+            "length": "21163008",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/175/GenCon2016.mp3"
+        },
+        {
+            "title": "Gambling",
+            "datePublished": "Tue, 16 Aug 2016 03:00:00 EST",
+            "length": "15184102",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/174/Gambling.mp3"
+        },
+        {
+            "title": "Worst Of the Worst",
+            "datePublished": "Tue, 09 Aug 2016 03:00:00 EST",
+            "length": "16020792",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/173/WorstOftheWorst.mp3"
+        },
+        {
+            "title": "Game Communities",
+            "datePublished": "Tue, 02 Aug 2016 03:00:00 EST",
+            "length": "16569218",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/172/GameCommunities.mp3"
+        },
+        {
+            "title": "Catch 'Em All",
+            "datePublished": "Tue, 26 Jul 2016 03:00:00 EST",
+            "length": "17753715",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/171/CatchEmAll.mp3"
+        },
+        {
+            "title": "The Art on the Box",
+            "datePublished": "Tue, 19 Jul 2016 03:00:00 EST",
+            "length": "19099631",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/170/TheArtontheBox.mp3"
+        },
+        {
+            "title": "Game Art",
+            "datePublished": "Tue, 12 Jul 2016 03:00:00 EST",
+            "length": "18741446",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/169/GameArt.mp3"
+        },
+        {
+            "title": "Game Spotlight: Puerto Rico",
+            "datePublished": "Tue, 05 Jul 2016 03:00:00 EST",
+            "length": "16434636",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/168/GameSpotlightPuertoRico.mp3"
+        },
+        {
+            "title": "Game Spotlight: Catan",
+            "datePublished": "Tue, 28 Jun 2016 03:00:00 EST",
+            "length": "21561259",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/167/GameSpotlightCatan.mp3"
+        },
+        {
+            "title": "Game Spotlight: 7 Wonders Duel",
+            "datePublished": "Tue, 21 Jun 2016 03:00:00 EST",
+            "length": "17476608",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/166/GameSpotlight7WondersDuel.mp3"
+        },
+        {
+            "title": "Storybook Games",
+            "datePublished": "Tue, 14 Jun 2016 03:00:00 EST",
+            "length": "16613104",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/165/StorybookGames.mp3"
+        },
+        {
+            "title": "House Rules",
+            "datePublished": "Tue, 07 Jun 2016 03:00:00 EST",
+            "length": "16255749",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/164/HouseRules.mp3"
+        },
+        {
+            "title": "Games That Aren't Fun",
+            "datePublished": "Tue, 31 May 2016 03:00:00 EST",
+            "length": "18100203",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/163/GamesThatArentFun.mp3"
+        },
+        {
+            "title": "STAR WARS",
+            "datePublished": "Tue, 24 May 2016 03:00:00 EST",
+            "length": "17060321",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/162/STARWARS.mp3"
+        },
+        {
+            "title": "We Have A Problem, Part Two",
+            "datePublished": "Tue, 17 May 2016 03:00:00 EST",
+            "length": "28506304",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/161/WeHaveAProblemPartTwo.mp3"
+        },
+        {
+            "title": "We Have A Problem, Part One",
+            "datePublished": "Tue, 10 May 2016 03:00:00 EST",
+            "length": "15833920",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/160/WeHaveAProblemPartOne.mp3"
+        },
+        {
+            "title": "Interview: Ignacy Trzewiczek",
+            "datePublished": "Tue, 03 May 2016 03:00:00 EST",
+            "length": "17206542",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/159/InterviewIgnacyTrzewiczek.mp3"
+        },
+        {
+            "title": "Interview: Ignacy Trzewiczek",
+            "datePublished": "Tue, 26 Apr 2016 03:00:00 EST",
+            "length": "18447881",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/158/InterviewIgnacyTrzewiczek.mp3"
+        },
+        {
+            "title": "Mathematical Games",
+            "datePublished": "Tue, 19 Apr 2016 03:00:00 EST",
+            "length": "15026113",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/157/MathematicalGames.mp3"
+        },
+        {
+            "title": "Gurus Love 'Em, People Won't Try 'Em",
+            "datePublished": "Tue, 12 Apr 2016 03:00:00 EST",
+            "length": "22988172",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/156/GurusLoveEmPeopleWontTryEm.mp3"
+        },
+        {
+            "title": "People Love 'Em, Gurus Hate 'Em (part 2)",
+            "datePublished": "Tue, 05 Apr 2016 03:00:00 EST",
+            "length": "24249572",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/155/PeopleLoveEmGurusHateEmpart2.mp3"
+        },
+        {
+            "title": "People Love 'Em, Gurus Hate 'Em",
+            "datePublished": "Tue, 29 Mar 2016 03:00:00 EST",
+            "length": "18440358",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/154/PeopleLoveEmGurusHateEm.mp3"
+        },
+        {
+            "title": "Interview: Justin Gary (Part two)",
+            "datePublished": "Tue, 22 Mar 2016 03:00:00 EST",
+            "length": "20515525",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/153/InterviewJustinGaryParttwo.mp3"
+        },
+        {
+            "title": "Interview: Justin Gary (Part one)",
+            "datePublished": "Tue, 15 Mar 2016 03:00:00 EST",
+            "length": "19093210",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/152/InterviewJustinGaryPartone.mp3"
+        },
+        {
+            "title": "Game Spotlight: Mysterium (part 2)",
+            "datePublished": "Tue, 08 Mar 2016 03:00:00 EST",
+            "length": "11899778",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/151/GameSpotlightMysteriumpart2.mp3"
+        },
+        {
+            "title": "Game Spotlight: Mysterium (part 1)",
+            "datePublished": "Tue, 01 Mar 2016 03:00:00 EST",
+            "length": "14284654",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/150/GameSpotlightMysteriumpart1.mp3"
+        },
+        {
+            "title": "Realism and Simulation",
+            "datePublished": "Tue, 23 Feb 2016 03:00:00 EST",
+            "length": "11948262",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/149/RealismandSimulation.mp3"
+        },
+        {
+            "title": "Game Spotlight: Codenames",
+            "datePublished": "Tue, 16 Feb 2016 03:00:00 EST",
+            "length": "13649292",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/148/GameSpotlightCodenames.mp3"
+        },
+        {
+            "title": "Game Spotlight: Patchwork",
+            "datePublished": "Wed, 10 Feb 2016 03:00:00 EST",
+            "length": "14293013",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/147/GameSpotlightPatchwork.mp3"
+        },
+        {
+            "title": "Miniatures games",
+            "datePublished": "Tue, 02 Feb 2016 03:00:00 EST",
+            "length": "21138348",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/146/Miniaturesgames.mp3"
+        },
+        {
+            "title": "Chaos",
+            "datePublished": "Tue, 26 Jan 2016 03:00:00 EST",
+            "length": "19991050",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/145/Chaos.mp3"
+        },
+        {
+            "title": "Game Spotlight: Shakespeare",
+            "datePublished": "Tue, 19 Jan 2016 03:00:00 EST",
+            "length": "21120376",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/144/GameSpotlightShakespeare.mp3"
+        },
+        {
+            "title": "Getting Into Character",
+            "datePublished": "Tue, 12 Jan 2016 03:00:00 EST",
+            "length": "21188085",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/143/GettingIntoCharacter.mp3"
+        },
+        {
+            "title": "Drinking Games",
+            "datePublished": "Tue, 22 Dec 2015 03:00:00 EST",
+            "length": "14530768",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/142/DrinkingGames.mp3"
+        },
+        {
+            "title": "When Game Boxes Lie",
+            "datePublished": "Tue, 15 Dec 2015 03:00:00 EST",
+            "length": "16912299",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/141/WhenGameBoxesLie.mp3"
+        },
+        {
+            "title": "Game Spotlight: Pandemic",
+            "datePublished": "Tue, 08 Dec 2015 03:00:00 EST",
+            "length": "17596562",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/140/GameSpotlightPandemic.mp3"
+        },
+        {
+            "title": "Game Spotlight: Abraca...What?",
+            "datePublished": "Tue, 01 Dec 2015 03:00:00 EST",
+            "length": "15424010",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/139/GameSpotlightAbracaWhat.mp3"
+        },
+        {
+            "title": "Guru Voodoo: Get-To-Know-You Games",
+            "datePublished": "Tue, 24 Nov 2015 03:00:00 EST",
+            "length": "15512200",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/138/GuruVoodooGet-To-Know-YouGames.mp3"
+        },
+        {
+            "title": "Learning Games",
+            "datePublished": "Tue, 17 Nov 2015 03:00:00 EST",
+            "length": "18659432",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/137/LearningGames.mp3"
+        },
+        {
+            "title": "Game Spotlight: Samurai Spirit",
+            "datePublished": "Tue, 10 Nov 2015 03:00:00 EST",
+            "length": "13777669",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/136/GameSpotlightSamuraiSpirit.mp3"
+        },
+        {
+            "title": "Game Spotlight: Specter Ops",
+            "datePublished": "Mon, 02 Nov 2015 03:00:00 EST",
+            "length": "15566952",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/135/GameSpotlightSpecterOps.mp3"
+        },
+        {
+            "title": "Guru Voodoo: Long Game, Simple Rules",
+            "datePublished": "Tue, 27 Oct 2015 03:00:00 EST",
+            "length": "13338394",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/134/GuruVoodooLongGameSimpleRules.mp3"
+        },
+        {
+            "title": "Deckbuilding Games",
+            "datePublished": "Tue, 20 Oct 2015 03:00:00 EST",
+            "length": "14619115",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/133/DeckbuildingGames.mp3"
+        },
+        {
+            "title": "Game Spotlight: Cacao",
+            "datePublished": "Tue, 13 Oct 2015 03:00:00 EST",
+            "length": "16946218",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/132/GameSpotlightCacao.mp3"
+        },
+        {
+            "title": "Game Spotlight: Carcassonne",
+            "datePublished": "Tue, 06 Oct 2015 03:00:00 EST",
+            "length": "15502587",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/131/GameSpotlightCarcassonne.mp3"
+        },
+        {
+            "title": "Teaching games",
+            "datePublished": "Tue, 29 Sep 2015 03:00:00 EST",
+            "length": "15833546",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/130/Teachinggames.mp3"
+        },
+        {
+            "title": "Teaching games",
+            "datePublished": "Tue, 22 Sep 2015 03:00:00 EST",
+            "length": "13824417",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/129/Teachinggames.mp3"
+        },
+        {
+            "title": "Nautical Games",
+            "datePublished": "Tue, 15 Sep 2015 03:00:00 EST",
+            "length": "19578879",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/128/NauticalGames.mp3"
+        },
+        {
+            "title": "Game Spotlight: Vault Wars",
+            "datePublished": "Tue, 08 Sep 2015 03:00:00 EST",
+            "length": "15913858",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/127/GameSpotlightVaultWars.mp3"
+        },
+        {
+            "title": "Game Spotlight: Good Cop Bad Cop",
+            "datePublished": "Tue, 01 Sep 2015 03:00:00 EST",
+            "length": "19128383",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/126/GameSpotlightGoodCopBadCop.mp3"
+        },
+        {
+            "title": "Stag-ette Party",
+            "datePublished": "Tue, 25 Aug 2015 03:00:00 EST",
+            "length": "15849429",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/125/Stag-etteParty.mp3"
+        },
+        {
+            "title": "Games in Space",
+            "datePublished": "Tue, 18 Aug 2015 03:00:00 EST",
+            "length": "18178715",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/124/GamesinSpace.mp3"
+        },
+        {
+            "title": "GenCon 2015",
+            "datePublished": "Tue, 11 Aug 2015 03:00:00 EST",
+            "length": "13113886",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/123/GenCon2015.mp3"
+        },
+        {
+            "title": "Game Spotlight: Welcome To the Dungeon",
+            "datePublished": "Tue, 04 Aug 2015 03:00:00 EST",
+            "length": "14794564",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/122/GameSpotlightWelcomeTotheDungeon.mp3"
+        },
+        {
+            "title": "Guru Voodoo: Roleplayers",
+            "datePublished": "Tue, 28 Jul 2015 03:00:00 EST",
+            "length": "14846327",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/121/GuruVoodooRoleplayers.mp3"
+        },
+        {
+            "title": "Game Spotlight: Colt Express",
+            "datePublished": "Tue, 21 Jul 2015 03:00:00 EST",
+            "length": "16053457",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/120/GameSpotlightColtExpress.mp3"
+        },
+        {
+            "title": "Superheroes",
+            "datePublished": "Tue, 14 Jul 2015 03:00:00 EST",
+            "length": "19825474",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/119/Superheroes.mp3"
+        },
+        {
+            "title": "Game Spotlight: Machi Koro",
+            "datePublished": "Tue, 07 Jul 2015 03:00:00 EST",
+            "length": "15436967",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/118/GameSpotlightMachiKoro.mp3"
+        },
+        {
+            "title": "Guru Voodoo: Sullen Teens",
+            "datePublished": "Tue, 30 Jun 2015 03:00:00 EST",
+            "length": "14969271",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/117/GuruVoodooSullenTeens.mp3"
+        },
+        {
+            "title": "Debating Games",
+            "datePublished": "Tue, 23 Jun 2015 03:00:00 EST",
+            "length": "15811812",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/116/DebatingGames.mp3"
+        },
+        {
+            "title": "The Alpha Player",
+            "datePublished": "Tue, 16 Jun 2015 03:00:00 EST",
+            "length": "16004910",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/115/TheAlphaPlayer.mp3"
+        },
+        {
+            "title": "Party vs. Strategy",
+            "datePublished": "Tue, 09 Jun 2015 03:00:00 EST",
+            "length": "13736291",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/114/PartyvsStrategy.mp3"
+        },
+        {
+            "title": "Game Spotlight: Ladies & Gentlemen",
+            "datePublished": "Tue, 02 Jun 2015 03:00:00 EST",
+            "length": "14341432",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/113/GameSpotlightLadiesGentlemen.mp3"
+        },
+        {
+            "title": "Guru Voodoo: Tired Hardcores",
+            "datePublished": "Tue, 26 May 2015 03:00:00 EST",
+            "length": "15222230",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/112/GuruVoodooTiredHardcores.mp3"
+        },
+        {
+            "title": "Interactive, Strategic, Fun",
+            "datePublished": "Tue, 19 May 2015 03:00:00 EST",
+            "length": "17451048",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/111/InteractiveStrategicFun.mp3"
+        },
+        {
+            "title": "Cult of the New",
+            "datePublished": "Tue, 12 May 2015 03:00:00 EST",
+            "length": "17310614",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/110/CultoftheNew.mp3"
+        },
+        {
+            "title": "Game Spotlight: Dead of Winter",
+            "datePublished": "Tue, 05 May 2015 03:00:00 EST",
+            "length": "13777187",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/109/GameSpotlightDeadofWinter.mp3"
+        },
+        {
+            "title": "Guru Voodoo: Language Barrier",
+            "datePublished": "Tue, 28 Apr 2015 03:00:00 EST",
+            "length": "14750260",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/108/GuruVoodooLanguageBarrier.mp3"
+        },
+        {
+            "title": "The Play Contract",
+            "datePublished": "Tue, 21 Apr 2015 03:00:00 EST",
+            "length": "15091315",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/107/ThePlayContract.mp3"
+        },
+        {
+            "title": "Cute Games",
+            "datePublished": "Tue, 14 Apr 2015 03:00:00 EST",
+            "length": "13844125",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/106/CuteGames.mp3"
+        },
+        {
+            "title": "Game Spotlight: Dungeons and Dragons",
+            "datePublished": "Tue, 07 Apr 2015 03:00:00 EST",
+            "length": "18820347",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/105/GameSpotlightDungeonsandDragons.mp3"
+        },
+        {
+            "title": "Guru Voodoo: Spectators",
+            "datePublished": "Tue, 31 Mar 2015 03:00:00 EST",
+            "length": "15547662",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/104/GuruVoodooSpectators.mp3"
+        },
+        {
+            "title": "Guess The Word",
+            "datePublished": "Tue, 24 Mar 2015 03:00:00 EST",
+            "length": "18005326",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/103/GuessTheWord.mp3"
+        },
+        {
+            "title": "Difficult Subjects",
+            "datePublished": "Tue, 17 Mar 2015 03:00:00 EST",
+            "length": "27271835",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/102/DifficultSubjects.mp3"
+        },
+        {
+            "title": "Game Spotlight: BANG!",
+            "datePublished": "Tue, 10 Mar 2015 03:00:00 EST",
+            "length": "15871581",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/101/GameSpotlightBANG.mp3"
+        },
+        {
+            "title": "Game Spotlight: XCOM",
+            "datePublished": "Tue, 03 Mar 2015 03:00:00 EST",
+            "length": "17460243",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/100/GameSpotlightXCOM.mp3"
+        },
+        {
+            "title": "Guru Voodoo: Office Events",
+            "datePublished": "Tue, 24 Feb 2015 03:00:00 EST",
+            "length": "17985200",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/99/GuruVoodooOfficeEvents.mp3"
+        },
+        {
+            "title": "Electronics on the Tabletop",
+            "datePublished": "Tue, 17 Feb 2015 03:00:00 EST",
+            "length": "16585519",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/98/ElectronicsontheTabletop.mp3"
+        },
+        {
+            "title": "Super-Secret Scoring",
+            "datePublished": "Tue, 10 Feb 2015 03:00:00 EST",
+            "length": "17003478",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/97/Super-SecretScoring.mp3"
+        },
+        {
+            "title": "Game Spotlight: King of Tokyo vs. King of New York",
+            "datePublished": "Tue, 03 Feb 2015 03:00:00 EST",
+            "length": "13712050",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/96/GameSpotlightKingofTokyovsKingofNewYork.mp3"
+        },
+        {
+            "title": "Guru Voodoo: Solitaire",
+            "datePublished": "Tue, 27 Jan 2015 03:00:00 EST",
+            "length": "16173411",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/95/GuruVoodooSolitaire.mp3"
+        },
+        {
+            "title": "Dudes On A Map",
+            "datePublished": "Tue, 20 Jan 2015 03:00:00 EST",
+            "length": "18174536",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/94/DudesOnAMap.mp3"
+        },
+        {
+            "title": "Mystery Games",
+            "datePublished": "Tue, 13 Jan 2015 03:00:00 EST",
+            "length": "15100446",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/93/MysteryGames.mp3"
+        },
+        {
+            "title": "Game Spotlight: High Society and For Sale",
+            "datePublished": "Tue, 06 Jan 2015 03:00:00 EST",
+            "length": "13607914",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/92/GameSpotlightHighSocietyandForSale.mp3"
+        },
+        {
+            "title": "Guru Voodoo: Big Groups",
+            "datePublished": "Tue, 16 Dec 2014 03:00:00 EST",
+            "length": "22229524",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/91/GuruVoodooBigGroups.mp3"
+        },
+        {
+            "title": "Lattes vs. Lagers",
+            "datePublished": "Mon, 08 Dec 2014 03:00:00 EST",
+            "length": "22686647",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/90/LattesvsLagers.mp3"
+        },
+        {
+            "title": "Game Spotlight: Tragedy Looper",
+            "datePublished": "Tue, 02 Dec 2014 03:00:00 EST",
+            "length": "25950272",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/89/GameSpotlightTragedyLooper.mp3"
+        },
+        {
+            "title": "Guru Voodoo: Guru's Dream",
+            "datePublished": "Tue, 25 Nov 2014 03:00:00 EST",
+            "length": "21818456",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/88/GuruVoodooGurusDream.mp3"
+        },
+        {
+            "title": "Food and Drink",
+            "datePublished": "Wed, 19 Nov 2014 03:00:00 EST",
+            "length": "24188240",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/87/FoodandDrink.mp3"
+        },
+        {
+            "title": "You Think That's Funny?",
+            "datePublished": "Tue, 11 Nov 2014 03:00:00 EST",
+            "length": "23279126",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/86/YouThinkThatsFunny.mp3"
+        },
+        {
+            "title": "Game Spotlight: Mice and Mystics",
+            "datePublished": "Tue, 04 Nov 2014 03:00:00 EST",
+            "length": "23387486",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/85/GameSpotlightMiceandMystics.mp3"
+        },
+        {
+            "title": "Guru Voodoo: First Date",
+            "datePublished": "Tue, 28 Oct 2014 03:00:00 EST",
+            "length": "20706557",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/84/GuruVoodooFirstDate.mp3"
+        },
+        {
+            "title": "Can You Say \"Cuh-THOO-loo\"?",
+            "datePublished": "Tue, 21 Oct 2014 03:00:00 EST",
+            "length": "23554580",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/83/CanYouSayCuh-THOO-loo.mp3"
+        },
+        {
+            "title": "Pressure in Party Games",
+            "datePublished": "Tue, 14 Oct 2014 03:00:00 EST",
+            "length": "21782516",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/82/PressureinPartyGames.mp3"
+        },
+        {
+            "title": "Game Spotlight: Ca$h 'n Gun$",
+            "datePublished": "Tue, 07 Oct 2014 03:00:00 EST",
+            "length": "23505456",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/81/GameSpotlightCahnGun.mp3"
+        },
+        {
+            "title": "Guru Voodoo: Stabby, Yet Not Stabby",
+            "datePublished": "Tue, 30 Sep 2014 03:00:00 EST",
+            "length": "22341635",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/80/GuruVoodooStabbyYetNotStabby.mp3"
+        },
+        {
+            "title": "Economic Games",
+            "datePublished": "Tue, 23 Sep 2014 03:00:00 EST",
+            "length": "23167611",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/79/EconomicGames.mp3"
+        },
+        {
+            "title": "Replayability",
+            "datePublished": "Tue, 16 Sep 2014 03:00:00 EST",
+            "length": "22055430",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/78/Replayability.mp3"
+        },
+        {
+            "title": "That's Not Fair!",
+            "datePublished": "Tue, 09 Sep 2014 03:00:00 EST",
+            "length": "20264111",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/77/ThatsNotFair.mp3"
+        },
+        {
+            "title": "Game Spotlight: Collectible Games",
+            "datePublished": "Tue, 02 Sep 2014 03:00:00 EST",
+            "length": "22034872",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/76/GameSpotlightCollectibleGames.mp3"
+        },
+        {
+            "title": "20th Century Classics: Trouble",
+            "datePublished": "Tue, 26 Aug 2014 03:00:00 EST",
+            "length": "21334609",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/75/20thCenturyClassicsTrouble.mp3"
+        },
+        {
+            "title": "20th Century Classics: Battleship",
+            "datePublished": "Tue, 19 Aug 2014 03:00:00 EST",
+            "length": "21318814",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/74/20thCenturyClassicsBattleship.mp3"
+        },
+        {
+            "title": "20th Century Classics: Yahtzee",
+            "datePublished": "Tue, 12 Aug 2014 03:00:00 EST",
+            "length": "22495799",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/73/20thCenturyClassicsYahtzee.mp3"
+        },
+        {
+            "title": "20th Century Classics: Scrabble",
+            "datePublished": "Tue, 05 Aug 2014 03:00:00 EST",
+            "length": "24370437",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/72/20thCenturyClassicsScrabble.mp3"
+        },
+        {
+            "title": "Server and Barista Voodoo!",
+            "datePublished": "Tue, 29 Jul 2014 03:00:00 EST",
+            "length": "21001726",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/71/ServerandBaristaVoodoo.mp3"
+        },
+        {
+            "title": "Hosting a Game Night",
+            "datePublished": "Tue, 22 Jul 2014 03:00:00 EST",
+            "length": "22717009",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/70/HostingaGameNight.mp3"
+        },
+        {
+            "title": "Creativity In Games",
+            "datePublished": "Tue, 15 Jul 2014 03:00:00 EST",
+            "length": "27152704",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/69/CreativityInGames.mp3"
+        },
+        {
+            "title": "Variable Player Powers",
+            "datePublished": "Tue, 08 Jul 2014 03:00:00 EST",
+            "length": "23177309",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/68/VariablePlayerPowers.mp3"
+        },
+        {
+            "title": "Game Spotlight: Camel Up and Concept",
+            "datePublished": "Tue, 01 Jul 2014 03:00:00 EST",
+            "length": "23093595",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/67/GameSpotlightCamelUpandConcept.mp3"
+        },
+        {
+            "title": "Guru Voodoo: Party of Three",
+            "datePublished": "Tue, 24 Jun 2014 03:00:00 EST",
+            "length": "22397501",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/66/GuruVoodooPartyofThree.mp3"
+        },
+        {
+            "title": "Cottage games",
+            "datePublished": "Tue, 17 Jun 2014 03:00:00 EST",
+            "length": "23640094",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/65/Cottagegames.mp3"
+        },
+        {
+            "title": "Communication Games",
+            "datePublished": "Mon, 09 Jun 2014 03:00:00 EST",
+            "length": "24417275",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/64/CommunicationGames.mp3"
+        },
+        {
+            "title": "Game Spotlight: Splendor",
+            "datePublished": "Mon, 02 Jun 2014 03:00:00 EST",
+            "length": "26866000",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/63/GameSpotlightSplendor.mp3"
+        },
+        {
+            "title": "Guru Voodoo: They Say They Want Strategy",
+            "datePublished": "Tue, 27 May 2014 03:00:00 EST",
+            "length": "20212987",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/62/GuruVoodooTheySayTheyWantStrategy.mp3"
+        },
+        {
+            "title": "Beyond the Gateway",
+            "datePublished": "Tue, 20 May 2014 03:00:00 EST",
+            "length": "22283504",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/60/BeyondtheGateway.mp3"
+        },
+        {
+            "title": "Spoilers and Kingmakers",
+            "datePublished": "Tue, 13 May 2014 03:00:00 EST",
+            "length": "21544931",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/61/SpoilersandKingmakers.mp3"
+        },
+        {
+            "title": "Game Spotlight: Cosmic Encounter",
+            "datePublished": "Tue, 06 May 2014 03:00:00 EST",
+            "length": "25349994",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/59/GameSpotlightCosmicEncounter.mp3"
+        },
+        {
+            "title": "Guru Voodoo: Family of Four",
+            "datePublished": "Tue, 29 Apr 2014 03:00:00 EST",
+            "length": "24834552",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/58/GuruVoodooFamilyofFour.mp3"
+        },
+        {
+            "title": "\"Who Did What\" Games",
+            "datePublished": "Tue, 22 Apr 2014 03:00:00 EST",
+            "length": "21224801",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/57/WhoDidWhatGames.mp3"
+        },
+        {
+            "title": "Drawing Games",
+            "datePublished": "Tue, 15 Apr 2014 03:00:00 EST",
+            "length": "26668571",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/56/DrawingGames.mp3"
+        },
+        {
+            "title": "Accessibility Issues",
+            "datePublished": "Tue, 08 Apr 2014 03:00:00 EST",
+            "length": "26329467",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/55/AccessibilityIssues.mp3"
+        },
+        {
+            "title": "Game Spotlight: The Duke",
+            "datePublished": "Tue, 01 Apr 2014 03:00:00 EST",
+            "length": "19248749",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/54/GameSpotlightTheDuke.mp3"
+        },
+        {
+            "title": "Guru Voodoo: Expert Plus Newbies",
+            "datePublished": "Tue, 25 Mar 2014 03:00:00 EST",
+            "length": "20120832",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/53/GuruVoodooExpertPlusNewbies.mp3"
+        },
+        {
+            "title": "Board Games and Video Games",
+            "datePublished": "Tue, 18 Mar 2014 03:00:00 EST",
+            "length": "23391678",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/52/BoardGamesandVideoGames.mp3"
+        },
+        {
+            "title": "Roll and Move",
+            "datePublished": "Tue, 11 Mar 2014 03:00:00 EST",
+            "length": "20832983",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/51/RollandMove.mp3"
+        },
+        {
+            "title": "Game Spotlight: Lords of Waterdeep",
+            "datePublished": "Tue, 04 Mar 2014 03:00:00 EST",
+            "length": "23466434",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/50/GameSpotlightLordsofWaterdeep.mp3"
+        },
+        {
+            "title": "Guru Voodoo: Guru's Nightmare",
+            "datePublished": "Tue, 25 Feb 2014 03:00:00 EST",
+            "length": "19756776",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/49/GuruVoodooGurusNightmare.mp3"
+        },
+        {
+            "title": "Multiplayer Solitaire",
+            "datePublished": "Tue, 18 Feb 2014 03:00:00 EST",
+            "length": "20184904",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/48/MultiplayerSolitaire.mp3"
+        },
+        {
+            "title": "Dexterity With a Twist",
+            "datePublished": "Tue, 11 Feb 2014 03:00:00 EST",
+            "length": "22544875",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/47/DexterityWithaTwist.mp3"
+        },
+        {
+            "title": "Game Spotlight: Kemet",
+            "datePublished": "Tue, 04 Feb 2014 03:00:00 EST",
+            "length": "22518463",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/46/GameSpotlightKemet.mp3"
+        },
+        {
+            "title": "Guru Voodoo: Two Versus Two",
+            "datePublished": "Tue, 28 Jan 2014 03:00:00 EST",
+            "length": "22290460",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/45/GuruVoodooTwoVersusTwo.mp3"
+        },
+        {
+            "title": "One Against Many",
+            "datePublished": "Tue, 21 Jan 2014 03:00:00 EST",
+            "length": "23048971",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/44/OneAgainstMany.mp3"
+        },
+        {
+            "title": "Runaway Leader!",
+            "datePublished": "Tue, 14 Jan 2014 03:00:00 EST",
+            "length": "22173765",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/43/RunawayLeader.mp3"
+        },
+        {
+            "title": "Game Spotlight: Coup",
+            "datePublished": "Tue, 07 Jan 2014 03:00:00 EST",
+            "length": "21751843",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/42/GameSpotlightCoup.mp3"
+        },
+        {
+            "title": "Season One Wrap-up",
+            "datePublished": "Tue, 31 Dec 2013 03:00:00 EST",
+            "length": "11433701",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/41/SeasonOneWrapup.mp3"
+        },
+        {
+            "title": "Women and Boardgames Part 4: Bring the Females",
+            "datePublished": "Tue, 24 Dec 2013 03:00:00 EST",
+            "length": "34726090",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/40/WomenandBoardgamesPart4BringtheFemales.mp3"
+        },
+        {
+            "title": "Women and Boardgames Part 3: You Know What Sells",
+            "datePublished": "Tue, 17 Dec 2013 03:00:00 EST",
+            "length": "23434007",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/39/WomenandBoardgamesPart3YouKnowWhatSells.mp3"
+        },
+        {
+            "title": "Women and Boardgames Part 2: What Women (supposedly) Want",
+            "datePublished": "Tue, 10 Dec 2013 03:00:00 EST",
+            "length": "30650045",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/38/WomenandBoardgamesPart2WhatWomensupposedlyWant.mp3"
+        },
+        {
+            "title": "Women and Boardgames Part 1: Start 'Em Young",
+            "datePublished": "Tue, 03 Dec 2013 03:00:00 EST",
+            "length": "30625599",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/37/WomenandBoardgamesPart1StartEmYoung.mp3"
+        },
+        {
+            "title": "I Don't Want to Think",
+            "datePublished": "Tue, 26 Nov 2013 03:00:00 EST",
+            "length": "20537774",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/36/IDontWanttoThink.mp3"
+        },
+        {
+            "title": "Games Considered As Art",
+            "datePublished": "Tue, 19 Nov 2013 03:00:00 EST",
+            "length": "22491268",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/35/GamesConsideredAsArt.mp3"
+        },
+        {
+            "title": "Going, going, gone!",
+            "datePublished": "Tue, 12 Nov 2013 03:00:00 EST",
+            "length": "22937579",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/34/Goinggoinggone.mp3"
+        },
+        {
+            "title": "Friendship Wreckers",
+            "datePublished": "Tue, 05 Nov 2013 03:00:00 EST",
+            "length": "22273750",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/33/FriendshipWreckers.mp3"
+        },
+        {
+            "title": "Stage Fright",
+            "datePublished": "Tue, 29 Oct 2013 03:00:00 EST",
+            "length": "20141261",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/32/StageFright.mp3"
+        },
+        {
+            "title": "OMG ZOMBIES",
+            "datePublished": "Tue, 22 Oct 2013 03:00:00 EST",
+            "length": "20001615",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/31/OMGZOMBIES.mp3"
+        },
+        {
+            "title": "So Bad It's Good",
+            "datePublished": "Tue, 15 Oct 2013 03:00:00 EST",
+            "length": "24357011",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/30/SoBadItsGood.mp3"
+        },
+        {
+            "title": "Analysis Paralysis",
+            "datePublished": "Tue, 08 Oct 2013 03:00:00 EST",
+            "length": "21440846",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/29/AnalysisParalysis.mp3"
+        },
+        {
+            "title": "Worker Placement",
+            "datePublished": "Mon, 30 Sep 2013 03:00:00 EST",
+            "length": "21204290",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/28/WorkerPlacement.mp3"
+        },
+        {
+            "title": "It's Complicated",
+            "datePublished": "Tue, 24 Sep 2013 03:00:00 EST",
+            "length": "25065503",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/27/ItsComplicated.mp3"
+        },
+        {
+            "title": "You're Fired!",
+            "datePublished": "Tue, 17 Sep 2013 03:00:00 EST",
+            "length": "25689167",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/26/YoureFired.mp3"
+        },
+        {
+            "title": "Dungeon Crawlers",
+            "datePublished": "Tue, 10 Sep 2013 03:00:00 EST",
+            "length": "22265849",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/25/DungeonCrawlers.mp3"
+        },
+        {
+            "title": "Time Pressure",
+            "datePublished": "Tue, 03 Sep 2013 03:00:00 EST",
+            "length": "22872516",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/24/TimePressure.mp3"
+        },
+        {
+            "title": "Luck vs. Skill",
+            "datePublished": "Tue, 27 Aug 2013 03:00:00 EST",
+            "length": "19766085",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/23/LuckvsSkill.mp3"
+        },
+        {
+            "title": "Conventions and Fan Expo",
+            "datePublished": "Tue, 20 Aug 2013 03:00:00 EST",
+            "length": "22142621",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/22/ConventionsandFanExpo.mp3"
+        },
+        {
+            "title": "Perfect Information",
+            "datePublished": "Tue, 13 Aug 2013 03:00:00 EST",
+            "length": "20693423",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/21/PerfectInformation.mp3"
+        },
+        {
+            "title": "Let's Pretend",
+            "datePublished": "Tue, 06 Aug 2013 03:00:00 EST",
+            "length": "21809735",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/20/LetsPretend.mp3"
+        },
+        {
+            "title": "A Trivial Matter",
+            "datePublished": "Tue, 30 Jul 2013 03:00:00 EST",
+            "length": "22057465",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/19/ATrivialMatter.mp3"
+        },
+        {
+            "title": "Games Based on Movies",
+            "datePublished": "Mon, 22 Jul 2013 03:00:00 EST",
+            "length": "21562014",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/18/GamesbasedonMovies.mp3"
+        },
+        {
+            "title": "Theme and Mechanics; Form and Substance",
+            "datePublished": "Mon, 15 Jul 2013 03:00:00 EST",
+            "length": "20907391",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/17/ThemeandMechanicsFormandSubstance.mp3"
+        },
+        {
+            "title": "Downtime",
+            "datePublished": "Mon, 08 Jul 2013 03:00:00 EST",
+            "length": "21293634",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/16/Downtime.mp3"
+        },
+        {
+            "title": "And They Call It \"Ameritrash\"",
+            "datePublished": "Mon, 01 Jul 2013 03:00:00 EST",
+            "length": "24289376",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/15/AndTheyCallItAmeritrash.mp3"
+        },
+        {
+            "title": "Award-Winning Games",
+            "datePublished": "Mon, 24 Jun 2013 03:00:00 EST",
+            "length": "23727741",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/14/AwardWinningGames.mp3"
+        },
+        {
+            "title": "All For One and One For All",
+            "datePublished": "Mon, 17 Jun 2013 03:00:00 EST",
+            "length": "21618649",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/13/AllForOneandOneForAll.mp3"
+        },
+        {
+            "title": "Competitive but not Combative",
+            "datePublished": "Mon, 10 Jun 2013 03:00:00 EST",
+            "length": "22292011",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/12/CompetitivebutnotCombative.mp3"
+        },
+        {
+            "title": "Mean, mean, mean",
+            "datePublished": "Mon, 03 Jun 2013 03:00:00 EST",
+            "length": "22139835",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/11/Meanmeanmean.mp3"
+        },
+        {
+            "title": "20th-Century Classics: The Game of Life",
+            "datePublished": "Mon, 27 May 2013 03:00:00 EST",
+            "length": "21543829",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/10/20thCenturyClassicsTheGameofLife.mp3"
+        },
+        {
+            "title": "20th-Century Classics: Clue",
+            "datePublished": "Mon, 20 May 2013 03:00:00 EST",
+            "length": "21083300",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/9/20thCenturyClassicsClue.mp3"
+        },
+        {
+            "title": "20th-Century Classics: Risk",
+            "datePublished": "Mon, 13 May 2013 03:00:00 EST",
+            "length": "19764990",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/8/20thCenturyClassicsRisk.mp3"
+        },
+        {
+            "title": "20th-Century Classics: Monopoly",
+            "datePublished": "Mon, 06 May 2013 03:00:00 EST",
+            "length": "21491358",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/7/20thCenturyClassicsMonopoly.mp3"
+        },
+        {
+            "title": "Civilization Builders",
+            "datePublished": "Mon, 29 Apr 2013 03:00:00 EST",
+            "length": "18599133",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/6/CivilizationBuilders.mp3"
+        },
+        {
+            "title": "Something Against Humanity",
+            "datePublished": "Mon, 22 Apr 2013 03:00:00 EST",
+            "length": "19022155",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/5/SomethingAgainstHumanity.mp3"
+        },
+        {
+            "title": "Intro to Euros",
+            "datePublished": "Mon, 15 Apr 2013 03:00:00 EST",
+            "length": "21891633",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/4/IntrotoEuros.mp3"
+        },
+        {
+            "title": "Party of Two",
+            "datePublished": "Mon, 08 Apr 2013 03:00:00 EST",
+            "length": "10807078",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/3/PartyofTwo.mp3"
+        },
+        {
+            "title": "Kid Stuff",
+            "datePublished": "Mon, 01 Apr 2013 03:00:00 EST",
+            "length": "20758021",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/2/KidStuff.mp3"
+        },
+        {
+            "title": "Card Games Versus Board Games",
+            "datePublished": "Mon, 25 Mar 2013 03:00:00 EST",
+            "length": "14293429",
+            "sourceUrl": "https://podcast.snakesandlattes.com/uploads/1/CardGamesVersusBoardGames.mp3"
+        }
+    ]
+}

@@ -1,0 +1,580 @@
+{
+    "artwork": "http://is5.mzstatic.com/image/thumb/Music71/v4/2e/1f/f2/2e1ff221-404f-a63a-a94c-8cb960066b82/source/100x100bb.jpg",
+    "description": "قارئ يمني ذو صوت شجي",
+    "feedURL": "https://ar.islamway.net/feeds/mushaf-podcast/104.rss",
+    "podcastURL": "https://ar.islamway.net/collection/104",
+    "publisher": "فارس عبّاد",
+    "title": "المصحف المرتل - فارس عبّاد",
+    "episodes": [
+        {
+            "title": "سورة الفاتحة",
+            "length": "178176",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/001.mp3"
+        },
+        {
+            "title": "سورة البقرة",
+            "length": "27748352",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/002.mp3"
+        },
+        {
+            "title": "سورة آل عمران",
+            "length": "15233024",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/003.mp3"
+        },
+        {
+            "title": "سورة النساء",
+            "length": "15612928",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/004.mp3"
+        },
+        {
+            "title": "سورة المائدة",
+            "length": "12113920",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/005.mp3"
+        },
+        {
+            "title": "سورة الأنعام",
+            "length": "12720128",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/006.mp3"
+        },
+        {
+            "title": "سورة الأعراف",
+            "length": "13947904",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/007.mp3"
+        },
+        {
+            "title": "سورة الأنفال",
+            "length": "5250048",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/008.mp3"
+        },
+        {
+            "title": "سورة التوبة",
+            "length": "10510336",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/009.mp3"
+        },
+        {
+            "title": "سورة يونس",
+            "length": "7527424",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/010.mp3"
+        },
+        {
+            "title": "سورة هود",
+            "length": "7884800",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/011.mp3"
+        },
+        {
+            "title": "سورة يوسف",
+            "length": "7962624",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/012.mp3"
+        },
+        {
+            "title": "سورة الرعد",
+            "length": "3678208",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/013.mp3"
+        },
+        {
+            "title": "سورة إبراهيم",
+            "length": "3759104",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/014.mp3"
+        },
+        {
+            "title": "سورة الحجر",
+            "length": "3180544",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/015.mp3"
+        },
+        {
+            "title": "سورة النحل",
+            "length": "7865344",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/016.mp3"
+        },
+        {
+            "title": "سورة الإسراء",
+            "length": "6515712",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/017.mp3"
+        },
+        {
+            "title": "سورة الكهف",
+            "length": "6672384",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/018.mp3"
+        },
+        {
+            "title": "سورة مريم",
+            "length": "4367360",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/019.mp3"
+        },
+        {
+            "title": "سورة طه",
+            "length": "5744640",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/020.mp3"
+        },
+        {
+            "title": "سورة الأنبياء",
+            "length": "5444608",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/021.mp3"
+        },
+        {
+            "title": "سورة الحج",
+            "length": "5834752",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/022.mp3"
+        },
+        {
+            "title": "سورة المؤمنون",
+            "length": "5037056",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/023.mp3"
+        },
+        {
+            "title": "سورة النور",
+            "length": "5932032",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/024.mp3"
+        },
+        {
+            "title": "سورة الفرقان",
+            "length": "3953664",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/025.mp3"
+        },
+        {
+            "title": "سورة الشعراء",
+            "length": "6577152",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/026.mp3"
+        },
+        {
+            "title": "سورة النمل",
+            "length": "5414912",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/027.mp3"
+        },
+        {
+            "title": "سورة القصص",
+            "length": "6348800",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/028.mp3"
+        },
+        {
+            "title": "سورة العنكبوت",
+            "length": "4427776",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/029.mp3"
+        },
+        {
+            "title": "سورة الروم",
+            "length": "3803136",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/030.mp3"
+        },
+        {
+            "title": "سورة لقمان",
+            "length": "2394112",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/031.mp3"
+        },
+        {
+            "title": "سورة السجدة",
+            "length": "1751040",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/032.mp3"
+        },
+        {
+            "title": "سورة الأحزاب",
+            "length": "6182912",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/033.mp3"
+        },
+        {
+            "title": "سورة سبأ",
+            "length": "3926016",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/034.mp3"
+        },
+        {
+            "title": "سورة فاطر",
+            "length": "3363840",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/035.mp3"
+        },
+        {
+            "title": "سورة يس",
+            "length": "3283968",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/036.mp3"
+        },
+        {
+            "title": "سورة الصافات",
+            "length": "4147200",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/037.mp3"
+        },
+        {
+            "title": "سورة ص",
+            "length": "3163136",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/038.mp3"
+        },
+        {
+            "title": "سورة الزمر",
+            "length": "4898816",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/039.mp3"
+        },
+        {
+            "title": "سورة غافر",
+            "length": "4932608",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/040.mp3"
+        },
+        {
+            "title": "سورة فصلت",
+            "length": "3418112",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/041.mp3"
+        },
+        {
+            "title": "سورة الشورى",
+            "length": "3471360",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/042.mp3"
+        },
+        {
+            "title": "سورة الزخرف",
+            "length": "3613696",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/043.mp3"
+        },
+        {
+            "title": "سورة الدخان",
+            "length": "1543168",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/044.mp3"
+        },
+        {
+            "title": "سورة الجاثية",
+            "length": "1936384",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/045.mp3"
+        },
+        {
+            "title": "سورة الأحقاف",
+            "length": "2516992",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/046.mp3"
+        },
+        {
+            "title": "سورة محمد",
+            "length": "2206720",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/047.mp3"
+        },
+        {
+            "title": "سورة الفتح",
+            "length": "2173952",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/048.mp3"
+        },
+        {
+            "title": "سورة الحجرات",
+            "length": "1403904",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/049.mp3"
+        },
+        {
+            "title": "سورة ق",
+            "length": "1522688",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/050.mp3"
+        },
+        {
+            "title": "سورة الذاريات",
+            "length": "1628160",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/051.mp3"
+        },
+        {
+            "title": "سورة الطور",
+            "length": "1388544",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/052.mp3"
+        },
+        {
+            "title": "سورة النجم",
+            "length": "1469440",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/053.mp3"
+        },
+        {
+            "title": "سورة القمر",
+            "length": "1540096",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/054.mp3"
+        },
+        {
+            "title": "سورة الرحمن",
+            "length": "1954816",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/055.mp3"
+        },
+        {
+            "title": "سورة الواقعة",
+            "length": "1916928",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/056.mp3"
+        },
+        {
+            "title": "سورة الحديد",
+            "length": "2347008",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/057.mp3"
+        },
+        {
+            "title": "سورة المجادلة",
+            "length": "1963008",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/058.mp3"
+        },
+        {
+            "title": "سورة الحشر",
+            "length": "1932288",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/059.mp3"
+        },
+        {
+            "title": "سورة الممتحنة",
+            "length": "1472512",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/060.mp3"
+        },
+        {
+            "title": "سورة الصف",
+            "length": "924672",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/061.mp3"
+        },
+        {
+            "title": "سورة الجمعة",
+            "length": "787456",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/062.mp3"
+        },
+        {
+            "title": "سورة المنافقون",
+            "length": "842752",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/063.mp3"
+        },
+        {
+            "title": "سورة التغابن",
+            "length": "1079296",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/064.mp3"
+        },
+        {
+            "title": "سورة الطلاق",
+            "length": "1204224",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/065.mp3"
+        },
+        {
+            "title": "سورة التحريم",
+            "length": "1224704",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/066.mp3"
+        },
+        {
+            "title": "سورة الملك",
+            "length": "1380352",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/067.mp3"
+        },
+        {
+            "title": "سورة القلم",
+            "length": "1355776",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/068.mp3"
+        },
+        {
+            "title": "سورة الحاقة",
+            "length": "1200128",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/069.mp3"
+        },
+        {
+            "title": "سورة المعارج",
+            "length": "994304",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/070.mp3"
+        },
+        {
+            "title": "سورة نوح",
+            "length": "951296",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/071.mp3"
+        },
+        {
+            "title": "سورة الجن",
+            "length": "1117184",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/072.mp3"
+        },
+        {
+            "title": "سورة المزمل",
+            "length": "866304",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/073.mp3"
+        },
+        {
+            "title": "سورة المدثر",
+            "length": "1091584",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/074.mp3"
+        },
+        {
+            "title": "سورة القيامة",
+            "length": "717824",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/075.mp3"
+        },
+        {
+            "title": "سورة الإنسان",
+            "length": "1114112",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/076.mp3"
+        },
+        {
+            "title": "سورة المرسلات",
+            "length": "876544",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/077.mp3"
+        },
+        {
+            "title": "سورة النبأ",
+            "length": "854016",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/078.mp3"
+        },
+        {
+            "title": "سورة النازعات",
+            "length": "830464",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/079.mp3"
+        },
+        {
+            "title": "سورة عبس",
+            "length": "702464",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/080.mp3"
+        },
+        {
+            "title": "سورة التكوير",
+            "length": "484352",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/081.mp3"
+        },
+        {
+            "title": "سورة الانفطار",
+            "length": "409600",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/082.mp3"
+        },
+        {
+            "title": "سورة المطففين",
+            "length": "832512",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/083.mp3"
+        },
+        {
+            "title": "سورة الانشقاق",
+            "length": "496640",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/084.mp3"
+        },
+        {
+            "title": "سورة البروج",
+            "length": "497664",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/085.mp3"
+        },
+        {
+            "title": "سورة الطارق",
+            "length": "320512",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/086.mp3"
+        },
+        {
+            "title": "سورة الأعلى",
+            "length": "331776",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/087.mp3"
+        },
+        {
+            "title": "سورة الغاشية",
+            "length": "446464",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/088.mp3"
+        },
+        {
+            "title": "سورة الفجر",
+            "length": "675840",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/089.mp3"
+        },
+        {
+            "title": "سورة البلد",
+            "length": "361472",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/090.mp3"
+        },
+        {
+            "title": "سورة الشمس",
+            "length": "270336",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/091.mp3"
+        },
+        {
+            "title": "سورة الليل",
+            "length": "349184",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/092.mp3"
+        },
+        {
+            "title": "سورة الضحى",
+            "length": "201728",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/093.mp3"
+        },
+        {
+            "title": "سورة الشرح",
+            "length": "126976",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/094.mp3"
+        },
+        {
+            "title": "سورة التين",
+            "length": "179200",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/095.mp3"
+        },
+        {
+            "title": "سورة العلق",
+            "length": "318464",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/096.mp3"
+        },
+        {
+            "title": "سورة القدر",
+            "length": "144384",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/097.mp3"
+        },
+        {
+            "title": "سورة البينة",
+            "length": "384000",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/098.mp3"
+        },
+        {
+            "title": "سورة الزلزلة",
+            "length": "186368",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/099.mp3"
+        },
+        {
+            "title": "سورة العاديات",
+            "length": "216064",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/100.mp3"
+        },
+        {
+            "title": "سورة القارعة",
+            "length": "196608",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/101.mp3"
+        },
+        {
+            "title": "سورة التكاثر",
+            "length": "161792",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/102.mp3"
+        },
+        {
+            "title": "سورة العصر",
+            "length": "79872",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/103.mp3"
+        },
+        {
+            "title": "سورة الهمزة",
+            "length": "161792",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/104.mp3"
+        },
+        {
+            "title": "سورة الفيل",
+            "length": "130048",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/105.mp3"
+        },
+        {
+            "title": "سورة قريش",
+            "length": "109568",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/106.mp3"
+        },
+        {
+            "title": "سورة الماعون",
+            "length": "134144",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/107.mp3"
+        },
+        {
+            "title": "سورة الكوثر",
+            "length": "70656",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/108.mp3"
+        },
+        {
+            "title": "سورة الكافرون",
+            "length": "147456",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/109.mp3"
+        },
+        {
+            "title": "سورة النصر",
+            "length": "103424",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/110.mp3"
+        },
+        {
+            "title": "سورة المسد",
+            "length": "117760",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/111.mp3"
+        },
+        {
+            "title": "سورة الإخلاص",
+            "length": "64512",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/112.mp3"
+        },
+        {
+            "title": "سورة الفلق",
+            "length": "100352",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/113.mp3"
+        },
+        {
+            "title": "سورة الناس",
+            "length": "119808",
+            "sourceUrl": "https://download.quran.islamway.net/quran3/104/114.mp3"
+        }
+    ]
+}

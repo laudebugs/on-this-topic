@@ -1,0 +1,506 @@
+{
+    "artwork": "http://is1.mzstatic.com/image/thumb/Music118/v4/1b/e9/7d/1be97d96-cf50-d625-a40e-8c42dc3e49ae/source/100x100bb.jpg",
+    "description": "Information technology provides the infrastructure backbone for companies today. The Connected Business series of podcasts from the Financial Times examines how business leaders can use IT to improve performance and exploit new opportunities for growth. Presented by Stephen Pritchard",
+    "feedURL": "http://rss.acast.com/ft-connected-business",
+    "podcastURL": "http://www.acast.com/ft-connected-business",
+    "title": "FT Connected Business",
+    "episodes": [
+        {
+            "title": "The outlook for IT: consumerisation, data, safety and skills",
+            "datePublished": "Wed, 18 Dec 2013 00:00:00 GMT",
+            "description": "In the podcast:\r\n\r\nWe look at some of the key developments in technology over the last few years, from consumerisation and the cloud to cybersecurity and the skills gap.\r\n\r\nAnd we preview some of the key trends for the rest of this decade.\r\n\r\nWith guests Peter Cochrane and PA Consulting's David Elton, and Connected Business contributor Stephen Pritchard. &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "1048576",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/b92e3741-63b4-4504-9af1-07686c049684/media.mp3"
+        },
+        {
+            "title": "The gadgets taking over the enterprise",
+            "datePublished": "Tue, 03 Dec 2013 00:00:00 GMT",
+            "description": "In this week’s podcast:\r\n \r\nThe consumerisation of IT is one of the greatest challenges facing the enterprise. It is changing the way we work, the role of the IT department, and the role of the CIO.\r\n \r\nThe Connected Business is joined by John Delaney, associate vice president at industry analysts IDC, John McKeown, chief information officer for EMEA at Cushman & Wakefield, the property firm, Simon Body, Senior Enterprise Architect, at Astra Zeneca, the pharmaceutical company, and John Griffiths of PA Consulting Group.\r\n \r\nHow are businesses dealing with consumerisation, and how do they move from a defensive approach to one that turns the trend into competitive advantage?\r\n\r\nPresented and produced by Stephen Pritchard &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "9484431",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/bdbde16f-bf4c-451a-9965-92949486ae0c/media.mp3"
+        },
+        {
+            "title": "Location, location, location?",
+            "datePublished": "Wed, 20 Nov 2013 00:01:00 GMT",
+            "description": "In this week's podcast: Could geo-spatial information be the next dimension for big data? Knowing where something, or someone, is is growing in value to retailers, engineers, governments, and the military.\r\n\r\nWe speak to GIS specialists Dan Monk, technical architect at Atkins, the consulting engineers, Andrew Corcoran, of the energy and environmental consulting company West Coast Group, WO2 Giles, of the UK's Ministry of Defence, and Euan Cameron, CTO for the applications at GIS vendor Esri, on the increasing importance of location information.\r\n\r\nPresented and produced by Stephen Pritchard &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "8367676",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/01965fcb-9dde-441a-9553-2dda8fabe5a7/media.mp3"
+        },
+        {
+            "title": "Technology to solve human challenges",
+            "datePublished": "Tue, 05 Nov 2013 00:00:00 GMT",
+            "description": "In this week's podcast: \r\n\r\nCan HR technology do more than just cut out the administration for personnel departments? \r\n\r\nWith firms facing a \"war for talent\" they are turning to IT, and analytics, to find and keep the right people. \r\n\r\nKPMG's practice lead for talent management, Ruth Svensson, CEB's chief science and analytics officer  Eugene Burke, and  James Collinge, director of HR and training at Holman Fenwick Willan, explain how. &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "8268463",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/a056bee5-0bd8-4df8-a5f7-b43209b0bc9f/media.mp3"
+        },
+        {
+            "title": "Outsourcing, insourcing, and innovation",
+            "datePublished": "Mon, 14 Oct 2013 23:00:00 GMT",
+            "description": "In this week's podcast:\r\n\r\nIT outsourcing is usually associated with cost savings, but achieving real cost savings remains hard.\r\n\r\nAt the same time, businesses are looking for more innovation from their suppliers, and more control over their technology.\r\n\r\nOur guests this week —  Hansjoerg Siber, vice president for BPO at Cap Gemini, Ovum's Thomas Reuner and PA Consulting Group's Mike Henley debate where IT sourcing is heading.\r\n\r\nPresented and produced by Stephen Pritchard &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "1048576",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/d3871213-a24c-46f6-8ec9-0fa2414a9fbe/media.mp3"
+        },
+        {
+            "title": "Technology change, and three visions of the future",
+            "datePublished": "Tue, 01 Oct 2013 23:00:00 GMT",
+            "description": "In this week's podcast:\r\n\r\nTechnology is changing our work, entertainment, and even how businesses run IT itself.\r\n\r\nWe speak to Sam Nicholson, cinematographer and chief executive of Stargate Studios; Dave Coplin, futurologist and \"chief envisioneer\" at Microsoft, and John Igoe, vice president for technology at Rackspace, about their visions for the future in their lines of work.\r\n\r\nPresented and produced by Stephen Pritchard &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "9037257",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/f9ddac53-192c-4219-8fd8-aebf6033ba65/media.mp3"
+        },
+        {
+            "title": "Mobile money, and the end of the bank branch?",
+            "datePublished": "Tue, 17 Sep 2013 23:01:00 GMT",
+            "description": "In this week's podcast:\r\n \r\nCould the bank branch be a thing of the past, and could physical currency be going the way of books, vinyl or CDs? And can banks use data analytics to become more relevant to customers, and to regain trust?\r\n \r\nWe speak to Eden Zoller, principal analyst at Ovum, to Kris Canekeratne, Chairman and Chief Executive Officer at Virtusa, and to Attila Bayrak, senior vice president for customer relationship management at Turkish bank Akbank. \r\n\r\nPresented and produced by Stephen Pritchard &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "8141406",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/1b0326e8-f418-47c0-a00d-c2e98479f299/media.mp3"
+        },
+        {
+            "title": "Security through intelligence, and development on the beach",
+            "datePublished": "Tue, 03 Sep 2013 23:00:00 GMT",
+            "description": "In this week's podcast:\r\n\r\nKPMG's Martin Jordan on how businesses can learn from the intelligence services, when it comes to countering cyber threats, and how dairy producer Friesland-Campina is using technology from iPads to machine to machine communications to improve quality and profits.\r\n\r\nPlus: could rural Cornwall be the UK's next tech hub?\r\n\r\nPresented and produced by Stephen Pritchard &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "8699256",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/e452023e-7914-4c6c-aae5-84656d0e9ef6/media.mp3"
+        },
+        {
+            "title": "Video calls, smart cities, and going racing",
+            "datePublished": "Tue, 30 Jul 2013 23:01:00 GMT",
+            "description": "In this week's podcast:\r\n\r\nOvum's Joe Dignan on how smart cities are moving from science fiction to fact, Canalys' Matthew Ball on how consumerisation is reviving prospects for video conferencing, and Patrick Louis, CEO of the Lotus F1 Team, on how technology is changing his business, and his sport.\r\n\r\nPresented and produced by Stephen Pritchard &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "9049329",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/cd602bae-3934-45fe-8fb5-02ab02582a2e/media.mp3"
+        },
+        {
+            "title": "Education, education, education",
+            "datePublished": "Mon, 15 Jul 2013 23:00:00 GMT",
+            "description": "In this week's podcast: demand for quality education is growing across the world, but education itself has largely avoided automation.\r\n\r\nCan IT improve education? And how can the IT industry work with schools and colleges to head off a growing skills shortage, especially in IT and data science?\r\n\r\nWe speak to BT's Pat Hughes, TCS' Satya Ramaswamy and analyst Sanchit Vir Gogia, of Greyhound Research.\r\n\r\nPresented and produced by Stephen Pritchard &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "8790785",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/0ec73f10-bfec-46ce-86e5-830bc5e3e8be/media.mp3"
+        },
+        {
+            "title": "Mining data for travel, and replacing clipboards with tablets",
+            "datePublished": "Tue, 02 Jul 2013 23:00:00 GMT",
+            "description": "In this week's podcast:\r\n\r\nCould travel companies do more with data, and could that in turn make for a better passenger experience? Professor Thomas Davenport, and Hervé Couturier, head of R&D at Amadeus, think so.\r\n\r\nPlus, PA Consulting Group's chief operating officer, Andrew Hooke, on how IT is changing the professional services industry.\r\n\r\nPresented and produced by Stephen Pritchard &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "8803010",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/18c416f1-932e-4533-863f-6a3695eb7821/media.mp3"
+        },
+        {
+            "title": "Turning data into profit",
+            "datePublished": "Tue, 18 Jun 2013 23:00:00 GMT",
+            "description": "Can big data lead to greater profits?\r\n\r\nConstellation Research's principal analyst Ray Wang and SAS Institute CEO Dr Jim Goodnight discuss why it is hard for businesses to extract value from their information.\r\n\r\nPlus: Capco's Mark Record on why financial services firms could be missing the big data opportunity.\r\n\r\nPresented and produced by Stephen Pritchard &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "8383513",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/347cbbff-7598-442b-b94c-d69ef366c9ff/media.mp3"
+        },
+        {
+            "title": "Raspberry Pi, and changing IT at the heart of the business",
+            "datePublished": "Mon, 03 Jun 2013 23:00:00 GMT",
+            "description": "In this week's podcast:\r\n\r\nWe hear how consumerisation is forcing businesses to revisit their relationship with IT, as Ovum's Richard Edwards discusses his firm's Enterprise 2020 report. And we discuss how technology is changing technology firms themselves, with VMWare CFO Jonathan Chadwick.\r\n\r\nPlus, how the $40 Raspberry Pi kit computer could be helping shape the next phase of the internet.\r\n\r\nPresented and produced by Stephen Pritchard &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "9004601",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/8d0e5ee6-9bcc-476d-871d-acf07e0d163a/media.mp3"
+        },
+        {
+            "title": "Creating the Internet of the future",
+            "datePublished": "Mon, 20 May 2013 23:00:00 GMT",
+            "description": "In this week's podcast:\r\n\r\nThe Internet of Things is set to connect up everything from coffee cups to cardiac monitors, as the hardware becomes cheaper, smaller, and easier to use.\r\n\r\nWe speak to PA Consulting's Alastair McAuley, Ovum's Jeremy Green, and Concept Reply's Luigi Cicchese about how they think the technology will develop.\r\n\r\nPresented and produced by Stephen Pritchard &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "8652665",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/7406f6ba-4c48-40aa-8260-db0089d1e928/media.mp3"
+        },
+        {
+            "title": "Risky data, supercars, and the future of advertising",
+            "datePublished": "Mon, 06 May 2013 23:00:00 GMT",
+            "description": "In this week's podcast:\r\n\r\nBusinesses are keen to collect more data, but is there a point where data poses a risk? KPMG's Eddie Short thinks there is. Plus we speak to McLaren Group CIO Stuart Birrell about how he protects the car maker and F1 team's information.\r\n\r\nAnd, in a new series of conversations with senior business leaders, we ask Lindsey Evans, president of ad agency TBWA, how technology has changed her industry.\r\n\r\nPresented and produced by Stephen Pritchard &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "9514201",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/31e73f99-a573-45ae-a838-6cfe01216159/media.mp3"
+        },
+        {
+            "title": "Protecting data, customers, and the company",
+            "datePublished": "Mon, 22 Apr 2013 23:00:00 GMT",
+            "description": "In this week's podcast:\r\n\r\nWe hear three different views about the way cyber threats are affecting\r\ncompanies and consumers.\r\n\r\nChristian Fredrikson, president and CEO of Finnish computer security company F-Secure, explains that mobile phones and tablets are at growing risk of attack; Verizon's Ernie Hayden looks at protecting critical national infrastructure, and Lloyds Banking Group, looks at the growing shortage of skilled infosecurity professionals.\r\n\r\nPresented and produced by Stephen Pritchard &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "8736497",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/ce5d01f3-d9e3-40be-9342-a374ed40af92/media.mp3"
+        },
+        {
+            "title": "Managing people, and CEO sentiment",
+            "datePublished": "Mon, 08 Apr 2013 23:00:00 GMT",
+            "description": "In this week’s podcast:\r\n\r\nHow the consumerisation of technology and big data helping businesses improve the way they manage their people?\r\n\r\nWe speak to Robert Bolton, a partner in the people and change practice at KPMG, and we speak to Camilla Aitchison, chief human resources officer for Inchcape Shipping Services.\r\n\r\nPlus Mark Raskino explains why Gartner thinks chief executives are looking to increase their IT budgets once again. &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "9636721",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/9b285b0c-591b-43d3-90a9-eab58f802704/media.mp3"
+        },
+        {
+            "title": "Can better data improve financial decision making?",
+            "datePublished": "Wed, 27 Mar 2013 00:00:00 GMT",
+            "description": "In this week's podcast:\r\n\r\nWe speak to two chief financial officers: Tony Wilson, of UK-based medical manufacturer Kimal, and Chris Lafond, CFO of the technology analysts Gartner, about their relationship with technology.\r\n\r\nPlus Peter Lumley, of PA Consulting Group, on how to visualise financial data. &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "8406167",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/832bc6e5-3d2b-4a84-8031-7074da6857c6/media.mp3"
+        },
+        {
+            "title": "Securing mobile devices, and the rise of the chief data officer",
+            "datePublished": "Tue, 12 Mar 2013 00:00:00 GMT",
+            "description": "In this week’s podcast:\r\n\r\nWe follow up on Mobile World Congress by speaking to Goldcrest Films about flexible working in the film and post production industry, and we hear from Stroz Friedberg about managing the risks of mobiles and tablets.\r\n\r\nPlus, Gartner's Mark Raskino talks about the growth of a new role in business: the chief data officer.\r\n\r\nPresented and produced by Stephen Pritchard &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "8375336",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/bac24f73-eb46-4136-9373-c7c3af96340b/media.mp3"
+        },
+        {
+            "title": "Mobiles, tablets and smartphones everywhere",
+            "datePublished": "Tue, 26 Feb 2013 00:00:00 GMT",
+            "description": "In this week's podcast:\r\n\r\nWhat are the latest trends in mobile handsets, how far off is 5G, and can businesses really benefit from Bring Your Own Device?\r\n\r\nAs Mobile World Congress continues in Barcelona, we speak to the GSMA's Alex Sinclair, Ovum's Richard Absalom and Vodafone's Paul Stonadge about the future of mobile devices, and mobile working.\r\n\r\nPresented and produced by Stephen Pritchard &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "8174147",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/b99f8f74-7130-4f94-88be-5212e57be0d1/media.mp3"
+        },
+        {
+            "title": "Super-fast broadband, and agile working",
+            "datePublished": "Wed, 13 Feb 2013 00:01:00 GMT",
+            "description": "In this week's podcast:\r\n\r\nWe look at how gas mains, drains and water pipes could hold the key to boosting fast broadband in Europe, and hear from the CIO of UK local authority, East Sussex County Council, on how tablets and 4G are helping it to cope with budget constraints.\r\n\r\nPlus: how businesses are updating their supply chain intelligence, to cope with new rules on conflict minerals.\r\n\r\nPresented and produced by Stephen Pritchard &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "8557696",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/2a4ad042-8514-4953-b893-d29d75d29f37/media.mp3"
+        },
+        {
+            "title": "Securing the enterprise",
+            "datePublished": "Tue, 29 Jan 2013 00:00:00 GMT",
+            "description": "In this week’s programme, we look in-depth at information security. Data privacy and security continues to move up the agenda, with governments, as well as businesses, increasingly concerned about the threat posed to – and by – information.\r\n\r\nWe speak to Richard Archdeacon, of HP’s enterprise security services division, on how businesses are having to tackle a wider range of threats, and Quentyn Taylor, head of information security for Canon in EMEA, about protecting customer data.\r\n\r\nAnd we ask biometric experts Mark Crego and Cyrille Bataller of Accenture whether that security technology is now ready for business. &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "8590147",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/dc00e3c9-9d8b-4aa2-a900-67e28276ce01/media.mp3"
+        },
+        {
+            "title": "Can business be social?",
+            "datePublished": "Tue, 15 Jan 2013 00:00:00 GMT",
+            "description": "In this week's podcast:\r\n\r\nWe hear from PA Consulting's Nathan Sage, MWD Advisors' Angela Ashenden, and Rob Howard, founder of Telligent, about how social tools and social intelligence are changing the workplace.\r\n\r\nPresented and produced by Stephen Pritchard &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "8264003",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/22d38d04-e727-4f59-8f20-9d08ce9d295c/media.mp3"
+        },
+        {
+            "title": "Technology trends for 2013",
+            "datePublished": "Tue, 01 Jan 2013 00:00:00 GMT",
+            "description": "In this week's podcast:\r\n\r\nIn a special programme, we hear from  technology commentator Peter Cochrane, Shaun Collins of analysts CCS Insight, Allen Brown, CEO of the Open Group, Chris Watson, of law firm CMS, Matt Peers, CIO at Deloitte and Gartner's Mark Raskino about the key technology events of 2012, and their outlook for the coming year.\r\n\r\nPresented and produced by Stephen Pritchard &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "8390883",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/befc7797-26c5-4a7b-bd4e-fac0b2725ab2/media.mp3"
+        },
+        {
+            "title": "Games, storage mountains, and frozen IT budgets",
+            "datePublished": "Tue, 18 Dec 2012 23:09:00 GMT",
+            "description": "In this week’s podcast:\r\n\r\nWe hear how the frozen foods business – Igloo Foods Group – started from scratch with its IT, following a buy out from its parent company.\r\n\r\nWe speak to Constellation Research’s Ray Wang, about a trend that is attracting a lot of interest in boardrooms: gamification.\r\n\r\nAnd we look at the growing cost of data storage, and what business can do about it.\r\n\r\nPresented and produced by Stephen Pritchard &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "8080916",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/286a2967-5900-438b-abfc-599a8fa09d9d/media.mp3"
+        },
+        {
+            "title": "Doing more with less in IT",
+            "datePublished": "Tue, 04 Dec 2012 00:00:00 GMT",
+            "description": "In this week's podcast:\r\n\r\nHow are companies coping with IT budgets that are, at best, flat? And how can smart technology help funds go further? We speak to Ernst & Young, Gartner and YouGov about ensuring that IT is effective, and pays its way. &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "8404641",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/14dd37a6-335a-41b9-b2ae-cc9c3f5f2795/media.mp3"
+        },
+        {
+            "title": "IT races to the chequered flag",
+            "datePublished": "Tue, 20 Nov 2012 00:00:00 GMT",
+            "description": "In this week’s podcast:\r\n\r\nIn a special show focused on the high-octane world of motor racing, we hear how the Lotus F1 team is updating its back office IT, so it can put more resources into racing, and how Sahara Force India updated its website to provide a better service to its fans. Plus, F1 data specialists QuantumBlack on what businesses can learn from the sport.\r\n\r\nPresented and produced by Stephen Pritchard &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "8749505",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/3c5ceff4-afea-4e9c-8999-39a2fe532657/media.mp3"
+        },
+        {
+            "title": "Putting the CIO under the microscope",
+            "datePublished": "Tue, 06 Nov 2012 00:00:00 GMT",
+            "description": "In this week's podcast:\r\n\r\nWe examine the role of the chief information officer today. Who is leading IT in the business today, and how is IT providing better tools to business leaders?\r\n\r\nOur guests are Mark McDonald from Gartner, David Elton from PA Consulting, and Frank Modruson, CIO of Accenture.\r\n\r\nPresented and produced by Stephen Pritchard &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "8580987",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/a8a979ee-4cd4-4e3f-a251-26d2ee5537eb/media.mp3"
+        },
+        {
+            "title": "Harnessing the power of consumer IT, and creating a connected company",
+            "datePublished": "Tue, 23 Oct 2012 23:00:00 GMT",
+            "description": "In this week's podcast:\r\nWe speak to Autodesk CEO Carl Bass about how smartphones, tablets and the cloud are changing the software industry, and to author David Gray about his new book, The Connected Company.\r\n\r\nPlus, our series on how businesses are using IT continues with a look at a supply chain project at Danone Italy.\r\n\r\nPresented and produced by Stephen Pritchard &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "8993892",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/2b550044-1ad5-4373-a542-caa76beee644/media.mp3"
+        },
+        {
+            "title": "Financial IT, and cyber wargames",
+            "datePublished": "Tue, 09 Oct 2012 23:01:00 GMT",
+            "description": "In this week's podcast:\r\n\r\nWhat are the strategic priorities for IT in the financial services sector?\r\n\r\nWe speak to Ovum analyst Daniel Mayo, and we hear how Greece's Generali Insurance is cutting down on paperwork.\r\n\r\nPlus: Cyber Security Month, and Europe's largest ever cyber wargames exercise. &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "8293556",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/73d711a0-9a35-4b08-a795-eec5614609fa/media.mp3"
+        },
+        {
+            "title": "Riding the consumer wave",
+            "datePublished": "Mon, 24 Sep 2012 23:00:00 GMT",
+            "description": "In this week's podcast:\r\n\r\nHow is consumer technology changing IT – and how is the change in IT changing how we do business?\r\n\r\nWe speak to Gartner's David Willis, Eversheds' CIO Paul Caris, and investor and technologist Daniel Steeves about the way consumer devices and services are replacing \"enterprise\" technology for more and more day-to-day tasks. &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "8441689",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/c4cb2056-3ebc-4fa8-bc59-676379fab15b/media.mp3"
+        },
+        {
+            "title": "Changing priorities for IT, video for business, and data-driven pricing",
+            "datePublished": "Mon, 10 Sep 2012 23:00:00 GMT",
+            "description": "In this week's programme:\r\n\r\nWe hear from Accenture's Jeanne Harris about changing priorities for IT, and how the IT department could be in need of an overhaul.\r\n\r\nWe also speak to Adobe about how businesses are making more use of video online, and we start a new series focusing on companies using IT in innovative ways, with Javier Christie from Australian company Coates Hire.\r\n\r\nPresented and produced by Stephen Pritchard &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "8606388",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/90c3578f-f919-4085-a5a4-8e9996c535de/media.mp3"
+        },
+        {
+            "title": "IT in the sky, and keeping food fresh with BI",
+            "datePublished": "Tue, 17 Jul 2012 23:00:00 GMT",
+            "description": "In this week’s programme:\r\n\r\nWe hear from business guru and author Erik Brynjolfsson about the need to strike the right balance between technology, jobs and prosperity.\r\n\r\nAnd we speak to Accenture’s director for aerospace and defence, Damien Lasou, about the growing role of IT in the aviation industry.\r\n\r\nPlus: Rene Batsford, head of IT at the sandwich chain Eat, on how his company is using business intelligence to improve stock levels, improve sales, and cut down waste.\r\n\r\nPresented and produced by Stephen Pritchard &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "8920468",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/7e835ddb-c912-4e0f-9746-9ce754cd4a89/media.mp3"
+        },
+        {
+            "title": "Gearing up for the Games",
+            "datePublished": "Tue, 03 Jul 2012 23:01:00 GMT",
+            "description": "In this week's programme:\r\n\r\nIn just a few weeks’ time, athletes and sports fans will converge on London for the 2012 Olympic Games.\r\n\r\nThe Games will be significant users of technology. But they are also having a significant effect on businesses, both on the demand for their services, and on how they carry out their day-to-day work.\r\n\r\nWe speak to Tim Boden, technical director of London 2012 at BT, Fred Deschamps, head of price optimisation at hotels company Carlson Rezidor, and to Stephen Bailey, an IT expert at PA Consulting, about the impact of the Games. &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "7848522",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/ffa28aa3-815d-4c13-b3c3-5c4564a2d070/media.mp3"
+        },
+        {
+            "title": "Are companies drowing in a sea of data?",
+            "datePublished": "Mon, 18 Jun 2012 23:00:00 GMT",
+            "description": "In this week’s programme we look at how businesses are coming to terms with the growing volumes of data they have to collect and keep. And we look at how technology is helping firms to translate those data into new, more accurate predictions and insights.\r\n\r\nWe speak to big data users at Ernst & Young and the Technical University of Denmark, and industry analysts Freeform Dynamics. \r\n\r\nPresented and produced by Stephen Pritchard &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "8642372",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/fbf41441-ae54-4c2a-b4b2-6ff885b786fa/media.mp3"
+        },
+        {
+            "title": "Agile development, better security, and open source",
+            "datePublished": "Wed, 06 Jun 2012 23:00:00 GMT",
+            "description": "In this week's podcast:\r\n\r\nWe look at how companies can use IT to bring new products to market more quickly, and how a new technical standard, COBIT 5, could help businesses improve their data security.\r\n\r\nPlus we speak to financial services firm Thomas Murray about how it is using open source software to streamline its marketing.\r\n\r\nPresented and produced by Stephen Pritchard. &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "8152324",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/9facf88a-7b0a-45b9-91ed-2bf074c9c64e/media.mp3"
+        },
+        {
+            "title": "Cloudy, with hints of a revolution?",
+            "datePublished": "Mon, 21 May 2012 23:00:00 GMT",
+            "description": "In this week's podcast:\r\n\r\nWhat do we understand by the cloud, how should companies decide which IT to run there, and how do they go about moving to the cloud?\r\n\r\nPlus how the UK's Met Office is using the cloud for a citizen-based weather observation project.\r\n\r\nPresented and produced by Stephen Pritchard &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "10104820",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/0d589dc2-913a-4aca-8397-5d08e9ff7c74/media.mp3"
+        },
+        {
+            "title": "Big data, security myths, and value for money from IT",
+            "datePublished": "Tue, 08 May 2012 23:00:00 GMT",
+            "description": "In this week’s podcast:\r\n\r\nIs Big Data a useful tool for business, or is it just the latest technology trend to be overhyped? The consultants at KPMG think firms may be paying too much attention to poor data.\r\n\r\nBut boards are not paying enough attention to information security, and even when they do spend money, they may not feel safer, argues PA Consulting.\r\n\r\nPlus: Gartner's Michael Smith on how companies can drive more value from their investments in IT.\r\n\r\nPresented and produced by Stephen Pritchard &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "7881952",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/136bc296-8e8c-4af4-89a0-8ed0011efc18/media.mp3"
+        },
+        {
+            "title": "Security, risk and the business",
+            "datePublished": "Wed, 25 Apr 2012 23:00:00 GMT",
+            "description": "Are businesses ready to deal with security risks and privacy laws? We\r\nask Chris Watson, partner for telecoms, media and technology, at law firm CMS, to Jay Heiser and French Caldwell of industry analysts Gartner, and Hakan Carlbom, CIO of the Stockholm-based private equity house EQT for their views.\r\n\r\nPresented and produced by Stephen Pritchard &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "9785620",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/b9598866-eb52-4c6d-8a45-5f9bcee32a02/media.mp3"
+        },
+        {
+            "title": "Outsourcing, customer self service, and an Olympic dry run",
+            "datePublished": "Tue, 10 Apr 2012 23:00:00 GMT",
+            "description": "In this week’s podcast:\r\n\r\nWe look at how companies are aiming to save money, and be more flexible, by renegotiating their outsourcing contracts; at how one company has replaced conventional customer service with web-based social media tools for its users; and what happened when a UK mobile operator - in a test of Olympic readiness - told two and a half thousand staff to work remotely.\r\n\r\nPresented and produced by Stephen Pritchard &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "7787780",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/c2220ca7-63b5-4b82-85d3-34102c77a93a/media.mp3"
+        },
+        {
+            "title": "IT and the CFO",
+            "datePublished": "Tue, 20 Mar 2012 00:00:00 GMT",
+            "description": "We speak to Gartner's John Van Decker about the technologies companies use to manage their finances, and to the finance director of law firm Simmons and Simmons about moving to a single HR and finance platform.\r\n\r\nPlus how social media can force companies to scrutinise their supply chains.\r\n\r\nPresented and produced by Stephen Pritchard. &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "9256235",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/d989c920-1bc8-4a88-aee9-dc8c7545bc6c/media.mp3"
+        },
+        {
+            "title": "Tablet mania, and securing the supply chain",
+            "datePublished": "Wed, 07 Mar 2012 00:00:00 GMT",
+            "description": "In this week's podcast:\r\n\r\nIn the week Apple announced its third-generation iPad, we look at how tablets are making real inroads in business – but are causing problems as well as solving them. We hear from the CTO of iPass, Barbara Nelson, and the CEO of Netgear, Patrick Lo. \r\n\r\nPlus, has the supply chain become more dangerous? We ask Stanford University expert Kevin O'Marah why he thinks so.\r\n\r\nPresented and produced by Stephen Pritchard &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "8207291",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/3fa598e0-91ec-459d-98ae-58f235b03660/media.mp3"
+        },
+        {
+            "title": "Catching crooks with data, and MWC preview",
+            "datePublished": "Wed, 22 Feb 2012 00:00:00 GMT",
+            "description": "In this week's podcast:\r\n\r\nAhead of Mobile World Congress, Connected Business meets Anne Bouverot, director general of the GSMA, and asks her for this year's top trends. And Cesare Garlati, head of consumerisation at Trend Micro, discusses some of the downsides of bringing your own device to work.\r\n\r\nPlus, how Devon and Cornwall Police are using business intelligence to crack down on crime.\r\n\r\nPresented and produced by Stephen Pritchard &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "8152715",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/063fcc7b-220a-4fa1-96ba-49de6334309d/media.mp3"
+        },
+        {
+            "title": "Unified comms, and on the trail of the black rhino",
+            "datePublished": "Wed, 08 Feb 2012 00:00:00 GMT",
+            "description": "Can technology help to save endangered species?\r\n\r\nIn the first of a short series on novel uses of data analytics, Connected Business speaks to the scientists behind the charity WildTrack, which is using IT tools to monitor animals such as the black rhino. \r\n\r\nPlus, could unified communications be coming back into vogue?\r\n\r\nPresented and produced by Stephen Pritchard &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "8519419",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/1550a66d-495e-4b8a-a9da-3439792b301d/media.mp3"
+        },
+        {
+            "title": "Managing customers, and a CIO at CES",
+            "datePublished": "Wed, 25 Jan 2012 00:01:00 GMT",
+            "description": "In this week's podcast:\r\n\r\nHow do companies use technology to look after their customers?\r\n\r\nWe hear from two different businesses, manufacturer Eaton and bar and nightclub operator Novus Leisure.\r\n\r\nPlus a CIO's view of the Consumer Electronics Show from Evershed's Paul Caris.\r\n\r\nPresented and produced by Stephen Pritchard. &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "8279972",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/2571fd1f-ad09-458c-8d7f-7b64082d90f8/media.mp3"
+        },
+        {
+            "title": "Publishing on tablets, privacy in the cloud",
+            "datePublished": "Wed, 11 Jan 2012 00:01:00 GMT",
+            "description": "In this week's podcast:\r\n\r\nWith CES under way in Las Vegas, Connected Business talks to experts from National Geographic, Clear Magazine and Adobe about the impact of tablets on the publishing business.\r\n\r\nPlus, we discuss data privacy in the cloud with Rackspace's CTO, John Engates. &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "7950411",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/465b3d05-ef82-49ff-a2e0-77a4dc9ac198/media.mp3"
+        },
+        {
+            "title": "Stretching the IT budget",
+            "datePublished": "Wed, 07 Dec 2011 00:01:00 GMT",
+            "description": "In this week's podcast:\r\n\r\nHow are businesses budgeting for, and paying for, IT?\r\n\r\nConnected Business speaks to Tony Wilson, finance director at Kimal plc, and Paul Caris, CIO of law firm Eversheds, on how they balance the books.\r\n\r\nPlus Good Technology's CTO Nicko van Someren on keeping consumer devices safe. &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "8470359",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/9e57111a-e9ba-43b3-98db-452b0fe1b356/media.mp3"
+        },
+        {
+            "title": "Consumer devices, ERP, and saving a six-figure sum on IT",
+            "datePublished": "Wed, 23 Nov 2011 00:00:00 GMT",
+            "description": "It is not just economic uncertainty that has prompted CIOs to do more with less.\r\n\r\nCheaper consumer devices, and cloud computing, are making IT more powerful, and more flexible.\r\n\r\nWe speak to Adobe's CTO, Kevin Lynch, about smart devices and apps, to Constellation Research's Ray Wang about moving back office software to the cloud, and hear how the Wellcome Trust saved £600,000 on a single cloud computing project. &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "8491627",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/9bb7618e-a5cd-4e6f-af85-83aaa4d6d4d5/media.mp3"
+        },
+        {
+            "title": "Smart technology, regulations, and ethical hackers",
+            "datePublished": "Wed, 09 Nov 2011 00:00:00 GMT",
+            "description": "Smart technology could change the information companies gather on their customers, according to research by PA Consulting. And, as businesses gather more data, they also need better protection. Could ethical hackers help? Plus, Getronics' CTO Tim Patrick-Smith on how he tackles the growing burden of regulation. &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "8821435",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/5374ef1c-ed3b-4b4f-b2f6-6e1b86ca5b58/media.mp3"
+        },
+        {
+            "title": "IT management, and managing risk",
+            "datePublished": "Tue, 18 Oct 2011 23:00:00 GMT",
+            "description": "In this week's podcast:\r\nWe hear from Gartner's Dave Aron on the evolving IT-business relationship, and from Klaus Nyengaard, CEO of Just Eat, on running a business that will only work if it hides the technology from its customers.\r\nPlus, Accenture's chief technology innovation officer, Gavin Michael on using IT to manage risk. &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "8005550",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/7f780762-089a-433c-b6e4-21b8fca5cec0/media.mp3"
+        },
+        {
+            "title": "Breathing new life into the back office",
+            "datePublished": "Wed, 05 Oct 2011 23:00:00 GMT",
+            "description": "Enterprise resource planning and customer relationship management may lack glamour, but they are big-ticket IT purchases for many companies. Is now the time to make new investments in back office technology? And can social media spice up CRM? We hear from experts at software vendors IFS and JDA, Gartner, and Accenture. &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "8731478",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/623529bb-05aa-49ae-b944-0234dfe4f9b1/media.mp3"
+        },
+        {
+            "title": "Banking on data",
+            "datePublished": "Tue, 20 Sep 2011 23:01:00 GMT",
+            "description": "In this week's podcast:\r\n\r\nHow are financial firms making use of technology? \r\n\r\nBanks have continued to invest in IT despite the downturn. Industry analyst Martha Bennett, of\r\nFreeform Dynamics, explains some of the reasons why. And Steve Chambers, CIO of Visa Europe, discusses the challenges that come with storing 22bn pieces of information, as well as developing new payment technologies.\r\n\r\nPlus, in the first of a three-part interview, we hear from Gavin Michael, chief technology innovation officer at Accenture, on why businesses will buy IT services from the cloud. &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "8393268",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/e283d7ec-993a-46c1-8fbf-eb3a43d9f7a3/media.mp3"
+        },
+        {
+            "title": "Cloud, and social commerce",
+            "datePublished": "Tue, 06 Sep 2011 23:00:00 GMT",
+            "description": "In this week's podcast:\r\n\r\nIs cloud computing going to transform the way businesses run IT? We hear from a UK company that runs almost all its IT in the cloud, and speak to the author of a National Computing Centre/PA Consulting report on how businesses can best make use of the technology. Plus, Gartner's Steve Prentice on the fusion of e-commerce and social networking: social commerce. &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "16503444",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/62f0b596-65eb-4881-b36f-fb3234a1babd/media.mp3"
+        },
+        {
+            "title": "Consumer IT, or gadget envy?",
+            "datePublished": "Tue, 26 Jul 2011 23:00:00 GMT",
+            "description": "The trend for employees to bring their own devices to work — and for companies to turn to consumer devices — raises questions of security, data privacy, and support &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "8542039",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/fa5d03e2-27ae-44ff-adad-60e198f1e340/media.mp3"
+        },
+        {
+            "title": "Faster chips, smarter tablets",
+            "datePublished": "Tue, 12 Jul 2011 23:00:00 GMT",
+            "description": "In this week's podcast:\r\nWe hear how investment bankers are using tablets to monitor the markets, and how laptops with supercomputer power are changing personal computing.\r\nAnd we round off our series on big data with pointers from Deloitte on building a data-driven enterprise. &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "8184852",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/a4d426cb-936e-4351-b474-a9722742945e/media.mp3"
+        },
+        {
+            "title": "Clouds, balls and planes",
+            "datePublished": "Mon, 27 Jun 2011 23:00:00 GMT",
+            "description": "An in-depth look at IT sourcing, and continuing our series on Big Data, we go behind the scenes at Wimbledon to hear how analytics are helping tennis pros &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "8961940",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/24dbd69b-1431-4fb6-b7f7-fbe52258ceff/media.mp3"
+        },
+        {
+            "title": "Clouds, trees and cybersecurity",
+            "datePublished": "Wed, 15 Jun 2011 23:00:00 GMT",
+            "description": "This week we look at the findings of the PA Consulting – Harvey Nash survey of CIOs, focusing on how businesses are sourcing their IT\r\n \r\nIn our series on big data, we hear how a company with origins in forestry is helping local governments manage the built environment\r\n \r\nAnd we speak to Eugene Kaspersky, of Kaspersky Labs, about cybersecurity threats &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "8330868",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/48a7ca99-7195-4d1e-994b-38b2fb49de7e/media.mp3"
+        },
+        {
+            "title": "Data are big business",
+            "datePublished": "Tue, 31 May 2011 23:00:00 GMT",
+            "description": "Over the next few weeks, the Connected Business will run a series of interviews with organisations that are using \"big data\", developing technologies to manage it, and providing the know-how to unlock its potential.\r\nThis week’s show features interviews with data experts and we hear how Oxford University used student data to rebuff recent charges of elitism. &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "16644555",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/3d074adc-ad16-446a-ba3b-3e342d6d9fa2/media.mp3"
+        },
+        {
+            "title": "Investing for growth",
+            "datePublished": "Tue, 10 May 2011 23:00:00 GMT",
+            "description": "IT spending, and especially IT investments by enterprises, provides a useful proxy for wider levels of confidence.\r\n\r\nOne IT company that is better placed than most to offer a view on whether those investments are picking up again is SAP. Connected Business spoke to its co-CEOs, Jim Hagemann Snabe and Bill McDermott.\r\n\r\nPlus, we hear how UK-headquartered electronics manufacturer Psion is using IT to help it to trade around the world. &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "16311207",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/b960df07-46f8-4455-a9a4-6a5b9cd2661a/media.mp3"
+        },
+        {
+            "title": "The Connected Business",
+            "datePublished": "Wed, 27 Apr 2011 14:57:00 GMT",
+            "description": "O2, the UK mobile phone operator is using technology to monitor and cut its carbon footprint. Plus, the latest data on outsourcing and an interview with Microsoft's CIO, Tony Scott. &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "17442945",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/4350eba2-4a03-4045-8f64-9d2ea650f709/media.mp3"
+        },
+        {
+            "title": "Data-driven HR",
+            "datePublished": "Wed, 13 Apr 2011 10:20:00 GMT",
+            "description": "Data-driven HR, buy your own devices, and supply chain risk. HR is increasing its use of data to ensure the business has the right staff, doing the right work, at the right time &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "16943379",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/47e3fd0d-a74c-427b-b5c6-e496cf8a45b5/media.mp3"
+        },
+        {
+            "title": "Technology for greener business",
+            "datePublished": "Tue, 29 Mar 2011 14:42:00 GMT",
+            "description": "This week we examine the complex relationship between IT and the environment &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "18083040",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/04a0b1cf-5067-4374-8f9f-c38edccbe18b/media.mp3"
+        },
+        {
+            "title": "Mining data to discover trends and sentiment",
+            "datePublished": "Tue, 15 Mar 2011 00:00:00 GMT",
+            "description": "Sales and marketing specialists have never had better access to data, whether it is from loyalty programmes, databases or even social media.\r\n\r\nIn this week's podcast, we speak to James Kaplan, of management consultants McKinsey, about how companies are finding \"unfiltered customer sentiment\" online, and how they can translate that into better decision making.\r\n\r\nWe also look at a survey that suggests that retailers are cutting back their investments in IT, and look at how one company claims it can save businesses time, and money, by processing their invoices for them.\r\n\r\nProduced by Stephen Pritchard &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "17838236",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/1b2d794b-cb3f-466a-86f0-bd5d74dd8eb5/media.mp3"
+        },
+        {
+            "title": "How can enterprises manage the costs of mobile working?",
+            "datePublished": "Thu, 03 Mar 2011 00:00:00 GMT",
+            "description": "In this week's podcast:\r\n\r\nMobile World Congress might be over for another year, but there is no let up for the mobile industry.\r\n\r\nIn the week that Apple is set to launch its next iPad, we hear how businesses are replacing both laptops and smartphones with tablets, and how enterprises can manage the costs of mobile working.\r\n\r\nWe also hear how researchers are designing new ways for people in developing countries to access the Internet, even if they cannot read or write, and we look at a study that suggests that information security is increasingly important for companies' boards, even as other areas of IT spending is under\r\npressure.\r\n\r\nProduced by Stephen Pritchard &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "17223578",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/f7457b51-08a6-4891-8e99-0719a442003e/media.mp3"
+        },
+        {
+            "title": "Making business mobile",
+            "datePublished": "Mon, 14 Feb 2011 00:01:00 GMT",
+            "description": "In this week's podcast: February sees the mobile phone industry come together for its annual congress in Barcelona, and the Connected Business podcast also focuses on mobility.\r\n \r\nWe hear from Tasty Baking, a US company founded in 1914 that is using mobile tools to make its field sales more efficient, and speak to industry analysts Yankee Group, about a technology that lets consumers download information, or even pay for goods and services, with just a wave of their phones.\r\n \r\nAnd we examine the worrying issue of mobile security. With thousands of smart phones lost or stolen each day, just how safe are business data?\r\n \r\nProduced by Stephen Pritchard &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "16714832",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/ae1c1ca6-deff-41e4-9ff6-3048723a917c/media.mp3"
+        },
+        {
+            "title": "Building efficient supply chains",
+            "datePublished": "Fri, 28 Jan 2011 00:00:00 GMT",
+            "description": "In this week’s podcast: how can businesses improve their supply chains, manage costs, and reduce their impact on the environment? Stephen Pritchard talks to Stephen Stokes, managing vice president at industry analysts Gartner, about the green agenda, and to Matt Harris, head of the supply chain at manufacturer JAE, about using IT to bring down the cost of logistics.\r\n\r\nPresented by Stephen Pritchard &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "11813837",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/28caa5d9-faaf-415b-8df3-0ae0b9306ef9/media.mp3"
+        },
+        {
+            "title": "Investing in IT for growth",
+            "datePublished": "Wed, 27 Oct 2010 15:45:00 GMT",
+            "description": "Often companies spend too much time, effort and money pursuing the perfect IT systems. But for many tasks a system that is good enough, is good enough.\r\n\r\nConnected Business contributor Stephen Pritchard talks to Gary Clare of Bain and Company, about 'good enough' IT. &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "2840476",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/11b29426-dd4f-4fde-88b3-aa8edc231e51/media.mp3"
+        },
+        {
+            "title": "Providing connectivity",
+            "datePublished": "Fri, 19 Jun 2009 04:00:00 GMT",
+            "description": "How has IT and mobility changed over the past  decade? Who still needs to get connected? And how important are industry standards? &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "7343150",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/055df183-f90e-4f87-9b6d-7e4bf0f7f69b/media.mp3"
+        },
+        {
+            "title": "Connected Lives: the debate - Part 3",
+            "datePublished": "Thu, 11 Jun 2009 04:00:00 GMT",
+            "description": "Do digital connections help the developing world out of poverty? Our experts discuss this controversial issue &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "9897298",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/bc118369-f203-4207-833b-872b44632408/media.mp3"
+        },
+        {
+            "title": "Connected Lives: the debate - Part 2",
+            "datePublished": "Thu, 04 Jun 2009 04:00:00 GMT",
+            "description": "Our experts argue over the impact of mobility on business, flexible working and work-life balance, and the issues it raises for HR and IT  security departments &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "9842128",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/c4942aa0-a88a-4c83-8de7-1be078f5af16/media.mp3"
+        },
+        {
+            "title": "Connected Lives: the debate - Part 1",
+            "datePublished": "Fri, 29 May 2009 09:00:00 GMT",
+            "description": "Three experts discuss what it means to be connected, the barriers to universal access to fast broadband, and the public sector's role in its delivery &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>",
+            "length": "9970048",
+            "sourceUrl": "https://sphinx.acast.com/ft-connected-business/22901fe4-6693-4527-87db-b7a77c5bc646/media.mp3"
+        }
+    ]
+}

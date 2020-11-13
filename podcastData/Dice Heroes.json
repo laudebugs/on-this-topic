@@ -1,0 +1,298 @@
+{
+    "artwork": "http://is5.mzstatic.com/image/thumb/Music6/v4/93/e1/09/93e10952-4f5e-5340-395f-62a87488785b/source/100x100bb.jpg",
+    "description": "A podcast following the sessions of a group of Australian gamers as they try different role playing game systems and adventure through fantastic worlds.  Actual play sessions of games run on a weekly basis, tune in to join the fun.",
+    "feedURL": "http://feeds.feedburner.com/diceheroes",
+    "podcastURL": "http://www.diceheroes.com/",
+    "publisher": "tondi@diceheroes.com (Dice Heroes)",
+    "title": "Dice Heroes",
+    "episodes": [
+        {
+            "title": "Greetings Humans",
+            "datePublished": "Fri, 20 Jan 2017 00:00:00 GMT",
+            "length": "1383506",
+            "sourceUrl": "http://feedproxy.google.com/~r/DiceHeroes/~5/p0sRv9H2-tM/PodcastIntro.mp3"
+        },
+        {
+            "title": "Pathfinder 01 - Chaos in the sky",
+            "datePublished": "Thu, 26 Jan 2017 00:00:00 GMT",
+            "length": "63919185",
+            "sourceUrl": "http://feedproxy.google.com/~r/DiceHeroes/~5/UJFonvvy5ZQ/Pathfinder-s01e01.mp3"
+        },
+        {
+            "title": "Pathfinder 02 - Worst Revelations day ever",
+            "datePublished": "Thu, 02 Feb 2017 00:00:00 GMT",
+            "length": "80645174",
+            "sourceUrl": "http://feedproxy.google.com/~r/DiceHeroes/~5/TzTonwBqtO8/Pathfinder-s01e02.mp3"
+        },
+        {
+            "title": "Pathfinder 03 - The webs we weave",
+            "datePublished": "Thu, 09 Feb 2017 00:00:00 GMT",
+            "length": "64783580",
+            "sourceUrl": "http://feedproxy.google.com/~r/DiceHeroes/~5/OsVDM78PrL0/Pathfinder-s01e03.mp3"
+        },
+        {
+            "title": "Pathfinder 04 - Being Bravery",
+            "datePublished": "Mon, 20 Feb 2017 00:00:00 GMT",
+            "length": "51940399",
+            "sourceUrl": "http://feedproxy.google.com/~r/DiceHeroes/~5/levPVkeDApY/Pathfinder-s01e04.mp3"
+        },
+        {
+            "title": "Pathfinder 05 - Friends and Presents",
+            "datePublished": "Sun, 26 Feb 2017 00:00:00 GMT",
+            "length": "71123219",
+            "sourceUrl": "http://feedproxy.google.com/~r/DiceHeroes/~5/P4-Ym9GkdPI/Pathfinder-s01e05.mp3"
+        },
+        {
+            "title": "Pathfinder 06 - A Kings Cloak",
+            "datePublished": "Sun, 12 Mar 2017 00:00:00 GMT",
+            "length": "48125403",
+            "sourceUrl": "http://feedproxy.google.com/~r/DiceHeroes/~5/tTi23uT3IEY/Pathfinder-s01e06.mp3"
+        },
+        {
+            "title": "Pathfinder 07 - Hide and Seek",
+            "datePublished": "Sat, 18 Mar 2017 00:00:00 GMT",
+            "length": "45034413",
+            "sourceUrl": "http://feedproxy.google.com/~r/DiceHeroes/~5/uEYdbRK-KFg/Pathfinder-s01e07.mp3"
+        },
+        {
+            "title": "Pathfinder 08 - Wheeling and Dealing",
+            "datePublished": "Sat, 25 Mar 2017 00:00:00 GMT",
+            "length": "43618122",
+            "sourceUrl": "http://feedproxy.google.com/~r/DiceHeroes/~5/eZM4XO5kLGQ/Pathfinder-s01e08.mp3"
+        },
+        {
+            "title": "Pathfinder 09 - Hummingbird Fountain Showdown",
+            "datePublished": "Sun, 09 Apr 2017 00:00:00 GMT",
+            "length": "70957966",
+            "sourceUrl": "http://feedproxy.google.com/~r/DiceHeroes/~5/1nPrS32VOwg/Pathfinder-s01e09.mp3"
+        },
+        {
+            "title": "Pathfinder 10 - Hummingbird Hunt",
+            "datePublished": "Tue, 18 Apr 2017 00:00:00 GMT",
+            "length": "35150463",
+            "sourceUrl": "http://feedproxy.google.com/~r/DiceHeroes/~5/gGe_YX7s53o/Pathfinder-s01e10.mp3"
+        },
+        {
+            "title": "Pathfinder 11 - The path to victory",
+            "datePublished": "Sun, 23 Apr 2017 00:00:00 GMT",
+            "length": "32759083",
+            "sourceUrl": "http://feedproxy.google.com/~r/DiceHeroes/~5/NGqiC9KgkQE/Pathfinder-s01e11.mp3"
+        },
+        {
+            "title": "Pathfinder 12 - A deadly situation",
+            "datePublished": "Sun, 07 May 2017 00:00:00 GMT",
+            "length": "88665499",
+            "sourceUrl": "http://feedproxy.google.com/~r/DiceHeroes/~5/WS1hgbTnld8/Pathfinder-s01e12.mp3"
+        },
+        {
+            "title": "Rogue Trader 01 - Back into the Expanse",
+            "datePublished": "Wed, 24 May 2017 00:00:00 GMT",
+            "length": "33863180",
+            "sourceUrl": "http://feedproxy.google.com/~r/DiceHeroes/~5/SIRPsht37fw/RogueTrader-s01e01.mp3"
+        },
+        {
+            "title": "Rogue Trader 02 - Liberation of Crimson Hideaway",
+            "datePublished": "Mon, 12 Jun 2017 00:00:00 GMT",
+            "length": "41737949",
+            "sourceUrl": "http://feedproxy.google.com/~r/DiceHeroes/~5/pmY1-0YTm-k/RogueTrader-s01e02.mp3"
+        },
+        {
+            "title": "Rogue Trader 03 - Nobody Home",
+            "datePublished": "Sun, 02 Jul 2017 00:00:00 GMT",
+            "length": "31644653",
+            "sourceUrl": "http://feedproxy.google.com/~r/DiceHeroes/~5/VYTQuELlkow/RogueTrader-s01e03.mp3"
+        },
+        {
+            "title": "Rogue Trader 04 - Green Glow of Death",
+            "datePublished": "Mon, 10 Jul 2017 00:00:00 GMT",
+            "length": "28690099",
+            "sourceUrl": "http://feedproxy.google.com/~r/DiceHeroes/~5/3Gt29aLdBgY/RogueTrader-s01e04.mp3"
+        },
+        {
+            "title": "Rogue Trader 05 - My Pirate Friend",
+            "datePublished": "Wed, 19 Jul 2017 00:00:00 GMT",
+            "length": "36953988",
+            "sourceUrl": "http://feedproxy.google.com/~r/DiceHeroes/~5/9KR-LnyPBD0/RogueTrader-s01e05.mp3"
+        },
+        {
+            "title": "Rogue Trader 06 - The Deadly Dance of Dice",
+            "datePublished": "Mon, 31 Jul 2017 00:00:00 GMT",
+            "length": "44804095",
+            "sourceUrl": "http://feedproxy.google.com/~r/DiceHeroes/~5/na9OZWvBWyI/RogueTrader-s01e06.mp3"
+        },
+        {
+            "title": "Rogue Trader 07 - Inflitrating the Citadel",
+            "datePublished": "Sun, 13 Aug 2017 00:00:00 GMT",
+            "length": "71737124",
+            "sourceUrl": "http://feedproxy.google.com/~r/DiceHeroes/~5/1iz9OqpvZEc/RogueTrader-s01e07.mp3"
+        },
+        {
+            "title": "Rogue Trader 08 - Nothing to see here",
+            "datePublished": "Fri, 08 Sep 2017 00:00:00 GMT",
+            "length": "32560504",
+            "sourceUrl": "http://feedproxy.google.com/~r/DiceHeroes/~5/Y-nrhJnGtos/RogueTrader-s01e08.mp3"
+        },
+        {
+            "title": "Rogue Trader 09 - Death is optional",
+            "datePublished": "Sun, 17 Sep 2017 00:00:00 GMT",
+            "length": "26319067",
+            "sourceUrl": "http://feedproxy.google.com/~r/DiceHeroes/~5/oZ669dYmV0s/RogueTrader-s01e09.mp3"
+        },
+        {
+            "title": "Rogue Trader 10 - Death is mandatory",
+            "datePublished": "Thu, 12 Oct 2017 00:00:00 GMT",
+            "length": "37011508",
+            "sourceUrl": "http://feedproxy.google.com/~r/DiceHeroes/~5/ZlxYiIdhcvo/RogueTrader-s01e10.mp3"
+        },
+        {
+            "title": "MERP 01 - 3 people and an invisible elf walk into a bar",
+            "datePublished": "Wed, 29 Nov 2017 00:00:00 GMT",
+            "length": "52818201",
+            "sourceUrl": "http://feedproxy.google.com/~r/DiceHeroes/~5/c4ZpxaofK2I/MERP-s01e01.mp3"
+        },
+        {
+            "title": "MERP 02 - The walking begins",
+            "datePublished": "Tue, 12 Dec 2017 00:00:00 GMT",
+            "length": "60584667",
+            "sourceUrl": "http://feedproxy.google.com/~r/DiceHeroes/~5/PWz9D3Z7jCU/MERP-s01e02.mp3"
+        },
+        {
+            "title": "7th Seas - Down on the Street",
+            "datePublished": "Mon, 05 Mar 2018 00:00:00 GMT",
+            "length": "37501097",
+            "sourceUrl": "http://feedproxy.google.com/~r/DiceHeroes/~5/wCn_-cFnLrc/7thSeas-s01e01.mp3"
+        },
+        {
+            "title": "7th Seas - Clear the Lane",
+            "datePublished": "Wed, 14 Mar 2018 00:00:00 GMT",
+            "length": "62859517",
+            "sourceUrl": "http://feedproxy.google.com/~r/DiceHeroes/~5/7tVjEo5ET68/7thSeas-s01e02.mp3"
+        },
+        {
+            "title": "7th Seas - Take the Power Back",
+            "datePublished": "Sat, 24 Mar 2018 00:00:00 GMT",
+            "length": "60695743",
+            "sourceUrl": "http://feedproxy.google.com/~r/DiceHeroes/~5/eT-HdXheMEc/7thSeas-s01e03.mp3"
+        },
+        {
+            "title": "7th Seas - Settle for Nothing",
+            "datePublished": "Wed, 04 Apr 2018 00:00:00 GMT",
+            "length": "61836980",
+            "sourceUrl": "http://feedproxy.google.com/~r/DiceHeroes/~5/PWtv1ax774I/7thSeas-s01e04.mp3"
+        },
+        {
+            "title": "7th Seas - Testify",
+            "datePublished": "Sat, 28 Apr 2018 00:00:00 GMT",
+            "length": "69255547",
+            "sourceUrl": "http://feedproxy.google.com/~r/DiceHeroes/~5/Vyz8v9G5-no/7thSeas-s01e05.mp3"
+        },
+        {
+            "title": "Star Wars Saga - Cantina Whispers",
+            "datePublished": "Sat, 30 Jun 2018 00:00:00 GMT",
+            "length": "59283271",
+            "sourceUrl": "http://feedproxy.google.com/~r/DiceHeroes/~5/vZ7xJyW_aiM/StarStalker-s01e01.mp3"
+        },
+        {
+            "title": "Star Wars Saga - Pizza tha Hutt",
+            "datePublished": "Fri, 27 Jul 2018 00:00:00 GMT",
+            "length": "33007528",
+            "sourceUrl": "http://feedproxy.google.com/~r/DiceHeroes/~5/ZRGU388JnRU/StarStalker-s01e02.mp3"
+        },
+        {
+            "title": "Star Wars Saga - Gamorean A## Kickin",
+            "datePublished": "Fri, 03 Aug 2018 00:00:00 GMT",
+            "length": "24692450",
+            "sourceUrl": "http://feedproxy.google.com/~r/DiceHeroes/~5/o6PG5mEiHj8/StarStalker-s01e03.mp3"
+        },
+        {
+            "title": "Star Wars Saga - The one that got away",
+            "datePublished": "Fri, 10 Aug 2018 00:00:00 GMT",
+            "length": "37584972",
+            "sourceUrl": "http://feedproxy.google.com/~r/DiceHeroes/~5/eed47VzVOjU/StarStalker-s01e04.mp3"
+        },
+        {
+            "title": "Star Wars Saga - ReBirth",
+            "datePublished": "Fri, 17 Aug 2018 00:00:00 GMT",
+            "length": "23394016",
+            "sourceUrl": "http://feedproxy.google.com/~r/DiceHeroes/~5/7cD9loNmQl4/StarStalker-s01e05.mp3"
+        },
+        {
+            "title": "Star Wars Saga - Sneaking Through the Lab",
+            "datePublished": "Wed, 21 Nov 2018 00:00:00 GMT",
+            "length": "44652646",
+            "sourceUrl": "http://feedproxy.google.com/~r/DiceHeroes/~5/7_mqs2Q4-so/StarStalker-s01e06.mp3"
+        },
+        {
+            "title": "Star Wars Saga - Results",
+            "datePublished": "Wed, 28 Nov 2018 00:00:00 GMT",
+            "length": "32370186",
+            "sourceUrl": "http://feedproxy.google.com/~r/DiceHeroes/~5/OyoOWOql4WY/StarStalker-s01e07.mp3"
+        },
+        {
+            "title": "Star Wars Saga - Victory?",
+            "datePublished": "Wed, 05 Dec 2018 00:00:00 GMT",
+            "length": "31277093",
+            "sourceUrl": "http://feedproxy.google.com/~r/DiceHeroes/~5/EJquycu-Rlw/StarStalker-s01e08.mp3"
+        },
+        {
+            "title": "Conan - Treasure of Khoraja",
+            "datePublished": "Fri, 12 Jul 2019 00:00:00 GMT",
+            "length": "47364618",
+            "sourceUrl": "http://feedproxy.google.com/~r/DiceHeroes/~5/MDz8SaYNFU8/Conan-s01e01.mp3"
+        },
+        {
+            "title": "Conan - Meeting Locals",
+            "datePublished": "Thu, 18 Jul 2019 00:00:00 GMT",
+            "length": "47854414",
+            "sourceUrl": "http://feedproxy.google.com/~r/DiceHeroes/~5/gHiRyHGefHs/Conan-s01e02.mp3"
+        },
+        {
+            "title": "Conan - Boney Guards",
+            "datePublished": "Thu, 25 Jul 2019 00:00:00 GMT",
+            "length": "61364944",
+            "sourceUrl": "http://feedproxy.google.com/~r/DiceHeroes/~5/ngdkv4n-zks/Conan-s01e03.mp3"
+        },
+        {
+            "title": "Conan - Time Off",
+            "datePublished": "Thu, 01 Aug 2019 00:00:00 GMT",
+            "length": "37174773",
+            "sourceUrl": "http://feedproxy.google.com/~r/DiceHeroes/~5/6FKDtlG701c/Conan-s01e04.mp3"
+        },
+        {
+            "title": "Conan - Into the Sand",
+            "datePublished": "Thu, 08 Aug 2019 00:00:00 GMT",
+            "length": "38455818",
+            "sourceUrl": "http://feedproxy.google.com/~r/DiceHeroes/~5/lcBnPh6nwSg/Conan-s01e05.mp3"
+        },
+        {
+            "title": "Conan - Temple Run",
+            "datePublished": "Thu, 15 Aug 2019 00:00:00 GMT",
+            "length": "67319818",
+            "sourceUrl": "http://feedproxy.google.com/~r/DiceHeroes/~5/LKJN5UKC_8A/Conan-s01e06.mp3"
+        },
+        {
+            "title": "Conan - Mental Damage",
+            "datePublished": "Thu, 05 Sep 2019 00:00:00 GMT",
+            "length": "42779867",
+            "sourceUrl": "http://feedproxy.google.com/~r/DiceHeroes/~5/pafx2lFW-WU/Conan-s01e07.mp3"
+        },
+        {
+            "title": "Conan - Carousing",
+            "datePublished": "Thu, 12 Sep 2019 00:00:00 GMT",
+            "length": "29423720",
+            "sourceUrl": "http://feedproxy.google.com/~r/DiceHeroes/~5/vR7HHya1alk/Conan-s01e08.mp3"
+        },
+        {
+            "title": "Conan - Full Moon",
+            "datePublished": "Thu, 19 Sep 2019 00:00:00 GMT",
+            "length": "52028781",
+            "sourceUrl": "http://feedproxy.google.com/~r/DiceHeroes/~5/wgGxGWAc9Iw/Conan-s01e09.mp3"
+        },
+        {
+            "title": "Conan - Into the trees",
+            "datePublished": "Thu, 26 Sep 2019 00:00:00 GMT",
+            "length": "51870218",
+            "sourceUrl": "http://feedproxy.google.com/~r/DiceHeroes/~5/UGLr0XZpat0/Conan-s01e10.mp3"
+        }
+    ]
+}

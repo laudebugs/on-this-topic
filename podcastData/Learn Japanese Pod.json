@@ -1,0 +1,939 @@
+{
+    "artwork": "http://is5.mzstatic.com/image/thumb/Music/v4/cc/96/4e/cc964ee7-584e-f337-709e-f6c9921adbda/source/100x100bb.jpg",
+    "description": "This is a podcast and website for studying Japanese",
+    "feedURL": "http://feeds.feedburner.com/learnjapanesepod",
+    "podcastURL": "http://learnjapanesepod.com/podcastfeednew/",
+    "publisher": "info@learnjapanesepod.com (Alex Brooke)",
+    "title": "Learn Japanese Pod",
+    "episodes": [
+        {
+            "title": "Podcast 34: Aizuchi",
+            "datePublished": "Wed, 30 Sep 2020 00:10:36 +0000",
+            "length": "96280940",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/09hvTkuFqqM/podcast_34_lesson.mp3",
+            "categories": [
+                "Lesson"
+            ]
+        },
+        {
+            "title": "Podcast 34: Just the dialogues",
+            "datePublished": "Wed, 30 Sep 2020 00:05:56 +0000",
+            "length": "3116468",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/ToOw6fJMgGM/podcast_34_dialogue.mp3",
+            "categories": [
+                "Dialogue"
+            ]
+        },
+        {
+            "title": "Podcast 34: Notes",
+            "datePublished": "Wed, 30 Sep 2020 00:00:24 +0000",
+            "length": "148718",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/mV75cJkjHDI/podcast_34_notes.pdf",
+            "categories": [
+                "Show Notes"
+            ]
+        },
+        {
+            "title": "Fun Friday #14: Interview with Katheryn Gronauer",
+            "datePublished": "Fri, 04 Sep 2020 00:00:19 +0000",
+            "length": "120504872",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/ebwwH28Cp7c/podcast_14_funfriday.mp3",
+            "categories": [
+                "Fun Friday"
+            ]
+        },
+        {
+            "title": "Podcast 33: Talking about your trip to Japan",
+            "datePublished": "Wed, 19 Aug 2020 00:10:15 +0000",
+            "length": "107558228",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/jX3pHE8FSr8/podcast_33_lesson.mp3",
+            "categories": [
+                "Lesson"
+            ]
+        },
+        {
+            "title": "Podcast 33: Just the dialogues",
+            "datePublished": "Wed, 19 Aug 2020 00:05:49 +0000",
+            "length": "2278136",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/rrcsBVlVPNI/podcast_33_dialogue.mp3",
+            "categories": [
+                "Dialogue"
+            ]
+        },
+        {
+            "title": "Podcast 33: Notes",
+            "datePublished": "Wed, 19 Aug 2020 00:00:14 +0000",
+            "length": "160628",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/cFrU2PFu1OY/podcast_33_notes.pdf",
+            "categories": [
+                "Show Notes"
+            ]
+        },
+        {
+            "title": "Podcast 32: Making dinner plans with a friend!",
+            "datePublished": "Wed, 24 Jun 2020 00:10:14 +0000",
+            "length": "102615932",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/50ZET3fBLHM/podcast_32_lesson.mp3",
+            "categories": [
+                "Lesson"
+            ]
+        },
+        {
+            "title": "Podcast 32: Just the dialogues",
+            "datePublished": "Wed, 24 Jun 2020 00:05:57 +0000",
+            "length": "6136760",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/WdTtaemBPp8/podcast_32_dialogue.mp3",
+            "categories": [
+                "Dialogue"
+            ]
+        },
+        {
+            "title": "Podcast 32: Notes",
+            "datePublished": "Wed, 24 Jun 2020 00:00:40 +0000",
+            "length": "166903",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/u1QE2U0B28g/podcast_32_notes.pdf",
+            "categories": [
+                "Show Notes"
+            ]
+        },
+        {
+            "title": "Fun Friday #13: Coronavirus in Japan",
+            "datePublished": "Fri, 22 May 2020 00:00:14 +0000",
+            "description": "This is the Fun Friday edition of Learn Japanese Pod. This is where we speak to cool people doing cool things in Japan. In this episode I talk to Japan veteran Andy about life in Japan during the...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/LFvOn9oBnUo\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "126951572",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/brtgcr-4rXw/podcast_13_funfriday.mp3"
+        },
+        {
+            "title": "Podcast 31: Convenience Store Japanese",
+            "datePublished": "Wed, 06 May 2020 00:10:21 +0000",
+            "description": "In this podcast Ami and Alex teach you some useful Japanese phrases you can use when visiting a convenience store. For more podcasts visit http://learnjapanesepod.com  <br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/Dd_4mvsis_o\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "122594960",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/P_aY7vhKbM4/podcast_31_lesson.mp3",
+            "epNo": "31"
+        },
+        {
+            "title": "Podcast 31: Just the dialogues",
+            "datePublished": "Wed, 06 May 2020 00:05:44 +0000",
+            "description": "These are the Japanese dialogues for podcast #31: Convenience Store Japanese. Introduction  In this podcast you will learn useful Japanese phrases for shopping at a convenience store. Understanding...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/DmoDo2YJJwA\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "2770904",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/Poqu0ErNECk/podcast_31_dialogue.mp3",
+            "epNo": "31"
+        },
+        {
+            "title": "Podcast 31: Notes",
+            "datePublished": "Wed, 06 May 2020 00:00:37 +0000",
+            "description": "These are the PDF show notes for podcast #31: Convenience store Japanese. For more podcasts visit http://learnjapanesepod.com<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/_VuGc-Dt1IM\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "175652",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/svnfaKsVzGQ/podcast_31_notes.pdf"
+        },
+        {
+            "title": "Podcast 30: Talking about your plans for the year",
+            "datePublished": "Wed, 25 Mar 2020 00:10:06 +0000",
+            "description": "In this podcast Ami and Alex teach you some useful phrases and dialogues to talk about you plans for the year in natural, fluent Japanese. For more podcasts go to http://learnjapanesepod.com<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/DnFlG2fmJ-o\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "108559424",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/j4GlpA1cxJk/podcast_30_lesson.mp3"
+        },
+        {
+            "title": "Podcast 30: Just the dialogues",
+            "datePublished": "Wed, 25 Mar 2020 00:05:45 +0000",
+            "description": "Talking about your plans for the year In this podcast you will learn how to talk about your New Year’s resolutions, your plans and goals for the coming year. Check out the main dialogue to learn...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/H_PGWsfMpmw\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "4257560",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/OOYtKZzfOQU/podcast_30_dialogue.mp3"
+        },
+        {
+            "title": "Podcast 30: Notes",
+            "datePublished": "Wed, 25 Mar 2020 00:00:17 +0000",
+            "description": "These are the show notes for podcast #30 “Convenience store Japanese”. Download the PDF show notes to read about this lesson in more detail. For more podcasts video http://learnjapanesepod.com  <br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/Mh2VO02k6QE\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "180580",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/Lsv1OLsJV8w/podcast_30_notes.pdf",
+            "snNo": "1"
+        },
+        {
+            "title": "Fun Friday: Interview with Miku Sensei",
+            "datePublished": "Fri, 20 Dec 2019 00:00:59 +0000",
+            "description": "In this Fun Friday episode of Learn Japanese Pod, I interview Miku Sensei of Miku Real Japanese. Miku Sensei is a prolific creator of fun, educational Japanese language learning videos on Youtube and...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/jDXdfJoslQo\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "134713712",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/x5UT4fhb6Z0/podcast_12_funfriday.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 29: Talking about your job in Japanese",
+            "datePublished": "Tue, 29 Oct 2019 00:10:47 +0000",
+            "description": "In this podcast, Ami and Alex teach you useful phrases and dialogues to help you talk about your job in natural Japanese. For more fun Japanese language podcasts visit http://learnjapanesepod.com<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/BZ4hM5tjR78\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "128135468",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/VCgV6VvbFk8/podcast_29_lesson.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 29: Just the dialogues",
+            "datePublished": "Sat, 26 Oct 2019 00:05:22 +0000",
+            "description": "Main Dialog 1 – Talking about your job (Japanese) A: お仕事は何をしてるの? B: ウェブデザインの仕事してるよ。 A: そうなんだ。楽しい? B: そうだね。毎日大変だけど楽しいよ。 A: 楽しいのはよかったね。何年ぐらいやってるの? B: 7年ぐらいかな。 A: ヘェ〜、すごいな。俺はすぐ転職しちゃうからさ。 B:...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/ms0UafWEBm4\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "8126624",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/pV1oZ17v_rM/podcast_29_dialogue.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 29: Notes",
+            "datePublished": "Sat, 26 Oct 2019 00:00:59 +0000",
+            "description": "These are the PDF show notes for podcast #29 “Talking about your job in Japanese” For more fun Japanese language podcasts visit http://learnjapanesepod.com<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/wWamSek3Zqg\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "234192",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/PYMHHKEisfk/podcast_29_notes.pdf",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 28: How to talk about the weather in Japanese",
+            "datePublished": "Thu, 12 Sep 2019 00:10:38 +0000",
+            "description": "In this podcast, Ami and Alex teach you some useful phrases and dialogues for talking about the weather in natural, fluent Japanese. For more fun Japanese language podcasts visit...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/yHSkQGeXZ_s\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "86970308",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/glz25XNF9Qc/podcast_28_lesson.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 28: Just the dialogues",
+            "datePublished": "Thu, 12 Sep 2019 00:05:23 +0000",
+            "description": "If there is one thing Japanese love to talk about, it’s the weather. Apart from discussing the forecast, it’s quite common to mention the weather in small talk or when striking up a conversation with...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/e-xZczJKufY\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "4387136",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/d2OOyBQhjXU/podcast_28_dialogue.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 28: Notes",
+            "datePublished": "Thu, 12 Sep 2019 00:00:19 +0000",
+            "description": "These are the PDF show notes for podcast #28 “How to talk about the weather in Japanese” For more fun Japanese language podcasts visit http://learnjapanesepod.com<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/Iy7zK-lplhY\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "428626",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/pmw5anyH1wQ/podcast_28_notes.pdf",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 27: Talking about your preferences in Japanese",
+            "datePublished": "Sat, 20 Jul 2019 00:10:40 +0000",
+            "description": "In this podcast, Ami and Alex teach you how to talk about your preferences in Japanese. For more fun Japanese language podcasts visit http://learnjapanesepod.com<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/hYayMi_eJ_k\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "71845522",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/Rhp0rDgvuxs/podcast_27_lesson.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 27: Just the dialogues",
+            "datePublished": "Sat, 20 Jul 2019 00:05:40 +0000",
+            "description": "In this podcast, Ami and Alex teach you how to talk about your preferences in Japanese. Main Podcast Dialogue (Japanese) A:　ね、お寿司とたこ焼きどっちが好き？ B:　そうだね。やっぱり、お寿司の方が好きかな。 A:　なるほどね。でもなんで？ B:　味が好きだから。あみは？...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/ODOBDjuIOr8\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "2760788",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/ucpvTqMusSY/podcast_27_dialogue.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 27: Notes",
+            "datePublished": "Sat, 20 Jul 2019 00:00:38 +0000",
+            "description": "These are the PDF show notes for podcast #27 “Talking about your preferences in Japanese” For more podcasts visit http://learnjapanesepod.com<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/DEVfYVvhT7E\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "147942",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/HEIPqgnT3u0/podcast_27_notes.pdf",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 26: Japanese verbs for daily life",
+            "datePublished": "Mon, 17 Jun 2019 00:10:31 +0000",
+            "description": "In this podcast you’re going to learn useful verbs to talk about your daily routine. These verbs are very commonly used in casual conversation throughout the day so they are well worth learning. You...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/LI1SfwdcVko\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "62353484",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/Ce4PyKskyUg/podcast_26_lesson.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 26: Just the dialogues",
+            "datePublished": "Mon, 17 Jun 2019 00:05:38 +0000",
+            "description": "In this podcast you’re going to learn useful verbs to talk about your daily routine. These verbs are very commonly used in casual conversation throughout the day so they are well worth learning. You...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/M7Fv6IPbW_A\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "2414610",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/8gLfLDTb1YE/podcast_26_dialogue.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 26: Notes",
+            "datePublished": "Mon, 17 Jun 2019 00:00:11 +0000",
+            "description": "These are the PDF show notes for podcast #26 “Japanese verbs for daily life” For more fun Japanese language podcasts visit http://learnjapanesepod.com<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/8_c90NeFItU\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "913149",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/FFTdHbSiMb4/podcast_26_notes.pdf",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 25: Japanese adverbs of frequency",
+            "datePublished": "Wed, 01 May 2019 00:10:06 +0000",
+            "description": "In this podcast you’re going to learn about how to use adverbs of frequency in daily speech. In other words, you’ll learn how to ask and answer questions about how often you do things in Japanese....<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/u_lFQAFLnqw\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "68236632",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/EDDfN0CAQpo/podcast_25_lesson.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 25: Just the dialogues",
+            "datePublished": "Wed, 01 May 2019 00:05:08 +0000",
+            "description": "In this podcast you’re going to learn about how to use adverbs of frequency in daily speech. In other words, you’ll learn how to ask and answer questions about how often you do things in Japanese....<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/Bvvj_RyNNXU\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "4399030",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/9CofCZK65Uo/podcast_25_dialogue.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 25: Notes",
+            "datePublished": "Wed, 01 May 2019 00:00:53 +0000",
+            "description": "These are the PDF show notes for podcast #25 “Japanese Adverbs of Frequency” For more fun Japanese language podcasts visit http://learnjapanesepod.com<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/9BX5sTuvEb4\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "613997",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/aB5tLUUevJs/podcast_25_notes.pdf",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 24: How to book a table at a Japanese restaurant",
+            "datePublished": "Wed, 30 Jan 2019 00:10:21 +0000",
+            "description": "In this podcast you will learn how to book a table at a restaurant by phone in natural Japanese. These days it is easy to make bookings online and with mobiles apps. However, there are still many...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/LYb3bYVDHOs\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "68681718",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/Y6nYV2-HL3c/podcast_24_lesson.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 24: Just the dialogues",
+            "datePublished": "Wed, 30 Jan 2019 00:05:38 +0000",
+            "description": "In this podcast you will learn how to book a table at a restaurant by phone in natural Japanese. These days it is easy to make bookings online and with mobiles apps. However, there are still many...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/aRZ_4urzwTQ\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "3611522",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/YgTZWhVCSSY/podcast_24_dialogue.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 24: Notes",
+            "datePublished": "Wed, 30 Jan 2019 00:00:48 +0000",
+            "description": "These are the PDF show notes for podcast #24 “How to book a table at a Japanese restaurant” For more fun Japanese language podcasts visit http://learnjapanesepod.com<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/SdHZMNieRDg\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "821833",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/Q5oQQoiXoME/podcast_24_notes.pdf",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 23: Osaka Ben",
+            "datePublished": "Wed, 12 Dec 2018 00:10:36 +0000",
+            "description": "In this episode, Ami and Alex teach you how to speak Osaka dialect which is called Osaka Ben in Japanese. And for this lesson Ami sensei is our secret weapon as she is a native of Osaka city....<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/tugTYQg7jhw\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "93070052",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/a8N1HdgY1ls/podcast_23_lesson.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 23: Just the dialogues",
+            "datePublished": "Wed, 12 Dec 2018 00:05:40 +0000",
+            "description": "In this episode, Ami and Alex teach you how to speak Osaka dialect which is called Osaka Ben in Japanese. And for this lesson Ami sensei is our secret weapon as she is a native of Osaka city....<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/jJ2YHRLjvTc\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "4906716",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/czob6D5daDw/podcast_23_dialogue.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 23: Notes",
+            "datePublished": "Wed, 12 Dec 2018 00:00:37 +0000",
+            "description": "These are the PDF show notes for podcast #23 “Osaka Ben”. For more fun Japanese language podcasts visit http://learnjapanesepod.com<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/xwXPO-kzWpo\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "799099",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/6qFK4LbopUo/podcast_23_notes.pdf",
+            "snNo": "1"
+        },
+        {
+            "title": "Fun Friday: Ask us anything",
+            "datePublished": "Fri, 14 Sep 2018 00:00:29 +0000",
+            "description": "In this podcast, Ami and Alex answer all your Japanese study related questions. If you would like to get your question answered on the podcast go to http://learnjapanesepod.com/questions and fill in...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/8WPU0dSAJJg\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "84222794",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/vQVc9dYdsKk/podcast_11_funfriday.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 22: What does Yappari mean?",
+            "datePublished": "Fri, 31 Aug 2018 00:10:46 +0000",
+            "description": "Have you been scratching your head trying to work out what “Yappari” means? Well, scratch your head no more! In this podcast Ami sensei and I (Alex) attempt to explain what Yappari means. We teach...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/r_AShB9Qx_U\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "56412744",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/dalhY_BNXJk/podcast_22_lesson.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 22: Just the dialogues",
+            "datePublished": "Fri, 31 Aug 2018 00:05:17 +0000",
+            "description": "Have you been scratching your head trying to work out what “Yappari” means? Well, scratch your head no more! In this podcast Ami sensei and I (Alex) attempt to explain what Yappari means. We teach...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/05KB_3Q4v4Y\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "3555182",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/NK-q0JyDZmw/podcast_22_dialogue.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 22: Notes",
+            "datePublished": "Fri, 31 Aug 2018 00:00:02 +0000",
+            "description": "These are the PDF show note for podcast #22 “What does Yappari mean?” For more fun Japanese language podcasts visit http://learnjapanesepod.com<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/O78m6enksI8\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "526027",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/cyaQ_f1_pWs/podcast_22_notes.pdf",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 21: Japanese conversation starters",
+            "datePublished": "Sat, 25 Aug 2018 00:10:44 +0000",
+            "description": "In this podcast Ami and Alex teach you some really useful phrases and vocabulary to start conversations in Japanese. For more fun Japanese language podcasts visit http://learnjapanesepod.com<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/F5Z--HU_szQ\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "75152680",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/qnGWcwggfak/podcast_21_lesson.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 21: Just the dialogues",
+            "datePublished": "Sat, 25 Aug 2018 00:05:01 +0000",
+            "description": "This podcast episode is about various phrases you can use to start up a conversation in Japanese. It is important to remember that each conversation is unique and how you start one depends on who you...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/_7-UHdhDI80\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "4307008",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/d6o4W5bZlF4/podcast_21_dialogue.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 21: Notes",
+            "datePublished": "Sat, 25 Aug 2018 00:00:00 +0000",
+            "description": "These are the PDF show notes for podcast #21 “Japanese conversation starters” For more fun Japanese language podcasts visit http://learnjapanesepod.com<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/tssrKICP2o4\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "471366",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/To9qsteyR78/podcast_21_notes.pdf",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 20: How to talk about your hobbies in Japanese",
+            "datePublished": "Sat, 14 Jul 2018 00:10:55 +0000",
+            "description": "A great way to practice your Japanese speaking skills and to get to know people in Japan is to talk about free time and hobbies. In a casual setting you may be asked what you do in your free time by...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/2DLyJxtM0Ug\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "95780632",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/PqDGgdd9mCo/podcast_20_lesson.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 20: Just the dialogues",
+            "datePublished": "Sat, 14 Jul 2018 00:05:36 +0000",
+            "description": "A great way to practice your Japanese speaking skills and to get to know people in Japan is to talk about free time and hobbies. In a casual setting you may be asked what you do in your free time by...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/1WoZYcTaHQQ\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "4441598",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/lxpkarZeGRk/podcast_20_dialogue.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 20: Notes",
+            "datePublished": "Sat, 14 Jul 2018 00:00:41 +0000",
+            "description": "These are the PDF show notes for podcast #20 “Talking about your hobbies in Japanese” For more fun Japanese language podcasts visit http://learnjapanesepod.com<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/ke-iyAu9Uw8\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "475122",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/oOi5zAV-OOk/podcast_20_notes.pdf",
+            "snNo": "1"
+        },
+        {
+            "title": "Fun Friday: Japan Travel Tips",
+            "datePublished": "Fri, 22 Jun 2018 00:00:04 +0000",
+            "description": "In this podcast Matthew and I talked about our favorite Japan travel tips, hacks and experiences. We discussed various topics including interesting places to visit, taking ferries in Japan, how to...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/ViEobfFvpEY\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "100964538",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/x-hQi_E3dnY/podcast_10_funfriday.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 19: How to eat Takoyaki",
+            "datePublished": "Sun, 20 May 2018 00:10:50 +0000",
+            "description": "In this podcast Ami and Alex teach you absolutely everything you need to know about the delicious Japanese street snack Takoyaki!<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/fEZ3wQD6B_Y\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "96023520",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/6E3QicDdYcQ/podcast_19_lesson.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 19: Just the dialogues",
+            "datePublished": "Sun, 20 May 2018 00:05:38 +0000",
+            "description": "How to eat Takoyaki Delicious Takoyaki with toppings Food is one of our most popular subjects to talk about so in this podcast Ami sensei and I (Alex) introduce you to one of Kansai’s most loved...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/kHCSLhNYRCs\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "3226532",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/iWa1uEgSQ6U/podcast_19_dialogue.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 19: Notes",
+            "datePublished": "Sun, 20 May 2018 00:00:06 +0000",
+            "description": "These are the show notes for podcast #19 “How to eat Takoyaki”. For more podcasts visit http://learnjapanesepod.com<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/M6I574fDByo\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "778727",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/HU9Rfx4DJak/podcast_19_notes.pdf",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 18: How to say ‘must’ in Japanese",
+            "datePublished": "Sat, 21 Apr 2018 00:10:13 +0000",
+            "description": "In this podcast, Ami and Alex teach you various ways to say ‘must’ in Japanese. For more podcasts visit http://learnjapanesepod.com<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/IKuz6XcxyPA\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "55006748",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/vVwtImjCJHk/podcast_18_lesson.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 18: Just the dialogues",
+            "datePublished": "Sat, 21 Apr 2018 00:05:28 +0000",
+            "description": "In this lesson you are going to learn how to say “must” in Japanese. Here’s the problem. There are a confusing number of ways to say it. Just look at this list of phrases which all mean the same...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/wOhGzXtkckc\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "2773934",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/6YioC1zuQB4/podcast_18_dialogue.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 18: Notes",
+            "datePublished": "Sat, 21 Apr 2018 00:00:49 +0000",
+            "description": "These are the PDF show notes for podcast #18 “How to say ‘must’ in Japanese” For more podcasts visit http://learnjapanesepod.com<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/T0ebEyaxfxo\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "467351",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/iH0tbGhWKWs/podcast_18_notes.pdf",
+            "snNo": "1"
+        },
+        {
+            "title": "Fun Friday: Why do Japanese People Wear Masks?",
+            "datePublished": "Sat, 07 Apr 2018 00:00:52 +0000",
+            "description": "In the latest Fun Friday podcast Tomo Akiyama is back by popular demand. We mostly talked about various aspects of Japanese culture including the question “Why do Japanese people wear masks?”. This...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/1_40fF7dZgk\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "97705582",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/iwvKVVJP6FM/podcast_09_funfriday.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Fun Friday: Japanese TV Shows",
+            "datePublished": "Fri, 09 Mar 2018 00:00:22 +0000",
+            "description": "In this episode, Ami and I talk about our favorite Japanese TV shows. Watching Japanese TV shows regardless of you Japanese level is great way to improve your understanding of Japanese culture. It...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/hQybS7VNMeo\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "65690064",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/3Gn86ECkbWQ/podcast_08_funfriday.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 17: How to express your opinion in Japanese",
+            "datePublished": "Wed, 28 Feb 2018 00:10:14 +0000",
+            "description": "In this lesson Ami and I teach you how to ask and give your opinions on various topics using the verb 思う Omou – To think. This is usually used to say “I think that…”. 思う is a very useful phrase you...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/JNQKWHmOQ6g\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "52226682",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/9toingNNi3E/podcast_17_lesson.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 17: Just the dialogues",
+            "datePublished": "Wed, 28 Feb 2018 00:05:44 +0000",
+            "description": "In this lesson Ami and I teach you how to ask and give your opinions on various topics using the verb 思う Omou – To think. This is usually used to say “I think that…”. 思う is a very useful phrase you...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/cKTXTCMmHqE\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "3260336",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/WFKP6gg28vY/podcast_17_dialogue.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 17: Notes",
+            "datePublished": "Wed, 28 Feb 2018 00:00:55 +0000",
+            "description": "These are the PDF show notes for podcast #17 “How to express your opinion in Japanese”. For more podcasts visit http://learnjapanesepod.com<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/XJ4VM6u-zJM\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "433816",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/ydMOIYXSLLs/podcast_17_notes.pdf",
+            "snNo": "1"
+        },
+        {
+            "title": "Fun Friday: Interview with Niko of Nihongo Shark #2",
+            "datePublished": "Fri, 09 Feb 2018 00:00:27 +0000",
+            "description": "I hung out with Niko, the creator of Nihongo Shark for my latest Fun Friday podcast. We talked about how he started Nihongo Shark which is a website crammed full of resources for students of Japanese...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/XUNMo_igiyE\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "66199002",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/oAHS6EZcCt8/podcast_07_funfriday.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 16: What to do when you lose your wallet in Japan",
+            "datePublished": "Wed, 31 Jan 2018 00:10:25 +0000",
+            "description": "In this podcast Ami and I talk about what to do if you lose your wallet or other personal items when in Japan. The good news is that Japanese people are generally very law abiding and honest....<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/2Nb9wmViJ4A\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "49594352",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/11crafBQEtw/podcast_16_lesson.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 16: Just the dialogues",
+            "datePublished": "Wed, 31 Jan 2018 00:05:32 +0000",
+            "description": "In this podcast Ami and I talk about what to do if you lose your wallet or other personal items when in Japan. The good news is that Japanese people are generally very law abiding and honest....<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/0oitTIa67_E\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "4338934",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/4T5uHcJTMS4/podcast_16_dialogue.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 16: Notes",
+            "datePublished": "Wed, 31 Jan 2018 00:00:06 +0000",
+            "description": "These are the PDF show notes for podcast “What to do when you lose your wallet in Japan” For more podcasts visit http://learnjapanesepod.com<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/uuZXiBNQ0Ek\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "414089",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/a3FzHf11nxI/podcast_16_notes.pdf",
+            "snNo": "1"
+        },
+        {
+            "title": "Fun Friday: Interview with Tomo Akiyama",
+            "datePublished": "Fri, 15 Dec 2017 00:00:57 +0000",
+            "description": "In this Fun Friday edition of the Learn Japanese Pod podcast, I interviewed Tomo Akiyama who is a fascinating expert linguist and well known Twitter user from Japan. We discussed a wide range of...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/oK1jQ1kdjWU\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "71172572",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/qnb5BMANzBc/podcast_06_funfriday.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 15: Talking about your favorite movies in Japanese",
+            "datePublished": "Fri, 01 Dec 2017 00:10:26 +0000",
+            "description": "In this podcast, Ami and I (Alex) teach you how to talk about your favorite movies in Japanese. Listen to the podcasts and read the dialogs below to get an idea of what these phrases and dialogs...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/5uq9HdHo7ZY\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "63233014",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/N7O9oe-0ZCk/podcast_15_lesson.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 15: Just the dialogues",
+            "datePublished": "Fri, 01 Dec 2017 00:05:24 +0000",
+            "description": "In this podcast, Ami and I (Alex) teach you how to talk about your favorite movies in Japanese. Listen to the podcasts and read the dialogs below to get an idea of what these phrases and dialogs...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/SxlT7dczqeM\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "2815876",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/SVrw6PYqrZY/podcast_15_dialogue.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 15: Notes",
+            "datePublished": "Fri, 01 Dec 2017 00:00:00 +0000",
+            "description": "These are the PDF show notes for podcast #15 “Talking about your favorite movies in Japanese” For more podcasts go to http://learnjapanesepod.com<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/hVQfSxSLCW4\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "276578",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/pEaR8WOQg0Y/podcast_15_notes.pdf",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 14: Talking on the phone in Japanese",
+            "datePublished": "Wed, 25 Oct 2017 00:10:24 +0000",
+            "description": "In this podcast, Ami and I, teach you some fun conversations you can have with your friends in Japanese.  The first thing you need to know when speaking on the phone in Japanese is the word Moshi...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/MsIIJ6kNaW4\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "50686096",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/HX-kglBpK2w/podcast_14_lesson.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 14: Just the dialogues",
+            "datePublished": "Wed, 25 Oct 2017 00:05:47 +0000",
+            "description": "In this podcast, Ami and I, teach you some fun conversations you can have with your friends in Japanese.  The first thing you need to know when speaking on the phone in Japanese is the word Moshi...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/vWPoGdkUj2Q\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "2172348",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/ekLuUT8SaPc/podcast_14_dialogue.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 14: Notes",
+            "datePublished": "Wed, 25 Oct 2017 00:00:27 +0000",
+            "description": "These are the PDF show notes for podcast #14 “Talking on the phone in Japanese” For more podcasts visit http://learnjapanesepod.com<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/5crjG-WbuN4\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "278471",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/bEVAaeceU70/podcast_14_notes.pdf",
+            "snNo": "1"
+        },
+        {
+            "title": "Fun Friday: The Best and Worst of Life in Tokyo",
+            "datePublished": "Fri, 29 Sep 2017 00:00:33 +0000",
+            "description": "In this podcast, I talk to Andy, a great friend of mine whom I have known for over 10 years here in Japan. As we are both long term residents of Tokyo, we wanted to record a podcast outlining the...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/DMJiPvi1OEk\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "61365656",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/lmMC77YQSf0/podcast_05_funfriday.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 13: Everything you need to know to speak Japanese Fluently",
+            "datePublished": "Wed, 06 Sep 2017 00:10:15 +0000",
+            "description": "In this podcast Ami and Alex discuss in detail everything you need to know about becoming fluent in Japanese. For more podcasts visit http://learnjapanesepod.com<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/Sc6L3-zKywk\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "43427000",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/rHUXwJW8DIM/podcast_13_lesson.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 13: Just the dialogues",
+            "datePublished": "Wed, 06 Sep 2017 00:05:18 +0000",
+            "description": "Everything You Need to Know to Speak Japanese Fluently My speaking fluent Japanese…sort of… One of the most common questions I get at Learn Japanese Pod is “How do I learn to speak Japanese...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/ZkfZDTl9_1w\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "2941076",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/1VbbaSP0t18/podcast_13_dialogue.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 13: Notes",
+            "datePublished": "Wed, 06 Sep 2017 00:00:43 +0000",
+            "description": "These are the show notes for podcast #13 “Everything you need to know to speak Japanese Fluently” For more podcasts visit http://learnjapanesepod.com  <br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/-tBQ3yQf0bo\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "676852",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/PDQr_KFFFBk/podcast_13_notes.pdf",
+            "snNo": "1"
+        },
+        {
+            "title": "Fun Friday 04: Our Favorite Japanese Bands",
+            "datePublished": "Fri, 11 Aug 2017 00:00:49 +0000",
+            "description": "Learn Japanese Pod Fun Friday: Our Favourite Japanese Bands In our latest Fun Friday Podcast, Ami and I talked about our favourite Japanese bands and other recent news that has been happening in our...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/yIp5XuxNUTk\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "58788414",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/9T4dGNR0Z5g/podcast_04_funfriday.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 12: Describing people’s personalities in Japanese",
+            "datePublished": "Wed, 26 Jul 2017 00:10:45 +0000",
+            "description": "In this podcast, Ami Sensei and I teach you how to describe people’s personalities in natural Japanese. For more podcasts visit http://learnjapanesepod.com  <br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/YV4IF6txQNc\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "46679696",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/A20TJiLnZY8/podcast_12_lesson.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 12: Just the dialogues",
+            "datePublished": "Wed, 26 Jul 2017 00:05:13 +0000",
+            "description": "Talking about Personality in Japanese In this podcast, Ami Sensei and I teach you how to describe people’s personalities in natural Japanese. Listen to the full podcast and the dialog only audio...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/nt7_mhjcLaA\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "3667862",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/ByeZcMatuNo/podcast_12_dialogue.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 12: Notes",
+            "datePublished": "Wed, 26 Jul 2017 00:00:30 +0000",
+            "description": "These are the PDF show notes for podcast #12 “Talking about personality in Japanese” For more podcasts visit http://learnjapanesepod.com<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/n8pyHh_Nl-E\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "230981",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/ClHE3vMDTZA/podcast_12_notes.pdf",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 11: Japanese Verbs – Taberu",
+            "datePublished": "Wed, 31 May 2017 00:10:11 +0000",
+            "description": "In this podcast, Ami sensei and I teach you about using the verb 食べる in the casual form which is used between people who know each other well in an informal situation. This is how you conjugate the...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/R4_vpOLGiqw\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "28610832",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/PKURdhY7OWA/podcast_11_lesson.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 11: Just the dialogues",
+            "datePublished": "Wed, 31 May 2017 00:05:40 +0000",
+            "description": "In this podcast, Ami sensei and I teach you about using the verb 食べる in the casual form which is used between people who know each other well in an informal situation. This is how you conjugate the...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/E3I2epjaUFc\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "947266",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/npJA3QU_734/podcast_11_dialogue.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 11: Notes",
+            "datePublished": "Wed, 31 May 2017 00:00:49 +0000",
+            "description": "These are the show notes tp podcast #11 “Japanese Verbs – Taberu”. For more Japanese learning podcasts visit http://learnjapanesepod.com<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/N5edg9ECzsk\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "314043",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/3LS8LsqYXbQ/podcast_11_notes.pdf",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 10: The Top 10 Questions you will be asked in Japan",
+            "datePublished": "Wed, 03 May 2017 00:10:58 +0000",
+            "description": "In this podcast Ami and Alex go through the top 10 most common questions you will be asked by Japanese people on your first visit to Japan. Enjoy! For more podcasts visit http://learnjapanesepod.com<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/0N6sGSLrNwA\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "32954020",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/d5GZAo0IBBU/podcast_10_lesson.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 10: Just the dialogues",
+            "datePublished": "Wed, 03 May 2017 00:05:30 +0000",
+            "description": "These are the dialogues from podcast #10 “The top 10 questions you will be asked in Japan” After living in Japan for over 20 years as a foreigner, I have noticed a clear pattern of questions I am...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/WRn0DlUbPHs\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "2623068",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/Gd0Ac1DdLQA/podcast_10_dialogue.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 10: Notes",
+            "datePublished": "Wed, 03 May 2017 00:00:38 +0000",
+            "description": "These are the downloadable PDF show notes for podcast #10 “The Top 10 Questions you will be asked in Japan”. For more Japanese language learning podcasts visit http://learnjapanesepod.com<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/i7gy4aA1oMw\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "486446",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/os24Gf8pqig/podcast_10_notes.pdf",
+            "snNo": "1"
+        },
+        {
+            "title": "Fun Friday: Interview with Niko of Nihongo Shark",
+            "datePublished": "Thu, 20 Apr 2017 00:00:59 +0000",
+            "description": "In this week’s Fun Friday Podcast I talked with my good friend Niko who is the creator of Nihongo Shark, a website for learning Japanese. Niko is a Jedi master of online language self-study...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/oUawyE95iDs\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "75396194",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/P7iF8hlmhxo/podcast_03_funfriday.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 09: How to order Sushi at a Japanese Restaurant",
+            "datePublished": "Wed, 12 Apr 2017 00:10:02 +0000",
+            "description": "In this week’s podcast Yoshiko and Alex discuss useful Japanese vocabulary and cultural points and advice for ordering sushi at a Japanese restaurant like a native. The good news is you don’t have to...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/10Suq4DPWOc\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "432694",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/KSUklBj4kNg/podcast_09_lesson.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 09: Just the dialogues",
+            "datePublished": "Wed, 12 Apr 2017 00:05:19 +0000",
+            "description": "These are the dialogues for podcast #09 ““How to order Sushi at a Japanese Restaurant” In this week’s podcast Yoshiko and Alex discuss useful Japanese vocabulary and cultural points and advice for...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/Dca-ckGOJVs\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "25917780",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/trO3_eInIgE/podcast_09_dialogue.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 09: Notes",
+            "datePublished": "Wed, 12 Apr 2017 00:00:08 +0000",
+            "description": "These are the downloadable PDF show notes for podcast #09 “How to order Sushi at a Japanese Restaurant” For more podcasts visit http://learnjapanesepod.com<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/Nu72LXhcKZE\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "265514",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/irdDgm9DpuU/podcast_09_notes.pdf",
+            "snNo": "1"
+        },
+        {
+            "title": "Fun Friday 02: Drinking Etiquette in Japan",
+            "datePublished": "Fri, 24 Feb 2017 00:00:47 +0000",
+            "description": "In this podcast, Yoshiko and I (Alex) talk about etiquette for eating out and drinking with friends at an Izakaya, Hanami party or similar events. If you listen to this podcast you will learn some...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/b-LfPABd7uo\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "20219928",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/doocFgZrGDc/podcast_02_funfriday.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 08: Talking about your likes and dislikes in Japanese",
+            "datePublished": "Wed, 01 Feb 2017 00:10:45 +0000",
+            "description": "In this podcast Yoshiko and I teach you how to talk about your likes and dislikes. Check out the PDF show notes and podcasts to see all the examples. For more Japanese language learning podcasts...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/dO8JcK38gPQ\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "25859562",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/6j5i8XKFeww/podcast_08_lesson.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 08: Just the dialogues",
+            "datePublished": "Wed, 01 Feb 2017 00:05:19 +0000",
+            "description": "These are the dialogues for podcast #08: Talking about your likes and dislikes in Japanese Dialog 1 Yoshiko: ねぇ、ところで食べ物は何が好き?  – Ne, tokoro de tabemono wa nani ga suki – Hey, by the way, what food...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/CZdJ7MUzqGU\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "2118512",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/_ZEek1HbFbI/podcast_08_dialogue.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Lesson 08: Notes",
+            "datePublished": "Wed, 01 Feb 2017 00:00:36 +0000",
+            "description": "These are the download about PDf show notes for podcast #8 Talking about your likes and dislikes in Japanese. For more Japanese learning podcasts visit http://learnjapanesepod.com    <br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/iFgbrRJ-cVA\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "337696",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/Ub5GAoEt5SQ/podcast_08_notes.pdf",
+            "snNo": "1"
+        },
+        {
+            "title": "Fun Friday 01: Sayonara 2016",
+            "datePublished": "Fri, 09 Dec 2016 00:00:18 +0000",
+            "description": "2016 in Japan in Review Fun Friday is back, Hoorah! And if you don’t know what Fun Friday is, it is a podcast where we temporarily put down our textbooks and talk about life, the universe and...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/piib3TLUMWU\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "41760128",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/-eLEX5gSGik/podcast_01_funfriday.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 07: How to ask for help in Japanese",
+            "datePublished": "Sat, 05 Nov 2016 00:10:48 +0000",
+            "description": "This is podcast 07: How to ask for help in Japanese. Asuka and Alex will teach you lots of useful phrases on the topic of asking your friend to help you.<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/ekul8HrDhhQ\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "28395362",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/DXsdSD21o1Q/podcast_07_lesson.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 07: Just the dialogues",
+            "datePublished": "Sat, 05 Nov 2016 00:05:27 +0000",
+            "description": "Today’s Key phrase If you only learn one thing from this podcast, learn today’s key phrase which is: て を 貸して くれる？ Can you lend me a hand? TE O KASHITE KURERU This phrase literally translates as...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/h5epN0S1KLA\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "1984250",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/5HTROFp7oR8/podcast_07_dialogue.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 07: Notes",
+            "datePublished": "Sat, 05 Nov 2016 00:00:23 +0000",
+            "description": "These are show notes for podcast #07 How to ask for help in Japanese.<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/35mnZorBW7A\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "375625",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/14BvrWaokvI/podcast_07_notes.pdf",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 06: Useful Classroom Japanese Phrases",
+            "datePublished": "Thu, 01 Sep 2016 00:10:02 +0000",
+            "description": "In this podcast, Asuka and Alex will teach you some useful classroom Japanese phrases. These phrases will help you to interact with your teacher and ask and answer questions. For more Japanese...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/GDXiEitOoyI\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "28754498",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/uJ-T8K9wb4A/podcast_06_lesson.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 06: Just the dialogues",
+            "datePublished": "Thu, 01 Sep 2016 00:05:19 +0000",
+            "description": "These are just the Japanese dialogues taken from podcast #06 “Useful Classroom Japanese Phrases” In this podcast, Asuka and I teach you some useful classroom Japanese phrases so you can interact with...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/sdJ2IKm-0y4\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "1826084",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/vUB-sMePrgo/podcast_06_dialogue.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 06: Notes",
+            "datePublished": "Thu, 01 Sep 2016 00:00:26 +0000",
+            "description": "These are the downloadable PDF show notes for podcast #06 “Useful Classroom Japanese Phrases” For more Japanese language learning podcasts go to http://learnjapanesepod.com<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/jUIKo4rlacQ\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "342768",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/Dcx7f3IjFYI/podcast_06_notes.pdf",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 05: Top 10 tips for studying Japanese",
+            "datePublished": "Tue, 01 Mar 2016 00:10:22 +0000",
+            "description": "In this podcast we reveal our top 10 tips for studying Japanese more efficiently. For more Japanese language learning podcasts go to http://learnjapanesepod.com  <br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/L3B3LHGVHF0\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "37590392",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/TXuxZj5ioTQ/podcast_05_lesson.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 05: Just the dialogues",
+            "datePublished": "Tue, 01 Mar 2016 00:05:14 +0000",
+            "description": "These are just the Japanese dialogues taken from podcast #05 “Top 10 tips for studying Japanese” Top 10 Tips for Studying Japanese  One of the most common questions I get is “I want to study Japanese...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/mgbL9aBPn14\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "612894",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/4EusghwrApw/podcast_05_dialogue.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 05: Notes",
+            "datePublished": "Tue, 01 Mar 2016 00:00:46 +0000",
+            "description": "These are the downloadable PDF show notes for podcast #05 “Top 10 tips for studying Japanese” For more Japanese language learning podcasts go to http://learnjapanesepod.com<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/7YNCGJKB5LI\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "2741695",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/wSg7oG_KKlg/podcast_05_notes.pdf",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 04: How to talk about your home town in Japanese",
+            "datePublished": "Tue, 24 Nov 2015 00:10:22 +0000",
+            "description": "In this podcast, Asuka and Alex teach you how to talk about your home town in Japanese. You will also learn how to ask and answer questions about where you are from. For more Japanese language...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/f5o8NJMoHm8\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "1645472",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/hfnSojZOj0Q/podcast_04_lesson.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 04: Just the dialogues",
+            "datePublished": "Wed, 11 Nov 2015 00:05:59 +0000",
+            "description": "These are just the Japanese dialogues taken from podcast #04 “How to talk about your home town in Japanese” How to talk about your home town in Japanese I can guarantee you, if you are visiting or...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/IoBaS11JeuY\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "19756262",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/jBA1Br3Um_E/podcast_04_dialogue.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 04: Notes",
+            "datePublished": "Wed, 11 Nov 2015 00:00:10 +0000",
+            "description": "These are the downloadable PDF show notes for podcast #04 “How to talk about your home town in Japanese” For more Japanese language learning podcasts go to http://learnjapanesepod.com<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/KJMfn3m5XOs\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "344752",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/-4B2OaOyGc4/podcast_04_notes.pdf",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 03: How to apologize in Japanese",
+            "datePublished": "Wed, 09 Sep 2015 00:10:52 +0000",
+            "description": "As discussed in Top 10 Etiquette Mistakes in Japan, there are two golden rules for apologising in Japanese: 1) If it’s your fault apologize. 2) If it’s not your fault, apologize. I’m half joking but...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/1Z-7YW8paxU\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "26035400",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/JGml_fqLfN8/podcast_03_lesson.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 03: Just the dialogues",
+            "datePublished": "Wed, 09 Sep 2015 00:05:24 +0000",
+            "description": "These are just the Japanese dialogues from podcast #03 “How to apologize in Japanese”  <br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/u1L3nZ_sTK4\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "1130780",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/50UGsaBjwX8/podcast_03_dialogue.mp3",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 03: Notes",
+            "datePublished": "Wed, 09 Sep 2015 00:00:53 +0000",
+            "description": "These are the PDF show notes for podcast #03 “How to apologise in Japanese”. You can either download the PDF from the podcast feed or click on the PDF icon below.<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/9ry44LScmDM\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "366062",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/YnwK8kBSrsc/podcast_03_notes.pdf",
+            "snNo": "1"
+        },
+        {
+            "title": "Podcast 02: How to do a self introduction in Japanese",
+            "datePublished": "Tue, 01 Sep 2015 00:10:57 +0000",
+            "description": "In this podcast, Asuka and Alex are back to teach you how to do a self introduction in Japanese to a group of people. For example, this might be useful for you on your first day of Japanese class at...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/HyRpBJBlNws\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "35713802",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/KPikp6vz-RY/podcast_02_lesson.mp3"
+        },
+        {
+            "title": "Podcast 02: Just the dialogues",
+            "datePublished": "Tue, 01 Sep 2015 00:05:17 +0000",
+            "description": "These are just the Japanese dialogues for podcast #02 “How to do a self introduction in Japanese. How to do a basic self introduction in Japanese Today’s podcast will teach you how to do a self...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/0DUDvBpHWLA\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "2473886",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/taN_r2mnIfo/podcast_02_dialogue.mp3"
+        },
+        {
+            "title": "Podcast 02: Notes",
+            "datePublished": "Tue, 01 Sep 2015 00:00:08 +0000",
+            "description": "These are the PDF show notes for podcast #02 “How to do a self introduction in Japanese”. You can access the show notes through the podcast feed or simply click the PDF icon below.<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/Kg3JF3vlZbc\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "361744",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/PKnLZXTMu40/podcast_02_notes.pdf"
+        },
+        {
+            "title": "Podcast 01: Lesson – How to ask your friends to hang out in Japanese",
+            "datePublished": "Tue, 25 Aug 2015 00:10:13 +0000",
+            "description": "In this podcast, Alex and Asuka will teach you how to ask your friends to hang out with you in natural, fluent Japanese. Listen to dialogues spoken by a native speaker for various situations so you...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/T4ddt9DlTMI\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "28598942",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/DCZ2CBCoAE8/podcast_01_lesson.mp3",
+            "epNo": "1"
+        },
+        {
+            "title": "Podcast 01: Just the dialogues",
+            "datePublished": "Tue, 25 Aug 2015 00:05:44 +0000",
+            "description": "These are just the Japanese audio dialogues featured in podcast #01: How to ask your friends to hang out in Japanese. Us this to practice your listening and speaking skills. Here are the main...<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/LtlpQOeNmuQ\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "1425710",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/aY4aMrtjJjQ/podcast_01_dialogue.mp3"
+        },
+        {
+            "title": "Podcast 01: Notes",
+            "datePublished": "Tue, 25 Aug 2015 00:00:01 +0000",
+            "description": "These are the PDF show notes for podcast #01 “How to ask your friends to hang out in Japanese”. You can either download the PDF from the podcast feed or click on the PDF icon below.<br/>\r\n<br/>\r\nLearn Japanese Pod is a podcast to help you speak Japanese fluently<img src=\"http://feeds.feedburner.com/~r/learnjapanesepod/~4/_mleXbYxToM\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "331474",
+            "sourceUrl": "http://feedproxy.google.com/~r/learnjapanesepod/~5/yuHT6ysf60Y/podcast_01_notes.pdf"
+        }
+    ]
+}

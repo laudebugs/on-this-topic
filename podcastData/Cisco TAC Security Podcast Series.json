@@ -1,0 +1,415 @@
+{
+    "artwork": "http://is2.mzstatic.com/image/thumb/Music62/v4/7e/34/1e/7e341e2a-17e9-7593-88a1-6db6cb3d9474/source/100x100bb.jpg",
+    "description": "The Cisco TAC Security Podcast Series is created by Cisco TAC engineers. Each episode provides an in-depth technical discussion of Cisco product security features, with emphasis on troubleshooting.",
+    "feedURL": "https://www.cisco.com/assets/cdc_content_elements/rss/security_podcast/security_tac_pcast.xml",
+    "podcastURL": "http://www.cisco.com/en/US/solutions/ns170/tac/security_tac_podcasts.html",
+    "title": "Cisco TAC Security Podcast Series",
+    "episodes": [
+        {
+            "title": "TAC Security Podcast #58 - Thoughts on Pursuing the CCIE Security v6 in the Pandemic",
+            "datePublished": "Fri, 04 Sep 2020 06:00:00 -0700",
+            "description": "The podcast team welcomes newcomer guests Nic Conroy and Zack McIntosh to discuss their experiences with the CCIE Security certification and the recent changes in the latest version 6 of the exam. They review study strategies for the practical exam, effective virtualization options, and how to emotionally cope with the challenges that come with taking on the formidable task. Discover why now is a great time to begin your CCIE journey during the 2020 lockdowns and hear their valuable insights to help you along the way.",
+            "length": "54630010",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_58.mp3"
+        },
+        {
+            "title": "TAC Security Podcast #57 - Maximizing AnyConnect Performance During the COVID-19 Pandemic",
+            "datePublished": "Mon, 30 March 2020 06:00:00 -0700",
+            "description": "In this episode, the podcast team welcomes back two former hosts Wen and Jay along with a special guest Shannon Wellington to discuss the recent phenomenon of rapid Remote-Access VPN (RAVPN) AnyConnect traffic spikes across the globe as a result of the COVID-19 epidemic that is pushing people to work from home. This includes discussions about issues being seen in the Cisco TAC as well as steps that can be taken to maximize performance through configuration changes and deployment modifications. We also touch on what network administrators need to consider to take a holistic approach from a policy and network capacity perspective as they navigate these unprecedented times.",
+            "length": "53390253",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_57.mp3"
+        },
+        {
+            "title": "TAC Security Podcast #56 - A Sneak Peek Inside Talos with Geoff Serrao",
+            "datePublished": "Wed, 29 May 2019 06:00:00 -0700",
+            "description": "The podcast team sits down with talented and experienced Talos Research Engineer Geoff Serrao to talk about major vulnerabilities such as Eternal Blue, Heartbleed, and Shellshock. We also discuss persistent threats and how extensive Talos research and testing works tirelessly and around the clock to keep Cisco customers safe across the globe.",
+            "length": "40344931",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_56.mp3"
+        },
+        {
+            "title": "TAC Security Podcast #55 - Firepower 6.4 and Other Ramblings",
+            "datePublished": "Mon, 13 May 2019 06:00:00 -0700",
+            "description": "The podcast team welcomes two fellow NGFW Technical Leader newcomers to the program in Foster Lipkey and Justin Roberts. From the Cisco office in Maryand, we discuss new feature and changes in the Firepower 6.4 release as well as some upcoming news about Cisco Live 2019 in San Diego.",
+            "length": "27097513",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_55.mp3"
+        },
+        {
+            "title": "TAC Security Podcast #54 - A Discussion on Cisco Encrypted Traffic Analytics (ETA) with the Experts",
+            "datePublished": "Wed, 01 August 2018 06:00:00 -0700",
+            "description": "In the Cisco Live US 2018 speaker room: The podcast team steals a few minutes from Cisco ETA and Stealthwatch experts Matt Robertson and Darrin Miller to discuss the basics of the technology and how it is helping organizations in detecting malicious content in network traffic as it increasingly goes dark (becomes encrypted).",
+            "length": "62914560",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_54.mp3"
+        },
+        {
+            "title": "TAC Security Podcast #53 - Thoughts on Security at Cisco Live US 2018 in Orlando",
+            "datePublished": "Thu, 05 July 2018 06:00:00 -0700",
+            "description": "The team goes on-site in the Cisco Live Speaker room in Orlando to pick the brains of some of the best in the business. Cisco Principal Engineers Aaron Woland and Jeff Fanelli fill us in on what's new in the Cisco Security space and give an inside look at the life of a Cisco Live Speaker.",
+            "length": "94371840",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_53.mp3"
+        },
+        {
+            "title": "TAC Security Podcast #52 - ASA/FTD Troubleshooting Enhancements and Cisco Live US 2018",
+            "datePublished": "Mon, 11 June 2018 06:00:00 -0700",
+            "description": "The team discusses the recently released troubleshooting enhancements to ASA/FTD packet tracer and packet capture tools, some new facts about FTD 6.2.3, and a look ahead to Cisco Live US 2018 coming up in Orlando, Florida.",
+            "length": "86297804",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_52.mp3"
+        },
+        {
+            "title": "TAC Security Podcast #51 - EasyConnect in ISE 2.1",
+            "datePublished": "Thu, 16 March 2017 06:00:00 -0700",
+            "description": "Magnus and Jesse discuss ISE EasyConnect",
+            "length": "17595324",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_51.mp3"
+        },
+        {
+            "title": "TAC Security Podcast #50 - Finding Your Firepower - A discussion on Firepower Technologies",
+            "datePublished": "Tue, 13 September 2016 06:00:00 -0700",
+            "description": "The podcast team dive into Firepower technologies and deployment strategies for some of the Firepower Product line as well as the new ASA/Firepower merged product, Firepower Threat Defense",
+            "length": "62070361",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_50.mp3"
+        },
+        {
+            "title": "TAC Security Podcast #49 - Cryptic Thoughts - A discussion on changing crypto standards",
+            "datePublished": "Thu, 28 July 2016 06:00:00 -0700",
+            "description": "Recorded live at CiscoLive US 2016! The intent of this episode is to discuss the current state of cryptography and how some deadlines are approaching in regards to the SHA-1 hashing algorithm. We also discuss some of the newer generation cryptography algorithms and an overview of PKI deployments.",
+            "length": "27854254",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_49.mp3"
+        },
+        {
+            "title": "TAC Security Podcast #48 - Cisco Live! 2015 - San Diego",
+            "datePublished": "Fri, 6 October 2015 06:00:00 -0700",
+            "description": "The podcast team interviews several TAC engineers and customers at Cisco Live! 2015 in San Diego California.",
+            "length": "40789606",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_48.mp3"
+        },
+        {
+            "title": "TAC Security Podcast #47 - The Cisco Security Ninja Program",
+            "datePublished": "Tue, 22 September 2015 06:00:00 -0700",
+            "description": "The podcast crew invites back a special return guest - Mr. Chris Romeo - to share with the world Cisco's Security Ninja program. Which is an educational arm of Cisco Secure Development Lifecycle (CSDL). The intent of this episode is to educate listeners about Cisco's internal Ninja program and to also help our listeners start their own Security education program within their company.",
+            "length": "27907223",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_47.mp3"
+        },
+        {
+            "title": "TAC Security Podcast #46 - New features in ASA version 9.3(2)",
+            "datePublished": "Thu, 18 June 2015 06:00:00 -0700",
+            "description": "The podcast panel discusses ASA version 9.3(2) and new features such as the REST API, 5506-X support, configuration sessions, TLS v1.2, Smart licensing and traffic zone support.",
+            "length": "43935334",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_46.mp3"
+        },
+        {
+            "title": "Introduction to Cisco Wireless Security",
+            "datePublished": "Wed, 18 February 2015 06:00:00 -0700",
+            "description": "The podcast crew discusses all things wireless with TAC Technical Leader and wireless gurus Aaron Leonard and TAC authentication expert Jesse Dubois.",
+            "length": "27451719",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_45.mp3"
+        },
+        {
+            "title": "Cisco Live! 2014 in San Francisco",
+            "datePublished": "Fri, 21 November 2014 06:00:00 -0700",
+            "description": "The podcast team discusses Cisco Live and Security with our customers, fellow TAC engineers and Blair Christie, Chief Marketing Officer at Cisco.",
+            "length": "27367833",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_44.mp3"
+        },
+        {
+            "title": "ASA Version 9.2 and Interesting TAC Cases",
+            "datePublished": "Wed, 25 August 2014 06:00:00 -0700",
+            "description": "The podcast panel discusses some of the new features introduced in ASA Version 9.2. Then they discuss recent TAC cases that were triggered by very interesting network problems.",
+            "length": "42152755",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_43.mp3"
+        },
+        {
+            "title": "The Cisco Secure Development Lifecycle",
+            "datePublished": "Mon, 05 May 2014 06:00:00 -0700",
+            "description": "The podcast panel talks with Chris Romeo and Lisa Meyers McDonald from the Cisco Trustworthy Systems Organization all about the Cisco Secure Development Lifecycle.",
+            "length": "42152755",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_42.mp3"
+        },
+        {
+            "title": "Troubleshooting ASA Clustering",
+            "datePublished": "Tue, 01 Apr 2014 06:00:00 -0700",
+            "description": "This the second podcast episode focusing on ASA Clustering technology. The podcast panel explains the 'life of a packet' through a cluster of ASAs, and the different connection types introduced with the clustering feature. Finally, the team discusses how to troubleshoot connectivity problems through a cluster.",
+            "length": "45088768",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_41.mp3"
+        },
+        {
+            "title": "Intro to ASA Clustering",
+            "datePublished": "Wed, 05 Feb 2014 06:00:00 -0700",
+            "description": "The podcast panel discuss the motivations for using the new ASA clustering feature, and the basics for how a cluster of ASAs handles traffic. Different cluster deployment modes (Spanned Etherchannel vs. Layer 3 mode) and clustering concepts are discussed, along with best practices for a successful cluster deployment.",
+            "length": "42152755",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_40.mp3"
+        },
+        {
+            "title": "Voice Security Concepts and Best Practices",
+            "datePublished": "Wed, 18 Dec 2013 06:00:00 -0700",
+            "description": "Justin, John and Tim from the Cisco Voice TAC teams join Magnus to discuss the basic concepts behind voice security. They then cover best practices, and common problems that administrators encounter when deploying secure voice technologies.",
+            "length": "37175872",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_39.mp3"
+        },
+        {
+            "title": "Introduction to OnePK",
+            "datePublished": "Tue, 11 Nov 2013 06:00:00 -0700",
+            "description": "Jay and David and Joe discuss OnePK technology and how to get started writing custom OnePK apps.",
+            "length": "36175872",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_38.mp3"
+        },
+        {
+            "title": "ASA Network Address Translation (NAT)",
+            "datePublished": "Tue, 10 Sep 2013 06:00:00 -0700",
+            "description": "Jay and David discuss the new NAT configuration style introduced with ASA version 8.3. The overall approach to configuring NAT are discussed, along with troubleshooting techniques, and best practices.",
+            "length": "36175872",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_37.mp3"
+        },
+        {
+            "title": "Network Management at Cisco Live! 2013",
+            "datePublished": "Tue, 27 Aug 2013 06:00:00 -0700",
+            "description": "Joe and the podcast team discuss managing the network at Cisco Live! this year, and what specific steps, tools and best practices were employed to make the network successful.",
+            "length": "23172539",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_36.mp3"
+        },
+        {
+            "title": "Identity Services Engine v1.2",
+            "datePublished": "Tue, 16 Jul 2013 06:00:00 -0700",
+            "description": "Jesse Dubois, TAC engineer, and Aaron Woland, Identity Services Engine (ISE) Technical Marketing Engineer, discuss version 1.2 of the ISE solution. Discussion focuses on new features, the upgrade process, and tips and tricks to get the most out of your ISE deployment.",
+            "length": "39720058",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_35.mp3"
+        },
+        {
+            "title": "Cisco Live! 2013 Orlando Florida",
+            "datePublished": "Mon, 15 Jul 2013 06:00:00 -0700",
+            "description": "The panel set up a recording table in the hallways of Cisco Live! 2013 in Orlando Florida, to talk to our customers and partners about security technologies and the Cisco Live event.",
+            "length": "58615398",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_34.mp3"
+        },
+        {
+            "title": "Virtual Security: The ASA1000v and Virtual Security Gateway",
+            "datePublished": "Mon, 10 Jun 2013 06:00:00 -0700",
+            "description": "This episode focuses on some of Cisco's Virtual Security Appliances, the ASA1000v, the Virtual Security Gateway (VSG) and the Virtual Network Management Center (VNMC). Rama Darbha and Michael Robertson discuss how administrators can use these products in their virtual environments, as well as the packet forwarding path and troubleshooting techniques for these products.",
+            "length": "33554432",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_33.mp3"
+        },
+        {
+            "title": "Investigating Syslogs: Tips and Tricks",
+            "datePublished": "Thu, 28 Mar 2013 06:00:00 -0700",
+            "description": "The panel discusses best practices for configuring devices to generate syslogs, and how the TAC investigates syslogs provided by customers. Tips and tricks for parsing through large syslog files, as well as techniques and tools for finding useful information are discussed.",
+            "length": "16672358",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_32.mp3"
+        },
+        {
+            "title": "A look into ASA Quality with the Quality Assurance Team",
+            "datePublished": "Thu, 21 Feb 2013 06:00:00 -0700",
+            "description": "This episode provides a peek behind the scenes at Quality Assurance for the Cisco ASA Software, featuring special guest Paul Larue (Technical Leader with Cisco Engineering). The panel discusses the different types of tests that occur at all stages of the ASA software development lifecycle and the continued focus on quality.",
+            "length": "18591252",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_31.mp3"
+        },
+        {
+            "title": "Introducing FlexVPN",
+            "datePublished": "Wed, 12 Sep 2012 06:00:00 -0700",
+            "description": "Magnus interviews a panel of VPN experts on a new shift in VPN technologies, Flex VPN. The panel includes VPN escalation engineers Wen and Jay Young as well as a special guest, Frederic Detienne. Fred hails from our Brussels location and is a Distinguished Support Engineer specializing in VPN and crypto technologies. The crew talks about Flex VPN and the new IKEv2 technology.",
+            "length": "39845888",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_30.mp3"
+        },
+        {
+            "title": "Cisco Live! 2012 San Diego",
+            "datePublished": "Wed, 22 Aug 2012 06:00:00 -0700",
+            "description": "The podcast team returns to Cisco Live! in San Diego to give presentations, deliver lab trainings, and tape an episode of the Cisco TAC Security Podcast! The team talks to several customers about topics such as ASA VPN Client to Anyconnect migration, IPv6 use at Cisco Live, and much more.",
+            "length": "19084083",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_29.mp3"
+        },
+        {
+            "title": "The History of the PIX",
+            "datePublished": "Thu, 14 Jun 2012 06:00:00 -0700",
+            "description": "Jay and David discuss the history of the PIX platform. Topics include the different PIX hardware types, how the software changed over time, the motivation for some of the features that were added, and also how the history of the Firewall Services Module, PIX and ASA are intertwined.",
+            "length": "16462643",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_28.mp3"
+        },
+        {
+            "title": "IOS Embedded Event Manager (EEM)",
+            "datePublished": "Tue, 22 May 2012 17:00:00 -0700",
+            "description": "Special guest Joe Clarke discusses the capabilities of IOS Embedded Event Manager. The panel discusses some very interesting use cases for EEM, and how it can be used to add new features to IOS as well as aid in troubleshooting complex network problems. A special listener challenge is given at the end of the show!",
+            "length": "20237516",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_27.mp3"
+        },
+        {
+            "title": "Troubleshooting IPSec VPNs",
+            "datePublished": "Tue, 06 Mar 2012 17:00:00 -0700",
+            "description": "Special guests Wen Zhang (Cisco TAC) and returning guest Jay Young Taylor (Cisco TAC) discuss the methodologies and approaches to troubleshooting IPSec VPN problems. The team discusses the best way to use show commands, debug output, and troubleshooting tools to get your VPN tunnels up and passing traffic!",
+            "length": "30723276",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_26.mp3"
+        },
+        {
+            "title": "Understanding DMVPN and GETVPN",
+            "datePublished": "Fri, 27 Jan 2012 17:00:00 -0700",
+            "description": "Special guests Wen Zhang (Cisco TAC) and returning guest Jay Young Taylor (Cisco TAC) discuss the differences between the DMVPN and GETVPN technologies. Deployment scenarios, as well as case studies and common customer TAC cases are discussed.",
+            "length": "41313894",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_25.mp3"
+        },
+        {
+            "title": "The Cisco Identity Services Engine",
+            "datePublished": "Mon, 05 Dec 2011 17:00:00 -0700",
+            "description": "Special guests Jesse Dubois (Cisco TAC) and Aaron Woland (Cisco TrustSec Engineer) talk with the team about the new Cisco Identity Services Engine. The discussion provides an overview of the ISE solution, deployment best practices and common problems, and hot issues and troubleshooting techniques, as well as monitoring.",
+            "length": "27262976",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_24.mp3"
+        },
+        {
+            "title": "The Cisco ASA Services Module",
+            "datePublished": "Fri, 21 Oct 2011 17:00:00 -0700",
+            "description": "This episode features discussion about the new Cisco ASA Services Module (ASASM). Topics discussed include the hardware architecture differences between the ASASM and the Firewall Services Module (FWSM), new features introduced with the ASASM, and FWSM to ASASM migration tools and strategies.",
+            "length": "22963814",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_23.mp3"
+        },
+        {
+            "title": "How Cisco uses the Web Security Appliance to protect its network",
+            "datePublished": "Thu, 08 Sep 2011 17:00:00 -0700",
+            "description": "Jeff Bollinger (Cisco Information Security Investigator), and Zack Shaikh (Cisco TAC engineer specializing in the Ironport Web Security Appliance) join the panel for a discussion about the WSA product. Then Jeff shares how Cisco is dploying WSAs to protect its own network from threats on the web, and some lessons he's learned along the way.",
+            "length": "13409277",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_22.mp3"
+        },
+        {
+            "title": "Cisco Live! Las Vegas 2011",
+            "datePublished": "Wed, 03 Aug 2011 17:00:00 -0700",
+            "description": "The podcast team brought their recording equipment along to Cisco Live! in Las Vegas to talk to Cisco customers about their impressions of Cisco Live and some of the classes they are taking, and also how they use Cisco security products.",
+            "length": "13409277",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_21.mp3"
+        },
+        {
+            "title": "This Week In TAC!",
+            "datePublished": "Mon, 06 Jun 2011 11:50:00 -0700",
+            "description": "This episode features discussion about interesting customer TAC cases that were tackled this week by the Firewall team in Research Triangle Park, North Carolina. Rama Darbha walks us through a problem with CPU HOGS and SNMP monitoring on an ASA. Justin Betz discusses a DHCP-Relay problem caused by a NAT translation issue on a FWSM. Mike Robertson discusses a FWSM issue where a UDP network attack was taking place, and David White Jr. discusses how he determined what extra padding data was being added to ICMP packets that were so small they violated a RFC.",
+            "length": "30630116",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_20.mp3"
+        },
+        {
+            "title": "Troubleshooting the NAC Appliance",
+            "datePublished": "Tue, 3 May 2011 13:05:00 -0700",
+            "description": "This episode focuses on the Network Admission Control (NAC) appliance, with special guest Nevin Absher from the Cisco AAA TAC Team in RTP, NC. The discussion starts with a basic introduction to how network  administrators can use the NAC appliance to control access to the  network in various  deployment scenarios. The discussion then moves to  NAC deployment and operation best practices as well as specific issues  that some administrators encounter when deploying the solution, and how  to avoid them. NAC troubleshooting methodologies and techniques are also  discussed.",
+            "length": "29716087",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_19.mp3"
+        },
+        {
+            "title": "Useful Cisco ASA and IPS Commands and Features You Might Not Know About",
+            "datePublished": "Tue, 19 Apr 2011 13:05:00 -0700",
+            "description": "In this episode the team highlights some of their favorite Cisco ASA and IPS one-line commands, and explain when to use them and how to interpret the output. In the show notes for the episode, we give sample output for each command.",
+            "length": "29716087",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_18.mp3"
+        },
+        {
+            "title": "Answering Questions From The Cisco Support Community",
+            "datePublished": "Tue, 01 Mar 2011 00:00:00 -0700",
+            "description": "The panel discusses the Cisco Support Community and the benefits it offers to Cisco customers, partners, and Cisco employees. Online discussions, collaborating on technical documents, as well as blogs and technical videos are discussed. Then, the group answers interesting questions raised by the community about the Cisco Advanced Security Appliance and Intrusion Prevention System.",
+            "length": "22764000",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_17.mp3"
+        },
+        {
+            "title": "Mitigating a SQL attack with ASA, IPS and IOS Firewall",
+            "datePublished": "Tue, 01 Feb 2011 15:15:00 -0700",
+            "description": "The panel discusses the concept of a SQL Injection Attack, and explains how this type of attack can be mitigated using the Cisco Adaptive Security Appliance (ASA), Cisco Intrusion Prevention System (IPS) and Cisco Zone-Based IOS Firewall (IOS Firewall). A real-world proof of concept is discussed, along with specifics about the various configurations required to stop the attack.",
+            "length": "23371388",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_16.mp3"
+        },
+        {
+            "title": "Using Certificates on the ASA and IOS platforms",
+            "datePublished": "Fri, 12 Nov 2010 12:45:00 -0700",
+            "description": "This episode is all about digital certificates and how they can be used on the ASA and IOS platforms. The discussion starts with the basic concepts behind certificates and PKI, as well as the motivations for using certificate authentication. The discussion continues with best practices (such as backing up keypairs and trustpoints) and common customer problems and TAC cases.",
+            "length": "26164127",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_15.mp3"
+        },
+        {
+            "title": "TCP connections through the ASA and FWSM",
+            "datePublished": "Thu, 28 Sep 2010 12:45:00 -0700",
+            "description": "This episode focuses on TCP connections through the ASA and FWSM platforms. The panel discusses the TCP security checks performed by the Cisco firewalls and how to modify the TCP settings to adjust the firewall behavior for specific network conditions. TCP throughput optimization, techniques for monitoring TCP connections, and some common TAC issues are also discussed.",
+            "length": "26164127",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_14.mp3"
+        },
+        {
+            "title": "HTTP filtering on the ASA",
+            "datePublished": "Mon, 26 Jul 2010 12:45:00 -0700",
+            "description": "The panel discusses the http filtering capabilities of the ASA platform including custom http inspection, url-filtering, wccp configuration and the Content Security Control (CSC) Module configuration and troubleshooting.",
+            "length": "26164127",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_13.mp3"
+        },
+        {
+            "title": "Securing Cisco Routers",
+            "datePublished": "Fri, 11 Jun 2010 14:30:00 -0700",
+            "description": "Learn how to increase the security of Cisco routers. The panel discusses operational best practices and use of features such as authentication, authorization and accounting (AAA), control-plane policing, syslogging, configuration archiving, password types and Cisco IOS Embedded eEvent Manager.",
+            "length": "53208462",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_12.mp3"
+        },
+        {
+            "title": "ASA Anyconnect VPN",
+            "datePublished": "Wed, 05 May 2010 14:30:00 -0700",
+            "description": "The ASA AnyConnect client is the next evolution in Remote Access VPN connectivity. In this episode the panel discusses the advantages of the AnyConnect client, strategies for migrating from the IPSec VPN client to AnyConnect, and package deployment tips. Additional topics include troubleshooting techniques, common AnyConnect problems, and methods for monitoring AnyConnect usage.",
+            "length": "53208462",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_11.mp3"
+        },
+        {
+            "title": "ASA Version 8.3",
+            "datePublished": "Mon, 19 Apr 2010 09:00:00 -0700",
+            "description": "The panel discusses the features introduced with the new Adaptive Security Appliance (ASA) version 8.3. Information about the differences between 8.3 and previous versions, new memory requirements for version 8.3, as well as information about the upgrade process are discussed.",
+            "length": "58756105",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_10.mp3"
+        },
+        {
+            "title": "Multiple context mode on the ASA and FWSM platforms",
+            "datePublished": "Tue, 09 Mar 2010 17:23:00 -0700",
+            "description": "This episode features conversation about the multiple context mode available with the Firewall Services Module (FWSM) and Advanced Security Appliance (ASA) platforms. The pros and cons of multiple context mode are discussed, along with some common deployment scenarios, best practice design considerations, and issues faced by customers who contact the TAC.",
+            "length": "54862280",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_9.mp3"
+        },
+        {
+            "title": "ASA Advanced Application Protocol Inspection",
+            "datePublished": "Mon, 08 Feb 2010 09:00:00 -0700",
+            "description": "In this episode, the panel reviews the application protocol inspection features available on the ASA platform. The individual operation and features of the protocols are discussed.",
+            "length": "44748481",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_8.mp3"
+        },
+        {
+            "title": "Monitoring Firewall Performance",
+            "datePublished": "Thu, 07 Jan 2010 09:00:00 -0700",
+            "description": "The panel reviews techniques and methods for monitoring firewall performance and identifying performance problems.",
+            "length": "49691331",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_7.mp3"
+        },
+        {
+            "title": "Tips for Taking the CCIE Security Exam",
+            "datePublished": "Wed, 16 Dec 2009 09:00:00 -0700",
+            "description": "Learn helpful study techniques, time management, and test taking strategies for the CCIE Security Exam.",
+            "length": "80333647",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_6.mp3"
+        },
+        {
+            "title": "Troubleshooting Firewall Failover, Part 2",
+            "datePublished": "Wed, 04 Nov 2009 09:00:00 -0700",
+            "description": "The panel of experts discusses the software version terminology and release process for the ASA, PIX and FWSM platforms. The episode then continues with part 2 of troubleshooting firewall failover.",
+            "length": "48174896",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_5.mp3"
+        },
+        {
+            "title": "Troubleshooting Firewall Failover Part 1; Guest Omar Santos from PSIRT",
+            "datePublished": "Thu, 01 Oct 2009 09:00:00 -0700",
+            "description": "Guest speaker Omar Santos from the Cisco PSIRT team discusses how Cisco handles product security vulnerabilities. Then the panel discusses the failover functionality of the ASA, PIX, and FWSM platforms in part one of our discussion of firewall failover, which spans two episodes. The next episode focuses on troubleshooting failover problems.",
+            "length": "51705666",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_4.mp3"
+        },
+        {
+            "title": "Transparent Firewall Mode; Lifecycle of a TAC Case",
+            "datePublished": "Mon, 10 Aug 2009 00:00:00 -0700",
+            "description": "In this episode, the panel discusses the lifecycle of a TAC service request, how customers can help expedite case resolution, and configuration and troubleshooting of transparent firewall mode on the ASA and FWSM platforms.",
+            "length": "56446570",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_3.mp3"
+        },
+        {
+            "title": "New Features Introduced with ASA Version 8.2",
+            "datePublished": "Mon, 01 Jun 2009 00:00:00 -0700",
+            "description": "In this episode, TAC engineers discuss how they use the Cisco labs to solve customer service requests. New features introduced with ASA version 8.2 are also discussed.",
+            "length": "46163520",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_2.mp3"
+        },
+        {
+            "title": "Using the Packet Capture Utility for Troubleshooting",
+            "datePublished": "Fri, 29 May 2009 00:00:00 -0700",
+            "description": "In this episode, Cisco TAC engineers discuss the new RSS feed for customer issues currently being seen in the TAC. Learn how to resolve connectivity issues using the packet capture utility built in to the Cisco Adaptive Security Appliance (ASA), PIX Firewall, and Firewall Services Module (FWSM) platforms.",
+            "length": "56446570",
+            "sourceUrl": "https://s3.amazonaws.com/tacsecuritypodcast/files/TACSecurityShow_episode_1.mp3"
+        }
+    ]
+}

@@ -1,0 +1,940 @@
+{
+    "artwork": "http://is4.mzstatic.com/image/thumb/Music69/v4/13/9b/9c/139b9c9d-1e31-e084-967f-b249e0406381/source/100x100bb.jpg",
+    "description": "A half priced boardgaming podcast, hosted by Raf Cordero & Charlie Theel",
+    "feedURL": "http://feeds.soundcloud.com/users/soundcloud:users:168551312/sounds.rss",
+    "podcastURL": "http://dinganddentcast.com",
+    "title": "Ding & Dent",
+    "episodes": [
+        {
+            "title": "Episode 113 - The 10 Principles of Design Part 3",
+            "datePublished": "Thu, 05 Nov 2020 04:05:21 +0000",
+            "description": "And so it ends. The conclusion of discussion concerning Dieter Rams' 10 Principles of Design.\n\nRecent Plays Discussed:\nHocus Pocus (9:40)\nWarhammer Underworlds - Arena Mortus (16:15)\nBlitz Bowl Season 2 (28:45)\nThe King's Dilemma (40:30)",
+            "length": "152566945",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/923589457-ding-dent-episode-113-the-10-principles-of-design-part-3.mp3"
+        },
+        {
+            "title": "Episode 112 - The 10 Principles of Design Part 2",
+            "datePublished": "Thu, 03 Sep 2020 13:08:53 +0000",
+            "description": "Raf & Charlie continue their discussion on Dieter Rams' 10 principles of quality design in addition to hitting on some recent plays of note.\n\nFreestyling - 3:00\nCosmic Frog - 9:30\nKingdom Hearts Talisman - 18:00\nAndroid Netrunner Terminal Directive - 30:40\nFort - 40:35\n10 Principles, Part 2 - 53:40",
+            "length": "129674394",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/886870180-ding-dent-episode-112-the-10-principles-of-design-part-2.mp3"
+        },
+        {
+            "title": "Episode 111 - The 10 Principles of Design Pt 1",
+            "datePublished": "Thu, 23 Jul 2020 20:43:57 +0000",
+            "description": "Raf & Charlie are back with a heavy one. This episodes features the usual recent plays, plus a thorough discussion applying Dieter Rams 10 Principles of Design to board games.\n\nFreestylin' - 2:30\nThe King's Dilemma - 10:40\nWarhammer 40k 9th Edition - 22:35\nDetective: City of Angels - 42:00\nUndaunted: Normandy - 57:35\nDieter Rams' 10 Principles - 68:20",
+            "length": "148004151",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/863350141-ding-dent-episode-111-the-10-principles-of-design-pt-1.mp3"
+        },
+        {
+            "title": "Episode 110 - Essential Non Essentials",
+            "datePublished": "Thu, 04 Jun 2020 01:13:47 +0000",
+            "description": "An episode not so much about the games, but about the peripherals and stuff surrounding those games. Which items do Raf and Charlie deem essential and which are a waste of your time?\n\nGames Discussed:\nWarhammer 9th Edition\nNemesis: Lockdown\nModern Art\nCiv: A New Dawn\nCthulhu: Death May Die\nSoulbound RPG",
+            "length": "129413711",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/833696389-ding-dent-episode-110-essential-non-essentials.mp3"
+        },
+        {
+            "title": "Episode 109 - Alternate Art Games",
+            "datePublished": "Thu, 07 May 2020 00:49:40 +0000",
+            "description": "Raf and Charlie both revisit one of their individual favorite games of 2019 before entering into a discussion on alternate art and deluxe releases.\n\nFreestylin' - 3:00\nCore Space - 12:20\nAeronautica Imperalis - 21:40\nOutfoxed - 29:20\nLords of Vegas -35:20\nAlternate Art Games - 47:15",
+            "length": "109452770",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/815179804-ding-dent-episode-109-alternate-art-games.mp3"
+        },
+        {
+            "title": "Episode 108 - Security Blanket Games",
+            "datePublished": "Wed, 22 Apr 2020 23:51:48 +0000",
+            "description": "It happened. Raf & Charlie actually played a game together and they've come back to discuss it. Afterwards they talk about security blanket games, those titles we go back to over and over for comfort and ease of play.\n\nFreestylin - 2:20\nForbidden Stars - 7:00\nReichbusters - 15:30\nFiasco - 26:40\nSecurity Blanket Games - 42:00",
+            "length": "81953477",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/804942709-ding-dent-episode-108-security-blanket-games.mp3"
+        },
+        {
+            "title": "Episode 107 - Emotional Baggage",
+            "datePublished": "Thu, 09 Apr 2020 04:00:28 +0000",
+            "description": "In this episode Raf and Charlie discuss all of the extraneous issues outside of actual gameplay that affect how we feel about a particular title. Issues such as delayed release dates, fulfillment problems, and publishers disappointing us.\n\nTank Duel: Enemy in the Crosshairs - 8:40\nGenesys RPG (Star Wars and homebrew Arkham) - 18:50\nStreet Masters: Aftershock - 44:00\nEmotional Baggage Discussion - 55:00",
+            "length": "102038409",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/794269132-ding-dent-episode-107-emotional-baggage.mp3"
+        },
+        {
+            "title": "Episode 106 - Remote Gaming in the Age of Coronavirus",
+            "datePublished": "Wed, 25 Mar 2020 20:51:02 +0000",
+            "description": "The world is shut down, so what do we do now? We keep gaming.\n\nFreestyling - 2:03 \nDark Venture - 4:10\nMachi Koro Legacy - 13:55\nMezo - 20:40\nPandemic - 29:55\nRemote Gaming Discussion With Suzanne Sheldon - 32:15",
+            "length": "87772915",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/783247723-ding-dent-episode-106-remote-gaming-in-the-age-of-coronavirus.mp3"
+        },
+        {
+            "title": "Episode 105 - Quitting Campaign Games",
+            "datePublished": "Thu, 12 Mar 2020 03:46:09 +0000",
+            "description": "Raf and Charlie discuss some miniatures games, a Euro, and a big issue surrounding campaign games.\n\nTopics discussed:\n\nAdepticon\nRobot Fight Club\nBeastgrave Expansions\nTMNT Adventure Games (Change is Constant & City Fall)\nWingspan\nRallyman GT\nQuitting Campaign Games",
+            "length": "103893562",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/774731824-ding-dent-episode-105-quitting-campaign-games.mp3"
+        },
+        {
+            "title": "Episode 104 - Getting Rid of Games",
+            "datePublished": "Wed, 26 Feb 2020 22:46:53 +0000",
+            "description": "Raf & Charlie discuss some recent plays before tackling a touchy subject - getting rid of games.\n\nFreestyling - 1:40\nEpic - 13:45\nPosthuman Saga - 19:05\nVillainous: Evil Comes Prepared - 30:30\nTainted Grail - 38:00\nGetting Rid of Games - 53:00",
+            "length": "120944679",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/767089825-ding-dent-episode-104-getting-rid-of-games.mp3"
+        },
+        {
+            "title": "Episode 103 - The Lifespan of a Game",
+            "datePublished": "Wed, 12 Feb 2020 23:25:41 +0000",
+            "description": "Four great games are discussed before tackling a squishy subject: does the longevity of a game matter? \n\nFreestyling - 1:35\nNemesis - 11:05\nThunder Alley - 22:40\nOceans - 28:45\nGalaxy Trucker - 38:30\nThe Lifespan of a Game - 47:30",
+            "length": "103211845",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/759614335-ding-dent-episode-103-the-lifespan-of-a-game.mp3"
+        },
+        {
+            "title": "Episode 102 - The State of Skirmish Games",
+            "datePublished": "Wed, 29 Jan 2020 22:14:47 +0000",
+            "description": "Raf and Charlie riff on recent plays before dissecting the thriving skirmish game scene.\n\nFreestyling - 1:40\nScythe - 8:10\nHellboy: The Wild Hunt Expansion - 15:40\nPantone - 21:30\nCloudspire - 29:15\nState of Skirmish Games - 39:20",
+            "length": "95997494",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/751764337-ding-dent-episode-102-the-state-of-skirmish-games.mp3"
+        },
+        {
+            "title": "Episode 101 - 2019 Ding & Dent Awards Show",
+            "datePublished": "Wed, 15 Jan 2020 22:42:27 +0000",
+            "description": "The Ding & Dent Awards Show is back! Raf and Charlie give accolades to 2019's best games.",
+            "length": "76983884",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/744076813-ding-dent-episode-101-2019-ding-dent-awards-show.mp3"
+        },
+        {
+            "title": "Episode 100 - Top 10 Games of All Time and a Q&A",
+            "datePublished": "Wed, 18 Dec 2019 22:28:42 +0000",
+            "description": "Charlie and Raf are joined by Nicole Hoye in an extended Q&A session to celebrate the 100th episode of Ding & Dent. This is followed up with the duo finally delving into their top 10 games of all time.",
+            "length": "150832717",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/730505941-ding-dent-episode-100-top-10-games-of-all-time-and-a-qa.mp3"
+        },
+        {
+            "title": "Episode 99 - Ding & Dent Awards Retrospective",
+            "datePublished": "Sat, 23 Nov 2019 00:58:51 +0000",
+            "description": "The reigning Naperville Warhammer Underworlds Champion and some dude named Charlie discuss some recent plays before taking a look back on past years' award winners and whether they've held up.\n\nGames Discussed:\nVengeance: Director's Cut\nEscape From Hades\nUnmatched\nFlotilla\nArchitects of the West Kingdoms\nAnd of course a slew of old award winners.",
+            "length": "130148975",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/717150121-ding-dent-episode-99-ding-dent-awards-retrospective.mp3"
+        },
+        {
+            "title": "Episode 98 - Beastgrave and State of Underworlds",
+            "datePublished": "Wed, 30 Oct 2019 21:52:36 +0000",
+            "description": "Raf and Charlie discuss the latest iteration of one of their favorite games - Warhammer Underworlds. But before that they hit some new fare as well as some old.\n\nFreestylin - 2:00\nPasstally - 7:00\nValeria: Card Kingdoms - 14:00\nDungeon Degenerates - 21:55\nWhen I Dream - 29:00\nWarhammer Underworlds: Beastgrave Review - 39:00",
+            "length": "109303702",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/705548392-ding-dent-episode-98-beastgrave-and-state-of-underworlds.mp3"
+        },
+        {
+            "title": "Episode 97 - Playing Evil",
+            "datePublished": "Wed, 16 Oct 2019 21:57:12 +0000",
+            "description": "Charlie explores one of Raf's faves, and Raf discusses an oldie but goodie. Then both discuss the issues behind playing morally challenging roles in gaming. \n\nFreestyle - 3:10\nArkham Horror Card Game - 9:10\nFlick Fleet - 17:55\nSkulk Hollow - 30:05\nCastles of Burgundy - 38:55\nPlaying Evil - 46:00",
+            "length": "106230979",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/697302362-ding-dent-episode-97-playing-evil.mp3"
+        },
+        {
+            "title": "Episode 96 - State of Expansions",
+            "datePublished": "Wed, 25 Sep 2019 21:57:35 +0000",
+            "description": "Raf and Charlie tackle a lengthy discussion on the current state of board game expansions. But first there's discussion on the cardboard version of Alien, as well as two trick takers. \n\nFreestyle - 1:30\nUnlock: Heroic Adventures - 9:10\nFox and the Forest - 17:05\nLifeform - 23:30\nBooray - 37:55\nExpansions - 44:00",
+            "length": "98301699",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/686786305-ding-dent-episode-96-state-of-expansions.mp3"
+        },
+        {
+            "title": "Episode 95 - Kwanchai Moriya Interview",
+            "datePublished": "Thu, 12 Sep 2019 00:09:10 +0000",
+            "description": "Raf and Charlie sit down and talk with celebrated board game illustrator Kwanchai Moriya. But first, they discuss recent plays including a couple of disappointments. \n\nFreestyle - 2:10\nHako Onna - 8:00\nEscape Plan - 15:00\nThe Menace Among Us - 21:50\nEndogensis - 35:40\nInterview - 45:30\n\nhttps://www.kwanchaimoriya.com/",
+            "length": "111634208",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/679815209-ding-dent-episode-95-kwanchai-moriya-interview.mp3"
+        },
+        {
+            "title": "Episode 94 - Warcry Review",
+            "datePublished": "Wed, 28 Aug 2019 22:26:14 +0000",
+            "description": "Discussion of recent plays, a Kickstarter currently ongoing, and finally a full review of Games Workshop's newest - Warcry!\n\nFreestyle - 2:00 \nCrusader Kings the Board Game - 10:20\nTash Kalar - 20:50\nCryptic Explorers - 30:30\nEscape - 43:55\nWarcry - 52:50",
+            "length": "130634358",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/672410981-ding-dent-episode-94-warcry-review.mp3"
+        },
+        {
+            "title": "Episode 93 - GenCon 2019 Recap",
+            "datePublished": "Thu, 15 Aug 2019 00:07:34 +0000",
+            "description": "Wow, lots of games. Raf and Charlie discuss their impressions of Gen Con, and then dive into (almost) everything that they played, including a couple of older titles.\n\nGen Con Impressions - 2:30 \nFinger Guns at High Noon - 8:10\nRestoration Games - 16:30\nCosmic Encounter - 20:50\nTheOP (USAOpology) - 25:10\nQE - 30:00\nMarvel Champions - 50:05\nSecret Hitler - 57:40\nQuacks of Quedlinburg - 58:35\nMoon Base - 61:15\nMental Blocks - 63:10\nHorrified & Jaws - 64:55\nFunkoverse Strategy Game - 73:30\nBahamas - 78:30\nCosmic Frog - 80:40\nExtraordinary Adventures Pirates - 83:20\nKill Team - 85:40\nPalm Trees - 88:25\nSovereign's Chain - 92:10\nTime Chase - 94:45",
+            "length": "147172510",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/665920454-ding-dent-episode-93-gencon-2019-recap.mp3"
+        },
+        {
+            "title": "Episode 92 - The Problem with Miniatures Games",
+            "datePublished": "Wed, 24 Jul 2019 22:12:06 +0000",
+            "description": "Raf and Charlie talk recent plays (Flamme Rouge! Era of Kingdoms!) and then dive into a heavy critical discussion of something they love, miniatures gaming.\n\nFreestyle (Teburu) - 4:05 \nFlamme Rouge - 15:30\nEra of Kingdoms - 24: 10\nSlide Quest - 31:50\nTea Dragon Society - 40:30\nThe Problem With Miniatures Games - 48:35",
+            "length": "123653514",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/655925804-ding-dent-episode-92-the-problem-with-miniatures-games.mp3"
+        },
+        {
+            "title": "Episode 91 - Churn and Burn",
+            "datePublished": "Wed, 10 Jul 2019 22:05:57 +0000",
+            "description": "The usual discussion of recent plays before grumbling a bit about the deluge of new releases and constant churn of titles. Also - a new segment! \n\nFreestyle\nBrook City\nGame of Thrones Board Game\nDetective: A Modern Crime Board Game\nFire in the Library\nChurn and Burn Discussion",
+            "length": "116608285",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/649301576-ding-dent-episode-91-churn-and-burn.mp3"
+        },
+        {
+            "title": "Episode 90 - Streamlining Games",
+            "datePublished": "Wed, 26 Jun 2019 21:51:00 +0000",
+            "description": "Raf and Charlie keep rolling with a discussion on streamlining, including examples of it done right and wrong.\n\nExcited About (Tasty Humans/Gen Con) \nKill Team Elite\nBattlestar Galactica\nWarhammer Fantasy RPG\nMiddara\nStreamlining Discussion",
+            "length": "95720268",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/642558063-ding-dent-episode-90-streamlining-games.mp3"
+        },
+        {
+            "title": "Episode 89 - Geekway 2019",
+            "datePublished": "Thu, 13 Jun 2019 02:24:56 +0000",
+            "description": "Raf and Charlie are back and talking about Geekway 2019!\n\n03:07\tExcited About\n13:19\tConvention Overview\n17:55\tKeyforge\n30:17\tUBOOT\n43:02\tDestiny \n47:39\tWar of the Dragon Kings\n55:01\tWarhammer Underworlds\n1:01:01\tJohn Company",
+            "length": "112064792",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/635851422-ding-dent-episode-89-geekway-2019.mp3"
+        },
+        {
+            "title": "Episode 88 - Solitaire Gaming",
+            "datePublished": "Wed, 01 May 2019 22:37:02 +0000",
+            "description": "Raf and Charlie discuss recent plays before diving into a discussion on solitaire gaming.\n\nExcited About - 1:30\nHellboy - 8:40\nFood Truck Champion - 18:30\nCosmic Factory - 26:05\nStellar Leap - 35:00\nGiveaway Winner - 42:35\nSolo Play - 43:10",
+            "length": "111435556",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/614358543-ding-dent-episode-88-solitaire-gaming.mp3"
+        },
+        {
+            "title": "Episode 87 - Player Interaction",
+            "datePublished": "Wed, 10 Apr 2019 22:21:00 +0000",
+            "description": "This one's all about player interaction in games including conflict, negotiation, and the fallout thereof. Before this deep conversation, some big recent plays are of course recounted.\n\nExcited About - 2:10\nLord of the Rings: Journeys in Middle Earth - 6:50\nEscape Puzzle - 19:05\nHellapagos - 28:50\nTiny Ninjas - 37:55\nGiveaway - 47:00\nPlayer Interaction Discussion - 49:15",
+            "length": "95689826",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/604114272-ding-dent-episode-87-player-interaction.mp3"
+        },
+        {
+            "title": "Episode 86 - Family Games",
+            "datePublished": "Tue, 12 Mar 2019 22:00:02 +0000",
+            "description": "Raf and Charlie talk recent plays and then focus on Family games, their favorites and the genre as a whole.\n\nExcited About - 4:20\nDawn of Peacemakers - 10:20\nRoland Wright - 18:32\nCore Space - 27:20\nRailroad Rivals - 43:00\nFamily Games - 53:15",
+            "length": "117423228",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/589132224-ding-dent-episode-86-family-games.mp3"
+        },
+        {
+            "title": "Episode 85 - Blood Rage Look Back Review",
+            "datePublished": "Wed, 27 Feb 2019 22:49:40 +0000",
+            "description": "Raf and Charlie talk new and old games, closing with a thorough discussion of one of their favorites, Blood Rage. \n\nExcited About - 2:40\nRaccoon Tycoon - 10:55\nNo Thanks! - 19:30\niGure Tabletop Soccer - 27:30\nImperius - 34:05\nA Look Back at Blood Rage - 44:00",
+            "length": "110977168",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/582408696-ding-dent-episode-85-blood-rage-look-back-review.mp3"
+        },
+        {
+            "title": "Episode 84 - Fireball Island Review",
+            "datePublished": "Wed, 13 Feb 2019 23:53:24 +0000",
+            "description": "Before a full review of Fireball Island, the group discusses recent plays of The Game of Thrones miniatures game, Comanauts, and more.\n\nPirate Tricks - 10:40\nBig Easy Busking - 18:25\nComanauts - 25:50\nSong of Ice and Fire - 37:35\nFireball Island: the Curse of Vul-kar - 56:15",
+            "length": "103549036",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/574979391-ding-dent-episode-84-fireball-island-review.mp3"
+        },
+        {
+            "title": "Episode 83 - The State of Dungeon Crawlers",
+            "datePublished": "Wed, 30 Jan 2019 22:57:14 +0000",
+            "description": "Raf and Charlie talk recent plays before diving into the State of Dungeno Crawlers, dissecting the genre and discussing its history and impact.\n\nExcited About - 2:25\nBeta Colony - 8:35\nPandemic: Fall of Rome -15:20\nExpanse: Doors and Corners expansion - 27:40\nAmazing Tales - 36:45\nCall for Questions - 46:05\nState of Dungeon Crawlers - 48:30",
+            "length": "122922616",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/567382935-ding-dent-episode-83-the-state-of-dungeon-crawlers.mp3"
+        },
+        {
+            "title": "Episode 82 - 2018 Ding & Dent Awards Show",
+            "datePublished": "Wed, 16 Jan 2019 23:19:52 +0000",
+            "description": "Raf and Charlie are back with their annual awards show. Completely arbitrary awards are handed out to some of 2018's best in tabletop gaming, then each host dives into their top 10 for the year.",
+            "length": "112009763",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/560140647-ding-dent-episode-82-2018-ding-dent-awards-show.mp3"
+        },
+        {
+            "title": "Episode 81 - KeyForge Review",
+            "datePublished": "Wed, 02 Jan 2019 22:52:54 +0000",
+            "description": "Raf and Charlie discuss The Grizzled, Between Two Castles, Lincoln, and Clank before offering a full review of KeyForge.\n\nExcited About - 1:40\nThe Grizzled: Armistice Edition - 7:45\nBetween Two Castles of Mad King Ludwig - 15:05\nLincoln - 23:05\nClank - 34:00\nKeyForge Review - 43:05",
+            "length": "112892225",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/553256097-ding-dent-episode-81-keyforge-review.mp3"
+        },
+        {
+            "title": "Episode 80 - 2018 Holiday Gift Giving Guide",
+            "datePublished": "Thu, 06 Dec 2018 12:51:09 +0000",
+            "description": "After a brief holiday break Raf and Charlie return with the annual board game holiday gift giving guide.\n\nBattlestar Galactica: Starship Battles - 2:50\nSpeed Freeks - 14:20\nCondottiere - 28:15\nZarbag's Gitz - 36:45\nGift Giving Guide - 45:40",
+            "length": "131647475",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/540633909-ding-dent-episode-80-2018-holiday-gift-giving-guide.mp3"
+        },
+        {
+            "title": "Episode 79 - Wildlands Review",
+            "datePublished": "Wed, 07 Nov 2018 22:44:55 +0000",
+            "description": "Raf and Charlie dive into several recent releases - Welcome To, Arkham Horror 3rd - and then dive headlong into Martin Wallace's Wildlands.\n\nExcited About - 2:10\nArkham Horror 3rd Edition - 5:15 \nWelcome To - 18:25 \nMars Open: Tabletop Golf - 27:40\nHolding On: The Troubled Life of Billy Kerr - 35:30\nWildlands Review - 47:30",
+            "length": "100054343",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/526355589-ding-dent-episode-79-wildlands-review.mp3"
+        },
+        {
+            "title": "Calvin and Dee go to Essen - Day 1",
+            "datePublished": "Sat, 27 Oct 2018 13:12:01 +0000",
+            "description": "Calvin & Dee head to Essen and relay their experiences from the first day.",
+            "length": "33703391",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/520680135-ding-dent-calvin-and-dee-go-to-essen-day-1.mp3"
+        },
+        {
+            "title": "Episode 78 - Root Review",
+            "datePublished": "Wed, 24 Oct 2018 21:54:29 +0000",
+            "description": "Raf and Charlie tackle Werewolves and Reckoners before heading to the forest and discussing Root.\n\nExcited About - 1:45\nUltimate Werewolf Legacy - 5:00\nKill Team Campaign Update - 14:30 \nThe Reckoners - 32:05\nRoot Review - 45:10",
+            "length": "116481685",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/519401385-ding-dent-episode-78-root-review.mp3"
+        },
+        {
+            "title": "Episode 77 - Sadler Brothers Interview",
+            "datePublished": "Wed, 10 Oct 2018 21:53:24 +0000",
+            "description": "Brady and Adam Sadler join Raf and Charlie to discuss Street Masters, their design process, and their days at FFG.\n\nGraphic Novel Adventures - 2:40\nDinosaur Tea Party - 13:55\nGravwell - 20:20\nEscape the Room - 29:20\nSadler Brother Interview - 36:30",
+            "length": "94770612",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/512492514-ding-dent-episode-77-sadler-brothers-interview.mp3"
+        },
+        {
+            "title": "Episode 76 - Warhammer Champions Review",
+            "datePublished": "Wed, 26 Sep 2018 21:44:12 +0000",
+            "description": "Raf and Charlie discuss miniatures, Dune, and the Lost Expedition before going into a deeper exploration of the new Warhammer CCG.\n\nGames Discussed: \nStreet Masters: Aftershock\nKill Team (Campaign)\nBig Trouble in Little China\nAge of Sigmar Path to Glory Campaign\nThe Dune Board Game Book Club\nThe Lost Expedition\nWarhammer Age of Sigmar: Champions Full Review",
+            "length": "123852684",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/505670982-ding-dent-episode-76-warhammer-champions-review.mp3"
+        },
+        {
+            "title": "Episode 75 -Kill Team And Rogue Trader",
+            "datePublished": "Thu, 13 Sep 2018 00:30:19 +0000",
+            "description": "Deduction and some choose your own adventure fun make up the first half of the episode, with a grand discussion on Kill Team and the new Rogue Trader expansion forming the main event.\n\nGames discussed:\nOff the Rails\nCryptid\nChoose Your Own Adventure: House of Danger\nVisitor in Blackwood Grove\nKill Team and Rogue Trader Expansion",
+            "length": "94126914",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/499124970-ding-dent-episode-75-kill-team-and-rogue-trader.mp3"
+        },
+        {
+            "title": "Episode 74 - The Mind Review",
+            "datePublished": "Wed, 29 Aug 2018 22:01:02 +0000",
+            "description": "A big review of The Mind tops off a packed episode that also includes Western Legends, Everdell, and more.\n\nExcited About - 4:19\nShifting Realms - 10:48\nEverdell - 17:51\nWestern Legends - 26:28\nDownforce Danger Circuit - 41:49\nThe Mind -51:07",
+            "length": "68182561",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/492488832-ding-dent-episode-74-the-mind-review.mp3"
+        },
+        {
+            "title": "Episode 73 - GenCon and GenCant",
+            "datePublished": "Wed, 15 Aug 2018 12:07:29 +0000",
+            "description": "Charlie heads to Gen Con and Raf stays home. Now they catch up.",
+            "length": "89326281",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/485850300-ding-dent-episode-73-gencon-and-gencant.mp3"
+        },
+        {
+            "title": "Episode 72 - Seal Team Flix Designer Interview w/ Pete Ruth and Mark Thomas",
+            "datePublished": "Thu, 26 Jul 2018 03:50:47 +0000",
+            "description": "Raf and Charlie catch up on recent plays before diving into a discussion with Seal Team Flix designers Pete Ruth and Mark Thomas.",
+            "length": "107623160",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/476834109-ding-dent-episode-72-seal-team-flix-designer-interview-w-pete-ruth-and-mark-thomas.mp3"
+        },
+        {
+            "title": "Episode 71 - Soul Wars Review",
+            "datePublished": "Wed, 11 Jul 2018 21:43:40 +0000",
+            "description": "Raf and Charlie dive into some huge new releases, including a full review of the brand new Warhammer Age of Sigmar: Soul Wars.\n\nX-Wing: 6:03 \nMissile Command;  26:11\nStarship Samurai: 38:54\nPandemic Legacy S2 50:10\nSoul Wars 1:01:18",
+            "length": "127023249",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/470419371-ding-dent-episode-71-soul-wars-review.mp3"
+        },
+        {
+            "title": "Episode 70 - What's In a License",
+            "datePublished": "Thu, 28 Jun 2018 04:32:51 +0000",
+            "description": "Recent plays and then a discussion focused on the upside and downside of licensed intellectual properties and how they have affected the industry.\n\nExcited About - 1:40\nIncredibles - 5:25\nFungeon Party - 9:20\nDragon Ball Z: Perfect Cell - 16:35\nX-Wing: Heroes of the Aturi Cluster - 24:05\nLicensed Games Discussion - 34:45",
+            "length": "91983711",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/464472084-ding-dent-episode-70-whats-in-a-license.mp3"
+        },
+        {
+            "title": "Episode 69 - Gaslands Review",
+            "datePublished": "Wed, 13 Jun 2018 23:02:19 +0000",
+            "description": "Raf and Charlie discuss Shadespire, a Splotter, and Sunset Over Water before going full tilt on a review of Gaslands.\n\nExcited About - 1:40\nIndonesia - 5:20\nSunset Over Water - 13:10\nShadespire Factions - 19:45\nGaslands Review - 41:55",
+            "length": "97898548",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/458018058-ding-dent-episode-69-gaslands-review.mp3"
+        },
+        {
+            "title": "Episode 68 - Raf Returns & Geekway Recap!",
+            "datePublished": "Wed, 30 May 2018 22:36:13 +0000",
+            "description": "Raf returns to discuss what he and Charlie played at Geekway to the West 2018.",
+            "length": "141052989",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/451456947-ding-dent-episode-68-raf-returns-geekway-recap.mp3"
+        },
+        {
+            "title": "Episode 67 - Calvin & Dee Podcast Takeover",
+            "datePublished": "Fri, 18 May 2018 00:23:36 +0000",
+            "description": "While Raf wraps up his paternity leave, Calvin & Dee hold the podcast hostage and drop it like it's hot.\n\nGames discussed:\nModern Art\nGuju Guju\nBargain Quest\nCodenames Duet\nDead Cat",
+            "length": "78586770",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/445597800-ding-dent-episode-67-calvin-dee-podcast-takeover.mp3"
+        },
+        {
+            "title": "Episode 66 - DropMix Review with Grace",
+            "datePublished": "Thu, 03 May 2018 02:55:24 +0000",
+            "description": "Charlie is joined by Grace to discuss recent plays, then Raf drops back in and all three review the music mixing tabletop game DropMix.\n\nExcited About - 5:25\nCharterstone - 13:17\nFREAKFACE!!! - 21:40\nFantasy Realms - 31:50\nBeasts of Balance - 37:35 \nDropMix Review -48:54",
+            "length": "124736860",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/438611397-ding-dent-episode-66-dropmix-review-with-grace.mp3"
+        },
+        {
+            "title": "Episode 65 - Kickstarter with Suzanne Sheldon",
+            "datePublished": "Wed, 18 Apr 2018 23:35:22 +0000",
+            "description": "In the first half, Charlie is joined by Aaron Belmer who sits in for Raf during the \"What We've Been Playing Lately\" segment. In the second half, Raf and Charlie talk with Suzanne Sheldon on Kickstarter and crowdfunding.\n\nInBetween - 4:20\nFirefly Adventures: Brigands and Browncoats - 9:30\nTales & Games: The Hare & The Tortoise - 14:40\nCastle Dukes - 20:35\nSuzanne Sheldon and Kickstarter Discussion - 26:40",
+            "length": "97552531",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/431819052-ding-dent-episode-65-kickstarter-with-suzanne-sheldon.mp3"
+        },
+        {
+            "title": "Episode 64 - On Sportsmanship",
+            "datePublished": "Wed, 04 Apr 2018 22:53:52 +0000",
+            "description": "After discussing recent plays, Raf and Charlie talk it out over the concept of sportsmanship and how it applies to competitive and casual gaming.\n\nExcited About - 2:45\nA Tale of Pirates - 10:00\nDark Souls: The Card Game - 17:05\nThe Grimm Forest - 32:06\nSakura - 42:00\nSportsmanship Discussion - 50:00",
+            "length": "113292558",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/424919445-ding-dent-episode-64-on-sportsmanship.mp3"
+        },
+        {
+            "title": "Episode 63 - Rising Sun Review",
+            "datePublished": "Wed, 21 Mar 2018 22:36:30 +0000",
+            "description": "Love, war, and painting tips. Oh, and a review of Rising Sun.\n\nExcited About - 3:10\nFog of Love - 9:50\nKaruba: The Card Game - 20:00\nLords of Hellas - 26:30\nRaf's Painting Tips - 38:10\nRising Sun Review - 53:20",
+            "length": "144547303",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/417292533-ding-dent-episode-63-rising-sun-review.mp3"
+        },
+        {
+            "title": "Episode 62 - Dinosaur Island Review",
+            "datePublished": "Thu, 08 Mar 2018 00:41:35 +0000",
+            "description": "The crusades, dungeon crawling and brawling, and finally an in-depth review of Dinosaur Island.\n\nExcited About - 2:00\nRichard the Lionheart - 10:05\nDungeon Alliance - 19:55\nShadespire Chosen Axes and Spiteclaw's Swarm - 32:45\nDinosaur Island Review - 49:55",
+            "length": "111058237",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/410300376-ding-dent-episode-62-dinosaur-island.mp3"
+        },
+        {
+            "title": "Episode 61 - The State of Dudes on a Map",
+            "datePublished": "Wed, 21 Feb 2018 23:56:40 +0000",
+            "description": "Raf and Charlie talk water, iron, and samurai before discussing the state of the 'Dudes on a Map' game.\n\nExcited About - 2:50\nPandemic: Rising Tide - 9:02\nGame of Thrones: The Iron Throne - 17:50\nBattle for Rokugan - 28:45\nFallen Land: A Post Apocalyptic Board Game - 37:15\nThe State of Dudes on a Map - 49:40",
+            "length": "131038797",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/403243659-ding-dent-episode-61-the-state-of-dudes-on-a-map.mp3"
+        },
+        {
+            "title": "Episode 60 - Games Games & More Games",
+            "datePublished": "Thu, 08 Feb 2018 00:51:58 +0000",
+            "description": "An episode to catch up on recent plays. This one's all about quick short format impressions with a lengthier review of Escape the Dark Castle mixed in.\n\nStuffed Fables - 3:35\nDungeon Degenerates: Hand of Doom - 13:40\nSword & Sorcery - 22:00\nDispatch Giveaway - 41:00\nEscape the Dark Castle - 43:45\nCharterstone - 59:30\nCoaster Park - 1:11:10",
+            "length": "118031028",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/396114045-ding-dent-episode-60-games-games-more-games.mp3"
+        },
+        {
+            "title": "Episode 59 - The Thing Infection at Outpost 31 Review",
+            "datePublished": "Wed, 24 Jan 2018 23:18:13 +0000",
+            "description": "Some minis, some euros, and another giveaway before hitting a review of The Thing: Infection at Outpost 31.\n\nExcited About - 5:15\nDIG/RUM - 9:07\nKepler-3042 - 21:15\nBreaking Bad - 32:40\nDracula's America - 42:25\nGiveaway - 55:13\nThe Thing Review - 60:00",
+            "length": "118623334",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/388650537-ding-dent-episode-59-the-thing-infection-at-outpost-31-review.mp3"
+        },
+        {
+            "title": "Episode 58 - 2017 Ding & Dent Awards Show",
+            "datePublished": "Wed, 10 Jan 2018 23:09:20 +0000",
+            "description": "Raf and Charlie return from a holiday hiatus with the Ding & Dent 2017 award show. A new contest is offered and they both list their top 10 new releases for the year to close things out.",
+            "length": "105915079",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/381753902-ding-dent-episode-58-2017-ding-dent-awards-show.mp3"
+        },
+        {
+            "title": "Bonus Episode - Calvin Interviews Rob Daviau and Sara Erickson",
+            "datePublished": "Sun, 31 Dec 2017 03:33:35 +0000",
+            "description": "While Raf and Charlie enjoy the holiday break, Calvin steps up with an interview with Rob Daviau and Sara Erickson.",
+            "length": "14693507",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/376819610-ding-dent-bonus-episode-calvin-interviews-rob-daviau-and-sara-erickson.mp3"
+        },
+        {
+            "title": "Episode 57 - Publisher Gatekeeping",
+            "datePublished": "Wed, 13 Dec 2017 23:59:11 +0000",
+            "description": "Raf and Charlie discuss a couple of big new games and then dive into a discussion of publisher gatekeeping, Kickstarter, and the evolution of the industry.\n\nExcited About - 1:50\n3 Secrets - 7:25\nOK Play - 14:25\nFallout - 19:20\nCodenames: Disney - 31:00\nShadespire Contest - 39:45\nPublisher Gatekeeping - 42:40",
+            "length": "107059181",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/369206666-ding-dent-episode-57-publisher-gatekeeping.mp3"
+        },
+        {
+            "title": "Episode 56 - 2017 Holiday Gift Giving Guide",
+            "datePublished": "Wed, 29 Nov 2017 13:00:38 +0000",
+            "description": "Raf and Charlie offer their annual holiday gift guide, with games for many situations and preferences.\n\nPlaying Lately\nWerewords - 4:50\nFlick 'Em Up: Dead of Winter - 12:15\nCatacombs & Castles - 21:40\nHarry Potter: Hogwarts Battle - 29:35\n\nHoliday Gift Guide - 37:55",
+            "length": "113975806",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/362475389-ding-dent-episode-57-2017-holiday-gift-giving-guide.mp3"
+        },
+        {
+            "title": "Episode 55 - Playing with Strangers",
+            "datePublished": "Wed, 15 Nov 2017 20:27:52 +0000",
+            "description": "Charlie and Raf discuss playing games with strangers. Whether at a meetup, a con, or a local game shop, we often run into opportunities to game with people we don't know. This can be a tricky situation, and they talk about how they approach it. Before that it's Pandemic Legacy Season 2 (NO SPOILERS), Battlestations 2nd Edition, Vegas Wits & Wagers, and World Championship Russian Roulette.\n\nExcited About - 2:05\n\nPandemic Legacy S2 (NO SPOILERS) - 5:42\nBattlestations - 13:00\nVegas Wits & Wagers - 21:15\nWorld Championship Russian Roulette - 26:03\n\nPlaying With Strangers -36:43",
+            "length": "85071821",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/356295560-ding-dent-episode-55-playing-with-strangers.mp3"
+        },
+        {
+            "title": "Episode 54 -Shadespire Review",
+            "datePublished": "Wed, 01 Nov 2017 13:44:14 +0000",
+            "description": "Raf and Charlie are back with an episode full of big releases, hidden gems, and an in-depth review of Warhammer Underworlds: Shadespire. This tactical combat game is in both of their Top 10s this year and is super approachable to people who don't want to spend too much time assembling minis.\n\nExcited About - 2:34\nDispatch - 6:38\nPlanet of the Apes - 14:30\nTwilight Imperium 4th Ed - 27:29\nEscape from 100 Million BC - 40:43\nInside Voices Giveaway Info - 50:41\n\nShadespire Review - 52:47",
+            "length": "130534387",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/349658221-ding-dent-episode-54-shadespire-review.mp3"
+        },
+        {
+            "title": "Essen 2017 Day 4",
+            "datePublished": "Sun, 29 Oct 2017 21:56:52 +0000",
+            "description": "Celebrate (or mourn) the end of Essen with Calvin, Dee and a pile of special guests!",
+            "length": "77998820",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/349178391-ding-dent-essen-2017-day-4.mp3"
+        },
+        {
+            "title": "Essen 2017 Day 3",
+            "datePublished": "Sun, 29 Oct 2017 01:59:19 +0000",
+            "description": "Day 3 of Calvin and Dee's Essen Coverage is here! More game and more special guests! Hear from Ted Alspach, Eric Martin, Stephen Buonocore, and Efka & Elain from No Pun Include! Also, bird thoughts.",
+            "length": "65892344",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/349071586-ding-dent-essen-20.mp3"
+        },
+        {
+            "title": "Essen 2017 Day 2",
+            "datePublished": "Fri, 27 Oct 2017 23:41:30 +0000",
+            "description": "Calvin, Dee, and Colin the Board Game Bear are back for Day 2 of Spiel! Stay tuned through the end to hear from more special guests!",
+            "length": "42397696",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/348932585-ding-dent-essen-2017-day-2.mp3"
+        },
+        {
+            "title": "Essen 2017 Day 1",
+            "datePublished": "Fri, 27 Oct 2017 00:03:12 +0000",
+            "description": "Calvin, Dee, and Colin the Board Game Bear are in Essen letting us know what they're checking out! Stay tuned through the end to hear from special guests Rodney Smith and Tom Vasel!",
+            "length": "40627325",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/348770761-ding-dent-essen-2017-day-1.mp3"
+        },
+        {
+            "title": "Episode 53 - Evan Derrick Interview",
+            "datePublished": "Wed, 11 Oct 2017 22:30:05 +0000",
+            "description": "Raf talks a couple of \"A\" titles, while Charlie gets into Rhinos and Sand-timers. Then, Evan Derrick of Van Ryder Games joins the fun with a feature interview.\n\nExcited About - 1:35\nWartime - 8:15\nApproaching Dawn: The Witching Hour -18:30\nRhino Hero: Super Battle - 33:55\nAzul - 41:40\nEvan Derrick Interview - 49:10",
+            "length": "124250615",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/346472233-ding-dent-episode-53-evan-derrick-interview.mp3"
+        },
+        {
+            "title": "Episode 52 - Vengeance Review",
+            "datePublished": "Thu, 28 Sep 2017 03:43:28 +0000",
+            "description": "Raf and Charlie fill this episode with new and upcoming games. They review Vengeance, a fast-paced new title that brings movies like Old Boy and Kil Bill to the table, putting you in the shoes of both Uma Thurman and Quentin Tarantino.\n\nExcited About -1:31\nScrappers - 13:07\nRunebound Unbreakable Bonds - 19:42\nPit Crew - 27:25\nLegend of the 5 Rings - 35:07\nRed Scare - 49:50\nVengeance - 1:00:35",
+            "length": "117971859",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/344369446-ding-dent-episode-52-vengeance-review.mp3"
+        },
+        {
+            "title": "Episode 51 - This War of Mine Review",
+            "datePublished": "Wed, 13 Sep 2017 23:10:02 +0000",
+            "description": "Raf talks about secret words and abstracts, Charlie talks about werewolves and packs of gum. Both talk about the emotional roller coaster of This War of Mine the board game.\n\nExcited About - 1:30\nBoo/Spy - 8:40\nCodenames Duet - 19:40\nFolklore: The Affliction - 29:30\nSeikatsu - 42:45\nThis War of Mine Review - 54:55",
+            "length": "129808560",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/342250146-ding-dent-episode-51-this-war-of-mine-review.mp3"
+        },
+        {
+            "title": "Episode 50 - Gen Con Wrap Up and Listener Questions",
+            "datePublished": "Wed, 30 Aug 2017 22:10:53 +0000",
+            "description": "The best/worst of Gen Con to kick things off, then Raf and Charlie dive into listener questions to celebrate 50 episodes. Don't miss the new listener poll at the end!\n\nGen Con Best/Worst - 2:40\nSuper Mario Level Up - 16:35\nTiefe Taschen - 23:50\nListener Questions - 39:45\nListener Poll - 1:34:12",
+            "length": "144663603",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/340211052-ding-dent-episode-50-gen-con-wrap-up-and-listener-questions.mp3"
+        },
+        {
+            "title": "Gen Con 50 Night 3",
+            "datePublished": "Sun, 20 Aug 2017 07:37:54 +0000",
+            "description": "Our last nightly episode! Captain Sonar Upgrade One, Richard the Lionheart, and Star Wars: Legion!",
+            "length": "17116952",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/338659939-ding-dent-gen-con-50-night-3.mp3"
+        },
+        {
+            "title": "Gen Con 50 Night 2",
+            "datePublished": "Sat, 19 Aug 2017 06:26:15 +0000",
+            "description": "4 games in 10 minutes?! Sneak peek at some awesome games from the con floor. Shadespire, Massive Darkness, The Expanse, and Indulgence!",
+            "length": "15050971",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/338533228-ding-dent-gen-con-50-night-2.mp3"
+        },
+        {
+            "title": "GenCon50 Night 1",
+            "datePublished": "Fri, 18 Aug 2017 04:39:46 +0000",
+            "description": "Day 1 from GenCon50! We talk about 4 games we've played on the con floor. Crossfire, Dead of Winter Flick 'em Up, Zoo Ball, and Centipede!",
+            "length": "21825895",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/338380906-ding-dent-gencon50-night-1.mp3"
+        },
+        {
+            "title": "Episode 49 - Our Review Criteria",
+            "datePublished": "Wed, 09 Aug 2017 22:02:45 +0000",
+            "description": "Raf and Charlie talk racing and pirates before discussing the nuances of evaluating games, rating them, and general critique.\n\nExcited About - 1:20\nEuphoria - 4:45\nDeadline - 16:30\nDownforce - 29:00\nRum and Bones Second Tide - 40:35\nReview Criteria - 57:50",
+            "length": "137089855",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/337205451-ding-dent-episode-49-our-review-criteria.mp3"
+        },
+        {
+            "title": "Episode 48 - Cthulhu Wars: The Definitive Review (For Now)",
+            "datePublished": "Wed, 26 Jul 2017 22:46:17 +0000",
+            "description": "Calvin is back! He joins us to talk about Netrunner: Terminal Directive! Raf and Charlie talk the games they've been playing, share the plans for a GenCon meetup, and then get into a big review of everything Cthulhu Wars.\n\nInside Voices - 0:01:45\nNetrunner Terminal Directive - 0:03:52\nRebellion Expansion - 0:22:26\nWarhammer 40k - 0:34:25\nMeetups - 0:48:59\nCthulhu Wars Review- 0:53:27",
+            "length": "141046313",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/334993574-ding-dent-episode-48-cthulhu-wars-the-definitive-review-for-now.mp3"
+        },
+        {
+            "title": "Episode 47 - Other People's Fun",
+            "datePublished": "Wed, 12 Jul 2017 21:52:39 +0000",
+            "description": "Raf and Charlie talk Tommy guns and explosions before tackling \"Other People's Fun.\" Is there an ethical imperative to play in a way that maximizes everyone’s enjoyment?\n\nExcited About - 1:20\nThe Godfather: Corleone's Empire - 4:40\nPotion Explosion - 18:20\nGloom of Kilforth - 26:30\nCube Quest - 40:00\n\nOther People's Fun - 49:05",
+            "length": "110162305",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/332931340-ding-dent-episode-47-other-peoples-fun.mp3"
+        },
+        {
+            "title": "Episode 46 - Wasteland Express Delivery Service",
+            "datePublished": "Wed, 28 Jun 2017 13:59:16 +0000",
+            "description": "Raf and Charlie ride through the post-apocalypse with a review of Wasteland Express Delivery Service, a Mad Max inspired pick up and deliver game. Before they talk about what they're excited about and what they've been playing lately!\n\nExcited About - 0:01:34\n\nSpace Invaders Dice - 0:06:11\nSidereal Confluence - 0:11:43\nSpoils of War - 0:25:31\nNot Alone - 0:35:27\n\nWasteland Express Delivery Service Review - 0:44:56",
+            "length": "121677806",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/330529936-ding-dent-episode-46-wasteland-express-delivery-service.mp3"
+        },
+        {
+            "title": "Episode 45 - App-Assisted Games",
+            "datePublished": "Wed, 14 Jun 2017 19:27:35 +0000",
+            "description": "Raf and Charlie review a few recent releases, a modern classic, and then talk about the past and future of technology assisted board games. Are app-assisted games a fad? Will we continue to see more? How much tech is too much? Listen and let us know!\n\nExcited - 1:20\n\nOaxaca - 4:45\nAlien vs Predator - 9:18\nGekido - 22:33\nUnlock! - 31:44\nLords of Vegas - 44:10\n\nEpisode 50 Requests! - 51:55\n\nApp-Assisted Games - 53:20",
+            "length": "178300775",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/328058377-ding-dent-episode-45-app-assisted-games.mp3"
+        },
+        {
+            "title": "Bonus Episode - Warhammer 40k Dark Imperium",
+            "datePublished": "Thu, 08 Jun 2017 04:52:04 +0000",
+            "description": "Charlie goes solo to discuss the brand new Warhammer 40k 8th edition boxed set Dark Imperium.",
+            "length": "41454318",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/327084244-ding-dent-bonus-episode-warhammer-40k-dark-imperium.mp3"
+        },
+        {
+            "title": "Episode 44 - Geekway 2017!",
+            "datePublished": "Thu, 01 Jun 2017 01:45:24 +0000",
+            "description": "Raf and Charlie head to Geekway to the West and discuss many of the games they played.\n\nExcited About\nRestoration Games\nH.E.A.D. Hunters\n\nWhat We've Been Playing Lately - Geekway Edition\nWiz-War\nAdrenaline\nBemused\nStrike/Tumblin-Dice\nEthnos\nDead of Winter: The Long Night\nSecret Hitler\nCthulhu Wars\nTwo Rooms and a Boom\nRising Sun",
+            "length": "117174421",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/325456280-ding-dent-episode-44-geekway-2017.mp3"
+        },
+        {
+            "title": "Episode 43 - Conventions with Stephanie Straw",
+            "datePublished": "Wed, 17 May 2017 11:02:04 +0000",
+            "description": "Raf and Charlie talk about a few games they've been playing including updates on Walking Dead and Arkham Horror LCG expansions. Then Stephanie Straw joins them to talk about board game conventions! Why are they awesome? They talk about that and share tips for enjoying them.\n\nWalking Dead: All Out War Expansions - 2:44\nDale of Merchants - 14:05\nPlanetarium - 21:53\nArkham LCG Dunwich Campaign - 29:04\n\nConventions! -37:13",
+            "length": "93425699",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/323039254-ding-dent-episode-43-conventions-with-stephanie-straw.mp3"
+        },
+        {
+            "title": "Episode 42 - What Do We Owe a Game?",
+            "datePublished": "Wed, 03 May 2017 23:26:10 +0000",
+            "description": "Raf and Charlie ponder player obligations, philosophical quandaries, and the art of giving a game a fair shake.\n\nExcited About (L5R) - 1:00\nShahrazad - 2:40\nEthnos - 10:40\nSaltlands - 25:20\nFantasy Fantasy Football - 35:15\nWhat Do We Owe a Game? - 43:40",
+            "length": "99137964",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/320819054-ding-dent-episode-42-what-do-we-owe-a-game.mp3"
+        },
+        {
+            "title": "Episode 41 - Old Games vs New Games",
+            "datePublished": "Wed, 19 Apr 2017 22:06:13 +0000",
+            "description": "Raf and Charlie talk recent plays before discussing \"cult of the new\" and the merit of classics.\n\nCthulhu Wars Map Expansions - 1:20\nChicago Meetup - 17:50\nShadow War: Armageddon - 26:20\nStrike - 37:00\n\nOld vs. New Game Discussion - 44:20",
+            "length": "91232393",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/318536594-ding-dent-episode-41-old-games-vs-new-games.mp3"
+        },
+        {
+            "title": "Episode 40 - Isaac Childres and Gloomhaven",
+            "datePublished": "Wed, 05 Apr 2017 23:37:15 +0000",
+            "description": "Raf and Charlie talk recent plays before catching up with Isaac Childres to discuss Forge War, Gloomhaven, and the future.\n\nWhat We've Been Playing Lately\nGloomhaven - 1:30\nMothership - 26:45\nWatson & Holmes - 34:05\n\nChicago Meetup - 42:40\n\nIsaac Childres Interview -45:10",
+            "length": "115198651",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/316309867-ding-dent-episode-40-isaac-childres-and-gloomhaven.mp3"
+        },
+        {
+            "title": "Episode 39 - Kevin Wilson Interview",
+            "datePublished": "Wed, 22 Mar 2017 21:39:56 +0000",
+            "description": "Raf and Charlie catch up with Kevin Wilson to discuss the past, present, and future.\n\nRaf on March Madness - 1:20\nLibertalia - 2:20\nWiz-War - 10:30\nRoborally - 19:05\nUnknown - 27:40\nChicago Meetup - 36:50\nKevin Wilson Interview - 39:00",
+            "length": "102682979",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/313971271-ding-dent-episode-39-kevin-wilson-interview.mp3"
+        },
+        {
+            "title": "Episode 38 - Emotions at the Gaming Table",
+            "datePublished": "Wed, 08 Mar 2017 23:10:43 +0000",
+            "description": "Boasting, mystery, and bloodshed are discussed before diving into the positive and negative aspects of emotions in gaming.\n\nExcited About - 1:15\n\nWhat We've Been Playing Lately:\nWarhammer Quest: Shadows Over Hammerhal - 4:20\nThe Extraordinary Adventures of Baron Munchausen - 12:35\nChampions of Midgard Expansions - 21:50\nHolmes: Sherlock and Mycroft - 32:15\n\nEmotions at the Gaming Table - 40:30",
+            "length": "78344350",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/311431015-ding-dent-episode-38-emotions-at-the-gaming-table.mp3"
+        },
+        {
+            "title": "Episode 37 - New Angeles Review",
+            "datePublished": "Wed, 22 Feb 2017 23:02:19 +0000",
+            "description": "Raf and Charlie talk serial killers, science, and the end of the world before diving into New Angeles. We also have an exciting announcement; thanks to your votes, we're a BGG Golden Geek Award Final Nominee!!\n\nExcited About - 5:00\n\nRecent Plays\nSherlock Holmes: Consulting Detective - Jack the Ripper and West End Adventures - 7:40\nEvolution: Climate - 14:40\nPerdition's Mouth: Abyssal Rift - 23:20\nAeon's End - 31:45\n\nNew Angeles Review - 44:05",
+            "length": "92215430",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/309078014-ding-dent-episode-37-newangelesreview.mp3"
+        },
+        {
+            "title": "Episode 36 - Kingmaking: Real or Imagined Problem?",
+            "datePublished": "Wed, 08 Feb 2017 23:37:18 +0000",
+            "description": "Some new games, some old games, and a thoughtful discussion on the pitfalls and legitimacy of Kingmaking.\n\nZen Bins (Rebellion) - 1:10\nZombicide Black Plague - 5:35\nHaze Islands - 14:15\nFireteam Zero - 22:20\nAssault of the Giants - 33:10\nKingmaking Discussion -45:20",
+            "length": "89871003",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/306797305-ding-dent-episode-36-kingmaking-real-or-imagined-problem.mp3"
+        },
+        {
+            "title": "Episode 35 - Teenage Mutant Ninja Turtles: Shadows of the Past",
+            "datePublished": "Wed, 25 Jan 2017 23:28:59 +0000",
+            "description": "Description: A war, slasher, and gateway game before diving into Teenage Mutant Ninja Turtles: Shadows of the Past with a full review.\n\nThe Great War - 5:30\nThe Last Friday - 13:20\nBlack Orchestra -24:50\nStarFall -37:00\n\nTMNT: Shadows of the Past Review - 46:10",
+            "length": "92684678",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/304536258-ding-dent-episode-35-teenage-mutant-ninja-turtles-shadows-of-the-past.mp3"
+        },
+        {
+            "title": "Episode 34 - 2016 Ding & Dent Awards Show!",
+            "datePublished": "Wed, 11 Jan 2017 22:33:57 +0000",
+            "description": "It's the 2016 Ding & Dent Award Show! Raf & Charlie give out 10 awards to some of the best and most innovative games this year before talking about their personal Top 10s. What earned Raf's \"Velociraptor Award\"? What is Charlie's 1% game? Find out in the Award Show!",
+            "length": "90816575",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/302209774-ding-dent-episode-34-2017-ding-dent-awards-show.mp3"
+        },
+        {
+            "title": "Calvin and Dee's Essen Retrospective",
+            "datePublished": "Sat, 31 Dec 2016 01:01:56 +0000",
+            "description": "Calvin and Dee offer a retrospective bonus episode discussing games they've played since Essen.",
+            "length": "74277597",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/300266977-ding-dent-calvin-and-dees-essen-retrospective.mp3"
+        },
+        {
+            "title": "Episode 33 - Storytelling in Games",
+            "datePublished": "Wed, 14 Dec 2016 22:59:04 +0000",
+            "description": "Raf and Charlie discuss recent plays before diving into storytelling and how its utilized in gaming.\n\nThe Walking Dead: All Out War - 5:50\nStar Wars: Destiny - 15:00\nCave Evil: Warcults -26:10\nDunwich Legacy - 34:30\n\nStorytelling in Games -43:10",
+            "length": "91421464",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/297942940-ding-dent-episode-33-storytelling-in-games.mp3"
+        },
+        {
+            "title": "Episode 32 - Holiday Gift Giving Guide",
+            "datePublished": "Wed, 30 Nov 2016 22:58:34 +0000",
+            "description": "Raf and Charlie are back with the 2016 version of the holiday gift guide. \n\nExcited About - 1:15\nEmpires: Galactic Rebellion - 5:40\nMechs vs. Minions - 19:00\nArkham Horror: The Card Game - 29:35\nCodex: Card-Time Strategy - 46:15\nGift Guide - 56:20",
+            "length": "106452406",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/295618401-ding-dent-episode-32-holiday-gift-giving-guide.mp3"
+        },
+        {
+            "title": "Episode 31 - Scythe Review with Calvin Wong",
+            "datePublished": "Wed, 09 Nov 2016 23:10:47 +0000",
+            "description": "Raf and Charlie are joined by Calvin to talk recent plays and the 2016 smash hit Scythe.\n\nExcited about 2:00\n\nMythos Tales - 9:30\nAdrenaline - 19:10\nProject ELITE - 27:40\nColony - 36:40\n\nScythe Review - 47:00",
+            "length": "93649834",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/292303586-ding-dent-episode-31-scythe-review-with-calvin-wong.mp3"
+        },
+        {
+            "title": "Episode 30 - Cry Havoc",
+            "datePublished": "Wed, 26 Oct 2016 21:57:50 +0000",
+            "description": "Charlie scoops a big game, Raf becomes Don of New York, and both dissect Cry Havoc and the carnage therein.\n\nTMNT: Shadows of the Past - 3:05\nRunebound 3e Expansions - 17:00\nThe Godfather: A New Don - 31:00\n\nCry Havoc Review - 46:00",
+            "length": "97667937",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/290139377-ding-dent-episode-30-cry-havoc.mp3"
+        },
+        {
+            "title": "Essen Spiel Day 4",
+            "datePublished": "Sun, 16 Oct 2016 20:01:52 +0000",
+            "description": "It's the last and final day of Essen. Calvin and  Dee talk about their  last day and give us the Essen Awards Show!",
+            "length": "58938692",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/288418473-ding-dent-essen-spiel-day-4.mp3"
+        },
+        {
+            "title": "Essen Spiel Day 3",
+            "datePublished": "Sun, 16 Oct 2016 01:39:03 +0000",
+            "description": "Day 3 of coverage from Calvin and Dee. Among other things they talk about Dale of Merchants, Martians: A Story of Civilization, and packing strategies.",
+            "length": "48988341",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/288152044-ding-dent-essen-spiel-day-3.mp3"
+        },
+        {
+            "title": "Essen Spiel Day 2",
+            "datePublished": "Sat, 15 Oct 2016 02:05:32 +0000",
+            "description": "Special international correspondents Calvin and Dee report in with special coverage of the annual Spiel Convention in Essen! On Day 2 they talk Colony, Evolution, and dangers of jaywalking.",
+            "length": "45125553",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/287811753-ding-dent-essen-spiel-day-2.mp3"
+        },
+        {
+            "title": "Essen Spiel Day 1",
+            "datePublished": "Fri, 14 Oct 2016 03:20:53 +0000",
+            "description": "Special international correspondents Calvin and Dee report in with special coverage of the annual Spiel Convention in Essen! On Day 1 they talk Adrenaline, Hatflings, and delicious hot dogs.",
+            "length": "54536439",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/287593591-ding-dent-essen-spiel-day-1.mp3"
+        },
+        {
+            "title": "Episode 29 - Fragile Games",
+            "datePublished": "Wed, 12 Oct 2016 23:12:14 +0000",
+            "description": "Wizardry, dragons, and Mars. Then discussion about fragile games, what are they and how should they be viewed?\n\nThe Dragon & Flagon - 5:30\nArcane Academy - 13:30\nMission: Red Planet - 23:15\nDragoon - 29:05\n\nFragile Games - 42:10",
+            "length": "68171801",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/287394757-ding-dent-episode-29-fragile-games.mp3"
+        },
+        {
+            "title": "Episode 28 - Game Development with Josh Lobkowicz",
+            "datePublished": "Wed, 28 Sep 2016 21:53:24 +0000",
+            "description": "The guys talk scary mansions and some Euros (yes!) before they are joined by Grey Fox Games Head Developer Josh Lobkowicz.\n\nAgamemnon - 3:20\nCitrus - 11:35\nMansions of Madness 2E - 19:25\nMorocco - 30:35\n\nJosh Lobkowicz (Game Development) Interview - 41:15\n\nIf you'd like to get involved in playtesting upcoming titles from Grey Fox Games, send an email to josh@greyfoxgames.com",
+            "length": "77052621",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/285173467-ding-dent-episode-28-game-development-with-josh-lobkowicz.mp3"
+        },
+        {
+            "title": "Episode 27 - Secret Hitler Review",
+            "datePublished": "Thu, 15 Sep 2016 04:24:19 +0000",
+            "description": "Some big industry news, some excellent recent plays, and a look at Secret Hitler.\n\nExcited About - 1:00\nThe Others - 10:40\nHocus - 20:55\nInis - 30:15\nBaseball Highlights - 42:35\nSecret Hitler Review - 53:20",
+            "length": "70894394",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/282984048-ding-dent-episode-27-secret-hitler-review.mp3"
+        },
+        {
+            "title": "Episode 26 - Happy Birthday Ding & Dent!!",
+            "datePublished": "Thu, 01 Sep 2016 11:13:14 +0000",
+            "description": "This special episode marks the one year anniversary of Ding & Dent. Raf and Charlie celebrate by interviewing each other.\n\nExcited about - 1:11\nPandemic: Reign of Cthulhu - 7:00\nGigamic games - 15:45\nStar Trek: Ascendancy - 29:40\nCodenames: Pictures - 44:25\n10 Questions - 54:00\n\nWant some Ding & Dent swag? You can find shirts and more here: bit.ly/dingdentshirts\n\nCheck out our BGG Guild and hop into the discussion here: https://boardgamegeek.com/guild/2576",
+            "length": "83284384",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/280886911-ding-dent-episode-26-happy-birthday-ding-dent.mp3"
+        },
+        {
+            "title": "Episode 25 - GenCon Recap!!",
+            "datePublished": "Wed, 17 Aug 2016 22:15:30 +0000",
+            "description": "The guys catch their breath and finally recover from Gen Con. It's now time to reflect on the convention.",
+            "length": "72115247",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/278716590-ding-dent-episode-25-gencon-recap.mp3"
+        },
+        {
+            "title": "GenCon Night 3",
+            "datePublished": "Sun, 07 Aug 2016 04:57:37 +0000",
+            "description": "The last night of GenCon! Raf talks about some really cool Haba games like Go Cuckoo, and a neat thematic-abstract called Dragoon. Charlie talks about H.E.A.D. Hunters and Secret Hitler!",
+            "length": "22046232",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/277175670-ding-dent-gencon-night-3.mp3"
+        },
+        {
+            "title": "GenCon Night 2",
+            "datePublished": "Sat, 06 Aug 2016 04:32:08 +0000",
+            "description": "Raf & Charlie talk about their favorite plays from Friday at GenCon! Tonight's episode features Captain Sonar, Arcade Academy, Vast the Crystal Caverns, and Cry Havoc!",
+            "length": "20401144",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/277052496-ding-dent-gencon-night-2.mp3"
+        },
+        {
+            "title": "GenCon Night 1",
+            "datePublished": "Fri, 05 Aug 2016 04:13:11 +0000",
+            "description": "Raf and Charlie record \"live\" from GenCon! We talk about 4 of our favorite plays from the first busy day of the 4 best days in gaming.\n\nLegendary Inventors\nGrifters\nInis\nArkham Horror: The Card Game",
+            "length": "25236932",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/276904155-ding-dent-gencon-night-1.mp3"
+        },
+        {
+            "title": "Episode 24 - Labeling Games: Useful or Harmful?",
+            "datePublished": "Wed, 27 Jul 2016 23:26:08 +0000",
+            "description": "Raf and Charlie talk the pitfalls of labeling games party, filler, or an experience.\n\nGen Con (Excited About) - 0:59\n\nFerox - 6:00\nWar Co. - 14:10\nCrazy Karts - 28:20\nScythe - 39:35\n\nLabeling Games: Useful or Harmful? - 48:45\n\n",
+            "length": "70128707",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/275685199-ding-dent-episode-24-labeling-games-useful-or-harmful.mp3"
+        },
+        {
+            "title": "Episode 23 - The Social Contract Of Gaming",
+            "datePublished": "Wed, 13 Jul 2016 22:46:09 +0000",
+            "description": "After discussing the usual, Raf and Charlie take on that murky term \"the social contract\" and how it applies to gaming.\n\nExcited About - 0:43\n\nGuild Ball - 7:40\nZimby Mojo - 16:05\nTicket to Ride - 26:20\nTyrants of the Underdark - 33:00\n\nThe Social Contract Discussion - 45:10",
+            "length": "71579007",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/273556754-ding-dent-episode-23-the-social-contract-of-gaming.mp3"
+        },
+        {
+            "title": "Episode 22 - Cody Miller Interview",
+            "datePublished": "Thu, 30 Jun 2016 04:41:50 +0000",
+            "description": "Raf makes an announcement, Charlie talks Bears, and Cody Miller talks Xia: Legends Of A Drift system.\n\nWhat We're Excited About - 1:04\n\nWhat We've Been Playing Lately\nPandemic - 3:21\nTanks - 9:50\nMonstrous - 21:30\nBear Valley - 28:30\n\nCody Miller Interview - 35:50\n",
+            "length": "69818568",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/271514453-ding-dent-episode-22-cody-miller-interview.mp3"
+        },
+        {
+            "title": "Episode 21 - David Chircop Interview",
+            "datePublished": "Thu, 16 Jun 2016 04:00:15 +0000",
+            "description": "David Chircop drops by and talks with Raf and Charlie about his most recent project, Days of Ire.\n\nExcited About - 0:52\n\nT.I.M.E Stories: Under The Mask - 4:40\nCuba Libre - 9:08\nThe Ravens Of Thri Sahashri - 15:58\nTwilight Imperium 3 - 23:12\n\nDavid Chircop Interview - 33:00",
+            "length": "77254064",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/269328717-ding-dent-episode-21-david-chircop-interview.mp3"
+        },
+        {
+            "title": "Episode 20 - Geekway Games And Animal Facts",
+            "datePublished": "Wed, 01 Jun 2016 22:39:03 +0000",
+            "description": "We're back from Geekway and still recovering. This episode is a full hour of discussing \"What We've Played Lately\".\n\nExcited About - 1:40\n\nTwo Rooms And A Boom - 6:00\nFief - 16:12\nAnimals On Board - 26:10\nWombat Rescue - 31:30\nBlood Rage: Gods Of Asgard - 37:40\n\nIntermission, Written Content - 44:20\n\n6 Nimmt! - 46:40\nWurfel Bohnanza - 51:00\nGiants - 55:03\nCosmic Encounter - 63:38\nMillennium Blades - 72:00\nPrototypes - 75:50\n\n\n\n\n",
+            "length": "86979981",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/267018745-ding-dent-episode-20-geekway-games-and-animal-facts.mp3"
+        },
+        {
+            "title": "Bonus Episode 2 - News At Eleven Playthrough With Jon Gilmour And Charles Wright",
+            "datePublished": "Wed, 25 May 2016 22:59:35 +0000",
+            "description": "Designers Jon Gilmour (Dead of Winter, News@11) and Charles Wright (Ophir) join Raf and Charlie for a live play of News@11.  This was recorded during Geekway 2016.",
+            "length": "18208596",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/265933889-ding-dent-bonus-episode-2-news-at-eleven-playthrough-with-jon-gilmour-and-charles-wright.mp3"
+        },
+        {
+            "title": "Episode 19 - Hybrid Games",
+            "datePublished": "Wed, 18 May 2016 23:46:34 +0000",
+            "description": "Recent plays include Millennium Blades, Mysterium, Krosmaster Quest, and Kodama.  Discussion of hybrid Euro/Thematic designs makes up the main event.\n\nWhat We're Excited About - 1:30\n\nRecent Plays\nMysterium - 3:54\nMillennium Blades - 12:55\nKrosmaster Quest - 24:30\nKodama - 34:25\n\nHybrid Game Discussion - 41:30\n\n\n",
+            "length": "68720164",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/264815282-ding-dent-episode-19-hybrid-games.mp3"
+        },
+        {
+            "title": "Episode 18 - Small Games, COIN Games, And Star Wars Rebellion Review",
+            "datePublished": "Wed, 04 May 2016 21:52:08 +0000",
+            "description": "Raf discusses Tak and his latest COIN love, Charlie goes for lighter fare, and then they both dive headlong into Rebellion for a full review.\n\nWhat we're excited about (Last Friday/Millennium Blades) - 1:53\nTak - 5:24\nCockroach Poker - 13:44\nCheating Moth - 19:00\nLiberty or Death - 22:51\nHostage Negotiator - 34:43\n\nContest Winner Announced - 39:27\n\nStar Wars: Rebellion Review - 40:26\n\n",
+            "length": "68989358",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/262526312-ding-dent-episode-18-small-games-coin-games-and-star-wars-rebellion-review.mp3"
+        },
+        {
+            "title": "Episode 17 - Chris Rowlands And The RPG Episode",
+            "datePublished": "Thu, 21 Apr 2016 04:10:58 +0000",
+            "description": "Raf and Charlie talk recent plays before being joined by NPC Cast host Chris Rowlands to talk RPGs.\n\nRecent Plays\n13 Days: The Cuban Missile Crisis - 1:51\nNinja Camp - 9:16\nFuse - 14:14\nArcadia Quest - 19:53\n\nRPG Discussion - 31: 47\n\n",
+            "length": "77027959",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/260134121-ding-dent-episode-17-chris-rowlands-and-the-rpg-episode.mp3"
+        },
+        {
+            "title": "Episode 16 - Calvin Wong And Forbidden Stars Review",
+            "datePublished": "Wed, 06 Apr 2016 22:17:13 +0000",
+            "description": "Ding & Dent contributor Calvin Wong joins the team for the first segment where the group discusses recent plays.  Our second contest is then revealed before diving into a review of Forbidden Stars.\n\n\"What We've Been Playing Lately\"\nEpic Card Game - 2:38\nAndroid: Netrunner - 8:15\nKingdom Death: Monster - 14:37\nStar Wars: Rebellion - 25:42\nShadowrun Crossfire - 37:36\nT.I.M.E Stories: A Prophecy Of Dragons - 46:06\n\nContest - 53:29\n\nForbidden Stars Review - 54:38\n\nFor discussion check out our BGG guild forums: https://www.boardgamegeek.com/forum/1916021/ding-dent/general ",
+            "length": "76237185",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/257691023-ding-dent-episode-16-calvin-wong-and-forbidden-stars-review.mp3"
+        },
+        {
+            "title": "Episode 15 - Why We Game",
+            "datePublished": "Wed, 23 Mar 2016 22:25:11 +0000",
+            "description": "Description: Raf and Charlie talk a few games as usual and then dive into an introspective segment on why they play games and some of their favorites.\n\nGames Discussed: I'm The Boss, Downfall Of Pompeii, Skull, Forbidden Stars, Eclipse, Suburbia, X-Wing",
+            "length": "56040116",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/254708627-ding-dent-episode-15-why-we-game.mp3"
+        },
+        {
+            "title": "Episode 14 - Pack O Games & Gordon Calleja",
+            "datePublished": "Wed, 09 Mar 2016 23:34:50 +0000",
+            "description": "Gordon Calleja, designer of Posthuman, joins Raf & Charlie for a talk about board game design, video game design, and the challenges of building a game design industry in the country of Malta. They also talk about recent games and review the Pack o Games Set 2 Kickstarter!",
+            "length": "72800297",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/251089524-ding-dent-episode-14-pack-o-games-gordon-calleja.mp3"
+        },
+        {
+            "title": "Episode 13 - Techno Bowl Review And Brent Spivey Interview",
+            "datePublished": "Thu, 25 Feb 2016 00:35:10 +0000",
+            "description": "Raf and Charlie talk some new apocalyptic titles before talking to designer Brent Spivey about his upcoming release Techno Bowl.",
+            "length": "66316094",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/248760801-ding-dent-episode-13-techno-bowl-review-and-brent-spivey-interview.mp3"
+        },
+        {
+            "title": "Bonus Episode 1  - SPOILERS - Rob Daviau Continued",
+            "datePublished": "Thu, 18 Feb 2016 23:28:34 +0000",
+            "description": "In this special bonus release, Raf talks to Rob Daviau about a couple of spoiler-y Pandemic Legacy questions.",
+            "length": "32728467",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/247769777-ding-dent-bonus-episode-1-spoilers-rob-daviau-continued.mp3"
+        },
+        {
+            "title": "Episode 12 - Rob Daviau Interview",
+            "datePublished": "Thu, 11 Feb 2016 04:33:42 +0000",
+            "description": "In this episode, we cut our usual stuff a little short because Rob Daviau, co-designer of Pandemic: Legacy and more stops by to talk about his history as a designer and the past, present, and future of Legacy games. There are NO SPOILERS in this episode.\n\nBGG link for discussion, contains the other links: https://boardgamegeek.com/article/21772514#21772514\n\nVela Cards link for SuperShow: http://www.velacards.com/\n\nTangled Web: http://www.thetangledweb.net/forums/",
+            "length": "73939217",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/246480651-ding-dent-episode-12-rob-daviau-interview.mp3"
+        },
+        {
+            "title": "Episode 11 - Pandemic Legacy with Nate Owens",
+            "datePublished": "Thu, 28 Jan 2016 05:41:16 +0000",
+            "description": "Raf and Charlie talk recent plays before Raf leaves Charlie behind to talk Pandemic Legacy with Review Corner writer Nate Owens.",
+            "length": "68674168",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/244179642-ding-dent-episode-11-pandemic-legacy-with-nate-owens.mp3"
+        },
+        {
+            "title": "Episode 10 - The 2015 Ding & Dent Awards Show",
+            "datePublished": "Thu, 14 Jan 2016 02:35:07 +0000",
+            "description": "Raf and Charlie close out 2015 with a series of Ding & Dent awards for top picks of the year.\n\nThey also launch a new contest to win one of the titles discussed in the episode.",
+            "length": "84269495",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/241864356-ding-dent-episode-10-the-2015-ding-dent-awards-show.mp3"
+        },
+        {
+            "title": "Episode 9 - Craig Cillessen & Clockwork Wars Review",
+            "datePublished": "Wed, 30 Dec 2015 23:30:37 +0000",
+            "description": "Another Review Corner writer joins us, as Craig Cillessen stops by and talks to us about how he combined Imperial Assault and Armada to remake the battle of Endor! After talking about Euros and RPGs, Raf and Charlie review the excellent Clockwork Wars.",
+            "length": "79468822",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/239758197-ding-dent-episode-9-craig-cillessen-clockwork-wars-review.mp3"
+        },
+        {
+            "title": "Episode 8 - Nate Hayden Interview",
+            "datePublished": "Thu, 17 Dec 2015 01:35:59 +0000",
+            "description": "Raf & Charlie talk about some of the good games they've been playing lately, including a solo game, a dexterity game, and 504 which can't really be put into a box. Except the one it comes in, technically. Afterwards, Nate Hayden stops by to talk about the design process for his experiential games like Cave Evil, Psycho Raiders, and Mushroom Eaters.\n\nCave Evil and Warcults - http://www.cave-evil.com/\n\nGames discussed: Detective: City Of Angels, '65: Squad Level Combat In The Jungles Of Vietnam, Rampage, Terror In Meeple City, Airborne Commander, 504, Survive: Space Attack!, Cave Evil, The Mushroom Eaters, Warcults, Psycho Raiders\n",
+            "length": "70422913",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/237910356-ding-dent-episode-8-nate-hayden-interview.mp3"
+        },
+        {
+            "title": "Episode 7 - Ding & Dent's Holiday Gift Guide!",
+            "datePublished": "Wed, 02 Dec 2015 22:57:08 +0000",
+            "description": "The holidays are here and Raf & Charlie have been playing a lot of games. It's a bit of an international episode as Charlie plays a Fallout/Mad Max mashup out of Poland and Raf has a hand in causing a Euro Crisis in a game out of Germany. They wrap the episode up with their first listener suggested segment: a Holiday Gift Giving Guide. They each choose something for a Family Game, Strategy Game, OH MY GOD Game, and the perfect option for your White Elephant or gag gift events.\n\nEuro Crisis link: http://www.doppeldenk-spiele.de/news.php (There is a button to switch to English in their menu)\n\nGames Discussed: Star Wars: Rebellion, WARCULTS, Star Wars: Risk, Euro Crisis, Waste Knights, Legendary: Predator, Rhino Hero, Codenames, Dead of Winter, Specter Ops, Clockwork Wars, X-Wing Miniatures, Loopin' Chewie, and Pie Face",
+            "length": "75094455",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/235811541-ding-dent-episode-7-ding-dents-holiday-gift-guide.mp3"
+        },
+        {
+            "title": "Episode 6 - Pete Ruth, Boardgames As Art, And The Grizzled Review",
+            "datePublished": "Thu, 19 Nov 2015 04:29:06 +0000",
+            "description": "In episode 6 Raf and Charlie talk the new direction of Ding and Dent and about the future.  Pete Ruth, writer from The Review Corner, joins the podcast as a special guest.  Finally, Raf and Charlie discuss board games as art and review 2015's The Grizzled.\n\nGames Discussed: The Grizzled, Dungeons and Dragons 5th Edition Starter, Firestorm Armada, T.I.M.E Stories",
+            "length": "62224258",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/233726653-ding-dent-episode-6-pete-ruth-boardgames-as-art-and-the-grizzled-review.mp3"
+        },
+        {
+            "title": "Episode 5 - Sandy Petersen Interview And Premium Games",
+            "datePublished": "Tue, 03 Nov 2015 00:16:58 +0000",
+            "description": "For the first time (but probably not the last), Raf & Charlie are both excited about the same game! After a brief discussion of recent plays, Sandy Petersen of Cthulhu Wars fame stops by to talk about his games and the rise of big expensive \"Premium Games\". We talk about their place in gaming the role of Kickstarter in bringing them to life. Raf also gives his brief impression of BattleBin, a monthly mystery box product.\n\nFireteam Zero Unboxing - https://www.youtube.com/watch?v=bNY15PST254\n\nBattlebin Unboxing - https://www.youtube.com/watch?v=qlxbVEbV7nc\n\nGames Discussed: Fireteam Zero, Champions of Midgard, Blood Rage, Hyperborea, Cthulhu Wars, Chaos in the Old World.",
+            "length": "50864972",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/231284810-ding-dent-episode-5-sandy-petersen-interview-and-premium-games.mp3"
+        },
+        {
+            "title": "Ep 4 - Asymmetrical Games",
+            "datePublished": "Tue, 20 Oct 2015 11:30:07 +0000",
+            "description": "In this episode, Charlie plays a King of Tokyo Killer and Raf bends the knee before the new Game of Throne Card Game. We then chat about one of our favorite types of games: Asymmetrical Games.\n\nGames discussed: T.I.M.E Stories, Game of Thrones 2.0 card game, Pandemic Legacy, Ultimate Warriorz, Apocalypse Chaos, Forbidden Stars, Cthulhu Wars, Chaos in the Old World, Small World, Netrunner, Fire in the Lake, Robinson Crusoe, Claustrophobia",
+            "length": "55706565",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/229237481-ding-dent-ep-4-asymmetrical-games.mp3"
+        },
+        {
+            "title": "Episode 3 - Playtesting And Jamey Stegmaier Interview",
+            "datePublished": "Tue, 06 Oct 2015 01:26:01 +0000",
+            "description": "In this episode, Raf talks some accessible wargames, Charlie plays Two Rooms & a Boom, they both talk about playtesting board games and Jamey Stegmaier stops by for an interview!\n\nGames discussed: Blood Rage, Spaceteam, Fire in the Lake, Two Rooms & a Boom, Churchill, X-Wing Miniatures Game, Viticulture, Scythe",
+            "length": "71999877",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/227097319-ding-dent-episode-3-playtesting-and-jamey-stegmaier-interview.mp3"
+        },
+        {
+            "title": "Episode 2 - Star Wars Special And Imperial Assault Review",
+            "datePublished": "Mon, 21 Sep 2015 22:12:57 +0000",
+            "description": "The force is strong with our Star Wars Special! Raf and Charlie talk a bit about what they're excited about and have been playing lately before diving head first into the amazing world of Star Wars. They talk about the new \"Force Friday\" releases, FFG's handling of the Star Wars IP, and wrap things up with an in depth review of Imperial Assault.\n\nGames Discussed: More Ca$h 'n More Guns, News@11, Mafia de Cuba, Legacy: Gears of Time, Star Wars Risk, X-Wing: The Miniatures Game, Loopin' Chewie, Imperial Assault",
+            "length": "65578897",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/224950121-ding-dent-episode-2-star-wars-special-and-imperial-assault-review.mp3"
+        },
+        {
+            "title": "Episode 1 - Gateway Games And Jon Gilmour",
+            "datePublished": "Fri, 04 Sep 2015 20:42:26 +0000",
+            "description": "Ding & Dent is a half price boardgaming podcast. In this episode, your hosts Raf & Charlie discuss the games that got them into the hobby, the games they've been playing recently, and interview designer Jon Gilmour. Responsible for last year's breakout hit Dead of Winter, Jon discusses the friendship making philosophy of his new company and upcoming games. We hope you enjoy, and remember, all downloads final. No refunds",
+            "length": "54736899",
+            "sourceUrl": "http://feeds.soundcloud.com/stream/222384880-ding-dent-episode-1-gateway-games-and-jon-gilmour.mp3"
+        }
+    ]
+}

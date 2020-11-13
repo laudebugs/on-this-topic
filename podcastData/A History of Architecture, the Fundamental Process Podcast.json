@@ -1,0 +1,507 @@
+{
+    "artwork": "http://is2.mzstatic.com/image/thumb/Music127/v4/c2/23/f9/c223f9c7-b3a3-05cc-e88a-2da0b416755d/source/100x100bb.jpg",
+    "description": "In this podcast, David Getzin (in sometime collaboration with the new Building Beauty masters course in Naples,) provides the listener with a unique perspective on architectural history and the theory –and practice– of design.",
+    "feedURL": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/LapsusLima_Feed.xml",
+    "podcastURL": "http://www.fundamentalprocess.com",
+    "title": "A History of Architecture, the Fundamental Process Podcast",
+    "episodes": [
+        {
+            "title": "057: With Taylor Ryan about the Future of Design",
+            "datePublished": "Mon, 11 Feb 2019 00:01:00 GMT",
+            "length": "63938968",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/057_Taylor_Ryan_future_of_design.m4a"
+        },
+        {
+            "title": "i24: Member's Preview, Nathalie and David on Corbusier",
+            "datePublished": "Mon, 24 Dec 2018 00:01:00 GMT",
+            "length": "7283107",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/i024s_Corbusier_commentary_members.m4a"
+        },
+        {
+            "title": "056: Sol seu Machina",
+            "datePublished": "Mon, 17 December 2018 11:00:00 GMT",
+            "length": "36015199",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/056_Sol_seu_Machina.m4a"
+        },
+        {
+            "title": "i23: Architect Nathalie Nolan, discussion of Boullee",
+            "datePublished": "Wed, 17 Oct 2018 00:01:00 GMT",
+            "length": "17806103",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/i023_Boullee_commentary.m4a"
+        },
+        {
+            "title": "055: Boullee, The Cenotaph to Newton",
+            "datePublished": "Sat, 29 September 2018 10:15:00 GMT",
+            "length": "82001179",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/055_Boullee.m4a"
+        },
+        {
+            "title": "054: Egypt, p1",
+            "datePublished": "Tue, 31 May 2017 10:15:00 GMT",
+            "length": "61235618",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/054_Egypt_p1.m4a"
+        },
+        {
+            "title": "054a: Egypt; Our Surprpising History",
+            "datePublished": "Wed, 22 March 2017 18:45:00 GMT",
+            "length": "7133796",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/054a_Egypt_a.m4a"
+        },
+        {
+            "title": "053: Taut p3; Ecology of Feeling 2  ",
+            "datePublished": "Sat, 11 March 2017 22:01:00 GMT",
+            "length": "35958175",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/053_Taut_P3_ecology_of_feeling.m4a"
+        },
+        {
+            "title": "i22: Architect Kent Bloomer, interview p2 ",
+            "datePublished": "Tue, 28 Feb 2017 15:01:00 GMT",
+            "length": "70881226",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/i22_int_Kent_Bloomer_p2.m4a"
+        },
+        {
+            "title": "i21: Architect Kent Bloomer, interview ",
+            "datePublished": "Sun, 21 Feb 2017 15:01:00 GMT",
+            "length": "25964016",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/i21_int_Kent_Bloomer.m4a"
+        },
+        {
+            "title": "052: Taut p2; Ecology of Feeling ",
+            "datePublished": "Wed, 08 February 2017 22:01:00 GMT",
+            "length": "40392708",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/052_Taut_P2_ecology_of_feeling.m4a"
+        },
+        {
+            "title": "i19: Maggie Moore Alexander interview ",
+            "datePublished": "Sun, 29 January 2017 15:01:00 GMT",
+            "length": "15329825",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/BB2_Maggie_interview_Building_Beauty.m4a"
+        },
+        {
+            "title": "i18: Sergio Porta interview ",
+            "datePublished": "Sun, 29 January 2017 12:01:00 GMT",
+            "length": "32143623 ",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/BB1_sergio_interview.m4a"
+        },
+        {
+            "title": "051: Taut; The Glass Plastic, p1 ",
+            "datePublished": "Sun, 22 January 2017 22:01:00 GMT",
+            "length": "10211234",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/051_Taut_glass_plastic_p1.m4a"
+        },
+        {
+            "title": "i17, Schumacher's Manifesto",
+            "datePublished": "Mon, 19 December 2016 18:55:00 GMT",
+            "length": "18093735",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/i017_Schumacher.m4a"
+        },
+        {
+            "title": "050: Sullivan; A Philosophy of Man’s Powers, p3",
+            "datePublished": "Mon, 12 December 2016 22:01:00 GMT",
+            "length": "36395997",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/050_Sullivan_A_Philosophy_of_Mans_Powers_p4.m4a"
+        },
+        {
+            "title": "i16 Sample, Rethreading Symmetry",
+            "datePublished": "Mon, 28 November 2016 18:55:00 GMT",
+            "length": "10182882",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/i016s_Rethreading_symmetry.m4a"
+        },
+        {
+            "title": "049: Sullivan; A Philosophy of Man’s Powers, p3",
+            "datePublished": "Tue, 23 November 2016 22:01:00 GMT",
+            "length": "27119957",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/049_Sullivan_A_Philosophy_of_Mans_Powers_p3.m4a"
+        },
+        {
+            "title": "i15, Id Trumps Ego",
+            "datePublished": "Mon, 14 November 2016 22:55:00 GMT",
+            "length": "39155858",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/i15_id_trumps_ego.m4a"
+        },
+        {
+            "title": "i14, Crisis, Touch v. Point",
+            "datePublished": "Mon, 07 November 2016 22:55:00 GMT",
+            "length": "30019965",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/i014_Crisis_TouchvsPoint.m4a"
+        },
+        {
+            "title": "048: Sullivan; A Philosophy of Man’s Powers, p2",
+            "datePublished": "Mon, 07 November 2016 22:01:00 GMT",
+            "length": "41836080",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/048_Sullivan_A_Philosophy_of_Mans_Powers_p2.m4a"
+        },
+        {
+            "title": "i13, Type and Archetype",
+            "datePublished": "Mon, 24 October 2016 18:55:00 GMT",
+            "length": "11528738",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/i013s_Type_and_Archetype.m4a"
+        },
+        {
+            "title": "047: Sullivan; A Philosophy of Man’s Powers, p1",
+            "datePublished": "Tue, 17 October 2016 18:55:00 GMT",
+            "length": "33952081",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/047_Sullivan_A_Philosophy_of_Mans_Powers_p1.m4a"
+        },
+        {
+            "title": "i12, Steve Jobs, Five Years Past",
+            "datePublished": "Mon, 10 October 2016 18:55:00 GMT",
+            "length": "18658050",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/i012s_Steve_5_years.m4a"
+        },
+        {
+            "title": "046: Klee 4; Phenomenology p2",
+            "datePublished": "Wed, 05 October 2016 18:55:00 GMT",
+            "length": "37059551",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/046_Klee_p4_Phenomenology_p2.m4a"
+        },
+        {
+            "title": "i11, Patterns",
+            "datePublished": "Mon, 26 September 2016 18:55:00 GMT",
+            "length": "24442313",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/i011_Patterns.m4a"
+        },
+        {
+            "title": "045: Make America Deflate Again",
+            "datePublished": "Mon, 19 September 2016 18:55:00 GMT",
+            "length": "27581708",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/045_Let_America_Deflate_Again.m4a"
+        },
+        {
+            "title": "i10, From Hell",
+            "datePublished": "Mon, 12 September 2016 18:55:00 GMT",
+            "length": "1920219",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/i010s_from_hell.m4a"
+        },
+        {
+            "title": "044: Klee 3; Phenomenology I",
+            "datePublished": "Tue, 6 Sep 2016 00:01:00 GMT",
+            "length": "29642107",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/044_Klee_p3_Phenomenology_i.m4a"
+        },
+        {
+            "title": "i9, Wright's Meyer May House, a visit",
+            "datePublished": "Wed, 31 August 2016 18:55:00 GMT",
+            "length": "3930295",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/i009s_Wright_Meyer_May.m4a"
+        },
+        {
+            "title": "043: Klee 2; As the World Turns",
+            "datePublished": "Mon, 22 Aug 2016 00:01:00 GMT",
+            "length": "32748094",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/043_Klee_p2_As_the_World_Turns.m4a"
+        },
+        {
+            "title": "i8.5, Induction",
+            "datePublished": "Sun, 14 August 2016 18:55:00 GMT",
+            "length": "26417180",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/i008.5_intermezzo_Induction.m4a"
+        },
+        {
+            "title": "042: Klee 1; Life the Universe and Everything",
+            "datePublished": "Tue, 09 Aug 2016 11:45:00 GMT",
+            "length": "41274528",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/042_Klee_p1_Life_the_Uneverse_and_Everything.m4a"
+        },
+        {
+            "title": "i8, Analogy",
+            "datePublished": "Tue, 02 August 2016 18:55:00 GMT",
+            "length": "27261647",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/i008s_intermezzo_Analogy.m4a"
+        },
+        {
+            "title": "041: Suprematism 7; Layers",
+            "datePublished": "Thu, 21 July 2016 11:45:00 GMT",
+            "length": "73441794",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/041_Suprematism_p7_Layers.m4a"
+        },
+        {
+            "title": "i6, Free Range Intermezzo",
+            "datePublished": "Sat, 02 July 2016 18:55:00 GMT",
+            "length": "74082896",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/i007_Free_range_intermezzo.m4a"
+        },
+        {
+            "title": "040: Suprematism 6; Penultimate Malevich and Brexit Comment",
+            "datePublished": "Tue, 28 June 2016 11:45:00 GMT",
+            "length": "51326728",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/040_Suprematism_p6_%20Penultimate_Malevich_and_Brexit_Comment.m4a"
+        },
+        {
+            "title": "i6, A Primer on Morphology",
+            "datePublished": "Mon, 13 June 2016 11:45:00 GMT",
+            "length": "18547721",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/i006_Morphology.m4a"
+        },
+        {
+            "title": "039: Suprematism 5; Quantum (R)evolution in Art",
+            "datePublished": "Mon, 30 May 2016 11:45:00 GMT",
+            "length": "45963211",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/039_Suprematism_p5_Quantum_(R)evolution_in_Art.m4a"
+        },
+        {
+            "title": "i5, The Pantheon as First Mosque ",
+            "datePublished": "Fri, 20 May 2016 11:45:00 GMT",
+            "length": "10284814",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/i005s_Pantheon.m4a"
+        },
+        {
+            "title": "038: Suprematism 4; The Great Platonic Pole Reversal ",
+            "datePublished": "Mon, 16 May 2016 11:45:00 GMT",
+            "length": "63123419",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/038_Suprematism_p4_The_Great_Pole_Reversal.m4a"
+        },
+        {
+            "title": "Intermezzo 4, Platonic Politics ",
+            "datePublished": "Fri, 6 May 2016 11:45:00 GMT",
+            "length": "34508065",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/i004s_intermezzo_andrew_sullivan.m4a"
+        },
+        {
+            "title": "037: Suprematism 3; Plato Tectonics ",
+            "datePublished": "Mon, 2 May 2016 11:45:00 GMT",
+            "length": "63123419",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/037_Suprematism_p3_Malevich_Platonics.m4a"
+        },
+        {
+            "title": "i3, The Morphological Correlative",
+            "datePublished": "Fri, 22 April 2016 8:45:00 GMT",
+            "length": "2850798",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/i003s_intermezzo_sample.m4a"
+        },
+        {
+            "title": "036: Suprematism 2; Malevich’s Foundations",
+            "datePublished": "Monday, 18 April 2016 11:45:00 GMT",
+            "length": "40941636",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/036_Suprematism_p2_Malevich_Foundations.m4a"
+        },
+        {
+            "title": "i2, Development of Number-Feeling",
+            "datePublished": "Sun, 10 April 2016 8:45:00 GMT",
+            "length": "7233566",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/i002s_intermezzo_sample.m4a"
+        },
+        {
+            "title": "035: Suprematism 1; Malevich’s Parametrics",
+            "datePublished": "Tuesday, 5 April 2016 11:45:00 GMT",
+            "length": "51648741",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/035_Suprematism_p1_Malevich_Parametrics.m4a"
+        },
+        {
+            "title": "i1, Past the age of Mechanical Reproduction",
+            "datePublished": "Fri, 25 March 2016 8:45:00 GMT",
+            "length": "5536121",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/i001s_intermezzo_sample.m4a"
+        },
+        {
+            "title": "034: Benjamin 4; “Art in the Age of Mechanical Reproduction”",
+            "datePublished": "Mon, 21 March 2016 8:45:00 GMT",
+            "length": "94490075",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/034_Benjamin_Art_and_Machine_4.m4a"
+        },
+        {
+            "title": "033: Benjamin 3; “Art in the Age of Mechanical Reproduction”",
+            "datePublished": "Mon, 07 March 2016 8:45:00 GMT",
+            "length": "50089122",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/033_Benjamin_Art_and_Machine_3.m4a"
+        },
+        {
+            "title": "032: Benjamin 2; “Art in the Age of Mechanical Reproduction”",
+            "datePublished": "Mon, 21 February 2016 8:45:00 GMT",
+            "length": "45027909",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/032_Benjamin_Art_and_Machine_2.m4a"
+        },
+        {
+            "title": "The Future of Lapsus Lima, Theory and Practice",
+            "datePublished": "Mon, 15 February 2016 8:45:00 GMT",
+            "length": "34654707",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/031.P_Patreon_and_Future.m4a"
+        },
+        {
+            "title": "031: Benjamin 1; “Art in the Age of Mechanical Reproduction”",
+            "datePublished": "Tue, 02 February 2016 8:45:00 GMT",
+            "length": "75559679",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/031_Benjamin_Art_and_Machine_I.m4a"
+        },
+        {
+            "title": "030: Wright 3; \"Machinery, Materials and Men\" ",
+            "datePublished": "Mon, 18 January 2016 8:45:00 GMT",
+            "length": "53942604",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/030_Wright_Machinery_Materials_and_Men_III.m4a"
+        },
+        {
+            "title": "029: Wright 3; \"Machinery, Materials and Men\"",
+            "datePublished": "Wed, 06 January 2016 8:45:00 GMT",
+            "length": "57026147",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/029_Wright_Machinery_Materials_and_Men_II.m4a"
+        },
+        {
+            "title": "028: Wright 1; \"Machinery, Materials and Men\"",
+            "datePublished": "Mon, 21 December 2015 8:45:00 GMT",
+            "length": "40362885",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/028_Wright_Machinery_Materials_and_Men_I.m4a"
+        },
+        {
+            "title": "027: Beyond Two Houses 5; Walter Gropius and the Bauhaus, Part 19 - Expressionism, XIV ",
+            "datePublished": "Mon, 23 November 2015 8:45:00 GMT",
+            "length": "43608460",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/027_Two_Houses_V_Walter_Gropius_and_the_Bauhaus_Part_19-Expressionism_XIV.m4a"
+        },
+        {
+            "title": "026: \"Diamond,\" Two Houses 4; Walter Gropius and the Bauhaus, Part 18 - Expressionism, XIII ",
+            "datePublished": "Wed, 11 November 2015 8:45:00 GMT",
+            "length": "31310861",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/026_Two_Houses_IV_Walter_Gropius_and_the_Bauhaus_Part_18-Expressionism_XIII.m4a"
+        },
+        {
+            "title": "025: \"Siedlung Color,\" Two Houses 3; Walter Gropius and the Bauhaus, Part 17 - Expressionism, XII ",
+            "datePublished": "Tue, 26 October 2015 8:45:00 GMT",
+            "length": "40477804",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/025_Two_Houses_III_Walter_Gropius_and_the_Bauhaus_Part_17-Expressionism_XII.m4a"
+        },
+        {
+            "title": "024: Two Houses 2; Walter Gropius and the Bauhaus, Part 16 - Expressionism, XI ",
+            "datePublished": "Tue, 13 October 2015 8:45:00 GMT",
+            "length": "45077200",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/024_Two_Houses_II_Walter_Gropius_and_the_Bauhaus_Part_16-Expressionism_XI.m4a"
+        },
+        {
+            "title": "023: Two Houses 1; Walter Gropius and the Bauhaus, Part 15 - Expressionism, X ",
+            "datePublished": "Tue, 29 September 2015 8:45:00 GMT",
+            "length": "45077200",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/023_Two_Houses_I_Walter_Gropius_and_the_Bauhaus_Part_15-Expressionism_X.m4a"
+        },
+        {
+            "title": "022: Kandinsky 4; Walter Gropius and the Bauhaus, Part 14 - Expressionism, IX ",
+            "datePublished": "Mon, 14 September 2015 8:45:00 GMT",
+            "length": "51500792",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/022_Kandinsky_IV_Walter_Gropius_and_the_Bauhaus_Part_14-Expressionism_IX.m4a"
+        },
+        {
+            "title": "021: Kandinsky 3; Walter Gropius and the Bauhaus, Part 13 - Expressionism, VIII ",
+            "datePublished": "Tue, 031 August 2015 8:45:00 GMT",
+            "length": "42577396",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/021_Kandinsky_III_Walter_Gropius_and_the_Bauhaus_Part_13-Expressionism_VIII.m4a"
+        },
+        {
+            "title": "020: Kandinsky 2; Walter Gropius and the Bauhaus, Part 12 - Expressionism, VII ",
+            "datePublished": "Tue, 018 August 2015 8:45:00 GMT",
+            "length": "94251370",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/020_Kandinsky_II_Walter_Gropius_and_the_Bauhaus_Part_12-Expressionism_VII.m4a"
+        },
+        {
+            "title": "019: Kandinsky 1; Walter Gropius and the Bauhaus, Part 11 - Expressionism, VI ",
+            "datePublished": "Mon, 04 August 2015 8:45:00 GMT",
+            "length": "32513685",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/019_Walter_Gropius_and_the_Bauhaus_Part_11-Expressionism_VI.m4a"
+        },
+        {
+            "title": "018: Itten 3; Walter Gropius and the Bauhaus, Part 10 - Expressionism, V",
+            "datePublished": "Mon, 20 July 2015 8:45:00 GMT",
+            "length": "51055733",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/018_Walter_Gropius_and_the_Bauhaus_Part_10-Expressionism_V.m4a"
+        },
+        {
+            "title": "017: Itten 2; Walter Gropius and the Bauhaus, Part 9 - Expressionism, IV",
+            "datePublished": "Mon, 06 July 2015 8:45:00 GMT",
+            "length": "39090362",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/017_Walter_Gropius_and_the_Bauhaus_Part_9-Expressionism_IV.m4a"
+        },
+        {
+            "title": "016: Itten; Walter Gropius and the Bauhaus, Part 8 - Expressionism, III",
+            "datePublished": "Mon, 22 June 2015 8:45:00 GMT",
+            "length": "51165249",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/016_Walter_Gropius_and_the_Bauhaus_Part_8-Expressionism_III.m4a"
+        },
+        {
+            "title": "015: Feininger 2; Walter Gropius and the Bauhaus, Part 7 - Expressionism, II",
+            "datePublished": "Mon, 08 June 2015 8:45:00 GMT",
+            "length": "53324967",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/015_Walter_Gropius_and_the_Bauhaus_Part_7-Expressionism_II.m4a"
+        },
+        {
+            "title": "014: Feininger 1; Walter Gropius and the Bauhaus, Part 6 - Expressionism, I",
+            "datePublished": "Mon, 25 May 2015 8:45:00 GMT",
+            "length": "54435176",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/014_Walter_Gropius_and_the_Bauhaus_Part_6-Expressionism_I.m4a"
+        },
+        {
+            "title": "013: Schwitters; Walter Gropius and the Bauhaus, Part 5",
+            "datePublished": "Mon, 11 May 2015 8:45:00 GMT",
+            "length": "57052904",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/013_Walter_Gropius_and_the_Bauhaus_Part_5-Merz.m4a"
+        },
+        {
+            "title": "012: Dada 2; Walter Gropius and the Bauhaus, Part 4",
+            "datePublished": "Mon, 13 Apr 2015 18:45:00 GMT",
+            "length": "57052904",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/012_Walter_Gropius_and_the_Bauhaus_Part_4-Dada_II.m4a"
+        },
+        {
+            "title": "011: Dada 1; Walter Gropius and the Bauhaus, Part 3",
+            "datePublished": "Mon, 06 Apr 2015 18:45:00 GMT",
+            "length": "16575673",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/011_Walter_Gropius_and_the_Bauhaus_Part_3-Dada_I.m4a"
+        },
+        {
+            "title": "010: Arbeitsrat für Kunst; Walter Gropius and the Bauhaus, Part 2",
+            "datePublished": "Mon, 29 Mar 2015 18:45:00 GMT",
+            "length": "38774063",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/11_Arbeitsrat_fuer_Kunst.m4a"
+        },
+        {
+            "title": "009: Walter Gropius and the Bauhaus, Part 1",
+            "datePublished": "Mon, 23 Mar 2015 7:01:00 GMT",
+            "length": "31454686",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/10_The_Bauhaus_Part_One.m4a"
+        },
+        {
+            "title": "008: Henry van de Velde",
+            "datePublished": "Mon, 16 Mar 2015 7:01:00 GMT",
+            "length": "31748769",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/9_Henry_van_de_Velde.m4a"
+        },
+        {
+            "title": "007: Hermann Muthesius 3",
+            "datePublished": "Mon, 09 Mar 2015 7:01:00 GMT",
+            "length": "42178907",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/8_Hermann_Muthesius_Part_Three.m4a"
+        },
+        {
+            "title": "006: Hermann Muthesius 2",
+            "datePublished": "Mon, 02 Mar 2015 7:01:00 GMT",
+            "length": "45750211",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/7_Hermann_Muthesius_Part_Two.m4a"
+        },
+        {
+            "title": "005: Hermann Muthesius 1",
+            "datePublished": "Mon, 16 Feb 2015 7:01:00 GMT",
+            "length": "38837729",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/5_Hermann_Muthesius_Part_One.m4a"
+        },
+        {
+            "title": "004: Adolf Loos 2",
+            "datePublished": "Mon, 09 Feb 2015 7:01:00 GMT",
+            "length": "52540604",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/4_Adolf_Loos_Part_Two.m4a"
+        },
+        {
+            "title": "003: Adolf Loos 1",
+            "datePublished": "Mon, 02 Feb 2015 7:01:00 GMT",
+            "length": "32198750",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/3_Adolf_Loos_Part_One.m4a"
+        },
+        {
+            "title": "002: Louis Sullivan 1",
+            "datePublished": "Mon, 26 Jan 2015 7:01:00 GMT",
+            "length": "35992956",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/1_Louis_Sullivan_Part_Two.m4a"
+        },
+        {
+            "title": "001: Louis Sullivan 1",
+            "datePublished": "Sun, 18 Jan 2015 13:01:00 GMT",
+            "length": "21206020",
+            "sourceUrl": "http://www.buildingbeauty.net/fp_podcast/LapsusPodcast/1_Louis_Sullivan_Part_One.m4a"
+        }
+    ]
+}

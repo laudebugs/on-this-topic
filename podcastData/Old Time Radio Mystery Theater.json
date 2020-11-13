@@ -1,0 +1,534 @@
+{
+    "artwork": "http://is4.mzstatic.com/image/thumb/Music4/v4/fa/b9/ac/fab9ac5a-458a-4f08-f4e3-ba0c231212ec/source/100x100bb.jpg",
+    "description": "Enjoy the fun and excitement of listening to thrilling Old Time Radio mystery shows. Experience a professional cast of actors, great scripts and thrilling suspense. Please visit our website (MysteryShows.com) for more great shows like these. If you like this podcast, you'll love our Old Time Radio file sharing club. 48,000 shows in .mp3 format currently available for download. All genres available. If you enjoy this podcast, please rate it on iTunes. Thanks!",
+    "feedURL": "http://www.mysteryshows.com/Podcasts/Mystery-Shows-Feed.xml",
+    "podcastURL": "http://www.mysteryshows.com/",
+    "title": "Old Time Radio Mystery Theater",
+    "episodes": [
+        {
+            "title": "CBS Radio Mystery Theater - 0017 - A Very Old Man",
+            "datePublished": "Wed, 01 Jan 2014 04:15:25 CST",
+            "description": "An old man can see the future and even relieve physical pain with a simple touch.\n",
+            "length": "10661110",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/CBS-Radio-Mystery-Theater_74-01-22_0017_A-Very-Old-Man.mp3"
+        },
+        {
+            "title": "CBS Radio Mystery Theater - 0016 - Dead For A Dollar",
+            "datePublished": "Sat, 30 Nov 2013 11:19:35 CST",
+            "description": "Two men who were cheated, seek revenge. Unbeknownst to them, someone already beat them to it.\n",
+            "length": "12797407",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/CBS-Radio-Mystery-Theater_74-01-21_0016_Dead-For-A-Dollar.mp3"
+        },
+        {
+            "title": "CBS Radio Mystery Theater - 0015 - The Chinaman Button",
+            "datePublished": "Wed, 06 Nov 2013 10:22:15 CST",
+            "description": "A man in financial trouble is offered the chance to make a fortune for an anonymous murder.\n",
+            "length": "10543773",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/CBS_Radio_Mystery_Theater_74-01-20_0015_The-Chinaman-Button.mp3"
+        },
+        {
+            "title": "CBS Radio Mystery Theater - 0014 - The Girl Who Found Things",
+            "datePublished": "Mon, 07 Oct 2013 14:34:43 CST",
+            "description": "A young criminal is taken by a couple who discovers her talent for finding lost things - including dead bodies.\n",
+            "length": "10653598",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/CBS_Radio_Mystery_Theater_74-01-19_0014_The_Girl_Who_Found_Things.mp3"
+        },
+        {
+            "title": "CBS Radio Mystery Theater - 0013 - A Ring Of Roses",
+            "datePublished": "Sun, 16 Jun 2013 18:38:33 CST",
+            "description": "A trip to the country to visit a friend turns into a nightmare as a couple comes across a small girl being whipped by a man. It's only the beginning of a journey back into an old family curse and a murder - all wrapped up in a ring.\n",
+            "length": "10374600",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/CBS_Radio_Mystery_Theater_74-01-18_0013_A-Ring-Of-Roses.mp3"
+        },
+        {
+            "title": "Lights Out - Bon Voyage",
+            "datePublished": "Sat, 25 May 2013 15:32:24 CST",
+            "description": "Two elderly women go on a cruise to get away from it all. It get a little strange when they find out that no one else is aboard.\n",
+            "length": "6158116",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/LO_380622_Bon_Voyage.mp3"
+        },
+        {
+            "title": "The Whistler - Blind Impulse",
+            "datePublished": "Sat, 25 May 2013 14:30:24 CST",
+            "description": "Coming home late one night, a man finds parked in the front of the garage a getaway car with the driver dead and a satchel containing fifty thousand dollars.\n",
+            "length": "7007707",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/Whistler_461202_e239_Blind_Impulse.mp3"
+        },
+        {
+            "title": "Inner Sanctum - Mark My Grave",
+            "datePublished": "Sat, 25 May 2013 14:10:22 CST",
+            "description": "A reporter heads to a nearly abandoned town to investigate the recent disappearance of a couple.\n",
+            "length": "1824340",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/Inner_Sanctum_Mysteries_49-01-17_405_Mark-My-Grave.mp3"
+        },
+        {
+            "title": "Suspense - Beware The Quiet Man",
+            "datePublished": "Sun, 05 May 2013 11:12:12 CST",
+            "description": "A woman believes that her mild-mannered husband suspects her infidelity and plans to kill her for it.\n",
+            "length": "5228696",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/Suspense_48-08-12_302_Beware-The-Quiet-Man.mp3"
+        },
+        {
+            "title": "CBS Radio Mystery Theater - 0012 - You Can Die Again",
+            "datePublished": "Sat, 04 May 2013 11:12:12 CST",
+            "description": "A man is convinced that he murdered his wife. He is also convinced that he has been having an affair with another woman. However, he can't convince a police detecitve of either.\n",
+            "length": "10037100",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/CBS-Radio-Mystery-Theater_74-01-17_0012_You-Can-Die-Again.mp3"
+        },
+        {
+            "title": "Escape- The Dark Wall",
+            "datePublished": "Sun, 28 Apr 2013 15:12:352 CST",
+            "description": "A man must take his schizophrenic wife across the high Pyrenees to get her to the hospital, but her delusions persuade the locals on the way that he is a threat to her life.\n",
+            "length": "7049608",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/Escape_540701_229_The_Dark_Wall.mp3"
+        },
+        {
+            "title": "Suspense - Catch Me If You Can",
+            "datePublished": "Mon, 01 Apr 2013 12:20:02 CST",
+            "description": "While staying at a mountain resort during the off-season, a woman plans to kill her husband. Some guests arrive that complicate her plans. Starring Jane Wyman.\n",
+            "length": "6976638",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/Suspense_49-02-17_328_Catch-Me-If-You-Can.mp3"
+        },
+        {
+            "title": "Suspense - Catch Me If You Can",
+            "datePublished": "Mon, 01 Apr 2013 12:20:02 CST",
+            "description": "While staying at a mountain resort during the off-season, a woman plans to kill her husband. Some guests arrive that complicate her plans. Starring Jane Wyman.\n",
+            "length": "6976638",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/Suspense_49-02-17_328_Catch-Me-If-You-Can.mp3"
+        },
+        {
+            "title": "CBS Radio Mystery Theater - Arctic Encounter",
+            "datePublished": "Sun, 31 Mar 2013 16:39:09 CST",
+            "description": "Two American pilots on an Arctic patrol mission sight a downed Soviet aircraft. Suddenly their own plane mysteriously loses power and they too are forced down onto the ice. Just who or what is responsible?",
+            "length": "10163516",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/CBS_Radio_Mystery_Theater_78-05-26_0840_Arctic-Encounter.mp3"
+        },
+        {
+            "title": "Suspense - The Mystery of the Marie Celeste",
+            "datePublished": "Sat, 16 Mar 2013 11:44:19 CST",
+            "description": "A fictional account of what might have happened to the crew of the Marie Celeste on her final voyage as told by a stowaway.\n",
+            "length": "5370200",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/Suspense_53-06-08_516_The-Mystery-Of-The-Marie-Celeste.mp3"
+        },
+        {
+            "title": "The Mysterious Traveler - Behind the Locked Door",
+            "datePublished": "Sat, 16 Mar 2013 11:29:29 CST",
+            "description": "Two archaeologists go on an expedition to the Vermillion Cliffs of Arizona seeking to uncover ancient Aztec artifacts. They instead, find a cave containing something bizarre and deadly.\n",
+            "length": "3266318",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/The_Mysterious_Traveler_51-11-06_329_Behind-The-Locked-Door.mp3"
+        },
+        {
+            "title": "Suspense - Backseat Driver",
+            "datePublished": "Sun, 10 Feb 2013 17:36:23 CST",
+            "description": "Fibber McGee and Molly appear on Suspense as a couple with a killer riding in the backseat of their car.\n",
+            "length": "3253870",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/Suspense_49-02-03_326_Backseat-Driver.mp3"
+        },
+        {
+            "title": "Inner Sanctum - Detour to Terror",
+            "datePublished": "Sat, 02 Feb 2013 09:39:33 CST",
+            "description": "One his way to Hurricane Cove during a storm, a woman's brother get a premonition of danger. Can he save his sister in time?\n",
+            "length": "2086631",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/Inner_Sanctum_Mysteries_46-05-21_272_Detour-To-Terror.mp3"
+        },
+        {
+            "title": "CBS Radio Mystery Theater - 0011 - Accounts Receivable",
+            "datePublished": "Sat, 26 Jan 2013 10:11:19 CST",
+            "description": "A man trying to raise money for his failing business brings his recently paroled father home from the hospital.\n",
+            "length": "10365026",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/CBS-Radio-Mystery-Theater_74-01-16_0011_Accounts_Receivable.mp3"
+        },
+        {
+            "title": "CBS Radio Mystery Theater - 0010 - The Resident",
+            "datePublished": "Sat, 19 Jan 2013 10:11:19 CST",
+            "description": "After retiring, A woman moves from the city to the country and is tormented by a young woman and her cat.\n",
+            "length": "10096132",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/CBS-Radio-Mystery-Theater_74-01-15_0010_The_Resident.mp3"
+        },
+        {
+            "title": "CBS Radio Mystery Theater - 0009 - Death Rides A Stallion",
+            "datePublished": "Mon, 07 Jan 2013 13:26:12 CST",
+            "description": "A playboy is tormented be the ghost of a former girlfriend that died in a horse riding accident.\n",
+            "length": "10221851",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/CBS-Radio-Mystery-Theater_74-01-14_0009_Death-Rides-A-Stallion.mp3"
+        },
+        {
+            "title": "CBS Radio Mystery Theater - 0008 - Cold Storage",
+            "datePublished": "Sat, 15 Dec 2012 11:25:52 CST",
+            "description": "A man's plans to inherit his mother's house and wealth are thwarted when he finds out she is not actually dead.\n",
+            "length": "10340928",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/CBS-Radio-Mystery-Theater_74-01-13_0008_Cold-Storage.mp3"
+        },
+        {
+            "title": "CBS Radio Mystery Theater - 0007 - I Warn You Three Times",
+            "datePublished": "Sun, 10 Dec 2012 09:15:42 CST",
+            "description": "During a snown storm, a woman's husband gets out of the car to clean off the windshield and suddenly disappears.\n",
+            "length": "10357361",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/CBS-Radio-Mystery-Theater_0007_I_warn_you_three_times.mp3"
+        },
+        {
+            "title": "The Whistler - Deadly Rumor",
+            "datePublished": "Sat, 01 Dec 2012 10:05:18 CST",
+            "description": "An engrossing story about a nurse who starts a rumor about her former employer, hoping for revenge. Be careful what you wish for, you might get it.\n",
+            "length": "6671474",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/Whistler_500917_e436_Deadly_Rumor.mp3"
+        },
+        {
+            "title": "CBS Radio Mystery Theater - 0006 - Honeymoon With Death",
+            "datePublished": "Sun, 25 Nov 2012 11:17:22 CST",
+            "description": "A woman just coming home from her honeymoon discovers her new husband has vanished. Her sister insists that the entire marriage was nothing but a dream. She enlists the aid of the police to prove that her husband was actually murdered.\n",
+            "length": "10703023",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/CBS-Radio-Mystery-Theater_74-01-11_(0006)_Honeymoon_With_Death.mp3"
+        },
+        {
+            "title": "Inner Sanctum - Pattern For Fear",
+            "datePublished": "Sat, 10 Nov 2012 11:27:18 CST",
+            "description": "An innocent waiter's life is turned upside down when he overhears a plot to commit murder.\n",
+            "length": "5994765",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/Inner_Sanctum_Mysteries_49-07-04_429_Pattern-For-Fear.mp3"
+        },
+        {
+            "title": "CBS Radio Mystery Theater - 0005 - No Hiding Place",
+            "datePublished": "Sat, 04 Nov 2012 11:27:18 CST",
+            "description": "Just when he is about to be made CEO of his father-in-law's company, a man is blackmailed for a horrible deed in his past.\n",
+            "length": "12457984",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/CBSRMT_0005_No_hiding_place.mp3"
+        },
+        {
+            "title": "Nightfall - The Room",
+            "datePublished": "Sat, 27 Oct 2012 11:21:33 CST",
+            "description": "A wealthy widow's offers money to spend a night locked in a haunted yellow room in the mansion. Despite the fact that previous volunteers have all gone insane.\n",
+            "length": "6725198",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/Nightfall-Episode031-The Room.mp3"
+        },
+        {
+            "title": "CBS Radio Mystery Theater - 0004 - The Lost Dog",
+            "datePublished": "Sat, 20 Oct 2012 10:53:10 CST",
+            "description": "A mean husband tries to make life miserable for his wife who is deathly afraid of dogs.\n",
+            "length": "9881466",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/CBSRMT_0004_Lost_dog.mp3"
+        },
+        {
+            "title": "CBS Radio Mystery Theater - 0003 - The Bullet",
+            "datePublished": "Sat, 13 Oct 2012 10:32:27 CST",
+            "description": "In order to set things right, a man who is accidently killed in combat is sent back to earth to trade places with the victim.\n",
+            "length": "9711186",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/CBS-Radio-Mystery-Theater_74-01-08_0003_The_Bullet.mp3"
+        },
+        {
+            "title": "Suspense - Sleep is for Children",
+            "datePublished": "Sat, 06 Oct 2012 11:53:06 CST",
+            "description": "A kind, old egg farmer begins to feels the pressure of his small town becoming a blossoming community - so he begins to murder the town's women.\n",
+            "length": "4343098",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/Suspense_60-03-06_843_Sleep-Is-For-Children.mp3"
+        },
+        {
+            "title": "CBS Radio Mystery Theater - 0002 - Return Of The Moresbys",
+            "datePublished": "Sat, 06 Oct 2012 11:26:09 CST",
+            "description": "An angry man kills his wife after he discovers she has given all their money away. He believes she has come back to life as cat to seek her revenge.\n",
+            "length": "10095604",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/CBSRMT_0002_Return_of_the_moresbys.mp3"
+        },
+        {
+            "title": "CBS Radio Mystery Theater - 0001 - The Old Ones Are Hard to Kill",
+            "datePublished": "Sat, 29 Sep 2012 05:05:50 CST",
+            "description": "An old woman takes in a mysterious border who is very sick. While he is dying, the stranger makes an incredible deathbed confession that brings danger and trouble into the house.\n",
+            "length": "9869161",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/CBS-Radio-Mystery-Theater_74-01-06_0001_The_Old_Ones_Are_Hard_To_Kill.mp3"
+        },
+        {
+            "title": "CBS Radio Mystery Theater - You're Better Off Guilty",
+            "datePublished": "Sat, 22 Sep 2012 06:07:27 CST",
+            "description": "Pedestrian clerk questioned for murder of a movie star becomes Mr. Popular - until the real murderer steps forward. One of the more humorous CBSRMT's. \n",
+            "length": "10209300",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/CBS-Radio-Mystery-Theater_79-09-19_1014_Youre_Better_Off_Guilty.mp3"
+        },
+        {
+            "title": "Escape - A Shipment of Mute Fate",
+            "datePublished": "Sat, 04 Aug 2012 05:12:07 CST",
+            "description": "A hunter persuades a ship's captain to transport a very deadly snake. These episodes are chocked full of suspense. \n",
+            "length": "5858184",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/Escape_471015_010_A_Shipment_Of_Mute_Fate.mp3"
+        },
+        {
+            "title": "Suspense - A Friend to Alexander",
+            "datePublished": "Sun, 08 July 2012 07:12:01 CST",
+            "description": "A man has dreams of his friendship with Alexander Hamilton, and of his upcoming duel with Aaron Burr.\n",
+            "length": "5212160",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/Suspense_43-08-03_(052)_A_Friend_To_Alexander.mp3"
+        },
+        {
+            "title": "Escape - A Diamond As Big As The Ritz",
+            "datePublished": "Sat, 12 May 2012 11:45:15 CST",
+            "description": "A very rich and secretive family will go to any length to protect their wealth and giant diamond.\n",
+            "length": "7053312",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/Escape_470721_003_A_Diamond_As_Big_As_The_Ritz.mp3"
+        },
+        {
+            "title": "Suspense - Murder in G Flat",
+            "datePublished": "Sat, 31 Mar 2012 14:20:10 CST",
+            "description": "Jack Benny stars in this non-comedic role as a piano tuner who accidentally gets the wrong bag, a bag full of $25,000.\n",
+            "length": "5355520",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/Suspense_51-04-05_(423)_Murder_In_G_Flat.mp3"
+        },
+        {
+            "title": "Suspense - The Windy City Six",
+            "datePublished": "Wed, 09 Mar 2011 08:26:30 CST",
+            "description": "Fred MacMurray stars as a member of a band that is basically kidnapped and forced to play for a gang of hoodlums.\n",
+            "length": "4415488",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/Suspense_51-02-08_415_The_Windy_City_Six.mp3"
+        },
+        {
+            "title": "This is Your FBI -\"War Frauds - Andrew Rockland War Profiteer",
+            "datePublished": "Mon, 03 Jan 2011 012:31:50 CST",
+            "description": "Corrupt war plant owners, who use cheap materials and shortcuts to make grenades, become the focus of suspicion for the FBI.",
+            "length": "5252096",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/45-05-11-This-Is-Your-FBI-006-War-Frauds.mp3"
+        },
+        {
+            "title": "Broadway is My Beat - John Perry Murder Case",
+            "datePublished": "Thu, 11 Nov 2010 08:32:10 CST",
+            "description": "Troubled male teen serving time for destroying a pet shop has an even more troubled girlfriend.",
+            "length": "7218176",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/Broadway_Is_My_Beat_53-02-28_154_The_John_Perry_Murder_Case.mp3"
+        },
+        {
+            "title": "Molle Mystery Theater - Killer Come Back To Me",
+            "datePublished": "Tue, 14 Sep 2010 05:19:55 CST",
+            "description": "The ultimate femme fatale radio noir; gun moll forces green thief to become a replica of a former gang leader who was her old boyfriend. Bizarre and unique story, extremely well done.",
+            "length": "7200768",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/Molle_Mystery_Theater_46-05-17_123_Killer-Come-Back-To-Me.mp3"
+        },
+        {
+            "title": "Inner Sanctum Mysteries - Fog",
+            "datePublished": "Wed, 23 Jun 2010 07:17:31 CST",
+            "description": "A thick fog rolling in, the bridge is out. Why is a man's dead wife calling him on the phone?\n",
+            "length": "5913968",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/Inner_Sanctum_Mysteries_41-04-20_016_Fog.mp3"
+        },
+        {
+            "title": "The Adventures Of Sam Spade - The Shot In The Dark Caper",
+            "datePublished": "Fri, 11 Mar 2010 07:17:31 CST",
+            "description": "Someone takes a picture and sees a hand with a gun sticking out the window. Can Sam figure it out before someone gets killed.\n",
+            "length": "6898688",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/The-Adventures-Of-Sam-Spade_51-02-23_236_The-Shot-in-the-Dark-Caper.mp3"
+        },
+        {
+            "title": "Lux Radio Theater - The Day The Earth Stood Still",
+            "datePublished": "Sun, 10 Jan 2010 23:12:14 CST",
+            "description": "A strange visitor and his robot land on earth with an important message for all mankind.\n",
+            "length": "8580096",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/Lux-Radio-Theater_54-01-04_862_The-Day-The-Earth-Stood-Still.mp3"
+        },
+        {
+            "title": "Suspense - Report From A Dead Planet",
+            "datePublished": "Tue, 01 Nov 2009 23:12:14 CST",
+            "description": "What kind of planet is this? Where is everyone? Explorers discover a strange planet.\n",
+            "length": "1331200",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/Suspense_600710_861_Report-From-A-Dead-Planet.mp3"
+        },
+        {
+            "title": "CBS Radio Mystery Theater - 0075 - Men without Mouths",
+            "datePublished": "Wed, 30 Sep 2009 22:17:21 CST",
+            "description": "A mobster who had adopted the daughter of a dead compatriot finds as he is getting older that he keeps on seeing men without mouths everywhere.\n",
+            "length": "12286976",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/CBS-Radio-Mystery-Theater_74-04-16_0075_Men-Without-Mouths.mp3"
+        },
+        {
+            "title": "CBS Radio Mystery Theater - 0558 - How to Kill Rudy",
+            "datePublished": "Wed, 12 Aug 2009 20:11:12 CST",
+            "description": "Rudy is just an average joe who loves a good murder mystery written by crime novelist Mace Hacker. Rudy notices that all of Mace Hackers stories seem to take place in reality shortly after the books have been written. When he learns of a book in the series he had never read, Rudy obtains a copy only to find what appears to be a forecast of his future. Is life imitating art or is Rudy just going mad?\n",
+            "length": "1090560",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/CBS-Radio-Mystery-Theater_76-12-02_0558_How-To-Kill-Rudy.mp3"
+        },
+        {
+            "title": "The Whistler - The Perfect Alibi",
+            "datePublished": "Thurs, 18 Jun 2009 21:16:13 CST",
+            "description": "A man's attempt to get his woman out of blackmail by killing her blackmailer and suppling himself with a perfect alibi...which in typical Whistler fashion goes horribly awry.\n",
+            "length": "6093824",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/Whistler_490612_e370_Perfect_Alibi.mp3"
+        },
+        {
+            "title": "The Shadow - Temple bells of Nebum ",
+            "datePublished": "Sat, 16 May 2009 22:12:26 CST",
+            "description": "The shadow goes up against a group selling drugs, one of which (a woman of india) holds the key to exposing the secrets of The Shadow. Will the Shadow bring the drug sellers to justice, or will the Shadow fall into shadow?\n",
+            "length": "1883136",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/The-Shadow_371024_091_The-Temple-Bells-Of-Neban.mp3"
+        },
+        {
+            "title": "Rocky Jordan - Gold Fever",
+            "datePublished": "Sat, 25 April 2009 18:18:21 CST",
+            "description": "A mysterious phone call leads Rocky to an old friend who's been shot. There's a gold mine up for grabs and people will kill to get it.\n",
+            "length": "28642304",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/RJ-1949.08.07-40-Gold-Fever.mp3"
+        },
+        {
+            "title": "Voyage of the Scarlet Queen - Shore Leave and the Unhappy Wife",
+            "datePublished": "Fri, 10 April 2009 16:11:32 CST",
+            "description": "Broadcast in the late 1940s, this adventure series centers around the travels of a tramp steamer called The Scarlet Queen to exotic ports of call in the Pacific. The show's use of the ship's log as a narrative device is reminiscent of Star Trek and may well be where Gene Roddenberry lifted the idea from. The stories themselves are a pleasing mix of swashbuckling Indiana Jones and hard-boiled detective, liberally seasoned with saltwater for flavoring.\n\nIn this episode, the ship is chartered for a lucrative voyage, but before she can set sail, the first mate is accused of murder and it is up to the captain to prove his innocence.\n",
+            "length": "6731776",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/vosq.1947.09.25_Shoreleave_and_The_Unhappy_Wife.mp3"
+        },
+        {
+            "title": "Cabin B13 - Bill and Brenda Leslie",
+            "datePublished": "Thu, 19 Mar 2009 12:13:29 CST",
+            "description": "While vacationing in London, Scottland Yard informs Bill Leslie that he is an exact double for a wanted murder. See what happens when Bill takes matters into his own hands.\n",
+            "length": "7091200",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/Cabin-B13-480705-Bill-and-Brenda-Leslie.mp3"
+        },
+        {
+            "title": "The Shadow - Death Prowls At Night",
+            "datePublished": "Sat, 07 Mar 2009 24:28:20 CST",
+            "description": "While vacationing at a ski lodge Margo is kidnapped and taken to a creepy sanitarium. Can the Shadow get to her in time? Find out now!\n",
+            "length": "4671488",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/S_The_Death_Prowls_At_Night.mp3"
+        },
+        {
+            "title": "Suspense - On A Country Road",
+            "datePublished": "Sat, 14 Feb 2009 23:58:08 CST",
+            "description": "A couple finds themselves stranded on an isolated country road at night in the middle of a storm. If that's not bad enough... There is a murderer on the loose that just escaped from a mental institution! Starring Cary Grant. Original broadcast 1950.\n",
+            "length": "5289984",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/501116_On_A_Country_Road.mp3"
+        },
+        {
+            "title": "Escape - Treasure Inc.",
+            "datePublished": "Sat, 24 Jan 2009 23:50:01 CST",
+            "description": "An ambitious developer builds a hotel on a remote tropical island but all his plans go out the window when he gets mixed up with a greedy woman, a hidden treasure and a misanthropic hermit. \n\nGripping stuff starring Frank Lovejoy, Paul Frees and Mary Lansing. \n\nFeels like a Somerset Maugham piece, but was actually written by the prolific scriptwriting team of John and Gwen Bagni\n",
+            "length": "7053312",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/Escape_500124_107_Treasure_Inc.mp3"
+        },
+        {
+            "title": "Suspense - A Little Matter Of Memory",
+            "datePublished": "Sat, 03 Jan 2009 23:52:21 CST",
+            "description": "SUSPENSE  September 30, 1954 \"A Little Matter of Memory\" was based on the story by James Helvick.\nA couple staying in an isolated cottage return from a walk only to discover a note on their door telling of a dangerous maniac on the loose. Very tense beginning and middle with some quintessential radio drama scenes, but the Third Act problems are nigh insurmountable. Having set the plot in motion, there are only a couple of ways that it can end. But kudos to Norman MacDonnell who produced and directed. Lawrence Dobkin played Edward and Paula Winslowe played Joan. Also appearing were Edgar Barrier, Joseph Kearns, and Richard Peel. James Helvick was a pseudonym for Francis Claud Cockburn (1904-1981), a British journalist and novelist who wrote an interesting book about the phenomenon of the best-selling novel. (He was also the cousin of Evelyn Waugh.)",
+            "length": "4642816",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/540930_A_Little_Matter_Of_Memory.mp3"
+        },
+        {
+            "title": "Nick Carter - Eight Records of Death",
+            "datePublished": "Sat, 06 Dec 2008 23:34:29 CST",
+            "description": "The background is as interesting as the plot. Who remembered that sixty years ago you could make gramophone records in your own home the way you make CDs today? Here the lead-up to a murder is captured on record by the victim and it's up to Nick Carter to make sense of it all.",
+            "length": "7142400",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/Nc_46.04.02_Ep229_Eightrecordsofdeath.mp3"
+        },
+        {
+            "title": "Box 13 - The Professor And The Puzzle",
+            "datePublished": "Sat, 15 Nov 2008 22:37:21 CST",
+            "description": "A friend of Dan Holiday's who was teaching at a college was engaged to be married when suddenly his fiance's uncle \"committed suicide\" and she called the engagement off and was determined to marry someone much older than she was. Listen and find out what the uncle was involved in and who found out and how the tangled mess got solved.",
+            "length": "13165568",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/Box_13_49-01-09__21__The_Professor_And_The_Puzzle.mp3"
+        },
+        {
+            "title": "Suspense - The Face Is Familiar",
+            "datePublished": "Sat, 01 Nov 2008 20:37:21 CST",
+            "description": "One of the rare comical episodes of Suspense. Arthur Ross (writer) Elliott Lewis (director) and guest star Jack Benny combine to give us a whimsical thriller about a talkative small-town nobody who runs into an old acquaintance... who happens to be a bank robber. Jack is soon playing the leading role in a hold-up without knowing it. The robbers' theory is that he's such a boring and unmemorable type that none of the witnesses will even be able to describe him!",
+            "length": "5314560",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/Suspense_540118_The_Face_Is_Familiar.mp3"
+        },
+        {
+            "title": "Orson Wells - War Of The Worlds",
+            "datePublished": "Sat, 18 Oct 2008 23:50:02 CST",
+            "description": "This Halloween will mark the 70th aniversey of the Orson Wells broadcast \"War of the Worlds\". Because of its format, many listeners who tuned in late believed the play about an invasion from Mars to be live news coverage of the actual event! Public panic ensued.",
+            "length": "13819904",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/Orson_Wells_.38.10.30_War-of-the-worlds-original.mp3"
+        },
+        {
+            "title": "Nick Carter - The Vanishing Weapon",
+            "datePublished": "Sat, 04 Oct 2008 22:55:52 CST",
+            "description": "Even out for a quiet drive in the country, Nick and his assistant/girlfriend can't help but stumble over a curious murder. This time it's a woman who dies at the wheel of her car for apparently no reason. You may be ahead of the sleuth in parts of the plot, but it's an entertaining journey to get to the finish. ",
+            "length": "5312512",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/Nc_49.09.18_Ep410_Vanishingweapon.mp3"
+        },
+        {
+            "title": "Sherlock Holmes - Disappearing Scientists",
+            "datePublished": "Sat, 30 Aug 2008 23:59:59 CST",
+            "description": "Sherlock Holmes solved this case without meeting with any of the suspects. He was attempting to retire to his bee farm when the case became irresistible. Listen to the show to find out what these scientists were doing with radium and why all of them disappeared. ",
+            "length": "6877184",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/46-04-08_Disappearing_Scientists_Rathbone-Bruce.mp3"
+        },
+        {
+            "title": "Mystery In The Air - The Black Cat",
+            "datePublished": "Sat, 23 Aug 2008 23:59:59 CST",
+            "description": "This mostly faithful adaption of Edgar Allen Poe's classic tale of intemperance, murder, and supernatural justice features the unmistakable voice talent of Peter Lorre in the starring role. Lorre is at his manic best as he draws the listener along on his journey into madness at the hands--or should we say paws--of a mysterious ebony feline named 'Pluto'.\n\nMystery In The Air was an limited-run anthology series, which originally aired in the summer of 1947. Each episode featured Peter Lorre in a different spooky or suspenseful tale, \"culled from the pages of world literature\". Mystery In The Air only ran for eight episodes, but each is an audio gem in its own right.",
+            "length": "6966272",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/mita.1947.09.18_The_Black_Cat.mp3"
+        },
+        {
+            "title": "Candy Matson - Devil In The Deep Freeze",
+            "datePublished": "Sat, 05 Jul 2008 23:59:59 CST",
+            "description": "When the body of a man is discovered in a freezer dressed in a devil costume, why isn't it reported to the police? \nAnd, just where did the body go when Candy Matson tries to show it to the police? Listen to Devil in the Deep Freeze and find out.",
+            "length": "7111680",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/491110-Candy_Matson-20_Devil_In_The_Deep_Freeze.mp3"
+        },
+        {
+            "title": "Haunting Hour - Murder Wears A Strange Mask",
+            "datePublished": "Sat, 28 Jun 2008 23:59:59 CST",
+            "description": "A masquerade party, a body in the study and misleading clues make this mystery one not to miss.",
+            "length": "3390464",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/Murder-Wears-a-Mask.mp3"
+        },
+        {
+            "title": "The Saint - Murder On The High Seas",
+            "datePublished": "Sat, 21 Jun 2008 23:59:59 CST",
+            "description": "Simon, a movie star, an assasin a shrink and Card sharp all add up to a mystery that anyone would enjoy. ",
+            "length": "5767168",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/The-Saint-47-10-01-037-Murder-On-The-High-Seas.mp3"
+        },
+        {
+            "title": "Adventures Of Frank Merriwell - The Live Ghost",
+            "datePublished": "Sat, 22 Mar 2008 23:59:59 CST",
+            "description": "Frank Merriwell and his pals must help a new friend before it's too late.",
+            "length": "7172096",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/Fm_48-09-11_ep102-The_Live_Ghost.mp3"
+        },
+        {
+            "title": "Nick Carter - The Case Of The Careless Employee",
+            "datePublished": "Sat, 15 Mar 2008 23:59:59 CST",
+            "description": "Window washers are dying mysteriously. Can Nick Carter find out why?",
+            "length": "9374720",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/Nc_00.00.00_Careless_Window_Washers.mp3"
+        },
+        {
+            "title": "Mysterious Circumstances - Night Drive To Dover",
+            "datePublished": "Sat, 08 Mar 2008 23:59:59 CST",
+            "description": "A murder has been committed. A hitchhiker on a rainy night could spell trouble.",
+            "length": "4973568",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/Mysterious-Circumstances_Night-Drive-To-Dover.mp3"
+        },
+        {
+            "title": "Rocky Jordan - The Map Of Murder",
+            "datePublished": "Sat, 01 Mar 2008 23:59:59 CST",
+            "description": "Rocky Jordan must solve the mystery of murder, a treasure map and backstabbing friends in cairo.",
+            "length": "7144448",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/RJ_1949.07.03_35-The-Map-of-Murder.mp3"
+        },
+        {
+            "title": "Mystery is my Hobby - Buried Treasure Map",
+            "datePublished": "Sat, 23 Feb 2008 23:59:59 CST",
+            "description": "Martin Drake must solve a murder that's tied in with a treasure map.",
+            "length": "5647360",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/MIMH_000_Buried_Treasure_Map.mp3"
+        },
+        {
+            "title": "Ellery Queen - The Adventure Of Dead Man's Cavern",
+            "datePublished": "Sat, 16 Feb 2008 23:59:59 CST",
+            "description": "Ellery Queen tries to solve a seemingly impossible murder in Dead Man's Cavern",
+            "length": "5907456",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/EQ_440413_E28_Adventure_Of_Dead_Mans_Cavern.mp3"
+        },
+        {
+            "title": "Barry Craig Confidential Investigator - Ghosts Dont Die In Bed",
+            "datePublished": "Sat, 09 Feb 2008 23:59:59 CST",
+            "description": "A desperate phone call from an old friend... Can Barry get to him in time? Find out now...",
+            "length": "4922368",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/Barrie_Craig-Ghosts_Dont_Die_In_Bed.mp3"
+        },
+        {
+            "title": "ABC Mystery Time - Death Walked In",
+            "datePublished": "Sat, 02 Feb 2008 23:59:59 CST",
+            "description": "A fast talking sales lady tries to get an honest man to kill his wife. Will he actually do it? Find out now...",
+            "length": "5440864",
+            "sourceUrl": "http://www.mysteryshows.com/Podcasts/ABCMT-Death_Walked_In.mp3"
+        }
+    ]
+}

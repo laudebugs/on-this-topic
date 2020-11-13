@@ -1,0 +1,359 @@
+{
+    "artwork": "http://is1.mzstatic.com/image/thumb/Music122/v4/e1/59/c1/e159c19c-6f95-3f26-4679-c743160599c2/source/100x100bb.jpg",
+    "description": "Všude tam, kde se něco děje. Rozhovory, osobnosti, společnost.",
+    "feedURL": "http://api.rozhlas.cz/data/v2/podcast/station/radiozurnal.rss",
+    "podcastURL": "http://www.rozhlas.cz/iradio/radiozurnal",
+    "title": "Radiožurnál",
+    "episodes": [
+        {
+            "title": "Hlavní zprávy - rozhovory a komentáře - Odpolední publicistika s Tomášem Pavlíčkem",
+            "datePublished": "Thu, 12 Nov 2020 18:10:00 +0100",
+            "description": "Protiepidemická opatření. Přesun výroby vozů Škoda Superb. Kam dospěly přípravy Johna Bidena na den, kdy má v Bílém době vystřídat Donalda Trumpa?",
+            "length": "9547392",
+            "sourceUrl": "https://radiozurnal.rozhlas.cz/sites/default/files/audios/e8e677e2131e43f2a2af06b24c3de2e9.mp3"
+        },
+        {
+            "title": "Dvacet minut Radiožurnálu - Hlubinné jaderné úložiště musíme garantovat na sto tisíc let, alternativy problém nevyřeší, říká Vondrovic",
+            "datePublished": "Thu, 12 Nov 2020 16:54:00 +0100",
+            "description": "Český stát už více než 23 let hledá vhodnou lokalitu pro ukládání jaderného odpadu a příslušný úřad za tu dobu utratil téměř dvě miliardy korun. Proč stále není jasné, kde úložiště vznikne? Na čem váznou jednání s dotčenými obcemi, v jejichž katastru by úložiště mohlo jednou být? Vladimír Kroc se ptá Lukáše Vondrovice ze Správy úložišť radioaktivních odpadů.",
+            "length": "11683840",
+            "sourceUrl": "https://radiozurnal.rozhlas.cz/sites/default/files/audios/45148d3a95363270a400e14145693599.mp3"
+        },
+        {
+            "title": "Zápisník zahraničních zpravodajů - Muzeum historie v Kanadě přiznává roli i původním obyvatelům. Jejich totemy překvapují svou výškou",
+            "datePublished": "Thu, 12 Nov 2020 14:00:00 +0100",
+            "description": "Kanadské muzeum historie se pyšní největší světovou sbírkou totemů v zastřešeném prostoru. Muzeum připomíná celou historii země, a přestože ji ještě donedávna představovalo z pohledu evropských dobyvatelů, pak se rozhodlo to napravit a vzít větší ohled na původní obyvatele. A k těm totemy prostě patří. Průvodce Jean-Luc Dubois proto zahájil svůj výklad v prostoru, kde musíte pořádně zaklonit hlavy.",
+            "length": "4600008",
+            "sourceUrl": "https://radiozurnal.rozhlas.cz/sites/default/files/audios/6eb2a424e27173b9064525783a813155.mp3"
+        },
+        {
+            "title": "Host Lucie Výborné - Rakovina prostaty se čím dál častěji objevuje u mladších mužů. Nestyďte se přijít na kontrolu, nabádá urolog",
+            "datePublished": "Thu, 12 Nov 2020 10:06:00 +0100",
+            "description": "Movember je velmi dobrá myšlenka, prevence mužů oproti ženám pokulhává, upozorňuje urolog Martin Lukeš. Samovyšetření prostaty si pacient těžko udělá. Muži se stydí a přicházejí pozdě. Pokud najdeme onemocnění včas, umíme najít efektivní řešení. Porucha erekce může být prvotní příznak závažnějšího onemocnění. Pohlavní styk nebo masturbace by měly být pravidelné jednou dvakrát týdně. Přesto plodnost mužů klesá, nastavujeme nové hodnoty pro spermiogramy.",
+            "length": "29814192",
+            "sourceUrl": "https://radiozurnal.rozhlas.cz/sites/default/files/audios/d057ddcbb7884b33bad370d9ca1cfbdd.mp3"
+        },
+        {
+            "title": "Ranní interview - Senát rozhodne o zákazu klecových chovů slepic. Jaké jsou proti němu výhrady?",
+            "datePublished": "Thu, 12 Nov 2020 07:50:00 +0100",
+            "description": "Senát ve čtvrtek probírá zákaz klecových chovů slepic v Česku, který by měl platit od roku 2027. Zákon v polovině září schválila sněmovna. Ministr zemědělství z ČSSD Miroslav Toman ho ale kritizuje. Podle něj by si každý spotřebitel měl rozhodnout o tom, jaká vejce a z jakých chovů bude kupovat. Také předsedkyně představenstva Českomoravské drůbežářské unie Gabriela Dlouhá má pochyby. Zákon prý není domyšlený a nemyslí se v něm na kompenzace pro chovatele slepic v klecích.",
+            "length": "6036096",
+            "sourceUrl": "https://radiozurnal.rozhlas.cz/sites/default/files/audios/48e064d8b8fc91323920627003f4a303.mp3"
+        },
+        {
+            "title": "Budoucnost R - NATO chce vsadit na vědu a moderní technologie. V hybridní válce jsme zatím pozadu, říká Jan Lukačevič",
+            "datePublished": "Thu, 12 Nov 2020 02:00:00 +0100",
+            "description": "Severoatlantická aliance se chce víc zaměřit na vývoj moderních technologií a vědu, aby držela krok s dnešní extrémně rychle se vyvíjecí digitální dobou a s ní spojenými hrozbami. A mladý český vědec Jan Lukačevič bude u toho. Můžou se věda a moderní technologie stát silnějšími zbraněmi, než jsou ty klasické válečné? „Trendem je, že NATO chce být silné nejen vojensky, ale i politicky,“ vysvětluje Jan Lukačevič.",
+            "length": "50607936",
+            "sourceUrl": "https://radiozurnal.rozhlas.cz/sites/default/files/audios/79f150de05855bda5ea20935040d7ee6.mp3"
+        },
+        {
+            "title": "Hlavní zprávy - rozhovory a komentáře - Odpolední publicistika s Tomášem Pavlíčkem",
+            "datePublished": "Wed, 11 Nov 2020 18:10:00 +0100",
+            "description": "Na základě jakých kritérií padlo rozhodnutí znovu obnovit výuku v prvních a druhých třídách základních škol? Jaké námitky vůči tomuto kroku zaznívají z řad rodičů? A jak ho přijali ve školních ředitelnách? A pohled virologa, jestli je částečné znovuotevření škol vhodně načasované.",
+            "length": "12522352",
+            "sourceUrl": "https://radiozurnal.rozhlas.cz/sites/default/files/audios/7f5af6779b3f906b8166fdf1a7ca821d.mp3"
+        },
+        {
+            "title": "Dvacet minut Radiožurnálu - Jak budou vypadat obchody o Vánocích? „Regulovaný počet lidí i omezení shlukování,“ myslí si ekonom",
+            "datePublished": "Wed, 11 Nov 2020 17:05:00 +0100",
+            "description": "Prezident Miloš Zeman dnes přišel do Poslanecké sněmovny osobně podpořit vládní návrh státního rozpočtu na rok 2021, který počítá s deficitem 320 miliard korun. Jak návrh státního rozpočtu hodnotí Hospodářská komora? Jak se změní nový systém rozvolňování protiepidemických opatření? A jak by mohly vypadat obchody před vánočními svátky? Tomáš Pancíř se ptá prezidenta Hospodářské komory a ekonoma Vladimíra Dlouhého.",
+            "length": "15531072",
+            "sourceUrl": "https://radiozurnal.rozhlas.cz/sites/default/files/audios/ce470070bf87bbecb49625c23799060b.mp3"
+        },
+        {
+            "title": "Hlavní zprávy - rozhovory a komentáře - Polední publicistika s Tomášem Pavlíčkem",
+            "datePublished": "Wed, 11 Nov 2020 12:10:00 +0100",
+            "description": "Diskuse o návrhu státního rozpočtu. Koronavirus v Česku. Program na podporu cestovního ruchu.",
+            "length": "19178640",
+            "sourceUrl": "https://radiozurnal.rozhlas.cz/sites/default/files/audios/762dc035a37412a6c3eddfc9e92aefe9.mp3"
+        },
+        {
+            "title": "Host Lucie Výborné - „Neštěkej a sedni!“ Zkušený trenér radí, jak správně říct psovi „ne“",
+            "datePublished": "Wed, 11 Nov 2020 11:05:00 +0100",
+            "description": "Výcvik psa by měl být dialog dvou rovnocenných partnerů. Jakmile ale trénink skončí, měla by nastoupit nejen výuka, ale i výchova, tvrdí trenér zvířat František Šusta. „Mimo tréninkovou lekci se může stát, že se vůči chování psa vyhradíte – bráníte si hranice. Ale dát psovi na zadek by nemělo být na prvním místě,“ říká a doporučuje místo plácnutí vyzkoušet například zmáčknutí čenichu. Jak naučit psa, aby si uměl slušně říct o to, co chce? A jak si správně nastavit hranice?",
+            "length": "34881192",
+            "sourceUrl": "https://radiozurnal.rozhlas.cz/sites/default/files/audios/93e4319d3653ce7974794938f2609b68.mp3"
+        },
+        {
+            "title": "Reportáže Radiožurnálu - Svět slaví Den válečných veteránů. Podpořit je můžete i on-line",
+            "datePublished": "Wed, 11 Nov 2020 08:40:00 +0100",
+            "description": "11. listopad je v českém kalendáři významným dnem – Dnem válečných veteránů. Památku padlých vojáků si připomínají v mnoha zemích, například ve Francii, Belgii, Kanadě nebo Spojených státech je tento den dokonce státním svátkem. Symbolem vzpomínky na padlé vojáky se stal květ vlčího máku. Sbírka na podporu veteránů se letos už pošesté koná také v Česku.",
+            "length": "2216640",
+            "sourceUrl": "https://radiozurnal.rozhlas.cz/sites/default/files/audios/168510210c6155ad1fc2a5900d0a0fa7.mp3"
+        },
+        {
+            "title": "Ranní interview - Návrh rozpočtu je v prvním čtení. Příprava na třetí vlnu může být důležitější než zbrojní projekty, zní z KSČM",
+            "datePublished": "Wed, 11 Nov 2020 07:50:00 +0100",
+            "description": "Vládní návrh státního rozpočtu pro příští rok počítá se schodkem 320 miliard. Opozice je proti. To, zda rozpočet v prvním čtení projde, proto hodně záleží na komunistech. „Nic jiného nám nezbývá, vše podstatné se ale bude odehrávat až v pozdějších termínech,“ shrnuje místopředseda KSČM Jiří Dolejš. Například poslankyně KSČM Miloslava Vostrá chce, aby vláda převedla deset miliard korun do vládní rozpočtové rezervy na boj s koronavirem. Budou komunisté na tomto požadavku trvat?",
+            "length": "5877840",
+            "sourceUrl": "https://radiozurnal.rozhlas.cz/sites/default/files/audios/eda257257ee7e0af95479b20afd8338f.mp3"
+        },
+        {
+            "title": "Hlavní zprávy - rozhovory a komentáře - Odpolední publicistika s Věrou Štechrovou",
+            "datePublished": "Tue, 10 Nov 2020 18:10:00 +0100",
+            "description": "Nákaza v Česku a nouzový stav. Jaroslav Faltýnek a hnutí ANO. Jak se bránit teroristickým útokům?",
+            "length": "22244640",
+            "sourceUrl": "https://radiozurnal.rozhlas.cz/sites/default/files/audios/abcca1f6c7a6af0828169e046d4cb853.mp3"
+        },
+        {
+            "title": "Dvacet minut Radiožurnálu - V Praze se opatření dodržují víc než jinde, rozvolňovat by se mohlo po krajích, navrhuje matematik",
+            "datePublished": "Tue, 10 Nov 2020 17:05:00 +0100",
+            "description": "Počet nově nakažených koronavirem podle dat ministerstva zdravotnictví oproti minulým týdnům klesá. Klesl ale také počet provedených testů. Jaký vývoj předpovídají matematické modely pro další týdny? Tomáš Pancíř se ptá Reného Levínského, matematika z výzkumného centru IDEA na institutu CERGE-EI.",
+            "length": "26496928",
+            "sourceUrl": "https://radiozurnal.rozhlas.cz/sites/default/files/audios/70a3c49ed2cfba8f4f1faa59f980c7ea.mp3"
+        },
+        {
+            "title": "Reportáže Radiožurnálu - Stát chce obnovit instituci jeslí. Jak budou vypadat a co to znamená pro rodiče?",
+            "datePublished": "Tue, 10 Nov 2020 12:01:00 +0100",
+            "description": "V minulých letech vznikly v Česku stovky dětských skupin, které se staly alternativou k mnohdy přeplněným mateřským školám. Na jejich provoz přispívá Evropská unie, jenže tato dotace je časově omezená. Stát chce proto znovu začít podporovat vznik jeslí. „Když se někdo rozhoduje, zda jít do práce dříve než musí, neměl by vydělávat jen na poplatky. Jesle nesmí být drahé,“ myslí si ministryně sociálních věcí Jana Maláčová.",
+            "length": "2027664",
+            "sourceUrl": "https://radiozurnal.rozhlas.cz/sites/default/files/audios/9c4d545901e0edcf9e14d2e30c4fb935.mp3"
+        },
+        {
+            "title": "Host Lucie Výborné - Obklopuji se nejlepšími lidmi v oboru, programovat bych se mezi nimi už styděl, přiznává král 3D tisku",
+            "datePublished": "Tue, 10 Nov 2020 10:06:00 +0100",
+            "description": "Před deseti lety vyrobil svou první 3D tiskárnu, dnes má Josef Průša firmu s šesti sty zaměstnanci. 3D tisk není řešení všech problémů lidstva, upozorňuje. Se zákazníky konzultujeme, zda je to vhodné. Vše vydáváme pod open source licencí, takže kdokoli se může podívat a inspirovat. Čekali jsme, že lisovny si vezmou náš design ochranného štítu a začnou je vyrábět, ale to se nestalo. Doteď tiskneme a rozdáváme. Mít přesný plán není kreativní, raději necháváme naše vize plynout.",
+            "length": "32868624",
+            "sourceUrl": "https://radiozurnal.rozhlas.cz/sites/default/files/audios/1462e4b244d7c1a7a4e70bfb6264890a.mp3"
+        },
+        {
+            "title": "Ranní interview - Přibývá lidí trpících úzkostí a depresemi. Pomáhá informační dieta a péče o sebe sama, radí psychiatr",
+            "datePublished": "Tue, 10 Nov 2020 07:50:00 +0100",
+            "description": "Na jaře lékaři zaznamenali až dvojnásobný nárůst úzkostných onemocnění a až trojnásobný nárůst depresí. Teď na podzim proto Národní ústav duševního zdraví přichystal trojdílnou sérii online přednášek, které nám mají pomoct udržovat naše duševní zdraví. „Kromě toho jsou dostupné krizové linky na webu psychiatrické společnosti nebo ministerstev vnitra a zdravotnictví,“ radí primář kliniky Národního ústavu duševního zdraví, profesor Pavel Mohr.",
+            "length": "6460864",
+            "sourceUrl": "https://radiozurnal.rozhlas.cz/sites/default/files/audios/e01a54280f4aa0da6e23fae83791015c.mp3"
+        },
+        {
+            "title": "Olympijský podcast Radiožurnálu - Jsem taková křehká holka na kole, usmívá se handicapovaná cyklistka Petra Hurtová",
+            "datePublished": "Tue, 10 Nov 2020 02:00:00 +0100",
+            "description": "Dokud dýchám, žiju, a dokud žiju, budu se snažit, abych mohla dýchat. Takové motto má handicapovaná cyklistka Petra Hurtová. Přestože je na vozíku, sama ještě pomáhá druhým a ostatní kolem sebe dokáže nabíjet energií. Trpí zvýšenou lámavostí kostí, přesto je devítinásobnou českou šampionkou na handbiku. Nejen o tom, jak se žije sportovcům s postižením, si v dalším dílu Olympijského podcastu s Petrou Hurtovou povídal Pavel Petr.",
+            "length": "75395584",
+            "sourceUrl": "https://radiozurnal.rozhlas.cz/sites/default/files/audios/f2f426b09857cc13aa02852b5252b56d.mp3"
+        },
+        {
+            "title": "Hlavní zprávy - rozhovory a komentáře - Odpolední publicistika s Věrou Štechrovou",
+            "datePublished": "Mon, 09 Nov 2020 18:10:00 +0100",
+            "description": "Co máme čekat od americko-německé vakcíny proti koronaviru, která je připravená jít na trh? Jak konkrétně je Česko rozdělené ve vnímaní přijatých pandemických opatření? A proč Evropská unie vyhlašuje odvetná cla na zboží z USA?",
+            "length": "11815800",
+            "sourceUrl": "https://radiozurnal.rozhlas.cz/sites/default/files/audios/b4305d8a96ecb4dc53198728a95f3745.mp3"
+        },
+        {
+            "title": "Dvacet minut Radiožurnálu - Měli bychom zavést tvrdý lockdown jako v Izraeli a omezit průmysl, tvrdí prezident lékařské komory",
+            "datePublished": "Mon, 09 Nov 2020 17:05:00 +0100",
+            "description": "Vláda by podle České lékařské komory měla ještě zpřísnit opatření proti šíření nového typu koronaviru. O jaká data se představitelé komory opírají? Proč stávající restrikce nestačí? A v čem by se podle nich měl obvyklý způsob života dále omezit? Hostem Tomáše Pancíře ve Dvaceti minutách Radiožurnálu byl prezident České lékařské komory Milan Kubek.",
+            "length": "15690768",
+            "sourceUrl": "https://radiozurnal.rozhlas.cz/sites/default/files/audios/6df8ccc514d9348faa3ce2828220bbe0.mp3"
+        },
+        {
+            "title": "Hlavní zprávy - rozhovory a komentáře - Polední publicistika s Věrou Štechrovou",
+            "datePublished": "Mon, 09 Nov 2020 12:10:00 +0100",
+            "description": "VZP i další čtyři roky povede Zdeněk Kabátek. Donlad Trump musí uznat porážku a předat moc Joe Bidenovi. Celní správa učí psy odhalit covid-19.",
+            "length": "21836256",
+            "sourceUrl": "https://radiozurnal.rozhlas.cz/sites/default/files/audios/71b09bd58ffecd122c77ff61e0d97f91.mp3"
+        },
+        {
+            "title": "Host Lucie Výborné - Hlas s názorem a rozladěnou kytarou mě smete víc než desky slavných interpretů, přiznává Roman Holý",
+            "datePublished": "Mon, 09 Nov 2020 10:06:00 +0100",
+            "description": "Skladatel Roman Holý na terase svého domu v Sušici vypráví o hudebních začátcích a své celoživotní vášni. Můj tatínek byl námořník a vozil mi desky. V roce 1974 jsem uslyšel píseň Jungle Boogie a byl jsem ztracen, vzpomíná. První kapelu jsme založili v deseti letech. Od té doby jsem se nestihl přepnout na mód dospělého člověka. Někdy je to nepraktické, ale taky zábavné. Jak se neztratit v záplavě hudby? Klíč je neposlouchat rádio, hlavně ne české, uzavírá hudebník.",
+            "length": "30330592",
+            "sourceUrl": "https://radiozurnal.rozhlas.cz/sites/default/files/audios/4b14b955396fc2bb64d1b4d3d7e82497.mp3"
+        },
+        {
+            "title": "Reportáže Radiožurnálu - 400 let od bitvy na Bílé hoře. Otestujte se, co všechno o ní víte",
+            "datePublished": "Mon, 09 Nov 2020 10:05:00 +0100",
+            "description": "V neděli 8. listopadu 1620 došlo k bitvě, která na několik staletí poznamenala život v Českých zemích, ale i v Evropě. Střetla se v ní česká stavovská armáda a dvě armády katolické – armáda císaře Svaté říše římské Ferdinanda II. Štýrského a armáda německé Katolické ligy. Navzdory tomu se podle historiků jednalo spíš o šarvátku, která ovšem měla pro České země fatální následky. O období, které po ní následovalo, se dodnes označuje jako doba temna. ",
+            "length": "1592704",
+            "sourceUrl": "https://radiozurnal.rozhlas.cz/sites/default/files/audios/8edb4f80aa86dc5f22963674509d69f7.mp3"
+        },
+        {
+            "title": "Ranní interview - Startuje plošné testování v domovech pro seniory. Začít se mělo už v září, zní od odborníků",
+            "datePublished": "Mon, 09 Nov 2020 07:50:00 +0100",
+            "description": "Nejpozději dnes se má podle ministra zdravotnictví začít plošně testovat v domovech pro seniory a v dalších lůžkových zařízeních sociálních služeb. Podle epidemiologů by testování mělo zpomalit další šíření nemoci. „Distribuce testů proběhne během dnešního odpoledne pouze okrajově, naplno od zítřejšího dne,“ upřesňuje prezident Asociace poskytovatelů sociálních služeb Jiří Horecký.",
+            "length": "4879792",
+            "sourceUrl": "https://radiozurnal.rozhlas.cz/sites/default/files/audios/3e4ba3a7a4839ddbb5d41c61bc5a26ec.mp3"
+        },
+        {
+            "title": "Stretnutie - Stretnutie s Tatianou Čabákovou",
+            "datePublished": "Sun, 08 Nov 2020 20:05:00 +0100",
+            "description": "Druhé kolo slovenského testování na Covid-19. Sesterská města Bánov a Bánov pri Nových Zámkoch rozdělené hranicemi a koronavirovými restrikcemi. Juraj Dudáš a kosmický výzkum.",
+            "length": "14107680",
+            "sourceUrl": "https://radiozurnal.rozhlas.cz/sites/default/files/audios/b8eea5032052a16759e230b1af172595.mp3"
+        },
+        {
+            "title": "Reportáže Radiožurnálu - Návrat do starých kolejí, ale i zapojení se do otázky brexitu očekávají komentátoři od zvolení Joea Bidena",
+            "datePublished": "Sun, 08 Nov 2020 15:00:00 +0100",
+            "description": "Po prohlášení Joea Bidena vítězem voleb vyšli Američané do ulic, byť se mnohdy zdá že spíš na oslavu porážky Donalda Trumpa, od níž si slibují nový začátek. Mezi gratulanty se přidal i prezident Miloš Zeman, který si jako řada dalších státníků slibuje utužení vzájemných vztahů s Amerikou. Co se týče Evropy, s Joem Bidenem v Bílém domě by se měla americká diplomacie změnit především v otázce Brexitu.",
+            "length": "5451984",
+            "sourceUrl": "https://radiozurnal.rozhlas.cz/sites/default/files/audios/0368f2512769cabe53ab58f622dc956f.mp3"
+        },
+        {
+            "title": "Hlavní zprávy - rozhovory a komentáře - Polední publicistika s Tomášem Pavlíčkem",
+            "datePublished": "Sun, 08 Nov 2020 12:10:00 +0100",
+            "description": "Co si slibují voliči Joea Bidena od jeho očekávaného nástupu do Bílého domu? Může proces  předání moci ještě výrazněji zkomplikovat Trumpova snaha zpochybnit ohlášené výsledky voleb? Co by jeho odchod mohl znamenat pro zahraniční politiku USA?",
+            "length": "22500864",
+            "sourceUrl": "https://radiozurnal.rozhlas.cz/sites/default/files/audios/1a5a473cc9fb019a31b8e5a693eef9d0.mp3"
+        },
+        {
+            "title": "Zápisník zahraničních zpravodajů - V Hurghádě založili expozici egyptského umění z pokladů depozitáře. Nejvzácnější je socha princezny Meret Amun",
+            "datePublished": "Sun, 08 Nov 2020 11:00:00 +0100",
+            "description": "Část Tutanchamonova pokladu můžou vidět turisté v novém muzeu v egyptské Hurghádě. Muzeum mělo zatím smůlu. Jen dva týdny po inauguraci muselo kvůli opatřením proti koronaviru zase zavřít. Od léta je sice znovu přístupné, chybí ale návštěvníci. Pro plážové turisty je nové Hurghádské muzeum jedinečnou šancí nahlédnout do egyptské historie a vyhnout se úmorným cestám do Káhiry či Luxoru. ",
+            "length": "5088880",
+            "sourceUrl": "https://radiozurnal.rozhlas.cz/sites/default/files/audios/2603f50c0ff2adac2de0d21496806345.mp3"
+        },
+        {
+            "title": "Host Radiožurnálu - Byl to rozhlas, co umožnilo Divadlu Járy Cimrmana dostat se na vrchol, myslí si historik-cimrmanolog",
+            "datePublished": "Sun, 08 Nov 2020 10:05:00 +0100",
+            "description": "Ve své rodící se knize dává Tomáš Maleček nahlédnout pod pokličku více než padesátileté historie kultovní scény. Když jsem si spojil ‚kubánské kleště – ‚přece ho tu nebudete kastrovat‘, měl jsem takovou radost, usmívá se při vzpomínce na chvíli, kdy „objevil“ další z dlouhé řady vtipů. Vrací se ale i k méně veselým kapitolám – hru Lijavec čte jako reakci dua S+S na jejich podpisy Anticharty. Proč skřípou adaptace jinými soubory a jak je to u Cimrmanů s kulisáckou tradicí?",
+            "length": "29168128",
+            "sourceUrl": "https://radiozurnal.rozhlas.cz/sites/default/files/audios/b256599c963df54d33d20dc01cf9a4c5.mp3"
+        },
+        {
+            "title": "Zápisník zahraničních zpravodajů - Zápisník Jakuba Luckého",
+            "datePublished": "Sun, 08 Nov 2020 09:50:00 +0100",
+            "description": "lékořicová továrna ve Švédsku",
+            "length": "4370136",
+            "sourceUrl": "https://radiozurnal.rozhlas.cz/sites/default/files/audios/e0b8043272e176ee9d128b2e9c3b0270.mp3"
+        },
+        {
+            "title": "Zápisník zahraničních zpravodajů - Švédové milují lékořici. Dávají si ji do kávy místo cukru, ale taky na salám",
+            "datePublished": "Sun, 08 Nov 2020 09:30:00 +0100",
+            "description": "Lékořice, švédsky lakrits, je oblíbená ve všech skandinávských zemích, a to v různých podobách. Bonbony nebo lékořicový prášek můžete najít ve sladkých i slaných verzích, samostatně nebo přimíchané do zmrzliny, ale třeba i jako krustu na luxusním salámu. Jejich zvláštní chuť poznal i redaktor Radiožurnálu Jakub Lucký.",
+            "length": "4583517",
+            "sourceUrl": "https://radiozurnal.rozhlas.cz/sites/default/files/audios/1bc0494c093c488d953d57fd964aa553.mp3"
+        },
+        {
+            "title": "Zápisník zahraničních zpravodajů - Zápisník Martina Dorazína",
+            "datePublished": "Sun, 08 Nov 2020 09:20:00 +0100",
+            "description": "práce reportéra ve válečných podmínkách v Karabachu",
+            "length": "3693016",
+            "sourceUrl": "https://radiozurnal.rozhlas.cz/sites/default/files/audios/bf58f29b5c5e83f5069d1271a8ac0b3e.mp3"
+        },
+        {
+            "title": "Zápisník zahraničních zpravodajů - Kushil Gunasekera pomáhá znevýhodněným vesničanům na Srí Lance. Dotýkalo se mě, že se nemohou rozvíjet, říká",
+            "datePublished": "Sun, 08 Nov 2020 09:10:00 +0100",
+            "description": "Neučte děti, jak být bohatí. Učte je, jak být šťastní. Až vyrostou, budou znát hodnotu věcí. Ne jejich cenu. Tak zní jeden ze sloganů, které visí na stěnách sídla dobročinné Nadace dobra v Kolombu na Srí Lance. Organizace založená před dvaceti lety podnikatelem a filantropem Kushilem Gunasekerou má dnes ne ostrově několik středisek, ve kterých pomáhá hlavně obyvatelům srílanského venkova ve vzdělávání a hledání zaměstnání.",
+            "length": "4490483",
+            "sourceUrl": "https://radiozurnal.rozhlas.cz/sites/default/files/audios/efab4d419ee003c670c90d6777bd6ebc.mp3"
+        },
+        {
+            "title": "Ranní interview - Armádá spásy žádá města o místa pro lidi bez domova. Podle jejího ředitele se mezi nimi nákaza významně nešíří",
+            "datePublished": "Sun, 08 Nov 2020 08:50:00 +0100",
+            "description": "Kornavirová krize tvrdě zasáhla i lidi bez domova, vedle omezených kapacit terénních sociálních pracovníků docházejí i místa, kde mohou přečkat mrazy. „Razantně do toho vstoupila koronavirová pandemie, která způsobuje, že musíme být velmi obezřetní a nemůžeme shromažďovat další lidi do stejných budov. Snažíme se jednat s městy, aby došlo k navýšení kapacit vně současných areálů,“ říká Jan František Krupa, Národní ředitel sociálních služeb Armády spásy.",
+            "length": "6268128",
+            "sourceUrl": "https://radiozurnal.rozhlas.cz/sites/default/files/audios/7e6ee984af17b2873461e20b17eac391.mp3"
+        },
+        {
+            "title": "O Roma vakeren - O Roma Vakeren s Renou Horvátovou",
+            "datePublished": "Sat, 07 Nov 2020 20:05:00 +0100",
+            "description": "Online divadelní festival a autorská čtení ku příležitosti Světového dne romského jazyka. Vzpomínka na Rajka Ðuriće. Testování na koronavirus mezi Romy na Slovensku.",
+            "length": "13449456",
+            "sourceUrl": "https://radiozurnal.rozhlas.cz/sites/default/files/audios/3a6b37bf03808dc80e43f7e2bda9bb8a.mp3"
+        },
+        {
+            "title": "Hlavní zprávy - rozhovory a komentáře - Polední publicistika s Tomášem Pavlíčkem",
+            "datePublished": "Sat, 07 Nov 2020 12:10:00 +0100",
+            "description": "Jak se s příjmy nových pacientů vyrovnává jedna z nejvytíženějších nemocnic na Zlínsku? Má americký volební či povolební proces mezery? Jakou odezvu má Den okének který pořádají tuzemské restaurace?",
+            "length": "22763448",
+            "sourceUrl": "https://radiozurnal.rozhlas.cz/sites/default/files/audios/be823235caf1699cc20f9148733382b9.mp3"
+        },
+        {
+            "title": "Host Radiožurnálu - I obézní člověk může být v podvýživě, upozorňuje nutriční terapeutka. Čokoládu jezte raději k snídani, radí",
+            "datePublished": "Sat, 07 Nov 2020 10:05:00 +0100",
+            "description": "Můžeme si dovolit čokoládu, otázka je kdy, radí nutriční terapeutka Soňa Vojtíšková. Jídlo je důležité si správně načasovat, tvrdí. Bílkoviny by mělo tělo přijímat každý den, byť ne nutně maso, a luštěniny je lepší jíst k obědu než večer. Sladké byste si zase měli raději dopřát ráno. Proč mlsáme, když je nám úzko? Mozek je unavený, rozum je po práci vyčerpaný a jídlo je pro nás berlička k uspokojení, vysvětluje Soňa Vojtíšková.  Jakým tempem je podle ní ideální hubnout?",
+            "length": "28442304",
+            "sourceUrl": "https://radiozurnal.rozhlas.cz/sites/default/files/audios/96be8ff9be5e33568b0365dd8d71180f.mp3"
+        },
+        {
+            "title": "Magazín Experiment - Magazín Experiment ze 7. listopadu 2020",
+            "datePublished": "Sat, 07 Nov 2020 09:05:00 +0100",
+            "description": "00:00 témata magazínu;00:19 reportáž od plicních ventilátorů;05:05 práce sester ve FN Ostrava;08:13 první táborský policejní elektromobil;11:32 Aleš Doucek o vodíkových pohonech;15:50 Budoucnost R: technologie recyklace tenisek",
+            "length": "24579792",
+            "sourceUrl": "https://radiozurnal.rozhlas.cz/sites/default/files/audios/0cdd213a5d0f2ee43010e5a8f5371b31.mp3"
+        },
+        {
+            "title": "Ranní interview - Praktickým lékařům se tenčí zásoby vakcín proti chřipce a ochranných obleků. Horší se dostupnost ordinací na Zlínsku",
+            "datePublished": "Sat, 07 Nov 2020 08:50:00 +0100",
+            "description": "V nemocnicích začínají chybět volná lůžka či personál, zdravotníků je nakaženo 14 tisíc. Momentálně je mezi nimi i 472 aktivních praktických lékařů, podle předsedy Sdružení praktických lékařů Petra Šonky se zatím zvládají vzájemně zastupovat stejně jako sdílet docházející vakcíny proti chřipce. Rizikové pacienty se ovšem proočkovat nedaří. „To, že je vakcíny nedostatek je jen jeden z důvodů: Není to tak že by se celá ta skupina jako jeden muž chtěla očkovat,“ uvedl Šonka.",
+            "length": "8435784",
+            "sourceUrl": "https://radiozurnal.rozhlas.cz/sites/default/files/audios/80f8ecc4632101f629b3d8b0905fb99b.mp3"
+        },
+        {
+            "title": "Speciál Radiožurnálu - Stane se Joe Biden příštím prezidentem USA? Poslechněte si speciál Radiožurnálu",
+            "datePublished": "Fri, 06 Nov 2020 18:10:00 +0100",
+            "description": "Má Joe Biden klíče od Bílého domu na dosah? Jak se proměnily preference amerických voličů a mohou případný výsledek zvrátit soudní spory, které chystá prezident Donald Trump? I to byla témata speciálního vysílání Radiožurnálu a Českého rozhlasu Plus. Poslechněte si celý záznam.",
+            "length": "55886976",
+            "sourceUrl": "https://radiozurnal.rozhlas.cz/sites/default/files/audios/7ddfb86519eb23d621267d3ccfe2a760.mp3"
+        },
+        {
+            "title": "Dvacet minut Radiožurnálu - Mám strach o naše děti. Čím déle budou doma, tím větší to bude problém, říká Milan Hnilička (ANO)",
+            "datePublished": "Fri, 06 Nov 2020 17:05:00 +0100",
+            "description": "Po více než měsíci se opět začne hrát nejvyšší fotbalová liga. O možnosti obnovit profesionální sportovní soutěže rozhodla vláda. Profesionální sport tak dostal přednost například před sportovními kroužky dětí nebo neprofesionálním sportem, ale i před dalšími postiženými odvětvími. Hostem Tomáše Pancíře byl předseda Národní sportovní agentury, poslanec hnutí ANO a bývalý hokejový internacionál Milan Hnilička.",
+            "length": "26539464",
+            "sourceUrl": "https://radiozurnal.rozhlas.cz/sites/default/files/audios/cda19fc8d6592e302a9aa0cd7d9d026c.mp3"
+        },
+        {
+            "title": "O Roma vakeren - Nejdůležitější je, že je to baví, říká paní Emilie. Ve svém obchodě zaměstnává romské ženy. Pro jejich děti zřídila i malou školku",
+            "datePublished": "Fri, 06 Nov 2020 12:39:00 +0100",
+            "description": "Emilie Horáčková žije s rodinou v Mimoni. Šest let se připravovala na otevření obchůdku s květinami a dárkovými předměty. Sen se jí splnil začátkem letošního října, kvůli pandemii koronaviru ovšem musela po pár týdnech zavřít. Než pominou současná vládní opatření, plánuje dobu, během které nemůže prodávat, využít k tvorbě nových dárkových předmětů a objednávek.",
+            "length": "6556424",
+            "sourceUrl": "https://radiozurnal.rozhlas.cz/sites/default/files/audios/9cf2221eadde4e72856c532fa3531759.mp3"
+        },
+        {
+            "title": "Hlavní zprávy - rozhovory a komentáře - Polední publicistika s Tomášem Pavlíčkem",
+            "datePublished": "Fri, 06 Nov 2020 12:10:00 +0100",
+            "description": "Prezidentské volby v USA. Kapacity v nemocnicích a situace na Zlínsku. Lex voucher. Mutace koronaviru v Dánsku.",
+            "length": "22642848",
+            "sourceUrl": "https://radiozurnal.rozhlas.cz/sites/default/files/audios/7359370e1c4ce90ac9cc54a05e76c273.mp3"
+        },
+        {
+            "title": "Host Lucie Výborné - Píseň zvládnu napsat za hodinu, u Porna jsem se trochu styděl, přiznává písničkář Pokáč",
+            "datePublished": "Fri, 06 Nov 2020 09:05:00 +0100",
+            "description": "Písničkář Pokáč má v zásobě celou řadu covidových skladeb a některé z nich ve vysílání Radiožurnálu zahrál živě – na ukulele. Nehrál tu poprvé, už při poslední návštěvě ve studiu od něj zazněla třeba píseň Porno. A trochu se prý u ní styděl. „Přijde mi to už trochu zbytečně moc úchylný,“ směje se písničkář, který píseň na objednávku zvládne napsat za hodinu. Jak vzpomíná na reakci Jaromíra Jágra na svoji píseň? Chystá letos vánoční song? A drží se stále ještě programování?",
+            "length": "43385808",
+            "sourceUrl": "https://radiozurnal.rozhlas.cz/sites/default/files/audios/f8a5110ffd0fcb6dced0d39d817caae6.mp3"
+        },
+        {
+            "title": "Reportáže Radiožurnálu - Sčítání hlasů v USA provázejí protesty. Ve Filadelfii demonstrovali voliči republikánů i demokratů",
+            "datePublished": "Fri, 06 Nov 2020 08:50:00 +0100",
+            "description": "V rozhodujících státech USA se okolo sčítání prezidentských hlasů strhla právní bitva. Volební tým republikánského kandidáta Donalda Trumpa podal celou řadu stížností a žalob, část z nich už soudy zamítly, další ještě projednávají. Obhájce postu v Bílém domě například požaduje, aby soudy rozhodly o pozastavení sčítání hlasů, protože se při něm podle něj podvádí. Jeho příznivci vyrazili tento požadavek podpořit před sčítací centrum ve Filadelfii. ",
+            "length": "3269824",
+            "sourceUrl": "https://radiozurnal.rozhlas.cz/sites/default/files/audios/44e676e2af9e5e4f1aee2a56f4a5b289.mp3"
+        },
+        {
+            "title": "Ranní interview - Za zrušený zájezd poukaz místo peněz. Kvůli „lex voucher“ teď Evropská komise kritizuje Česko",
+            "datePublished": "Fri, 06 Nov 2020 08:20:00 +0100",
+            "description": "Evropská komise si v Česku stěžuje na takzvaný „lex voucher“. Vyzvala ministerstvo pro místní rozvoj, aby zajistilo vrácení peněz všem klientům cestovních kanceláří, kteří dostali vouchery místo peněz. Došlo k porušení práv spotřebitele? „Kdyby chtěli všichni klienti zájezdy okamžitě proplatit, byla by to pro cestovní kanceláře obrovská zátěž. Do vztahu mezi ministerstvem a EU se ale nemotáme. Dodržujeme zákon platný v ČR,“ říká mluvčí Asociace cestovních kanceláří Jan Papež.",
+            "length": "4013776",
+            "sourceUrl": "https://radiozurnal.rozhlas.cz/sites/default/files/audios/5f913d90d1114df551e13ab0bb44ab40.mp3"
+        },
+        {
+            "title": "Ranní interview - Vláda konečně vyplatí slíbené odměny. Každý zdravotník dostane za jarní boj s covidem až 75 tisíc",
+            "datePublished": "Fri, 06 Nov 2020 07:50:00 +0100",
+            "description": "Vláda slíbila zdravotníkům mimořádné odměny za jejich nasazení při jarní vlně epidemie koronaviru. O půl roku později se jich konečně dočkají. Zdravotník může dostat až 75 tisíc hrubého. Současná vlna je ale pro zdravotníky ještě náročnější, problém je hlavně personál, jehož se nedostává. „Vyčerpání je obrovské, už to trvá dlouho, zdravotníci jsou od března v enormní zátěži a nevíme, jak dlouho to bude trvat,“ upozorňuje Martina Šochmanová, prezidentka České asociace sester. ",
+            "length": "4824168",
+            "sourceUrl": "https://radiozurnal.rozhlas.cz/sites/default/files/audios/a585cd5507e65a1ff1fed3357c21f822.mp3"
+        },
+        {
+            "title": "Hlavní zprávy - rozhovory a komentáře - Odpolední publicistika s Věrou Štechrovou",
+            "datePublished": "Thu, 05 Nov 2020 18:10:00 +0100",
+            "description": "Dokáže nový stavební zákon, který teď projednávají poslanci, opravdu zjednodušit a zkrátit stavební řízení? Z čeho na Slovensku viní bývalé elitní policisty? A proč se kosovský prezident rozhodl rezignovat? ",
+            "length": "12345720",
+            "sourceUrl": "https://radiozurnal.rozhlas.cz/sites/default/files/audios/f3e0cdaa28d4648bbf2d2620a39bb2d4.mp3"
+        },
+        {
+            "title": "O Roma vakeren - Mířil na mého syna pistolí, popisuje Bertík Girga konflikt v Bílině. Policie případ šetří",
+            "datePublished": "Thu, 05 Nov 2020 17:14:00 +0100",
+            "description": "Minulý pátek došlo v Bílině k vážnému incidentu. Neznámý muž zde před místní prodejnou ohrožoval plynovou pistolí zpěváka a textaře Bartoloměje Girgu a jeho rodinu.",
+            "length": "3799267",
+            "sourceUrl": "https://radiozurnal.rozhlas.cz/sites/default/files/audios/820afc620be4955e8399977a5493dd26.mp3"
+        },
+        {
+            "title": "Dvacet minut Radiožurnálu - Protesty nepodporují jen mladí lidé. Situace může eskalovat příští týden, říká polská překladatelka",
+            "datePublished": "Thu, 05 Nov 2020 17:05:00 +0100",
+            "description": "Varšava zažila minulý týden největší protesty za posledních třicet let. Namířeny jsou proti rozhodnutí polského ústavního soudu, které zásadně omezilo možnost legálních potratů. Pomůže výzva k dialogu, kterou protestujícím adresoval polský premiér? A o co všechno jde mladým ženám a mužům, kteří se staví proti vládní protipotratové politice? Hostem Tomáše Pancíře ve Dvaceti minutách Radiožurnálu byla tlumočnice a překladatelka Hanna Marciniaková, která působí v Praze.",
+            "length": "14784496",
+            "sourceUrl": "https://radiozurnal.rozhlas.cz/sites/default/files/audios/525fbb59877ca9a102ff4482a706b142.mp3"
+        }
+    ]
+}

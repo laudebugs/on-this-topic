@@ -1,0 +1,755 @@
+{
+    "artwork": "http://is3.mzstatic.com/image/thumb/Music/v4/f9/84/c8/f984c825-9b75-0617-7cf0-a047a9661b4a/source/100x100bb.jpg",
+    "description": "القرآن الكريم كاملاً بصوت الشيخ ماهر المعيقلي",
+    "feedURL": "http://feeds.feedburner.com/wordpress/vsWo",
+    "podcastURL": "https://quranlive.wordpress.com",
+    "publisher": "majoditv@gmail.com",
+    "title": "القرآن الكريم",
+    "episodes": [
+        {
+            "title": "سورة محمد",
+            "datePublished": "Fri, 26 Mar 2010 03:25:57 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "9425106",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/047.mp3",
+            "categories": [
+                "غير مصنف",
+                "محمد"
+            ]
+        },
+        {
+            "title": "سورة الفتح",
+            "datePublished": "Fri, 26 Mar 2010 03:24:13 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "8961171",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/048.mp3",
+            "categories": [
+                "غير مصنف",
+                "الفتح"
+            ]
+        },
+        {
+            "title": "سورة الحجرات",
+            "datePublished": "Sun, 07 Mar 2010 02:14:01 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "5921354",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/049.mp3",
+            "categories": [
+                "غير مصنف",
+                "الحجرات"
+            ]
+        },
+        {
+            "title": "سورة ق",
+            "datePublished": "Sun, 07 Mar 2010 02:05:16 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "6097315",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/050.mp3",
+            "categories": [
+                "غير مصنف",
+                "ق"
+            ]
+        },
+        {
+            "title": "سورة الذاريات",
+            "datePublished": "Sun, 07 Mar 2010 02:03:00 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "6129080",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/051.mp3",
+            "categories": [
+                "غير مصنف",
+                "الذاريات"
+            ]
+        },
+        {
+            "title": "سورة الطور",
+            "datePublished": "Sun, 07 Mar 2010 02:00:34 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "5441119",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/052.mp3",
+            "categories": [
+                "غير مصنف",
+                "الطور"
+            ]
+        },
+        {
+            "title": "سورة النجم",
+            "datePublished": "Sun, 07 Mar 2010 01:59:08 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "5744976",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/053.mp3",
+            "categories": [
+                "غير مصنف",
+                "النجم"
+            ]
+        },
+        {
+            "title": "سورة القمر",
+            "datePublished": "Sun, 07 Mar 2010 01:57:46 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "5809341",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/054.mp3",
+            "categories": [
+                "غير مصنف",
+                "القمر"
+            ]
+        },
+        {
+            "title": "سورة الرحمن",
+            "datePublished": "Sat, 06 Mar 2010 01:00:44 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "7025185",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/055.mp3",
+            "categories": [
+                "غير مصنف",
+                "الرحمن"
+            ]
+        },
+        {
+            "title": "سورة الواقعة",
+            "datePublished": "Sat, 06 Mar 2010 00:55:29 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "7729028",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/056.mp3",
+            "categories": [
+                "غير مصنف",
+                "الواقعة"
+            ]
+        },
+        {
+            "title": "سورة الحديد",
+            "datePublished": "Sat, 06 Mar 2010 00:53:57 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "9569302",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/057.mp3",
+            "categories": [
+                "غير مصنف",
+                "الحديد"
+            ]
+        },
+        {
+            "title": "سورة المجادلة",
+            "datePublished": "Sat, 06 Mar 2010 00:39:50 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "8049185",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/058.mp3",
+            "categories": [
+                "غير مصنف",
+                "المجادلة"
+            ]
+        },
+        {
+            "title": "سورة الحشر",
+            "datePublished": "Sat, 06 Mar 2010 00:38:17 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "8497237",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/059.mp3",
+            "categories": [
+                "غير مصنف",
+                "الحشر"
+            ]
+        },
+        {
+            "title": "سورة الممتحنة",
+            "datePublished": "Sat, 06 Mar 2010 00:23:58 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "6161263",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/060.mp3",
+            "categories": [
+                "غير مصنف",
+                "الممتحنة"
+            ]
+        },
+        {
+            "title": "سورة الصف",
+            "datePublished": "Sat, 06 Mar 2010 00:22:00 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "4001250",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/061.mp3",
+            "categories": [
+                "غير مصنف",
+                "الصف"
+            ]
+        },
+        {
+            "title": "سورة الجمعة",
+            "datePublished": "Sat, 06 Mar 2010 00:19:59 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "2881119",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/062.mp3",
+            "categories": [
+                "غير مصنف",
+                "الجمعة"
+            ]
+        },
+        {
+            "title": "سورة المنافقون",
+            "datePublished": "Sat, 06 Mar 2010 00:18:44 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "3361354",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/063.mp3",
+            "categories": [
+                "غير مصنف",
+                "المنافقون"
+            ]
+        },
+        {
+            "title": "سورة التغابن",
+            "datePublished": "Mon, 01 Mar 2010 19:27:34 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "4689211",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/064.mp3",
+            "categories": [
+                "غير مصنف",
+                "التغابن"
+            ]
+        },
+        {
+            "title": "سورة الطلاق",
+            "datePublished": "Mon, 01 Mar 2010 19:26:20 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "4785341",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/065.mp3",
+            "categories": [
+                "غير مصنف",
+                "الطلاق"
+            ]
+        },
+        {
+            "title": "سورة التحريم",
+            "datePublished": "Mon, 01 Mar 2010 19:25:10 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "4401237",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/066.mp3",
+            "categories": [
+                "غير مصنف",
+                "التحريم"
+            ]
+        },
+        {
+            "title": "سورة الملك",
+            "datePublished": "Mon, 01 Mar 2010 19:23:47 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "5201211",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/067.mp3",
+            "categories": [
+                "غير مصنف",
+                "الملك"
+            ]
+        },
+        {
+            "title": "سورة القلم",
+            "datePublished": "Mon, 01 Mar 2010 19:22:11 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "5265158",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/068.mp3",
+            "categories": [
+                "غير مصنف",
+                "القلم"
+            ]
+        },
+        {
+            "title": "سورة الحاقة",
+            "datePublished": "Sat, 27 Feb 2010 17:07:48 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "4849289",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/069.mp3",
+            "categories": [
+                "غير مصنف",
+                "الحاقة"
+            ]
+        },
+        {
+            "title": "سورة المعارج",
+            "datePublished": "Sat, 27 Feb 2010 17:01:12 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "4001250",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/070.mp3",
+            "categories": [
+                "غير مصنف",
+                "المعارج"
+            ]
+        },
+        {
+            "title": "سورة نوح",
+            "datePublished": "Sat, 27 Feb 2010 16:59:55 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "3777224",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/071.mp3",
+            "categories": [
+                "غير مصنف",
+                "نوح"
+            ]
+        },
+        {
+            "title": "سورة الجن",
+            "datePublished": "Sat, 27 Feb 2010 16:58:26 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "4497367",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/072.mp3",
+            "categories": [
+                "غير مصنف",
+                "الجن"
+            ]
+        },
+        {
+            "title": "سورة  المزّمّل",
+            "datePublished": "Sat, 27 Feb 2010 16:57:07 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "3425302",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/073.mp3",
+            "categories": [
+                "غير مصنف",
+                "المزّمّل"
+            ]
+        },
+        {
+            "title": "سورة المدثر",
+            "datePublished": "Sat, 27 Feb 2010 16:52:24 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "4241158",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/074.mp3",
+            "categories": [
+                "غير مصنف",
+                "المدثر"
+            ]
+        },
+        {
+            "title": "سورة القيامة",
+            "datePublished": "Sat, 27 Feb 2010 16:51:07 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "2801289",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/075.mp3",
+            "categories": [
+                "غير مصنف",
+                "القيامة"
+            ]
+        },
+        {
+            "title": "سورة الإنسان",
+            "datePublished": "Sat, 27 Feb 2010 16:49:06 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "4753158",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/076.mp3",
+            "categories": [
+                "غير مصنف",
+                "الإنسان"
+            ]
+        },
+        {
+            "title": "سورة المرسلات",
+            "datePublished": "Sat, 27 Feb 2010 16:47:12 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "3425302",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/077.mp3",
+            "categories": [
+                "غير مصنف",
+                "المرسلات"
+            ]
+        },
+        {
+            "title": "سورة النبأ",
+            "datePublished": "Sat, 27 Feb 2010 16:45:22 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "3425302",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/078.mp3",
+            "categories": [
+                "غير مصنف",
+                "النبأ"
+            ]
+        },
+        {
+            "title": "سورة النازعات",
+            "datePublished": "Sat, 27 Feb 2010 16:43:51 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "3105145",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/079.mp3",
+            "categories": [
+                "غير مصنف",
+                "النازعات"
+            ]
+        },
+        {
+            "title": "سورة عبس",
+            "datePublished": "Fri, 26 Feb 2010 12:17:35 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "2705158",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/080.mp3",
+            "categories": [
+                "غير مصنف",
+                "عبس"
+            ]
+        },
+        {
+            "title": "سورة التكوير",
+            "datePublished": "Fri, 26 Feb 2010 12:16:30 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "1809054",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/081.mp3",
+            "categories": [
+                "غير مصنف",
+                "التكوير"
+            ]
+        },
+        {
+            "title": "سورة الإنفطار",
+            "datePublished": "Fri, 26 Feb 2010 12:15:24 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "1409067",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/082.mp3",
+            "categories": [
+                "غير مصنف",
+                "الإنفطار"
+            ]
+        },
+        {
+            "title": "سورة المطففين",
+            "datePublished": "Fri, 26 Feb 2010 12:14:06 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "3041198",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/083.mp3",
+            "categories": [
+                "غير مصنف",
+                "المطففين"
+            ]
+        },
+        {
+            "title": "سورة الإنشقاق",
+            "datePublished": "Fri, 26 Feb 2010 12:12:55 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "1825354",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/084.mp3",
+            "categories": [
+                "غير مصنف",
+                "الإنشقاق"
+            ]
+        },
+        {
+            "title": "سورة البروج",
+            "datePublished": "Fri, 26 Feb 2010 12:11:38 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "1857119",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/085.mp3",
+            "categories": [
+                "غير مصنف",
+                "البروج"
+            ]
+        },
+        {
+            "title": "سورة الطارق",
+            "datePublished": "Fri, 26 Feb 2010 12:10:24 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "1073028",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/086.mp3",
+            "categories": [
+                "غير مصنف",
+                "الطارق"
+            ]
+        },
+        {
+            "title": "سورة الأعلى",
+            "datePublished": "Thu, 25 Feb 2010 17:05:01 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "1265289",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/087.mp3",
+            "categories": [
+                "غير مصنف",
+                "الأعلى"
+            ]
+        },
+        {
+            "title": "سورة الغاشية",
+            "datePublished": "Thu, 25 Feb 2010 17:03:40 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "1569145",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/088.mp3",
+            "categories": [
+                "غير مصنف",
+                "الغاشية"
+            ]
+        },
+        {
+            "title": "سورة الفجر",
+            "datePublished": "Thu, 25 Feb 2010 17:02:27 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "2465250",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/089.mp3",
+            "categories": [
+                "غير مصنف",
+                "الفجر"
+            ]
+        },
+        {
+            "title": "سورة البلد",
+            "datePublished": "Tue, 23 Feb 2010 14:51:21 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "1473015",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/090.mp3",
+            "categories": [
+                "غير مصنف",
+                "البلد"
+            ]
+        },
+        {
+            "title": "سورة الشمس",
+            "datePublished": "Tue, 23 Feb 2010 14:50:05 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "993198",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/091.mp3",
+            "categories": [
+                "غير مصنف",
+                "الشمس"
+            ]
+        },
+        {
+            "title": "سورة الليل",
+            "datePublished": "Tue, 23 Feb 2010 14:48:53 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "1329237",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/092.mp3",
+            "categories": [
+                "غير مصنف",
+                "الليل"
+            ]
+        },
+        {
+            "title": "سورة الضحى",
+            "datePublished": "Tue, 23 Feb 2010 14:47:38 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "769171",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/093.mp3",
+            "categories": [
+                "غير مصنف",
+                "الضحى"
+            ]
+        },
+        {
+            "title": "سورة الشرح",
+            "datePublished": "Tue, 23 Feb 2010 14:46:23 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "481198",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/094.mp3",
+            "categories": [
+                "غير مصنف",
+                "الشرح"
+            ]
+        },
+        {
+            "title": "سورة التين",
+            "datePublished": "Tue, 23 Feb 2010 14:45:16 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "641276",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/095.mp3",
+            "categories": [
+                "غير مصنف",
+                "التين"
+            ]
+        },
+        {
+            "title": "سورة العلق",
+            "datePublished": "Tue, 23 Feb 2010 14:43:19 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "1185041",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/096.mp3",
+            "categories": [
+                "غير مصنف",
+                "العلق"
+            ]
+        },
+        {
+            "title": "سورة القدر",
+            "datePublished": "Tue, 23 Feb 2010 14:41:39 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "513380",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/097.mp3",
+            "categories": [
+                "غير مصنف",
+                "القدر"
+            ]
+        },
+        {
+            "title": "سورة البينة",
+            "datePublished": "Tue, 23 Feb 2010 14:40:18 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "1537380",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/098.mp3",
+            "categories": [
+                "غير مصنف"
+            ]
+        },
+        {
+            "title": "سورة الزلزلة",
+            "datePublished": "Tue, 23 Feb 2010 14:38:54 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "721106",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/099.mp3",
+            "categories": [
+                "غير مصنف",
+                "الزلزلة"
+            ]
+        },
+        {
+            "title": "سورة العاديات",
+            "datePublished": "Tue, 23 Feb 2010 10:49:56 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "753289",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/100.mp3",
+            "categories": [
+                "غير مصنف",
+                "العاديات"
+            ]
+        },
+        {
+            "title": "سورة القارعة",
+            "datePublished": "Tue, 23 Feb 2010 10:48:40 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "705224",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/101.mp3",
+            "categories": [
+                "غير مصنف",
+                "القارعة"
+            ]
+        },
+        {
+            "title": "سورة التكاثر",
+            "datePublished": "Tue, 23 Feb 2010 10:47:28 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "545145",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/102.mp3",
+            "categories": [
+                "غير مصنف",
+                "التكاثر"
+            ]
+        },
+        {
+            "title": "سورة العصر",
+            "datePublished": "Tue, 23 Feb 2010 10:46:13 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "321119",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/103.mp3",
+            "categories": [
+                "غير مصنف",
+                "العصر"
+            ]
+        },
+        {
+            "title": "سورة الهمزة",
+            "datePublished": "Tue, 23 Feb 2010 09:31:22 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "673041",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/104.mp3",
+            "categories": [
+                "غير مصنف",
+                "الهمزة"
+            ]
+        },
+        {
+            "title": "سورة الفيل",
+            "datePublished": "Tue, 23 Feb 2010 09:30:08 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "481198",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/105.mp3",
+            "categories": [
+                "غير مصنف",
+                "الفيل"
+            ]
+        },
+        {
+            "title": "سورة قريش",
+            "datePublished": "Tue, 23 Feb 2010 09:28:53 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "401367",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/106.mp3",
+            "categories": [
+                "غير مصنف",
+                "قريش"
+            ]
+        },
+        {
+            "title": "سورة الماعون",
+            "datePublished": "Tue, 23 Feb 2010 09:27:47 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "513380",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/107.mp3",
+            "categories": [
+                "غير مصنف",
+                "الماعون"
+            ]
+        },
+        {
+            "title": "سورة الكوثر",
+            "datePublished": "Tue, 23 Feb 2010 09:25:51 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "289354",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/108.mp3",
+            "categories": [
+                "غير مصنف"
+            ]
+        },
+        {
+            "title": "سورة الكافرون",
+            "datePublished": "Tue, 23 Feb 2010 09:24:36 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "529263",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/109.mp3",
+            "categories": [
+                "غير مصنف",
+                "سورة الكافرون"
+            ]
+        },
+        {
+            "title": "سورة النصر",
+            "datePublished": "Tue, 23 Feb 2010 09:23:20 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "385067",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/110.mp3",
+            "categories": [
+                "غير مصنف",
+                "سورة النصر"
+            ]
+        },
+        {
+            "title": "سورة المسد",
+            "datePublished": "Tue, 23 Feb 2010 09:22:08 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "497080",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/111.mp3",
+            "categories": [
+                "غير مصنف",
+                "سورة المسد"
+            ]
+        },
+        {
+            "title": "سورة الإخلاص",
+            "datePublished": "Tue, 23 Feb 2010 09:20:54 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "257171",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/112.mp3",
+            "categories": [
+                "غير مصنف",
+                "سورة الاخلاص"
+            ]
+        },
+        {
+            "title": "سورة الفلق",
+            "datePublished": "Tue, 23 Feb 2010 09:19:29 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "385067",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/113.mp3",
+            "categories": [
+                "غير مصنف"
+            ]
+        },
+        {
+            "title": "سورة الناس",
+            "datePublished": "Tue, 23 Feb 2010 09:17:57 +0000",
+            "description": "القرآن كاملاً بصوت الشيخ ماهر المعيقلي",
+            "length": "465315",
+            "sourceUrl": "http://ia311018.us.archive.org/0/items/Maher_meaaqli/114.mp3",
+            "categories": [
+                "غير مصنف",
+                "سورةالناس"
+            ]
+        }
+    ]
+}

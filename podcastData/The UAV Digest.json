@@ -1,0 +1,408 @@
+{
+    "artwork": "http://is3.mzstatic.com/image/thumb/Music62/v4/ca/7a/bf/ca7abf1b-27d6-2eff-522a-1aadf24a1658/source/100x100bb.jpg",
+    "description": "The UAV Digest is an audio podcast devoted to Unmanned Aerial Vehicles and Systems. We cover new developments in the industry, regulatory issues, unmanned technology, and a lot more. We consider both commercial and military applications, from all perspectives.",
+    "feedURL": "http://theuavdigest.com/feed/podcast/",
+    "podcastURL": "http://theuavdigest.com",
+    "title": "The UAV Digest",
+    "episodes": [
+        {
+            "title": "351 Drones for First Responders",
+            "datePublished": "Fri, 30 Oct 2020 02:36:45 +0000",
+            "description": "A police department funds drones for response to 911 calls, paramedics in manned drones, public perception of drones, the U.S. government warns of drone attacks, a puffing drone, a heterogeneous drone swarm, and landing a UAV on a submarine.",
+            "length": "21981280",
+            "sourceUrl": "https://media.blubrry.com/theuavdigest/content.blubrry.com/theuavdigest/UAV_351_Drones_for_First_Responders.mp3",
+            "epNo": "351"
+        },
+        {
+            "title": "350 Cyclogyro Drone",
+            "datePublished": "Fri, 23 Oct 2020 14:29:25 +0000",
+            "description": "Cyclogyro propulsion for UAM, holographic particle detection, Singapore UAV licensing, Pipistrel autonomous heavy lift UAV, EU to patrol the Med, offshore wind farm maintenance with autonomous drones, drone seeding to save the Koala.",
+            "length": "23727136",
+            "sourceUrl": "https://media.blubrry.com/theuavdigest/content.blubrry.com/theuavdigest/UAV_350_Cyclogyro_Drone.mp3",
+            "epNo": "350"
+        },
+        {
+            "title": "349 Solar-Powered Drone LTE",
+            "datePublished": "Fri, 16 Oct 2020 15:01:57 +0000",
+            "description": "Loon and HAPSMobile test LTE from solar-powered drone, India MALE, Chinese weaponized drone swarm, small sensors dropped from small drones, FAA submits two proposed final drone rules, a Colorado drone club builds a drone park, a virtual drone summit.",
+            "length": "20343168",
+            "sourceUrl": "https://media.blubrry.com/theuavdigest/content.blubrry.com/theuavdigest/UAS_349_Solar-Powered_Drone.mp3",
+            "epNo": "349"
+        },
+        {
+            "title": "348 Weaponized Drones",
+            "datePublished": "Fri, 09 Oct 2020 14:08:33 +0000",
+            "description": "Weaponized drones, Walmart tries to catch up with Amazon, drone swarms and UFOs, disinfecting a stadium with a drone, converting old biplanes to unmanned aircraft, and a video of whales swimming with surfers.",
+            "length": "21400832",
+            "sourceUrl": "https://media.blubrry.com/theuavdigest/content.blubrry.com/theuavdigest/UAV_348_Weaponized_Drones.mp3",
+            "epNo": "348"
+        },
+        {
+            "title": "347 Indoor Security Drone",
+            "datePublished": "Fri, 02 Oct 2020 16:05:11 +0000",
+            "description": "Amazon security drone monitors the inside of your home, Bell cargo drone flies through metropolitan airspace, new underwater drone manufacturing facility, humanitarian awards, Covid tests delivered by drone, ATSB report on a pseudo-satellite break-up.",
+            "length": "25705410",
+            "sourceUrl": "https://media.blubrry.com/theuavdigest/content.blubrry.com/theuavdigest/UAV_347_Indoor_Security_Drone.mp3",
+            "epNo": "347"
+        },
+        {
+            "title": "346 The Longest Organ Delivery Flight by UAS",
+            "datePublished": "Fri, 25 Sep 2020 16:20:17 +0000",
+            "description": "Long distance organ delivery flight, survey-grade micro drone, UK drone zone, multi-fuel drones, heavy-lift drones, a UAV landing at a commercial airport, locating pregnant dolphins, Verizon’s wildfire drone waiver, a former FAA Administrator lands a new job.",
+            "length": "21745344",
+            "sourceUrl": "https://media.blubrry.com/theuavdigest/content.blubrry.com/theuavdigest/UAV_346_Organ_Delivery.mp3",
+            "epNo": "346"
+        },
+        {
+            "title": "345 SeaClear Project to Clean the Ocean",
+            "datePublished": "Fri, 18 Sep 2020 14:29:05 +0000",
+            "description": "SeaClear aims to clean ocean trash, the Loyal Wingman powers up its engine, a drone crashes into wind-turbine, drone makers see an opportunity in anti-China sentiment, marine animal rescue, photographing the orange landscapes caused by wildfire smoke, and why harassing a police officer with a drone is a bad idea.",
+            "length": "23849248",
+            "sourceUrl": "https://media.blubrry.com/theuavdigest/content.blubrry.com/theuavdigest/UAV_345_SeaClear_Project.mp3",
+            "epNo": "345"
+        },
+        {
+            "title": "344 Skyward",
+            "datePublished": "Fri, 11 Sep 2020 19:08:23 +0000",
+            "description": "We are joined by Skyward president Mariah Scott and product manager Amanda Breese to talk about drone remote identification.",
+            "length": "23974272",
+            "sourceUrl": "https://media.blubrry.com/theuavdigest/content.blubrry.com/theuavdigest/UAV_344_Skyward.mp3",
+            "epNo": "344"
+        },
+        {
+            "title": "343 Optionally Piloted",
+            "datePublished": "Fri, 04 Sep 2020 11:19:50 +0000",
+            "description": "Optionally piloted firefighting helicopters, was it a jetpack or a manikin on a drone?, the Amazon Prime Air exemption with conditions, Japan Airlines interest in drones, UAS RF spectrum news, and using a drone to deliver a spare part to a drilling platform.",
+            "length": "25544416",
+            "sourceUrl": "https://media.blubrry.com/theuavdigest/content.blubrry.com/theuavdigest/UAV_343_Optionally_Piloted.mp3",
+            "epNo": "344"
+        },
+        {
+            "title": "342 Countering Drone Swarms",
+            "datePublished": "Fri, 28 Aug 2020 13:21:34 +0000",
+            "description": "Technology developing to counter drone swarms, a blended wing body drone to catch poachers, studying pollinating bees, and Norway’s first UTM system.",
+            "length": "16210464",
+            "sourceUrl": "https://media.blubrry.com/theuavdigest/content.blubrry.com/theuavdigest/UAV_342_Countering_Drone_Swarms.mp3",
+            "epNo": "342"
+        },
+        {
+            "title": "341 Drone Detection",
+            "datePublished": "Fri, 21 Aug 2020 14:18:35 +0000",
+            "description": "Linda Ziemba is the founding CEO of AeroDefense, which produces the AirWarden system for drone detection that locates both drones and pilots simultaneously. We discuss the legality of detection and mitigation systems, and how the AeroDefense system provides legal drone detection.",
+            "length": "20706048",
+            "sourceUrl": "https://media.blubrry.com/theuavdigest/content.blubrry.com/theuavdigest/UAV_341_Drone_Detection.mp3"
+        },
+        {
+            "title": "340 Wide-Area Motion Imagery",
+            "datePublished": "Fri, 07 Aug 2020 14:44:48 +0000",
+            "description": "Wide-Area Motion Imagery (WAMI) for a Navy drone, hitting an airplane with a drone, delivery service in Alabama, quadcopter disrupts MLB game, UAS pilot program for Virginia, first commercial delivery drone to the Smithsonian, a drone finds a missing whale.",
+            "length": "20706592",
+            "sourceUrl": "https://media.blubrry.com/theuavdigest/content.blubrry.com/theuavdigest/UAV_340_Wide-Area_Motion_Imagery.mp3",
+            "epNo": "340"
+        },
+        {
+            "title": "339 Planning for Drones at Airports",
+            "datePublished": "Fri, 31 Jul 2020 12:48:09 +0000",
+            "description": "Airfield design guidelines for large UAS, a guidebook for UAS threats at airports, first free flight of Airbus naval UAS, studying sea turtles and saving baby deer, fully charging drone batteries in 5 minutes, and drones fly over a nuclear power plant.",
+            "length": "24849760",
+            "sourceUrl": "https://media.blubrry.com/theuavdigest/content.blubrry.com/theuavdigest/UAV_339_Planning_for_Drones_at_Airports.mp3",
+            "epNo": "339"
+        },
+        {
+            "title": "338 Drones and Biomimicry",
+            "datePublished": "Fri, 24 Jul 2020 15:06:21 +0000",
+            "description": "Avian biomimicry, stadium sanitizing with a drone, a Galileo competition, a new HALE flys, drones and electromagnetic pulses, wildfire data from drones, new standards from EASA, an F-15 with a loyal wingman under its wing.",
+            "length": "24397312",
+            "sourceUrl": "https://media.blubrry.com/theuavdigest/content.blubrry.com/theuavdigest/UAV_338_Drones_and_Biomimicry.mp3",
+            "epNo": "338"
+        },
+        {
+            "title": "337 Hacking Drones",
+            "datePublished": "Fri, 17 Jul 2020 13:27:06 +0000",
+            "description": "Hacking drones as a target and as a weapon, military drone flight over San Diego, a State-by-State drone report card, a milestone in India for civilian drones, the EHang 216 goes sightseeing, and those drone sightings in the U.S. midwest, revisited.",
+            "length": "26735008",
+            "sourceUrl": "https://media.blubrry.com/theuavdigest/content.blubrry.com/theuavdigest/UAV_337_Hacking_Drones.mp3",
+            "epNo": "337"
+        },
+        {
+            "title": "336 DroneDeploy CEO Mike Winn",
+            "datePublished": "Fri, 10 Jul 2020 15:16:29 +0000",
+            "description": "We talk with Mike Winn, a co-founder and the CEO of DroneDeploy.",
+            "length": "23689400",
+            "sourceUrl": "https://media.blubrry.com/theuavdigest/content.blubrry.com/theuavdigest/UAV_336_DroneDeploy_CEO_Mike_Winn.mp3",
+            "epNo": "336"
+        },
+        {
+            "title": "335 Kespry CEO George Mathew",
+            "datePublished": "Fri, 26 Jun 2020 14:53:59 +0000",
+            "description": "Our guest is George Mathew, chairman and CEO of Kespry, a leading drone-based aerial intelligence solution provider.",
+            "length": "30562848",
+            "sourceUrl": "https://media.blubrry.com/theuavdigest/content.blubrry.com/theuavdigest/UAV_335_Kespry_CEO_George_Mathew.mp3",
+            "epNo": "335"
+        },
+        {
+            "title": "334 Drone Aerobatics",
+            "datePublished": "Fri, 19 Jun 2020 13:42:10 +0000",
+            "description": "AI-powered drones perform extreme aerobatics, U.S. to allow export of armed drones, testing swarming drones, Royal Canadian Navy drone finds drug smugglers, hybrid drone rescues a stranded motorist, 5th Annual FAA UAS Symposium goes virtual.",
+            "length": "18350496",
+            "sourceUrl": "https://media.blubrry.com/theuavdigest/content.blubrry.com/theuavdigest/UAV_334_Drone_Aerobatics.mp3",
+            "epNo": "334"
+        },
+        {
+            "title": "333 Insect-Inspired Microbot",
+            "datePublished": "Sat, 13 Jun 2020 11:10:17 +0000",
+            "description": "A cockroach-inspired microbot, a manned vs. unmanned fighter fly off, autonomous deliveries from CVS, a Predator over Minneapolis protests, a police helicopter collides with a police drone, piloting a UAS from an airborne C-130J Hercules, and library books delivered by Wing.",
+            "length": "23599008",
+            "sourceUrl": "https://media.blubrry.com/theuavdigest/content.blubrry.com/theuavdigest/UAV_333_Insect-Inspired_Microbot.mp3",
+            "epNo": "333"
+        },
+        {
+            "title": "332 Last-Mile Drone Delivery Tested",
+            "datePublished": "Fri, 05 Jun 2020 14:39:26 +0000",
+            "description": "A major test of last-mile drone delivery, direct-seeding rice with a drone, a drone-centric kiosk you can build yourself, and a webinar to learn the BVLOS regulatory landscape.\n\n\n\nUAV News\n\n\n\nLast Mile Drone Delivery: Testing the Limits of Commercial Operations\n\n\n\nDroneUp partnered with Virginia’s Center for Innovative Technology (CIT) and UPS on a project to quickly evaluate the concept of last-mile drone delivery. They wanted to see how unmanned aerial systems could assist with critical delivery during times of crisis.\n\n\n\nOn the vacant campus of St. Paul’s College, in Lawrenceville, Virginia, a group of pilots flew over 200 flights under a scripted plan, operating under part 107 rules, with industry-standard drones. The flights simulated the delivery of 1.275-pound payloads of medical and other critical supplies in city-like conditions. Data was collected with respect to operational capacities, airspace deconfliction, operator safety, processes, policies, and training.\n\n\n\nTom Walker, DroneUp’s CEO, said, “DroneUp’s drone delivery exercise was aimed at learning what is possible to do safely and effectively today while gathering data to overcome seemingly impossible obstacles in the near future.” \n\n\n\nFor more, see the 56-page report, DroneUp Resources Operation Last-Mile: Critical Drone Delivery Report.\n\n\n\nXAG Introduces Rice Seeding Drone\n\n\n\nXAG is a Chinese company focused on agricultural technology. In April 2020, they organized a rice direct-seeding demonstration where two workers spread 5kg of rice seeds through a muddy rice paddy. Following that, a XAG drone repeated the same task. The difference in planing time was significant.\n\n\n\nRaspberry Pi-based Kiosk Display Shares Weather, FAA Advisories for Drones\n\n\n\nA project from Sky Horse Tech uses a Raspberry Pi to power a custom drone-centric kiosk. The kiosk pulls in local weather data and FAA advisories through AirMap and MapBox. The data cycles every 30 seconds and is refreshed every 5 minutes. The kiosk uses a 32” display, a $35 Raspberry Pi 3 Model B or newer, some free software, and weather and FAA advisory APIs.\n\n\n\nNavigating the Regulatory Landscape Towards BVLOS Operations\n\n\n\nThis free AUVSI webinar is scheduled for Wednesday, June 10, 2020, 03:00 PM TO 04:00 PM (EDT). You’ll learn about the regulations affecting Beyond Visual Line of Sight (BVLOS) drone flight and the factors involved in successfully navigating the regulatory environment to achieve a waiver. \n\n\n\nIris Automation director of airspace integration Trever Linn will explain what operators should expect before applying for a waiver, and the key components such as risk mitigation measures and CONOPS documentation necessary for approvals. Attendees will learn about current regulatory challenges, readily available solutions, and the path forward for BVLOS drone operations.",
+            "length": "17864327",
+            "sourceUrl": "https://media.blubrry.com/theuavdigest/content.blubrry.com/theuavdigest/UAV_332_Last-Mile_Drone_Delivery.mp3",
+            "epNo": "332"
+        },
+        {
+            "title": "331 Skyborg for Loyal Wingman UAV",
+            "datePublished": "Fri, 22 May 2020 12:11:12 +0000",
+            "description": "Skyborg design competition for USAF loyal wingman UAVs, catapulting a drone from a helicopter, FAA investigating Blue Angels close encounter, drone launches grenades and sprays crops, Singapore keeps an eye on people, drone crash caused by electric lines.",
+            "length": "19827338",
+            "sourceUrl": "https://media.blubrry.com/theuavdigest/content.blubrry.com/theuavdigest/UAV_331_Skyborg_for_Loyal_Wingman.mp3",
+            "epNo": "331"
+        },
+        {
+            "title": "330 Passenger Drone Hotel",
+            "datePublished": "Fri, 15 May 2020 13:56:34 +0000",
+            "description": "A passenger drone hotel, a pub drone for beer delivery, UFOs that might be drones, distance-learning UAS education, flying creatures make drones better, measuring whales from above, and a close encounter with the Blue Angels.",
+            "length": "22397732",
+            "sourceUrl": "https://media.blubrry.com/theuavdigest/content.blubrry.com/theuavdigest/UAV_330_Passenger_Drone_Hotel.mp3",
+            "epNo": "330"
+        },
+        {
+            "title": "329 Boeing Loyal Wingman",
+            "datePublished": "Fri, 08 May 2020 13:36:25 +0000",
+            "description": "Boeing unveils a loyal wingman, special ops drones for training exercises, safe and effective volcano research, remote ID technology partners announced, crushing rocks and measuring the pile with a drone, and PPE delivery to the home.",
+            "length": "20293920",
+            "sourceUrl": "https://media.blubrry.com/theuavdigest/content.blubrry.com/theuavdigest/UAV_329_Boeing_Loyal_Wingman.mp3",
+            "epNo": "329"
+        },
+        {
+            "title": "328 Blockchain for Unmanned Aircraft",
+            "datePublished": "Fri, 01 May 2020 12:12:20 +0000",
+            "description": "The U.S. DOT report shows benefits of blockchain for unmanned aircraft. Drone cinematographers and a labor agreement, a drone modeled after a dragonfly, VTOL reconnaissance, AI controllers, and AUVSI virtual sessions.",
+            "length": "21237945",
+            "sourceUrl": "https://media.blubrry.com/theuavdigest/content.blubrry.com/theuavdigest/UAV_328_Blockchain.mp3",
+            "epNo": "328"
+        },
+        {
+            "title": "327 COVID-19 Inspired Drones",
+            "datePublished": "Fri, 24 Apr 2020 12:55:28 +0000",
+            "description": "Checking on the public with a “pandemic drone” and a COVID-19 inspired BVLOS exemption. Also, duck watching with drones, a BVLOS helicopter for humanitarian relief, pre-historic flying reptiles, and fuel cells for eVTOL.",
+            "length": "23060135",
+            "sourceUrl": "https://media.blubrry.com/theuavdigest/content.blubrry.com/theuavdigest/UAV_327_COVID-19_Inspired_Drones.mp3",
+            "epNo": "327"
+        },
+        {
+            "title": "326 Altavian and Sinclair Print Masks",
+            "datePublished": "Fri, 17 Apr 2020 13:53:08 +0000",
+            "description": "Altavian and the Sinclair National UAS Training and Certification Center team up to 3D print and distribute PPE masks, coronavirus resources from Drone Girl, US anti-drone guidelines, a 360-degree detect-and-avoid system, an omnidirectional drone.",
+            "length": "18054126",
+            "sourceUrl": "https://media.blubrry.com/theuavdigest/content.blubrry.com/theuavdigest/UAV_326_Altavian_and_Sinclair.mp3",
+            "epNo": "326"
+        },
+        {
+            "title": "325 Drawing with Drones",
+            "datePublished": "Fri, 10 Apr 2020 15:42:10 +0000",
+            "description": "Photographs drawn with a drone, a General Atomics SkyGuardian demonstration flight, an electric flying car racing series, a proposal for a drone emoji, 5G drones and networks, using drones while on quarantine, and autonomous resupply for the military.",
+            "length": "22982087",
+            "sourceUrl": "https://media.blubrry.com/theuavdigest/content.blubrry.com/theuavdigest/UAV_325_Drawing_with_Drones.mp3",
+            "epNo": "325"
+        },
+        {
+            "title": "UAV 324 Drones and the Pandemic",
+            "datePublished": "Fri, 03 Apr 2020 14:03:23 +0000",
+            "description": "Drones fight the pandemic through cloud-based drone technology, spraying disinfectant, and medical deliveries. Also, a first responder drone endurance challenge, NOAA’s new unmanned systems program, and some free drone training.",
+            "length": "18488978",
+            "sourceUrl": "https://media.blubrry.com/theuavdigest/content.blubrry.com/theuavdigest/UAV_324_Drones_and_the_Pandemic.mp3",
+            "epNo": "324"
+        },
+        {
+            "title": "323 Drones and Low Altitude Operators",
+            "datePublished": "Fri, 27 Mar 2020 15:08:29 +0000",
+            "description": "FAA Request For Information from low altitude operators, drone reaction times, a European integration program, quadcopters map inaccessible historic ruins, Reaper replacements, delivery drones at UAS test site, Virginia town, and UPS and Wingcopter.",
+            "length": "24445421",
+            "sourceUrl": "https://media.blubrry.com/theuavdigest/content.blubrry.com/theuavdigest/UAV_323_Drones_and_Low_Altitude_Operators.mp3",
+            "epNo": "323"
+        },
+        {
+            "title": "322 Drones and Coronavirus",
+            "datePublished": "Fri, 20 Mar 2020 15:38:46 +0000",
+            "description": "Unmanned aircraft and the Coronavirus (COVID-19), Drone Racing League Academy to teach STEM, EHang looks to Europe with autonomous aerial vehicle, a radar cross-section database for malicious drone identification, a flying car that looks like a flying car.",
+            "length": "21935493",
+            "sourceUrl": "https://media.blubrry.com/theuavdigest/content.blubrry.com/theuavdigest/UAV_322_Drones_and_Coronavirus.mp3",
+            "epNo": "322"
+        },
+        {
+            "title": "321 DJI on Remote ID",
+            "datePublished": "Fri, 13 Mar 2020 14:20:02 +0000",
+            "description": "Study shows FAA vastly under-estimates cost of Remote ID proposal, new USAF medical standards for RPA pilots, a better communications antenna for UAVs, a draft executive order that would ban foreign drones, and building a 5G infrastructure using drones.",
+            "length": "22002880",
+            "sourceUrl": "https://media.blubrry.com/theuavdigest/content.blubrry.com/theuavdigest/UAV_321_DJI_on_Remote_ID.mp3",
+            "epNo": "321"
+        },
+        {
+            "title": "320 Holographic Radar for C-UAS",
+            "datePublished": "Fri, 06 Mar 2020 12:54:15 +0000",
+            "description": "Holographic radar for drone detection, inspecting the Tokyo underground, good uses for drones at airports, delivery drones in China, Elon Musk has another prediction, a drone delivery proposal for Long Island Sound, an eVTOL prototype goes up in flames, and NASA’s Autonomous Navigation Demonstration Challenge.",
+            "length": "24384928",
+            "sourceUrl": "https://media.blubrry.com/theuavdigest/content.blubrry.com/theuavdigest/UAV_320_Holographic_Radar.mp3",
+            "epNo": "320"
+        },
+        {
+            "title": "319 Canadian Drone Management System",
+            "datePublished": "Fri, 28 Feb 2020 13:12:57 +0000",
+            "description": "Canada selects drone management system, BlueBird Aero Systems wins a large UAS order, North Texas educates new drone flyers, mystery drone emails, flying the Golden Gate Bridge, drones that monitor environmental changes.",
+            "length": "26549248",
+            "sourceUrl": "https://media.blubrry.com/theuavdigest/content.blubrry.com/theuavdigest/UAV_319_Canadian_Drone_Management.mp3",
+            "epNo": "319"
+        },
+        {
+            "title": "318 Police Micro-Drones",
+            "datePublished": "Sat, 15 Feb 2020 13:48:48 +0000",
+            "description": "Micro-drones for law enforcement, a laser C-UAS system, DJI and the Coronavirus, drone remote ID interaction with manned aircraft, airplane modelers and remote ID, and a new reality show featuring drones.",
+            "length": "20981376",
+            "sourceUrl": "https://media.blubrry.com/theuavdigest/content.blubrry.com/theuavdigest/UAV_318_Police_Micro-Drones.mp3",
+            "epNo": "318"
+        },
+        {
+            "title": "317 Proposal to Type Certify UAS",
+            "datePublished": "Fri, 07 Feb 2020 16:11:29 +0000",
+            "description": "The FAA proposal to type-certify UAS, autonomous EA-18G Growlers, surveillance with drones in China, no Remote ID NPRM extension, DoD counter-UAS contract, an unmanned kit for the K-Max, delivering ice cream, and an arrest for busting the Super Bowl TFR.",
+            "length": "24473664",
+            "sourceUrl": "http://media.blubrry.com/theuavdigest/content.blubrry.com/theuavdigest/UAV_317_Proposal_to_Certify_UAS.mp3",
+            "epNo": "317"
+        },
+        {
+            "title": "316 DJI Responds to US Government Restrictions",
+            "datePublished": "Fri, 31 Jan 2020 15:50:45 +0000",
+            "description": "DJI issues statement attacking US Govt, Japan Airlines and the drone delivery business, the need for standards, drones shut down helicopter crash airspace, Army launches  counter-drone office, stalking with a drone, mystery drones and mass hysteria.",
+            "length": "22787392",
+            "sourceUrl": "http://media.blubrry.com/theuavdigest/content.blubrry.com/theuavdigest/UAV_316_DJI_Responds.mp3",
+            "epNo": "316"
+        },
+        {
+            "title": "315 PrecisionHawk Leadership Change",
+            "datePublished": "Fri, 24 Jan 2020 13:32:02 +0000",
+            "description": "A plan to deliver cannabis in Seattle with drones, flying medical specimens to the lab with UAS, a Chinese 3-engine MALE drone, taking down small drones with an F-16, a Gremlins maiden flight, and a drone solution to parasitic disease in humans.",
+            "length": "22848172",
+            "sourceUrl": "http://media.blubrry.com/theuavdigest/content.blubrry.com/theuavdigest/UAV_315_PrecisionHawk_Change.mp3",
+            "epNo": "315"
+        },
+        {
+            "title": "314 Remote ID Reactions",
+            "datePublished": "Fri, 17 Jan 2020 16:59:04 +0000",
+            "description": "Initial reactions to the FAA Remote ID NPRM, a high-accuracy photogrammetry solution, Apple hires a familiar face to lobby in Washington, an anti-drone system for Heathrow, a stealthy new target drone, and a fixed-wing eVTOL personal ultralight aircraft.",
+            "length": "21923680",
+            "sourceUrl": "http://media.blubrry.com/theuavdigest/content.blubrry.com/theuavdigest/UAV_314_Remote_ID_Reactions.mp3",
+            "epNo": "314"
+        },
+        {
+            "title": "313 Uber-Hyundai Air Taxi Concept",
+            "datePublished": "Fri, 10 Jan 2020 14:56:14 +0000",
+            "description": "Uber and Hyundai team up on an air taxi, mystery drones still flying in the U.S. midwest, UK investigations of drone crashes leads to safety recommendations, a drone that can see dead people, and a drone that brews beer.",
+            "length": "22815040",
+            "sourceUrl": "http://media.blubrry.com/theuavdigest/content.blubrry.com/theuavdigest/UAV_313_Uber-Hyundai_Air_Taxi.mp3",
+            "epNo": "313"
+        },
+        {
+            "title": "312 Drone Remote ID NPRM",
+            "datePublished": "Sat, 04 Jan 2020 15:13:34 +0000",
+            "description": "An NPRM for drone remote ID was published by the FAA, drones used by the NYPD for event security, public agencies contracting for UAS services, methanol-powered drones, a mystery swarm of drones, and delivery by UAS in the 2020s.",
+            "length": "23141056",
+            "sourceUrl": "http://media.blubrry.com/theuavdigest/content.blubrry.com/theuavdigest/UAV_312_Drone_Remote_ID.mp3",
+            "epNo": "312"
+        },
+        {
+            "title": "311 V-Coptr Falcon Bi-copter",
+            "datePublished": "Fri, 20 Dec 2019 15:47:29 +0000",
+            "description": "A new bi-copter for aerial photography, a waterproof fishing drone, a single-seat eVTOL aircraft for the GoFly competition, DOD wants U.S. designed and manufactured drones, a town grapples with public safety drones and privacy concerns, and the FAA revises the airman certificate process.\n\n\n\nUAV News\n\n\n\nV-Coptr Falcon 4K camera drone gets 50-minute flight time with just two rotors\n\n\n\nThe new bi-copter from Zero Zero Robotics is called the V-Coptr Falcon, a tilt-rotor with a claimed flight time of 50 minutes. It features slower rotating propellers that are quieter, a 3-axis mechanical gimbal, 4K video and 12-megapixel photos, a controller with a flip-up mount for your phone. The bi-copter also has auto-follow, obstacle avoidance with a front-facing stereo camera and pre-programmed flight paths.\n\n\n\nGannet’s waterproof fishing drone to launch this month\n\n\n\nGannet offers a fairly complete range of drone fishing products including bait release systems and drone fishing rods. They’ve crowdfunded the development of the Gannet Pro waterproof drone that can release 3.5kg payloads of bait hundreds of meters away. A unique barometric pressure control system adjusts flight altitude.\n\n\n\n Video: Gannet Pro waterproof drones\n\n\n\n\nhttps://youtu.be/Z99T8htP5u4\n\n\n\n\nSilverwing reveals full-scale S1 prototype\n\n\n\nThe S1 is a single-seat, VTOL electric drone developed by a team from the Delft University of Technology in the Netherlands. The S1 drone takes off and lands vertically on its tail, then tilts forward for horizontal flight. Silverwing says the S1 will be able to transport a passenger 60 kilometers (37 miles) flying at a top speed of 120 km/h (75 mph). The S1 was designed to meet the requirements of the GoFly prize which is sponsored by Boeing. The competition is for innovators, inventors, engineers, and makers to design and build a personal flying device.\n\n\n\nThe Final Fly Off is at Moffett Federal Airfield at NASA’s Ames Research Center in California with support from Boeing, Google’s Planetary Ventures, and Pratt & Whitney. from Thursday, February 27th through Saturday, February 29th, 2020. \n\n\n\nPentagon Is Searching for Domestic Drone Options\n\n\n\nThe U.S. Defense Department wants to see a U.S. ecosystem for sUAS and counter technologies and they are making it a priority in 2020. Under Secretary of Defense for Acquisition and Sustainment, Ellen Lord said, “We see this as developing an ecosystem to have investment in areas that the Department of Defense thinks are particularly critical for providing capabilities to the warfighter, but also translate many times into commercial products. …I think you know that DJI flooded the market with low-cost quadcopters particularly, which eroded our industrial base and really altered the landscape for the U.S. government and for the small drone industry. What we want to do is reinvigorate that.”\n\n\n\nMenlo Park: Proposal for city drone program raises civil liberty questions\n\n\n\nIn California at a Menlo Park City Council study session, police, public works, and community development leaders described how drones could help them. The council was open to the idea of using drones, but they did have significant concerns about privacy and civil rights. Mayor Ray Mueller said, \"For me, the use cases are great. I just want to have discussion about what the guard rails are.\" City staff was asked to come back with a drone program expert and clearer policies on acceptable uses of the drones and relevant software applications, as well as more information about how many human-hours of work that drone use could save.\n\n\n\nFAA to Improve Airmen Certificate Testing\n\n\n\nThe Federal Aviation Administration (FAA) on Jan. 13, 2020, will launch improvements to the way it tests all applicants for an FAA airman certificate. This applies to all certified pilots of manned and unmanned aircraft. One of the most important changes is the requirement that applicants obtain an FAA Tracking Number (FTN) by creating an Integrated Airman Cer...",
+            "length": "23922400",
+            "sourceUrl": "http://media.blubrry.com/theuavdigest/content.blubrry.com/theuavdigest/UAV_311_V-Coptr_Bi-copter.mp3",
+            "epNo": "311"
+        },
+        {
+            "title": "310 Hexa Electric VTOL",
+            "datePublished": "Fri, 13 Dec 2019 16:18:11 +0000",
+            "description": "Rides available in the Hexa Electric VTOL, mapping a railway project, low-altitude hurricane hunting, another reported drone strike, a DHS warning for private industry, another round of financing for PrecisionHawk, and spying on hippos with drones.",
+            "length": "23016928",
+            "sourceUrl": "http://media.blubrry.com/theuavdigest/content.blubrry.com/theuavdigest/UAV_310_Hexa_Electric_VTOL.mp3",
+            "epNo": "310"
+        },
+        {
+            "title": "309 X-Wing Drones",
+            "datePublished": "Fri, 29 Nov 2019 12:57:45 +0000",
+            "description": "Disney X-Wing drones, counter UAS technology at an air force base, drones and weed infestations, sampling water in a volcano crater, a large fine for landing a quadcopter at an airport.",
+            "length": "23422304",
+            "sourceUrl": "http://media.blubrry.com/theuavdigest/content.blubrry.com/theuavdigest/UAV_309_X-Wing_Drones.mp3",
+            "epNo": "309"
+        },
+        {
+            "title": "308 Droneresponders Working Group",
+            "datePublished": "Fri, 22 Nov 2019 15:15:40 +0000",
+            "description": "Droneresponders forms a working group for public safety agencies, protestors and C-UAS, TSA and C-UAS, cannon-launched drones, the QF-16 target drone, names for different types of passenger drones, and drone light shows.",
+            "length": "23165536",
+            "sourceUrl": "http://media.blubrry.com/theuavdigest/content.blubrry.com/theuavdigest/UAV_308_Droneresponders.mp3",
+            "epNo": "308"
+        },
+        {
+            "title": "307 UAV Battery Technology",
+            "datePublished": "Fri, 15 Nov 2019 14:51:20 +0000",
+            "description": "Airbus funds new UAV battery technology and flys rotary wing UAV, upcoming UAS Traffic Management workshop, hydrogen-powered UAV for the Navy, a heavy-payload long-range drone, drone racing at Daytona, mosquitoes might help drones make less noise.",
+            "length": "22560736",
+            "sourceUrl": "http://media.blubrry.com/theuavdigest/content.blubrry.com/theuavdigest/UAV_307_Battery_Technology.mp3",
+            "epNo": "307"
+        },
+        {
+            "title": "306 Drone Registration",
+            "datePublished": "Fri, 08 Nov 2019 15:13:22 +0000",
+            "description": "Drone registration requirements in the UK and Singapore, automated safe landing technology, the speed of drone technology development, package delivery progress and issues, and counter-UAS technology funding. \n\n\n\nUAV News\n\n\n\nUK Drone Operators Have Until the End of November to Register With the Government\n\n\n\nAll drone owners and operators in the UK with droves that weigh more than 250g have to register them by November 30, 2019. Registration costs £9. Failure to register can result in a fine of as much as £1,000. In addition to registration, anyone flying a drone over 250g must also take an online education and test to receive a flyer ID. Users can now register as a drone operator and/or flyer at: register-drones.caa.co.uk. \n\n\n\nDrones Reunited\n\n\n\nIn the UK, 26% of drone owners say they lost a drone. Drones United leverages off the new UK drone registration system to help owners reconnect with their lost drones.\n\n\n\nSingapore mandates unmanned aircraft registration\n\n\n\nStarting January 2, 2020, the Civil Aviation Authority of Singapore (CAAS) will require all unmanned aircraft over 250 grams to be registered before it can be operated. A sticker with a unique registration number must be affixed to each unmanned aircraft. The penalty for flying an unregistered aircraft could be up to S$10,000 or jail for six months, or both.\n\n\n\nAre UAVs Properly Tested, or is Development Rushed?\n\n\n\nSatellite-based drone connectivity encompasses a number of issues such as cost, weight, and power. “Validation of stable and reliable connectivity under all circumstances is paramount to the success of Beyond Line of Sight UAV operations.”\n\n\n\nAutomated Emergency Safe Landing Technology\n\n\n\nBlack Swift Technologies SwiftSTL (Swift Safe-To-Land) technology was developed to address catastrophic in-flight failures. It captures and segments images and autonomously identifies a safe landing location. This is accomplished through machine learning algorithms, artificial intelligence (AI), and onboard processors to identify obstacles like people, buildings, vehicles, structures, etc. To learn more, see the white paper, “AI and Machine Learning’s Role in Enabling Automated Emergency Safe Landings of UAS – A Key Enabler for Safe Beyond Visible Line of Sight (BVLOS) Flights.” [PDF]\n\n\n\nWhat if a delivery drone falls on your head? Thorny legal questions loom as services increase\n\n\n\nThis article poses questions about airspace ownership, privacy, and liability. \n\n\n\nUPS drone makes first home prescription deliveries for CVS\n\n\n\nCVS and UPS announced the first commercial delivery of prescription medications by drones to customers. UPS’ Flight Forward drones delivered to the front lawn of a private home and a retirement center. The drones hovered at an altitude of about 20 feet and lowered the packages.\n\n\n\nUK government funds 18 projects to develop anti-drone technologies\n\n\n\nThe UK government approved £2 million ($2.57 million) to fund 18 projects to develop anti-drone and drone detection technologies. In April, 2019, the Defence and Security Accelerator (DASA) program under the UK's Ministry of Defence (MOD) asked the private sector to come up with new technologies that could detect approaching drones, and neutralize the threat.",
+            "length": "21653696",
+            "sourceUrl": "http://media.blubrry.com/theuavdigest/content.blubrry.com/theuavdigest/UAV_306_Drone_Registration.mp3",
+            "epNo": "306"
+        },
+        {
+            "title": "305 Mavic Mini, First Look",
+            "datePublished": "Fri, 01 Nov 2019 15:09:11 +0000",
+            "description": "The Mavic Mini doesn’t require FAA registration, DOI grounds Chinese drones, more no-fly facilities, Uber Eats delivery drone, submarine resupplied by drone, drones at live broadcast events, an airport uses drones for facilities inspections.",
+            "length": "23862144",
+            "sourceUrl": "http://media.blubrry.com/theuavdigest/content.blubrry.com/theuavdigest/UAV_305_Mavic_Mini.mp3",
+            "epNo": "305"
+        },
+        {
+            "title": "304 UAS Flight Demonstrations",
+            "datePublished": "Fri, 27 Sep 2019 13:34:31 +0000",
+            "description": "UAS flight demonstrations in the news: the Boeing MQ-25 unmanned aerial refueler, a microturbine propulsion system, a high altitude pseudo-satellite. Also, counter-drone tech from both the Secret Service and Raytheon, and drones that study dust devils.",
+            "length": "20679808",
+            "sourceUrl": "http://media.blubrry.com/theuavdigest/content.blubrry.com/theuavdigest/UAV_304_UAS_Flight_Demonstrations.mp3",
+            "epNo": "304"
+        },
+        {
+            "title": "303 Ehang Autonomous Aerial Vehicle",
+            "datePublished": "Fri, 20 Sep 2019 14:07:58 +0000",
+            "description": "Ehang is flying its urban air mobility vehicle contender. Remote identification of drones is moving forward. Also, using drones to measure methane emissions, find standing water where mosquitoes breed, assess hurricane damage, explore Titan, plant trees.",
+            "length": "22948416",
+            "sourceUrl": "http://media.blubrry.com/theuavdigest/content.blubrry.com/theuavdigest/UAV_303_Ehang_AAV.mp3",
+            "epNo": "303"
+        },
+        {
+            "title": "302 Drones for Border Protection",
+            "datePublished": "Fri, 13 Sep 2019 14:19:45 +0000",
+            "description": "Situational awareness drones for border protection, hydrogen fuel cell UAV platform, UAS Traffic Management Pilot Program, FPV drones, traffic control drone in China, all-electric helicopter UAS, teaming manned and unmanned aircraft and munitions.",
+            "length": "22559296",
+            "sourceUrl": "http://media.blubrry.com/theuavdigest/content.blubrry.com/theuavdigest/UAV_302_Drones_for_Border_Protection.mp3",
+            "epNo": "302"
+        }
+    ]
+}

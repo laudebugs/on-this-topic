@@ -1,0 +1,219 @@
+{
+    "artwork": "http://is3.mzstatic.com/image/thumb/Music/v4/ab/c8/9f/abc89f5b-190b-1cae-04c5-d4ffdeeecd2b/source/100x100bb.jpg",
+    "description": "Four UX consultants discuss about their favorite topic. From strategy and conception to development and the golive. Most of the time controversial, sometimes derailed.",
+    "feedURL": "http://feeds.feedburner.com/uxcafe",
+    "podcastURL": "http://www.uxcafe.de",
+    "title": "UX Café",
+    "episodes": [
+        {
+            "title": "[EN] #30: iOS 7",
+            "datePublished": "Thu, 13 Jun 2013 00:00:00 +0100",
+            "description": "Hot on the heels of Apple's recent iOS 7 announcement we're discussing exactly that: Apple's new iOS 7. Is it a good experience? Is it a good interaction design? Is it a good visual design? And can Jonathan Ive, besides all his hardware work, really design software? Let's find out!<img src=\"http://feeds.feedburner.com/~r/uxcafe/~4/ZV_c0uaP67Q\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "26915301",
+            "sourceUrl": "http://feedproxy.google.com/~r/uxcafe/~5/8i8Ggf_pRY8/030-ios7.mp3"
+        },
+        {
+            "title": "[DE] #29: Interne Barcamps",
+            "datePublished": "Sun, 26 Aug 2012 00:00:00 +0100",
+            "description": "Stefan und Holger diskutieren über interne Barcamps als Weiterbildungsmaßnahme.<img src=\"http://feeds.feedburner.com/~r/uxcafe/~4/19CTi5FcsH8\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "24411633",
+            "sourceUrl": "http://feedproxy.google.com/~r/uxcafe/~5/33mNd3EOAq0/029-interne-barcamps.mp3"
+        },
+        {
+            "title": "[EN] #28: Art vs. Design",
+            "datePublished": "Sun, 01 Jul 2012 00:00:00 +0100",
+            "description": "What's the self-image of UX professionals? Are we artists? Designers? Consultants? Or more like movie directors? Can we express ourselves within a project? This time, the guys have a little bit of a philosophical discussion.<img src=\"http://feeds.feedburner.com/~r/uxcafe/~4/-TasC0IOg44\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "23399399",
+            "sourceUrl": "http://feedproxy.google.com/~r/uxcafe/~5/dEqRsM7mGUw/028-art-vs-design.mp3"
+        },
+        {
+            "title": "[EN] #27: Challenges",
+            "datePublished": "Sat, 17 Jun 2012 00:00:00 +0100",
+            "description": "What challenges do we face and what to do about it? Together with the awesome crowd at UXcamp Europe, we discussed roadblocks and areas in need for improvement -- and how to tackle these fellas to evolve as UX professionals.<img src=\"http://feeds.feedburner.com/~r/uxcafe/~4/ILqoLaJjLT0\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "33202827",
+            "sourceUrl": "http://feedproxy.google.com/~r/uxcafe/~5/Ydf3zQuaqSo/027-challenges.mp3"
+        },
+        {
+            "title": "[EN] #26: Of course",
+            "datePublished": "Sat, 21 Apr 2012 00:00:00 +0100",
+            "description": "Holger brings up Om Malik's posting The of course principle of design. The thesis: People are trying to wow their customers with their products. Om said: \"Don't wow your customers, just have them go: of course.\" The guys have some thoughts about that.<img src=\"http://feeds.feedburner.com/~r/uxcafe/~4/AeN1cnbbFy0\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "24356589",
+            "sourceUrl": "http://feedproxy.google.com/~r/uxcafe/~5/gnferWXYjSg/026-ofcourse.mp3"
+        },
+        {
+            "title": "[DE] #25: Weiterbildung",
+            "datePublished": "Sun, 14 Apr 2012 00:00:00 +0100",
+            "description": "In dieser Folge geht es nicht nur um die Frage, wie wir auf dem Laufenden bleiben und bewerten können, was wichtig ist, sondern auch um aktuelle Trends.<img src=\"http://feeds.feedburner.com/~r/uxcafe/~4/LvPddpKw4Rw\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "31044470",
+            "sourceUrl": "http://feedproxy.google.com/~r/uxcafe/~5/TQm6AXfkRmo/025-weiterbildung.mp3"
+        },
+        {
+            "title": "[EN] #24: The Future (Holger's Talk)",
+            "datePublished": "Sun, 13 Nov 2011 00:00:00 +0100",
+            "description": "Predicting the future is easy! At least that's what Holger thinks. But what is the future of our digital world?<img src=\"http://feeds.feedburner.com/~r/uxcafe/~4/5NcQdhoLJ7s\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "59540609",
+            "sourceUrl": "http://feedproxy.google.com/~r/uxcafe/~5/-1YdQzUBNJc/024-future-talk.mp3"
+        },
+        {
+            "title": "[DE] #23: Pitches",
+            "datePublished": "Mon, 26 Sep 2011 00:00:00 +0100",
+            "description": "In der ersten Folge nach der Sommerpause unterhalten wir uns über Pitches.<img src=\"http://feeds.feedburner.com/~r/uxcafe/~4/q4Qd3s65NEQ\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "35327060",
+            "sourceUrl": "http://feedproxy.google.com/~r/uxcafe/~5/0psVm-Jkp9o/023-pitches.mp3"
+        },
+        {
+            "title": "[DE] #22: Human Computer Interaction",
+            "datePublished": "Tue, 13 Jul 2011 00:00:00 +0100",
+            "description": "Stefan, Tom und Holger diskutieren über Paradigmenwechsel: Ist die Spracheingabe das Interface der Zukunft?<img src=\"http://feeds.feedburner.com/~r/uxcafe/~4/O2mL9CCFil0\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "31610414",
+            "sourceUrl": "http://feedproxy.google.com/~r/uxcafe/~5/7djPBY60iNc/022-hci.mp3"
+        },
+        {
+            "title": "[EN] #21: Change Management (Recorded at UXcamp Europe)",
+            "datePublished": "Sun, 26 Jun 2011 00:00:00 +0100",
+            "description": "[English] If we just do our job with information architecture, wireframes and stuff, chances are high to build a useless website with lots of bad content. In his talk at UXcamp Europe, Stefan focusses on the business side of large-scale UX projects. His talk offers food for thought on why we need to align stakeholders, how to do it, and how to sell change management methods.<img src=\"http://feeds.feedburner.com/~r/uxcafe/~4/pZ4tOE5x7ik\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "27078875",
+            "sourceUrl": "http://feedproxy.google.com/~r/uxcafe/~5/BwrNF8SydYo/021-change-management.mp3"
+        },
+        {
+            "title": "[EN] #20: The Future of UX (Live from UXcamp Europe)",
+            "datePublished": "Sun, 19 Jun 2011 00:00:00 +0100",
+            "description": "[English] Are we going to evolve into tie-wearing consultants? Do UX pros matter at all a few years down the road? And how do Africa and refrigerators fit in? Together with the awesome folks at UXcamp Europe, we discussed the future of our profession. Thanks to all UXcamp attendees for a marvelous weekend, and special thanks to the Orga team -- we had fun!<img src=\"http://feeds.feedburner.com/~r/uxcafe/~4/fHOoLOVXMSw\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "29020104",
+            "sourceUrl": "http://feedproxy.google.com/~r/uxcafe/~5/puRNTcMKZJk/020-future.mp3"
+        },
+        {
+            "title": "[DE] #19: Sketchnotes",
+            "datePublished": "Fri, 10 Jun 2011 00:00:00 +0100",
+            "description": "Eva-Lotta Lamm wird von Holger interviewt - Thema sind ihre Sketchnotes: Wie sie damit angefangen hat, wie sie damit Konferenzen dokumentiert, und die Frage, ob jeder lernen kann, Sketchnotes zu zeichnen.<img src=\"http://feeds.feedburner.com/~r/uxcafe/~4/bojuW0PKYiY\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "29742373",
+            "sourceUrl": "http://feedproxy.google.com/~r/uxcafe/~5/EcIDldtipNo/019-sketchnotes.mp3"
+        },
+        {
+            "title": "[DE] #18: Die Cloud",
+            "datePublished": "Sun, 05 Jun 2011 00:00:00 +0100",
+            "description": "In der neuen Folge diskutieren Tom und Holger eine steile These von Stefan: Die Cloud wird niemals Realität! Wir besprechen technische, soziale und Sicherheitsaspekte - vor Apples Vorstellung von iCloud.<img src=\"http://feeds.feedburner.com/~r/uxcafe/~4/fadUuP67kNk\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "26162441",
+            "sourceUrl": "http://feedproxy.google.com/~r/uxcafe/~5/vWHyZvPhalA/018-cloud.mp3"
+        },
+        {
+            "title": "[DE] #17: Apple - konservativ?",
+            "datePublished": "Tue, 29 Mar 2011 00:00:00 +0100",
+            "description": "Holger stellt die These auf: Apple ist stockkonservativ! Apple macht alles eine Nummer einfacher. Das Problem ist: Mit dieser Einfachheit bleibt jedoch einiges auf der Strecke, was Computer gut können. Zum Beispiel Apps: Alle Daten die in einer App sind, bekommt man nur ganz schwer in eine andere App. Johannes, Stefan und Tom sehen das teilweise etwas anders.<img src=\"http://feeds.feedburner.com/~r/uxcafe/~4/ci-BkUhENtg\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "26422194",
+            "sourceUrl": "http://feedproxy.google.com/~r/uxcafe/~5/CQT6JSZ5Jgk/017-apple-konservativ.mp3"
+        },
+        {
+            "title": "[EN] #16: Storytelling (Recorded by accident)",
+            "datePublished": "Mon, 07 Mar 2011 00:00:00 +0100",
+            "description": "[English] After recording a regular episode, Tom and Holger got into a heated discussion about storytelling - and the recorder was still running. Both have some interessting points to make, but be warned: We earned that explicit rating in iTunes for a reason - this episode contains more four-letter words than all previous episodes combined!<img src=\"http://feeds.feedburner.com/~r/uxcafe/~4/FW6NLvpLUDg\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "24220851",
+            "sourceUrl": "http://feedproxy.google.com/~r/uxcafe/~5/LXSgjncu080/016-storytelling.mp3"
+        },
+        {
+            "title": "[DE] #15: Projektmanagement",
+            "datePublished": "Wed, 23 Feb 2011 00:00:00 +0100",
+            "description": "Konzepter jammern oft: \"Wenn uns die Projektmanager nur besser verstehen würden!\" Holger hat mal bei einem PM nachgefragt, ob er sich manchmal wünscht: \"Wenn uns die Konzepter nur besser verstehen würden!\" Sein Interviewpartner Martin Heiduk gibt außerdem Tipps für Projektmanager.<img src=\"http://feeds.feedburner.com/~r/uxcafe/~4/QQRP1Ge3AHY\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "23140821",
+            "sourceUrl": "http://feedproxy.google.com/~r/uxcafe/~5/_xdI6VPT03w/015-projektmanagement.mp3"
+        },
+        {
+            "title": "[DE] #14: Pet Peeves",
+            "datePublished": "Mon, 14 Feb 2011 00:00:00 +0100",
+            "description": "Ein Pet Peeve ist ein kleines Ärgernis, das manch andere gar nicht als störend wahrnehmen. Jeder der 4 Jungs im UX Café berichtet von so einem Ärgernis -- und was anders laufen sollte.<img src=\"http://feeds.feedburner.com/~r/uxcafe/~4/fpl7lZyi6YU\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "35079948",
+            "sourceUrl": "http://feedproxy.google.com/~r/uxcafe/~5/9j_yrSVWsb4/014-pet-peeves.mp3"
+        },
+        {
+            "title": "[DE] #13: Post Mortem: Google Wave",
+            "datePublished": "Wed, 09 Feb 2011 00:00:00 +0100",
+            "description": "Google Wave startete vielversprechend, aber nach rund einem Jahr wurde der Dienst wieder eingestellt. Holger, Stefan und Tom haben unterschiedliche Theorien zu den  Gründen.<img src=\"http://feeds.feedburner.com/~r/uxcafe/~4/Gm0b3hY_cDE\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "31893234",
+            "sourceUrl": "http://feedproxy.google.com/~r/uxcafe/~5/4gR4tpn8T30/013-google-wave.mp3"
+        },
+        {
+            "title": "[DE] #12: Mental Models",
+            "datePublished": "Mon, 24 Jan 2011 00:00:00 +0100",
+            "description": "Wer hören möchte, wie Stefan innerhalb einer halben Stunde 300x Ähm sagt, der ist bei unserer neuen Folge genau richtig! Alle anderen können erfahren was Mental-Model-Diagramme sind, warum man sie einsetzen sollte, und wie man selbst Nutzerinterviews organisiert, durchführt und als Diagramm auswertet. Viel Spaß bei diesem Mitschnitt von der IA-Konferenz 2010!<img src=\"http://feeds.feedburner.com/~r/uxcafe/~4/u6IYz_8RYuE\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "27935487",
+            "sourceUrl": "http://feedproxy.google.com/~r/uxcafe/~5/O8uy3F-p8V4/012-mental-models.mp3"
+        },
+        {
+            "title": "[DE] #11: Sieben Monate mit dem iPad",
+            "datePublished": "Mon, 03 Jan 2011 00:00:00 +0100",
+            "description": "Rund sieben Monate sind vergangen, seitdem das iPad erschienen ist. Holger und Stefan haben iPads seit dem Verkaufsstart in Deutschland, Tom hat bislang zwei Wochen Erfahrung gesammelt. Hat sich der Kauf gelohnt? Können wir noch ohne das iPad leben? Die drei kommen in der neuen Folge des UX Café zu unterschiedlichen Ergebnissen.<img src=\"http://feeds.feedburner.com/~r/uxcafe/~4/xMgpXhI0WVo\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "29939589",
+            "sourceUrl": "http://feedproxy.google.com/~r/uxcafe/~5/WiygvPmJ7CU/011-ipad.mp3"
+        },
+        {
+            "title": "[DE] #10: Bücher",
+            "datePublished": "Mon, 20 Dec 2010 00:00:00 +0100",
+            "description": "Euch fehlt ein Last-Minute-Geschenk für eine Konzepterin oder einen Konzepter? Kurz vor Weihnachten haben wir hier noch ein paar Empfehlungen -- Holger, Stefan und Tom stellen Bücher vor, die sie gerade lesen: Tested Advertising Methods, Miteinander reden, A Project Guide to UX Design und Web Analytics 2.0.<img src=\"http://feeds.feedburner.com/~r/uxcafe/~4/-RmdlP1SAW0\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "31815672",
+            "sourceUrl": "http://feedproxy.google.com/~r/uxcafe/~5/bOmIkOJdEW0/010-books_2010_12.mp3"
+        },
+        {
+            "title": "[DE] #9: Digitale Spaltung und Informationskompetenz",
+            "datePublished": "Mon, 13 Dec 2010 00:00:00 +0100",
+            "description": "Elke Greifeneder hat auf dem UXcamp im Mai eine Session zu den Themen Digital Divide und Information Literacy gehalten. Stefan fand das so interessant dass er mehr erfahren wollte -- also haben sich die beiden im Sommer zu einen Interview getroffen. In dieser Folge erfahrt Ihr warum wir Rücksicht auf Brandenburg nehmen sollten, wie sich die Einstellung zu Plagiaten und Betriebsgeheimnissen bei der Jugend wandelt, und dass Bibliothekswissenschaft nichts mit Büchern zu tun hat. Vielen Dank an Elke für das Interview!<img src=\"http://feeds.feedburner.com/~r/uxcafe/~4/zro8GzkVwU4\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "42913293",
+            "sourceUrl": "http://feedproxy.google.com/~r/uxcafe/~5/9dJs1dzpeZw/009-digitaldivide-informationliteracy.mp3"
+        },
+        {
+            "title": "[DE] #8: Methoden",
+            "datePublished": "Mon, 06 Dec 2010 00:00:00 +0100",
+            "description": "Holger sagt: \"Wir sprechen zu viel über Methoden, vor allem auf Konferenzen\" -- Stefan findet das prima.<img src=\"http://feeds.feedburner.com/~r/uxcafe/~4/KsNiFqbFeRg\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "22656267",
+            "sourceUrl": "http://feedproxy.google.com/~r/uxcafe/~5/ER6ASupWOV8/008-methoden.mp3"
+        },
+        {
+            "title": "[EN] #7: How to write the perfect pop song",
+            "datePublished": "Thu, 22 Jul 2010 21:00:00 +0100",
+            "description": "[English] At UXcamp Holger talked about song-writing, creativity, shitty first drafts, and teaching stuff. The title is \"How to write the perfect pop song\" - and yes, indeed, this has a lot to do with User Experience!<img src=\"http://feeds.feedburner.com/~r/uxcafe/~4/SxaHcA8C7sw\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "48456474",
+            "sourceUrl": "http://feedproxy.google.com/~r/uxcafe/~5/LkaVs3CuD28/007-popsong.mp3"
+        },
+        {
+            "title": "[DE] #6: Sollten wir alle programmieren können?",
+            "datePublished": "Mon, 12 Jul 2010 21:00:00 +0100",
+            "description": "Passend zu den Außentemperaturen wird im UX Café heiß diskutiert. Tom fragt: Should we all code? Should we all be coders? Müssen wir Konzepter programmieren können? Und wenn ja: wie gut? Im Kern geht es um die Frage, wie viel Ahnung jeder im Team von den anderen angrenzenden Disziplinen haben muss.<img src=\"http://feeds.feedburner.com/~r/uxcafe/~4/zR96ZynLIYo\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "35192538",
+            "sourceUrl": "http://feedproxy.google.com/~r/uxcafe/~5/J-Z17h12jcU/006-programmieren.mp3"
+        },
+        {
+            "title": "[DE] #5: Webapps",
+            "datePublished": "Sat, 3 Jul 2010 21:00:00 +0100",
+            "description": "Holger stellt die provozierende These auf: Die meisten Webapps sind Müll. Er sagt: Native Programme für ein Betriebssystem haben bessere Interfaces, bieten mehr Möglichkeiten und sind tiefer in das System integriert als Webapps. Johannes, Tom und Stefan sind da teilweise anderer Ansicht...<img src=\"http://feeds.feedburner.com/~r/uxcafe/~4/kbODMh-Olzw\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "35019066",
+            "sourceUrl": "http://feedproxy.google.com/~r/uxcafe/~5/Moj9vXbz-9I/005-webapps.mp3"
+        },
+        {
+            "title": "[EN] #4: Zombie Personas",
+            "datePublished": "Mon, 21 Jun 2010 21:00:00 +0100",
+            "description": "[English] This is by far the nerdiest episode we ever did, so fasten your seat belts. In his session at UXcamp, Tom said: \"Personas - love 'em or hate 'em - you can't not use 'em. Either you have zombies, or you have living ones.\" In this recording of his session he talks about different kinds of zombies like Mirror Personas, Undead Personas, Unicorn Personas or Stupid User Personas. He gives advice on how to avoid these fellas and how to make good use of living personas during a project. As a bonus, Tom explains why 37signals doesn't need personas at all.<img src=\"http://feeds.feedburner.com/~r/uxcafe/~4/5-FJsHaq3UI\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "44345271",
+            "sourceUrl": "http://feedproxy.google.com/~r/uxcafe/~5/jHKVc6tJci4/004-zombie_personas.mp3"
+        },
+        {
+            "title": "[EN] #3: UXcamp Europe 2010",
+            "datePublished": "Sat, 12 Jun 2010 21:00:00 +0100",
+            "description": "[English] End of May, 400 UX pros from all over Europe came together in Berlin to discuss User Experience and exchange knowledge. Volker Gersabeck and Henning Grote, two of the organizers, answered all the curious questions by Holger, Tom and Stefan: How the idea for UXcamp was born, what they had to organize upfront, what the BarCamp spirit is like, and what feedback they've got from sponsors and attendees.<img src=\"http://feeds.feedburner.com/~r/uxcafe/~4/adrbV3mRZ-s\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "34341139",
+            "sourceUrl": "http://feedproxy.google.com/~r/uxcafe/~5/kh5vrIIcvRQ/003-uxcampeurope2010.mp3"
+        },
+        {
+            "title": "[DE] #2: Zukunft des Marketing",
+            "datePublished": "Sat, 05 Jun 2010 14:00:00 +0100",
+            "description": "Stefan wirft die Frage auf, wohin sich Werbung und Marketing entwickeln. Welche Trends zeichnen sich ab, die im Laufe der nächsten 5 bis 10 Jahre wichtig werden? In der Diskussion sprechen wir über Veränderung der Mediennutzung, kanalübergreifendes Marketing, Dialog mit den Kunden und user-centered Design.<img src=\"http://feeds.feedburner.com/~r/uxcafe/~4/1RiFCAkj55Q\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "34341139",
+            "sourceUrl": "http://feedproxy.google.com/~r/uxcafe/~5/8Hk0bsN_T4w/002-zukunft.mp3"
+        },
+        {
+            "title": "[DE] #1: Verantwortung",
+            "datePublished": "Sun, 24 May 2010 18:00:00 +0100",
+            "description": "In der ersten Folge stellt Johannes die Frage: Welche soziale, moralische Verantwortung hat der Konzepter? Zu den weiteren Fragen über die wir diskutieren gehören: Wo fängt die eigene Verantwortung an? Wollen, müssen und können wir überhaupt Verantwortung übernehmen? Welchen Einfluss haben Konzepter? Und: Welche Verantwortung gibt es im Team?<img src=\"http://feeds.feedburner.com/~r/uxcafe/~4/9etjKwIcJUk\" height=\"1\" width=\"1\" alt=\"\"/>",
+            "length": "39619827",
+            "sourceUrl": "http://feedproxy.google.com/~r/uxcafe/~5/5J0eCtC-m5I/001-verantwortung.mp3"
+        }
+    ]
+}
