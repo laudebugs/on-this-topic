@@ -1,0 +1,67 @@
+{
+    "title": "The Shadows",
+    "publisher": "CBC",
+    "link": "https://www.cbc.ca/radio/podcasts/the-shadows/https://www.cbc.ca/radiointeractives/podcasts/the-shadows",
+    "rssFeed": "https://www.cbc.ca/podcasting/includes/theshadows.xml",
+    "description": "Kaitlin Prest, creator and host of the Prix-Italia winner The Heart, presents the first audio fiction from CBC Podcasts. The Shadows is a story about the anatomy of a relationship: a crush, a choice,  ...",
+    "categories": [
+        "Arts"
+    ],
+    "image": "https://www.cbc.ca/radio/podcasts/images/promo-theshadows-1400x1400.jpg",
+    "episodes": [
+        {
+            "title": "Episode 1: Romantic",
+            "subtitle": "\"When love beckons to you, follow [it]\n...\nAnd when [its] wings enfold you yield to [it],\nThough the sword hidden among [its] pinions may wound you.\n...\nFor even as love crowns you so shall [it] crucify you.\nEven as [it] is for your growth so is [it] for your pruning.\" - Kahlil Gibran, On Love",
+            "datePublished": "Mon, 24 Sep 2018 11:59:00 EDT",
+            "description": "\"When love beckons to you, follow [it]\n...\nAnd when [its] wings enfold you yield to [it],\nThough the sword hidden among [its] pinions may wound you.\n...\nFor even as love crowns you so shall [it] crucify you.\nEven as [it] is for your growth so is [it] for your pruning.\" - Kahlil Gibran, On Love",
+            "length": "43144123",
+            "sourceUrl": "https://cbc.mc.tritondigital.com/CBC_THESHADOWS_P/media/theshadows-lvL6JcCe-20180924.mp3",
+            "epNo": "1"
+        },
+        {
+            "title": "Episode 2: Realist",
+            "subtitle": "\"These pains you feel are messengers. Listen to them.\" - Rumi",
+            "datePublished": "Mon, 24 Sep 2018 11:58:00 EDT",
+            "description": "\"These pains you feel are messengers. Listen to them.\" - Rumi",
+            "length": "35244461",
+            "sourceUrl": "https://cbc.mc.tritondigital.com/CBC_THESHADOWS_P/media/theshadows-1IuI90th-20180924.mp3",
+            "epNo": "2"
+        },
+        {
+            "title": "Episode 3: Sweater",
+            "subtitle": "\"Love is being there every day, to keep someone warm, to hold them through the night, to make them feel cozy.\" - Sweater",
+            "datePublished": "Mon, 24 Sep 2018 11:57:00 EDT",
+            "description": "\"Love is being there every day, to keep someone warm, to hold them through the night, to make them feel cozy.\" - Sweater",
+            "length": "30967962",
+            "sourceUrl": "https://cbc.mc.tritondigital.com/CBC_THESHADOWS_P/media/theshadows-8C1Jy0ij-20180924.mp3",
+            "epNo": "3"
+        },
+        {
+            "title": "Episode 4: Decision",
+            "subtitle": "\"Romantics value intensity over stability. Realists value security over passion. But both are often disappointed, for few people can live happily at either extreme.\" - Esther Perel, Mating in Captivity",
+            "datePublished": "Mon, 24 Sep 2018 11:56:00 EDT",
+            "description": "\"Romantics value intensity over stability. Realists value security over passion. But both are often disappointed, for few people can live happily at either extreme.\" - Esther Perel, Mating in Captivity",
+            "length": "32404987",
+            "sourceUrl": "https://cbc.mc.tritondigital.com/CBC_THESHADOWS_P/media/theshadows-KkP5bVy1-20180924.mp3",
+            "epNo": "4"
+        },
+        {
+            "title": "Episode 5: An Argument That Should Be Simple.",
+            "subtitle": "\"A decided heart looks for a solution. An undecided heart looks for a way out.\" - Tom, a regular at the Bramasole Diner",
+            "datePublished": "Mon, 24 Sep 2018 11:55:00 EDT",
+            "description": "\"A decided heart looks for a solution. An undecided heart looks for a way out.\" - Tom, a regular at the Bramasole Diner",
+            "length": "20972494",
+            "sourceUrl": "https://cbc.mc.tritondigital.com/CBC_THESHADOWS_P/media/theshadows-CmG3eJjl-20180924.mp3",
+            "epNo": "5"
+        },
+        {
+            "title": "Episode 6: End",
+            "subtitle": "\"With every commitment there is much that it rejects. Much that it excludes.\" - Adam Phillips, Unforbidden Pleasures",
+            "datePublished": "Mon, 24 Sep 2018 11:54:00 EDT",
+            "description": "\"With every commitment there is much that it rejects. Much that it excludes.\" - Adam Phillips, Unforbidden Pleasures",
+            "length": "30596806",
+            "sourceUrl": "https://cbc.mc.tritondigital.com/CBC_THESHADOWS_P/media/theshadows-po8XzLmZ-20180924.mp3",
+            "epNo": "6"
+        }
+    ]
+}

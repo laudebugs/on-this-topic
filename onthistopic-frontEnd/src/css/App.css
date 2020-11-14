@@ -221,6 +221,9 @@ div.icon {
 .icon img {
   width: 50px;
 }
+.icon img:hover {
+  cursor: pointer;
+}
 div.progressBar {
   width: 48%;
   display: inline-block;
@@ -229,4 +232,5 @@ div.progressBar {
   /* padding: 2.5% 0 2.5% 0; */
   display: inline-block;
   /* border: 1px solid black; */
+  cursor: pointer;
 }

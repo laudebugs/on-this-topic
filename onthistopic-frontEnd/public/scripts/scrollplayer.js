@@ -1,5 +1,4 @@
 $("document").ready(function () {
-  console.log("ready");
   var audioelement = $(".audioHere")[0];
   // audioelement.ontimeupdate = function () {
   //   console.log(audioelement.currentTime);

@@ -3,11 +3,12 @@ import json
 import simplejson
 # Initialize the podcast object
 podcasts =[]
-with open ("scripts/df_popular_podcasts.csv", mode='r') as file:
+with open ("scripts/bestPods.csv", mode='r') as file:
     csvFile=csv.reader(file)
     i=0;
     
     for line in csvFile:
+        print(line)
         # initialize a new pod object
         pod = {
             "title":line[0],

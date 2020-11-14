@@ -18,7 +18,6 @@ function playPause() {
     audioelement.play();
 
     $(".playPause img:first").attr("src", pauseIcon);
-    console.log(audioelement);
   } else {
     $(".playPause img:first").attr("src", playIcon);
     audioelement.pause();
@@ -42,13 +41,14 @@ function debounce(fn, ms) {
 export default function Player() {
   const [dimensions, setDimensions] = React.useState({
     height: $(document).height(),
-    width: $(document).width(),
+    width: $(document).width() * 0.48,
   });
   const [pctPlayed, setPctPlayed] = React.useState({
     pctPlayed: 0,
   });
 
   React.useEffect(() => {
+    // Change the size of the player when the window resizes
     window.onresize = function () {
       console.log("resizing");
       setDimensions({
@@ -56,19 +56,58 @@ export default function Player() {
         width: $(document).width() * 0.48,
       });
     };
-  });
-  React.useEffect(() => {
     var audioelement = $(".audioHere")[0];
 
+    // Update the time for the timeline when audio is playing
     audioelement.ontimeupdate = function () {
-      // console.log()
-      console.log(audioelement.currentTime);
-      console.log(audioelement.duration);
-      console.log($("#timeline")[0].innerHTML);
-      console.log($(document).width());
       setPctPlayed(audioelement.currentTime / audioelement.duration);
+      if (audioelement.paused) {
+        $(".playPause img:first").attr("src", playIcon);
+      } else {
+        $(".playPause img:first").attr("src", pauseIcon);
+      }
     };
+
+    $("#timeline").on("click", function (e) {
+      // console.log(e.offsetX);
+      var goToPct = e.offsetX / ($(document).width() * 0.48 * 0.95);
+      var goTo = goToPct * audioelement.duration;
+      // set the current time to the percentage of XValue/page width
+      audioelement.currentTime = goTo;
+      setPctPlayed(audioelement.currentTime / audioelement.duration);
+    });
+
+    // When a user drags the timeline back and forth
+    /*
+    $("#timeline")
+      .on("mousedown mousemove touchstart", function (e) {
+        console.log(e);
+        var startX = e.offsetX;
+
+        var goToPct = e.offsetX / ($(document).width() * 0.48 * 0.95);
+        var goTo = goToPct * audioelement.duration;
+        // set the current time to the percentage of XValue/page width
+        audioelement.currentTime = goTo;
+        setPctPlayed(audioelement.currentTime / audioelement.duration);
+      })
+      .bind("mouseup mouseleave touchend", function () {
+        console.log("left"  );
+      });
+      */
+
+    // Forward 15 seconds
+    $("div.seekForward").on("click", function (e) {
+      e.preventDefault();
+      audioelement.currentTime = audioelement.currentTime + 15;
+      return;
+    });
+    // Back 15 seconds
+    $("div.seekBack").on("click", function (e) {
+      audioelement.currentTime = audioelement.currentTime - 15;
+    });
   });
+  function setCurrentTime(x) {}
+
   return (
     <div className="player">
       <div className="playingTtl"></div>
@@ -88,7 +127,6 @@ export default function Player() {
         <ReactAudioPlayer
           src="https://edge2.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2020/11/20201105_ted_zero_emissions_future-eb2a2def-0491-469e-9c40-f27a162a717a.mp3/20201105_ted_zero_emissions_future-eb2a2def-0491-469e-9c40-f27a162a717a.mp3_964d5bc15b245011eb66619dd0281cc0_51090691.mp3?awCollectionId=510298&awEpisodeId=931842071&orgId=1&d=3152&p=510298&story=931842071&t=podcast&e=931842071&size=50322900&ft=pod&f=510298&hash_redirect=1&x-total-bytes=51090691&x-ais-classified=download&listeningSessionID=0CD_382_316__4d727fbe4df4780cee013f1b30c2dc25bc9ce180"
           autoPlay={false}
-          controls={false}
           className="audioHere"
         />
       </div>
