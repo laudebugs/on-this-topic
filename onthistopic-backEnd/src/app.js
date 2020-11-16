@@ -79,6 +79,7 @@ app.post("/podcast", function (req, res) {
 
 /**
  * Get the comments for a podcast episode
+ * Each
  */
 app.get("/comments/:episode_id", async function (req, res) {
   try {
@@ -94,23 +95,24 @@ app.get("/comments/:episode_id", async function (req, res) {
 
 /**
  * Post a comment for a particular podcast episode
+ * The request body has the podcast episode object id and the comment
  */
 app.post("/comment", function (req, res) {});
 
 /**
  * Get the comments for a podcast episode
  */
-app.get("/topic", function (req, res) {});
+app.get("/podcast_episode/comments", function (req, res) {});
 
 /**
- * Post a comment for a particular podcast episode
+ * Post a topic to a particular podcast episode
  */
 app.post("/topic", function (req, res) {});
 
 /**
  * Get the comments for a podcast episode
  */
-app.get("/podcast/topics", function (req, res) {});
+app.get("/podcast_episode/topics", function (req, res) {});
 /**
  * Get one specific topic
  */
@@ -118,27 +120,32 @@ app.get("topics", function (req, res) {});
 /**
  * Post a comment for a particular podcast episode
  */
-app.post("/topic", function (req, res) {});
+app.post("/podcast_episode/topic", function (req, res) {});
 
 /**
  * Get the reviews for a podcast episode
  */
-app.get("/podcast/reviews", function (req, res) {});
+app.get("/podcast_episode/reviews", function (req, res) {});
 
 /**
  * Post a review for a particular podcast episode
  */
-app.post("/podcast/review", function (req, res) {});
+app.post("/podcast_episode/review", function (req, res) {});
 
 /**
- * Get a particular playlist
+ * Get a particular user's playlist
  */
-app.get("/playlist", function (req, res) {});
+app.get("/user/playlist", function (req, res) {});
+
+/**
+ * Get a particular user's list pf playlists
+ */
+app.get("/user/allplaylists", function (req, res) {});
 
 /**
  * Create a new playlist
  */
-app.post("/playlist", function (req, res) {});
+app.post("/user/playlist", function (req, res) {});
 
 /**
  * Get the location for a podcast episode
