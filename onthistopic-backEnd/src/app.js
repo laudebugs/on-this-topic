@@ -28,8 +28,9 @@ const Location = mongoose.model("Location");
 /**
  * Get all the podcasts in the database
  */
-app.get("/allpodcasts", function (req, res) {
-  const podcasts = Podcast.find({});
+app.get("/allpodcasts", async function (req, res) {
+  const podcasts = await Podcast.find({});
+  // console.log(podcasts);
   res.json(podcasts);
 });
 
