@@ -19,6 +19,7 @@ const Podcast = new Schema({
   rssFeed: String,
   link: String,
   image: String,
+  description: String,
   categories: [],
   episodes: [],
 });
@@ -53,16 +54,16 @@ const Location = new Schema({
 });
 
 // "Register" the schema so that mongoose knows about it
-mongoose.model("Podcast", Podcast);
 mongoose.model("User", User);
-mongoose.model("Comment", Comment);
+mongoose.model("Podcast", Podcast);
 mongoose.model("Episode", Episode);
+mongoose.model("Comment", Comment);
 mongoose.model("Topic", Topic);
 mongoose.model("Location", Location);
 
 // import the configuratio file for the mongodb database
 const fs = require("fs");
-const fn = "config.json";
+const fn = "src/config.json";
 const data = fs.readFileSync(fn);
 
 // our configuration file will be in json, so parse it and set the
