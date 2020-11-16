@@ -9,12 +9,9 @@ export default function PodCarousel() {
       const result = await fetch("/allpodcasts");
       const body = await result.json();
       setPodcasts(body);
-      console.log(body[0]);
     };
     fetchData();
   }, []);
-  console.log(podcasts[0]);
-  console.log(podcasts.length);
   const pods = [];
   for (var i in podcasts) {
     pods.push(podcasts[i]);

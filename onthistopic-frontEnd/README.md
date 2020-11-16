@@ -23,6 +23,11 @@
 - [Handling events in React](https://reactjs.org/docs/handling-events.html)
 - [Event Listeners in React Components](https://www.pluralsight.com/guides/event-listeners-in-react-components)
 
+### The Podcast Carousel
+
+- [Pure CSS Horizontal Scrolling](https://css-tricks.com/pure-css-horizontal-scrolling/)
+- [How TO - Custom Scrollbar](https://www.w3schools.com/howto/howto_css_custom_scrollbar.asp) - I referenced this to remove the scroll bar for the carousel
+
 ### Deploying to Google Cloud
 
 [Deploying a React App to Google Cloud Platform using App Engine](https://medium.com/better-programming/deploy-a-react-app-to-google-cloud-platform-using-google-app-engine-3f74fbd537ec)

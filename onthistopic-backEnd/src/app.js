@@ -30,17 +30,17 @@ const Location = mongoose.model("Location");
  */
 app.get("/allpodcasts", async function (req, res) {
   const podcasts = await Podcast.find({});
-  // console.log(podcasts);
   res.json(podcasts);
 });
 
 /**
  * Get one podcast with a list of episodes
  */
-app.get("/podcast/:podcast_id", async function (req, res) {
+app.get("/podcast/:podcast_id   ", async function (req, res) {
   try {
-    const pod_id = req.params.pod_id;
+    const pod_id = req.params.podcast_id;
     const pod = await Podcast.findOne({ _id: pod_id });
+    console.log(pod_id);
     res.json(pod);
   } catch (error) {
     console.log(error);
@@ -188,4 +188,4 @@ app.get("/likes", function (req, res) {});
  */
 app.post("/like", function (req, res) {});
 
-app.listen(4000);
+app.listen(5000);
