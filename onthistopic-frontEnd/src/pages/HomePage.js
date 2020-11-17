@@ -52,7 +52,7 @@ export default function HomePage() {
       <Header />
       <MenuBar />
       {displayPage()}
-      <PodCarousel podcasts />
+      <PodCarousel />
       {/* <Player /> */}
     </div>
   );
