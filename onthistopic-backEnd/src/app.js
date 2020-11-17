@@ -36,7 +36,8 @@ app.get("/allpodcasts", async function (req, res) {
 /**
  * Get one podcast with a list of episodes
  */
-app.get("/podcast/:podcast_id   ", async function (req, res) {
+app.get("/podcast/:podcast_id", async function (req, res) {
+  console.log(req.params.podcast_id);
   try {
     const pod_id = req.params.podcast_id;
     const pod = await Podcast.findOne({ _id: pod_id });
@@ -98,7 +99,23 @@ app.get("/comments/:episode_id", async function (req, res) {
  * Post a comment for a particular podcast episode
  * The request body has the podcast episode object id and the comment
  */
-app.post("/comment", function (req, res) {});
+app.post("/addcomment/:episode_id", function (req, res) {
+  const episode_id = req.params.episode_id;
+
+  const content = req.body.content;
+  const topics = req.body.topics;
+  const people = req.body.people;
+  const locations = req.body.locations;
+
+  // Find the episode
+
+  // Comment.insertMany({
+  //   content:text,
+  //   Topic
+  // })
+  // Episode.findOne({_id:episode_id})
+  res.send(req.body);
+});
 
 /**
  * Get the comments for a podcast episode
