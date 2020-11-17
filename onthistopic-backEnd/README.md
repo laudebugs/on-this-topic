@@ -55,6 +55,8 @@ Comments:
 {
   "content": "There is a fine line between knowing how to speak about death and outright manipulating the listener. I think Krista does it well in this episode",
   "topic": {},
+  "location": {},
+  "people": {},
   "userID": "",
   "date": "Fri, 06 Nov 2020 00:01:11 -0500",
   "likes": 45

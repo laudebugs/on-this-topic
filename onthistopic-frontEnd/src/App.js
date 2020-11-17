@@ -26,7 +26,7 @@ class App extends Component {
         <Switch>
           <Route path="/" component={HomePage} exact />
           <Route path="/podcasts" component={AllPodcasts} exact />
-          <Route path="/podcasts/:slug" component={Podcast} exact />
+          <Route path="/podcast/:slug" component={Podcast} exact />
           <Route path="/locations" component={AllLocations} exact />
           <Route path="/locations/:location" component={Location} exact />
           <Route path="/people" component={AllPeople} exact />

@@ -9,6 +9,7 @@ export default function PodCarousel() {
       const result = await fetch("/allpodcasts");
       const body = await result.json();
       setPodcasts(body);
+      console.log(podcasts);
     };
     fetchData();
   }, []);
