@@ -100,12 +100,15 @@ app.get("/comments/:episode_id", async function (req, res) {
  * The request body has the podcast episode object id and the comment
  */
 app.post("/addcomment/:episode_id", function (req, res) {
+  const episode_id = req.params.episode_id;
+
   const content = req.body.content;
   const topics = req.body.topics;
   const people = req.body.people;
   const locations = req.body.locations;
-  const episode_id = req.params.episode_id;
-  console.log(req.body);
+
+  // Find the episode
+
   // Comment.insertMany({
   //   content:text,
   //   Topic
