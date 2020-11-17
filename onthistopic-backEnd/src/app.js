@@ -61,6 +61,7 @@ app.post("/podcast", function (req, res) {
       // Means that the rss feed id prolly wrong - return something here
       res.send("not found podcast");
     }
+    console.log(feed);
     Podcast.findOne({ title: feed.title, rssFeed: feed.feedUrl }, function (
       err,
       result
@@ -73,10 +74,44 @@ app.post("/podcast", function (req, res) {
       } else {
         // figure out a way to redirect the user to the particular podcast --
         // perhaps using redirect
-        res.send("podcast exists");
+        res.send(feed);
       }
     });
   });
+});
+/*
+app.get("/podcast/episodes/:podcast_id", async function (req, res) {
+  let pod_id = req.params.podcast_id;
+  let episodes = [];
+  console.log(pod_id);
+  await Podcast.findOne({ _id: pod_id }, async function (err, pod) {
+    if (err) console.log(err);
+    console.log(pod);
+    await pod.episodes.map(async (ep_id) => {
+      Episode.findOne({ _id: ep_id }, function (error, episode) {
+        console.log(ep_id);
+        if (error) console.log(error);
+        episodes.push(episode);
+      });
+    });
+    res.send(episodes);
+  });
+});
+*/
+app.get("/podcast/episodes/:podcast_id", async function (req, res) {
+  let pod_id = req.params.podcast_id;
+  let episodes = [];
+  console.log(pod_id);
+  let thisPod = await Podcast.findOne({ _id: pod_id });
+  thisPod.episodes
+    .map(async (ep_id) => {
+      let thieEP = await Episode.findOne({ _id: ep_id });
+      console.log(ep_id);
+      episodes.push(thieEP);
+      // res.send(episodes);
+    })
+    .then(res.send(episodes));
+  // res.send(episodes);
 });
 
 /**

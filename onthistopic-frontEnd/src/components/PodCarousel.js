@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import { Link } from "react-router-dom";
 import PodElement from "./PodElement";
 
 export default function PodCarousel() {
@@ -20,7 +21,9 @@ export default function PodCarousel() {
   const printCarosel = () => {
     return pods.map((pod) => (
       <div className="carouselImage">
-        <img src={pod.image} alt={pod.title} />
+        <Link to={`/podcast/${pod._id}`}>
+          <img src={pod.image} alt={pod.title} />
+        </Link>
       </div>
     ));
   };
