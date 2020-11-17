@@ -11,6 +11,24 @@
     "image": "https://media.npr.org/assets/img/2019/09/19/shortwave-tile_final2_sq-266c8cc0cd2cb3e6213b36cbd0009cbd3331a990.png?s=1400",
     "episodes": [
         {
+            "title": "Trump Administration Lifts Protections For Largest National Forest In US",
+            "subtitle": "The Trump administration has eliminated federal protections for Alaska's Tongass National Forest, the largest intact temperate rainforest in the world.",
+            "image": "https://media.npr.org/assets/img/2020/11/16/tongass_princeofwales_gettyimages_wide-52b8dcf335ccf764033fa85e1f7103eb12e551cc.jpg?s=1400",
+            "datePublished": "Tue, 17 Nov 2020 04:00:20 -0500",
+            "description": "The Trump administration has officially eliminated federal protections for Alaska's Tongass National Forest, the largest intact temperate rainforest in the world. With the rollback of the Roadless Rule, nine million previously-protected acres are now open further to potential development. What does that mean for trees that have been storing carbon for centuries?<br/><br/>For more on this story, check out the <a href=\"http://npr.org/933537497\">episode page</a>. You can email the show at <a href=\"mailto:shortwave@npr.org\">shortwave@npr.org</a>. ",
+            "length": "12760617",
+            "sourceUrl": "https://play.podtrac.com/npr-510351/edge1.pod.npr.org/anon.npr-mp3/npr/dailyscience/2020/11/20201117_dailyscience_tongass_update.mp3?awCollectionId=510351&awEpisodeId=933537497&orgId=1&d=799&p=510351&story=933537497&t=podcast&e=933537497&size=12760617&ft=pod&f=510351"
+        },
+        {
+            "title": "Who Gets The Vaccine First? And How Will They Get It?",
+            "subtitle": "Developing an effective coronavirus vaccine will be crucial to getting the pandemic under control. Also important, distributing it throughout the country once it's been approved.",
+            "image": "https://media.npr.org/assets/img/2020/11/11/gettyimages-1229305344_wide-916b0b2afc231333b6e4c63e3bd49feedc1cc034.jpg?s=1400",
+            "datePublished": "Mon, 16 Nov 2020 04:00:16 -0500",
+            "description": "Developing a safe and effective coronavirus vaccine will be crucial to getting the pandemic under control. Also important, distributing it throughout the country once it's been approved. NPR science reporter <a href=\"https://www.npr.org/people/729920828/pien-huang\">Pien Huang</a> tells us which high risk groups will get it first, how the vaccine will be distributed (including some challenges), and who's footing the bill for all of this.<br/><br/>Email the show at <a href=\"mailto:shortwave@npr.org\">shortwave@npr.org</a>.",
+            "length": "9982146",
+            "sourceUrl": "https://play.podtrac.com/npr-510351/edge1.pod.npr.org/anon.npr-mp3/npr/dailyscience/2020/11/20201116_dailyscience_distribution.mp3?awCollectionId=510351&awEpisodeId=933805434&aw_0_1st.cv=yes&orgId=1&topicId=1128&aggIds=812054919&d=625&p=510351&story=933805434&t=podcast&e=933805434&size=9982146&ft=pod&f=510351"
+        },
+        {
             "title": "The COVID-19 Vaccine Trial Results: What They Mean, What Comes Next",
             "subtitle": "A COVID-19 vaccine candidate seems to be working really well, interim results show.  How well is the vaccine working and what are the next steps in this vaccine's development?",
             "image": "https://media.npr.org/assets/img/2020/11/12/ap_20317584568497_wide-6496c122a0979210978cec8b905965394a15a843.jpg?s=1400",

@@ -1,7 +1,7 @@
 let Parser = require("rss-parser");
 
 let parser = new Parser();
-populateEpisodes = (podcasts) => {
+let populateEpisodes = (podcasts) => {
   console.log("pods: " + podcasts.length);
   const promises = podcasts.map(async (pod) => {
     let feed;
@@ -10,12 +10,13 @@ populateEpisodes = (podcasts) => {
     } catch (error) {
       console.log(error);
     }
+    console.log(feed);
     let thisPod = {
       title: feed.title,
       publisher: feed["itunes"]["owner"]["name"],
       link: feed.link,
       rssFeed: pod,
-      description: feed["description"],
+      description: feed.description,
       shortDescription: feed["itunes"]["subtitle"],
       categories: feed["itunes"]["categories"],
       image: feed["itunes"]["image"],
@@ -55,9 +56,9 @@ populateEpisodes = (podcasts) => {
 };
 
 const filename = "scripts/bestPodsRss.txt";
-let podcasts = [];
+
 var fs = require("fs");
 let content = fs.readFileSync(filename, "utf8");
 
-podcasts = content.split("\n");
-populateEpisodes(podcasts);
+var podcast_list = content.split("\n");
+populateEpisodes(podcast_list);

@@ -103,14 +103,27 @@ app.get("/podcast/episodes/:podcast_id", async function (req, res) {
   let episodes = [];
   console.log(pod_id);
   let thisPod = await Podcast.findOne({ _id: pod_id });
-  thisPod.episodes
-    .map(async (ep_id) => {
-      let thieEP = await Episode.findOne({ _id: ep_id });
-      console.log(ep_id);
-      episodes.push(thieEP);
-      // res.send(episodes);
-    })
-    .then(res.send(episodes));
+  async function getPods() {
+    thisPod.episodes
+      .map(async (ep_id) => {
+        let thieEP = await Episode.findOne({ _id: ep_id });
+        // console.log(ep_id);
+        episodes.push(thieEP);
+        return episodes;
+      })
+      .then((result) => {
+        console.log(result);
+      })
+      .catch((err) => {
+        console.log(err);
+      });
+    return episodes;
+  }
+  getPods().then(function (err, result) {
+    if (err) console.log(err);
+    console.log("here");
+  });
+  res.send(episodes);
   // res.send(episodes);
 });
 
