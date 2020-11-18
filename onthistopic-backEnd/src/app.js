@@ -101,30 +101,42 @@ app.get("/podcast/episodes/:podcast_id", async function (req, res) {
 app.get("/podcast/episodes/:podcast_id", async function (req, res) {
   let pod_id = req.params.podcast_id;
   let episodes = [];
-  console.log(pod_id);
-  let thisPod = await Podcast.findOne({ _id: pod_id });
-  async function getPods() {
-    thisPod.episodes
-      .map(async (ep_id) => {
-        let thieEP = await Episode.findOne({ _id: ep_id });
-        // console.log(ep_id);
-        episodes.push(thieEP);
-        return episodes;
-      })
-      .then((result) => {
-        console.log(result);
-      })
-      .catch((err) => {
-        console.log(err);
-      });
-    return episodes;
-  }
-  getPods().then(function (err, result) {
-    if (err) console.log(err);
-    console.log("here");
+
+  let getPod = new Promise(function (resolve, reject) {
+    Podcast.findOne({ _id: pod_id }, (error, result) => {
+      if (error) reject(res.send("error finding podcast"));
+      else resolve(result);
+    });
   });
-  res.send(episodes);
-  // res.send(episodes);
+
+  getPod
+    .then((pod) => {
+      console.log(pod.episodes.length);
+      let eps = pod.episodes;
+      Promise.all(
+        eps.map((e_id) => {
+          getEpisode(e_id);
+        })
+      )
+        .then((result) => {
+          console.log(result);
+        })
+        .catch((er) => {
+          console.log(er);
+        });
+    })
+    .catch((error) => {
+      console.log(error);
+    });
+  function getEpisode(ep_id) {
+    return new Promise(function (resolve, reject) {
+      Episode.findOne({ _id: ep_id }, (error, result) => {
+        if (error) reject(res.send("error finding podcast"));
+        console.log("getting result");
+        return result;
+      });
+    });
+  }
 });
 
 /**
