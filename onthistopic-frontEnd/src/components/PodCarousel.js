@@ -13,7 +13,7 @@ export default function PodCarousel() {
       console.log(podcasts);
     };
     fetchData();
-  }, []);
+  }, [podcasts]);
   const pods = [];
   for (var i in podcasts) {
     pods.push(podcasts[i]);

@@ -38,7 +38,7 @@ function debounce(fn, ms) {
   };
 }
 
-export default function Player() {
+export default function Player(ep_link) {
   const [dimensions, setDimensions] = React.useState({
     height: $(document).height(),
     width: $(document).width() * 0.48,

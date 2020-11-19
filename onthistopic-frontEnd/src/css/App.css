@@ -150,6 +150,7 @@ table {
 body {
   color: #050a30;
   background-color: #d9d9d9;
+  font-family: "Glacial Indifference";
 }
 h2 {
   font-family: "Woodland Bold";
@@ -293,7 +294,11 @@ div.carouselImage {
 div.podInfo {
   width: 50%;
   display: inline-block;
-  padding: 0 2.5% 0 5%;
+  padding: 1% 2.5% 0 5%;
+  vertical-align: top;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
 }
 div.podInfo div {
   display: inline-block;
@@ -314,4 +319,17 @@ div#target div {
   width: 100%;
   font-family: "Glacial Indifference";
   font-size: 125%;
+}
+div.podEpisodes {
+  width: 40%;
+  padding-right: 2.5%;
+  display: inline-block;
+}
+div.episodeList {
+  border: 1px solid #a6a6a6;
+  font-size: 125%;
+}
+div.episodeList div {
+  padding: 2% 2.5% 1% 2.5%;
+  border: 1px solid #a6a6a6;
 }

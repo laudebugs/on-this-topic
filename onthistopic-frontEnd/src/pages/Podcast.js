@@ -16,13 +16,15 @@ export default function Podcast() {
     fetchData();
   }, [slug]);
   function parsethisHtml(this_html) {
+    var element;
     $("document").ready(function () {
-      var element = document.createElement("div");
-      element.innerHTML = `${podcast.description}`;
+      element = document.createElement("div");
+      element.innerHTML = `${this_html}`;
       $("#target").html(element);
     });
-    return <div>hapa</div>;
+    return element;
   }
+
   return (
     <div>
       <Header />
@@ -36,7 +38,7 @@ export default function Podcast() {
         </div>
       </div>
       <div className="podEpisodes">
-        <PodEpisodes podcast_id={podcast._id} />
+        <PodEpisodes rss_feed={podcast.rssFeed} />
       </div>
     </div>
   );

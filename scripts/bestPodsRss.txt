@@ -40,3 +40,4 @@ https://feeds.simplecast.com/f2A9Wes_
 http://feed.loveandradio.org/loveplusradiohttp://loveandradio.org/Nick
 https://feeds.npr.org/510298/podcast.xml
 https://feeds.megaphone.fm/stuffyoushouldknow
+https://api.substack.com/feed/podcast/59883/private/acbf4aef-8566-4995-b2fe-6dd5ceb6256b.rss
