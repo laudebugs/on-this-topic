@@ -101,6 +101,7 @@ app.get("/podcast/episodes/:podcast_id", async function (req, res) {
 app.get("/podcast/episodes/:podcast_id", async function (req, res) {
   let pod_id = req.params.podcast_id;
   let episodes = [];
+<<<<<<< HEAD
   console.log(pod_id);
   let thisPod = await Podcast.findOne({ _id: pod_id });
   console.log(thisPod);
@@ -118,9 +119,45 @@ app.get("/podcast/episodes/:podcast_id", async function (req, res) {
       })
       .catch((err) => {
         console.log(err);
+=======
+
+  let getPod = new Promise(function (resolve, reject) {
+    Podcast.findOne({ _id: pod_id }, (error, result) => {
+      if (error) reject(res.send("error finding podcast"));
+      else resolve(result);
+    });
+  });
+
+  getPod
+    .then((pod) => {
+      console.log(pod.episodes.length);
+      let eps = pod.episodes;
+      Promise.all(
+        eps.map((e_id) => {
+          getEpisode(e_id);
+        })
+      )
+        .then((result) => {
+          console.log(result);
+        })
+        .catch((er) => {
+          console.log(er);
+        });
+    })
+    .catch((error) => {
+      console.log(error);
+    });
+  function getEpisode(ep_id) {
+    return new Promise(function (resolve, reject) {
+      Episode.findOne({ _id: ep_id }, (error, result) => {
+        if (error) reject(res.send("error finding podcast"));
+        console.log("getting result");
+        return result;
+>>>>>>> e3bf14264ae78fe109d316d9d25a4a6d343c4148
       });
-    return episodes;
+    });
   }
+<<<<<<< HEAD
   getPods().then(function (err, result) {
     if (err) console.log(err);
     console.log("here");
@@ -128,6 +165,8 @@ app.get("/podcast/episodes/:podcast_id", async function (req, res) {
   res.send(episodes);
   */
   // res.send(episodes);
+=======
+>>>>>>> e3bf14264ae78fe109d316d9d25a4a6d343c4148
 });
 
 /**
