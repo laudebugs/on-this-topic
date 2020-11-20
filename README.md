@@ -10,3 +10,10 @@ On This Topic is a platform where users can engage with the podcasts themselves 
 ![Design](design/wireframes/on_this_topic.gif)
 
 ## Project Roadmap
+
+### Features
+
+#### The User:
+
+Each user will have a custom page of podcast feeds and themes that they like.
+The user will be able to

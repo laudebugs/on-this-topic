@@ -37,11 +37,9 @@ app.get("/allpodcasts", async function (req, res) {
  * Get one podcast with a list of episodes
  */
 app.get("/podcast/:podcast_id", async function (req, res) {
-  console.log(req.params.podcast_id);
   try {
     const pod_id = req.params.podcast_id;
     const pod = await Podcast.findOne({ _id: pod_id });
-    console.log(pod_id);
     res.json(pod);
   } catch (error) {
     console.log(error);
@@ -101,7 +99,6 @@ app.get("/podcast/episodes/:podcast_id", async function (req, res) {
 app.get("/podcast/episodes/:podcast_id", async function (req, res) {
   let pod_id = req.params.podcast_id;
   let episodes = [];
-<<<<<<< HEAD
   console.log(pod_id);
   let thisPod = await Podcast.findOne({ _id: pod_id });
   console.log(thisPod);
@@ -119,7 +116,6 @@ app.get("/podcast/episodes/:podcast_id", async function (req, res) {
       })
       .catch((err) => {
         console.log(err);
-=======
 
   let getPod = new Promise(function (resolve, reject) {
     Podcast.findOne({ _id: pod_id }, (error, result) => {
@@ -153,11 +149,9 @@ app.get("/podcast/episodes/:podcast_id", async function (req, res) {
         if (error) reject(res.send("error finding podcast"));
         console.log("getting result");
         return result;
->>>>>>> e3bf14264ae78fe109d316d9d25a4a6d343c4148
       });
     });
   }
-<<<<<<< HEAD
   getPods().then(function (err, result) {
     if (err) console.log(err);
     console.log("here");
@@ -165,8 +159,6 @@ app.get("/podcast/episodes/:podcast_id", async function (req, res) {
   res.send(episodes);
   */
   // res.send(episodes);
-=======
->>>>>>> e3bf14264ae78fe109d316d9d25a4a6d343c4148
 });
 
 /**

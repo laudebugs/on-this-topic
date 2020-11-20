@@ -212,9 +212,11 @@ div.menuBar {
 div.player {
   background-color: rgba(5, 10, 48, 0.17);
   width: 100%;
-  position: absolute;
+  /* position: fixed; */
+  margin: 2.5% 0 0 0;
   bottom: 0;
   left: 0;
+  display: "";
 }
 div.playingTtl {
   width: 20%;
@@ -328,6 +330,21 @@ div.podEpisodes {
 div.episodeList {
   border: 1px solid #a6a6a6;
   font-size: 125%;
+}
+div.episode div:first-child {
+  width: 10%;
+  display: inline-block;
+  vertical-align: middle;
+  border: 0;
+}
+div.episode div:first-child img {
+  width: 75%;
+}
+div.episode div:nth-child(2) {
+  width: 70%;
+  display: inline-block;
+  vertical-align: middle;
+  border: 0;
 }
 div.episodeList div {
   padding: 2% 2.5% 1% 2.5%;

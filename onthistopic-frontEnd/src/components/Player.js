@@ -47,6 +47,11 @@ export default function Player(ep_link) {
     pctPlayed: 0,
   });
 
+  // Whenever the link for a new podcast episode changes
+  React.useEffect(() => {
+    setPctPlayed(0);
+  }, [ep_link]);
+
   React.useEffect(() => {
     // Change the size of the player when the window resizes
     window.onresize = function () {
@@ -125,7 +130,7 @@ export default function Player(ep_link) {
           pct={pctPlayed}
         />
         <ReactAudioPlayer
-          src="https://edge2.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2020/11/20201105_ted_zero_emissions_future-eb2a2def-0491-469e-9c40-f27a162a717a.mp3/20201105_ted_zero_emissions_future-eb2a2def-0491-469e-9c40-f27a162a717a.mp3_964d5bc15b245011eb66619dd0281cc0_51090691.mp3?awCollectionId=510298&awEpisodeId=931842071&orgId=1&d=3152&p=510298&story=931842071&t=podcast&e=931842071&size=50322900&ft=pod&f=510298&hash_redirect=1&x-total-bytes=51090691&x-ais-classified=download&listeningSessionID=0CD_382_316__4d727fbe4df4780cee013f1b30c2dc25bc9ce180"
+          src="https://sphinx.acast.com/kiffe-ta-race/super-macroncontrelanti-france/media.mp3"
           autoPlay={false}
           className="audioHere"
         />
