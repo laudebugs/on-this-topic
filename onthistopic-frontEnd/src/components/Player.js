@@ -40,8 +40,8 @@ function debounce(fn, ms) {
 
 export default function Player(ep_link) {
   const [dimensions, setDimensions] = React.useState({
-    height: $(document).height(),
-    width: $(document).width() * 0.48,
+    height: window.innerHeight,
+    width: window.innerWidth * 0.48,
   });
   const [pctPlayed, setPctPlayed] = React.useState({
     pctPlayed: 0,
