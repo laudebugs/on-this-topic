@@ -12,6 +12,7 @@ export default function Podcast() {
     const fetchData = async () => {
       const result = await fetch(`/podcast/${slug}`);
       const body = await result.json();
+
       setPodcast(body);
     };
     fetchData();

@@ -8,15 +8,23 @@ import PodElement from "./PodElement";
 
 // Podcast takes a prop value which is the id of the podcast
 export default function Podcast({ rss_feed }) {
-  //  let { rss_fee} = useParams();
+  console.log(rss_feed);
+  // let rss_feed = podcast.rssFeed;
   let [episodes, setEpisodes] = useState([]);
+  let [podImage, setPodImage] = useState("");
   useEffect(() => {
     //Get the podcast episodes from the rss_feed
     const CORS_PROXY = "https://cors-anywhere.herokuapp.com/";
     let parser = new Parser();
+    console.log();
+    // let rssFeed = rss_feed.rssFeed;
     parser.parseURL(CORS_PROXY + rss_feed, function (err, feed) {
       if (err) console.log(err);
-      else if (feed !== undefined) setEpisodes(feed.items.slice(0, 10));
+      else if (feed !== undefined) {
+        console.log(feed);
+        // setPodImage(feed.image);
+        setEpisodes(feed.items.slice(0, 10));
+      }
     });
   }, [rss_feed]);
 

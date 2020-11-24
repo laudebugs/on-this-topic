@@ -16,29 +16,16 @@ function playPause() {
   var audioelement = $(".audioHere")[0];
   if (audioelement.paused) {
     audioelement.play();
-
     $(".playPause img:first").attr("src", pauseIcon);
   } else {
     $(".playPause img:first").attr("src", playIcon);
     audioelement.pause();
   }
 }
-/**
- * Obtained from an article titled: "Re-render a React Component on Window Resize"
- * by Jake Trent: https://www.pluralsight.com/guides/re-render-react-component-on-window-resize
- */
-function debounce(fn, ms) {
-  let timer;
-  return (_) => {
-    clearTimeout(timer);
-    timer = setTimeout((_) => {
-      timer = null;
-      fn.apply(this, arguments);
-    }, ms);
-  };
-}
 
-export default function Player(ep_link) {
+export default function Player(pod_ep) {
+  console.log(pod_ep);
+  const ep_link = pod_ep.rssFeed;
   const [dimensions, setDimensions] = React.useState({
     height: window.innerHeight,
     width: window.innerWidth * 0.48,
@@ -74,8 +61,10 @@ export default function Player(ep_link) {
     };
 
     $("#timeline").on("click", function (e) {
-      // console.log(e.offsetX);
-      var goToPct = e.offsetX / ($(document).width() * 0.48 * 0.95);
+      var goToPct =
+        (e.offsetX - $(document).width() * 0.48 * 0.03) /
+        ($(document).width() * 0.48 * 0.95);
+      console.log(goToPct);
       var goTo = goToPct * audioelement.duration;
       // set the current time to the percentage of XValue/page width
       audioelement.currentTime = goTo;
@@ -83,22 +72,16 @@ export default function Player(ep_link) {
     });
 
     // When a user drags the timeline back and forth
-    /*
-    $("#timeline")
-      .on("mousedown mousemove touchstart", function (e) {
-        console.log(e);
-        var startX = e.offsetX;
-
-        var goToPct = e.offsetX / ($(document).width() * 0.48 * 0.95);
-        var goTo = goToPct * audioelement.duration;
-        // set the current time to the percentage of XValue/page width
-        audioelement.currentTime = goTo;
-        setPctPlayed(audioelement.currentTime / audioelement.duration);
-      })
-      .bind("mouseup mouseleave touchend", function () {
-        console.log("left"  );
-      });
-      */
+    document.ondrag = function (e) {
+      var goToPct =
+        (e.offsetX - $(document).width() * 0.48 * 0.03) /
+        ($(document).width() * 0.48 * 0.95);
+      console.log(goToPct);
+      var goTo = goToPct * audioelement.duration;
+      // set the current time to the percentage of XValue/page width
+      audioelement.currentTime = goTo;
+      setPctPlayed(audioelement.currentTime / audioelement.duration);
+    };
 
     // Forward 15 seconds
     $("div.seekForward").on("click", function (e) {
@@ -111,12 +94,15 @@ export default function Player(ep_link) {
       audioelement.currentTime = audioelement.currentTime - 15;
     });
   });
-  function setCurrentTime(x) {}
 
   return (
     <div className="player">
-      <div className="playingTtl"></div>
-      <div className="icon playPause" onClick={playPause}>
+      <div className="playingTtl">
+        <div>
+          <img src={pod_ep.image} alt={pod_ep.title}></img>
+        </div>
+      </div>
+      <div className="icon playPause" draggable="true" onClick={playPause}>
         <img src={playIcon} />
       </div>
       <div className="icon seekBack">

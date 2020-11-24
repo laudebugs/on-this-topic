@@ -12,14 +12,8 @@ export default function PodElement({ episode }) {
     icon = audioelement.paused ? playIcon : pauseIcon;
   }, [audioelement.src]);
 
-  console.log("this was playing: " + audioelement.src);
-  console.log("but play this: " + episode.enclosure.url);
-
   $(document).ready(function () {
     $("img.playPod").click(function () {
-      console.log("this was playing: " + audioelement.src);
-      console.log("but play this: " + episode.enclosure.url);
-
       var ep_link = $(this).parent().parent().attr("epLink");
       var current_link = audioelement.src;
       if (!isPlaying) {
