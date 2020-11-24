@@ -29,3 +29,19 @@ export const LOAD_PODCASTS_FAILURE = "LOAD_PODCASTS_FAILURE";
 export const loadPodcastsFailure = () => ({
   type: LOAD_PODCASTS_FAILURE,
 });
+export const LOAD_PODCAST_EPISODES_IN_PROGRESS =
+  "LOAD_PODCAST_EPISODES_IN_PROGRESS";
+export const loadPodcastEpisodesInProgress = () => ({
+  type: LOAD_PODCAST_EPISODES_IN_PROGRESS,
+});
+
+export const LOAD_PODCAST_EPISODES_SUCCESS = "LOAD_PODCAST_EPISODES_SUCCESS";
+export const loadPodcastEpisodesSuccess = (podcast) => ({
+  type: LOAD_PODCAST_EPISODES_SUCCESS,
+  payload: { podcast },
+});
+
+export const LOAD_PODCAST_EPISODES_FAILURE = "LOAD_PODCAST_EPISODES_FAILURE";
+export const loadPodcastEpisodesFailure = () => ({
+  type: LOAD_PODCAST_EPISODES_FAILURE,
+});

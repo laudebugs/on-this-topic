@@ -8,6 +8,9 @@ import {
   LOAD_PODCASTS_IN_PROGRESS,
   LOAD_PODCASTS_SUCCESS,
   LOAD_PODCASTS_FAILURE,
+  LOAD_PODCAST_EPISODES_IN_PROGRESS,
+  LOAD_PODCAST_EPISODES_SUCCESS,
+  LOAD_PODCAST_EPISODES_FAILURE,
 } from "./actions";
 
 export const isLoading = (state = false, action) => {
@@ -22,17 +25,40 @@ export const isLoading = (state = false, action) => {
       return state;
   }
 };
+
+export const isLoadingPod = (state = false, action) => {
+  const { type } = action;
+  switch (type) {
+    case LOAD_PODCAST_EPISODES_IN_PROGRESS:
+      return true;
+    case LOAD_PODCAST_EPISODES_SUCCESS:
+    case LOAD_PODCAST_EPISODES_FAILURE:
+      return false;
+    default:
+      return state;
+  }
+};
+// A single podcast with episodes
+export const podcast = (state = [], action) => {
+  const { type, payload } = action;
+  switch (type) {
+    case LOAD_PODCAST_EPISODES_SUCCESS:
+      const { podcast } = payload;
+      return podcast;
+    case LOAD_PODCAST_EPISODES_IN_PROGRESS:
+    case LOAD_PODCAST_EPISODES_FAILURE:
+    default:
+      return state;
+  }
+};
 export const podcasts = (state = [], action) => {
   const { type, payload } = action;
   switch (type) {
     case LOAD_PODCASTS_SUCCESS:
       const { podcasts } = payload;
       return podcasts;
-    case LOAD_PODCASTS_FAILURE: {
-    }
-    case LOAD_PODCASTS_IN_PROGRESS: {
-    }
-
+    case LOAD_PODCASTS_IN_PROGRESS:
+    case LOAD_PODCASTS_FAILURE:
     default:
       return state;
   }
@@ -56,10 +82,10 @@ export const player = (state = [], action) => {
       temp.pause = true;
       return temp;
 
-    case LOAD_PODCASTS_IN_PROGRESS:
-      var temp = { ...state };
-      temp.podcasts = true;
-      return temp;
+    // case LOAD_PODCASTS_IN_PROGRESS:
+    //   temp = { ...state };
+    //   //   temp.podcasts = true;
+    //   return temp;
 
     default:
       return {

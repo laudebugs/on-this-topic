@@ -5,19 +5,16 @@ import Header from "../components/Header";
 import PodEpisodes from "../components/PodEpisodes";
 import Player from "../components/Player";
 import { player } from "../components/reducers";
+import { connect } from "react-redux";
+import { loadPodcastEpisodes } from "../components/thunks";
 // Podcast takes a prop value which is the id of the podcast
-export default function Podcast() {
-  let { slug } = useParams();
-  let [podcast, setPodcast] = useState({});
-  useEffect(() => {
-    const fetchData = async () => {
-      const result = await fetch(`/podcast/${slug}`);
-      const body = await result.json();
 
-      setPodcast(body);
-    };
-    fetchData();
-  }, [slug]);
+const Podcast = ({ podcast, isLoadingPod, startLoadingPodcastEpisodes }) => {
+  let { slug } = useParams();
+
+  useEffect(() => {
+    startLoadingPodcastEpisodes(slug);
+  }, [slug, startLoadingPodcastEpisodes]);
   function parsethisHtml(this_html) {
     var element;
     $("document").ready(function () {
@@ -27,13 +24,15 @@ export default function Podcast() {
     });
     return element;
   }
-  return (
+  const loadingMessage = <div>Loading Podcasts...</div>;
+  const PodPage = (
     <div>
       <Header />
       <div className="podInfo">
         <div>
           <img src={podcast.image} alt={podcast.title} />
         </div>
+
         <div className="description">
           <h2>{podcast.title}</h2>
           <div id="target">{parsethisHtml(podcast.description)}</div>
@@ -42,7 +41,21 @@ export default function Podcast() {
       <div className="podEpisodes">
         <PodEpisodes rss_feed={podcast.rssFeed} />
       </div>
-      <Player />;
+      <Player />
     </div>
   );
-}
+  return isLoadingPod ? loadingMessage : PodPage;
+};
+
+const mapStateToProps = (state) => ({
+  // Find a way to filter this podcast from others that have been loaded
+  podcast: state.podcast,
+  isLoadingPod: state.isLoadingPod,
+  // episodes: state.podcast.episodes,
+});
+
+const mapDispatchToProps = (dispatch) => ({
+  startLoadingPodcastEpisodes: (slug) => dispatch(loadPodcastEpisodes(slug)),
+});
+
+export default connect(mapStateToProps, mapDispatchToProps)(Podcast);

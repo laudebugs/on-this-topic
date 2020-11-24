@@ -7,9 +7,6 @@ import Player from "../components/Player";
 import PodCarousel from "../components/PodCarousel";
 
 export default function HomePage() {
-  const displayPage = () => {
-    return <div>At home</div>;
-  };
   return (
     <div>
       <Header />
