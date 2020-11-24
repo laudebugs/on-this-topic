@@ -1,5 +1,5 @@
 import React from "react";
-
+import { Link } from "react-router-dom";
 import Logo from "../css/images/logoDark.png";
 // import User from "../css/images/userDark.png";
 const Header = () => (
@@ -7,9 +7,11 @@ const Header = () => (
     <div className="siteIcon">
       <img src={Logo} alt="On This Topic icon" />
     </div>
-    <div className="siteTtl">
-      <h1>ON THIS TOPIC</h1>
-    </div>
+    <Link to="/">
+      <div className="siteTtl">
+        <h1>ON THIS TOPIC</h1>
+      </div>
+    </Link>
     <div className="userIcon">{/* <img src={User} alt="User" /> */}</div>
   </div>
 );

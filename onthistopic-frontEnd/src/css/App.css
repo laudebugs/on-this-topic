@@ -210,22 +210,44 @@ div.menuBar {
 /* Audio Player
 --------------*/
 div.player {
-  background-color: rgba(5, 10, 48, 0.17);
+  background-color: #a6a6a6;
   width: 100%;
-  /* position: fixed; */
-  margin: 2.5% 0 0 0;
+  position: fixed;
+  margin: 0;
   bottom: 0;
   left: 0;
   display: "";
+  vertical-align: middle;
+  font-size: 125%;
+  line-height: 125%;
+}
+div.podArt {
+  width: 20%;
+  display: inline-block;
+  vertical-align: middle;
+  padding: 2.5%;
+}
+div.nowPlaying {
+  width: 70%;
+  padding: 2.5%;
+  vertical-align: middle;
+  display: inline-block;
+}
+div.nowPlaying p {
+  overflow: hidden;
+}
+div.podArt img {
+  width: 100%;
 }
 div.playingTtl {
   width: 20%;
+  height: 80px;
   display: inline-block;
-  padding: 1%;
+  padding: 0 1% 0 1%;
 }
 div.icon {
   width: 4%;
-  padding: 1%;
+  padding: 0.5%;
   display: inline-block;
   vertical-align: middle;
 }
@@ -293,6 +315,7 @@ div.carouselImage {
 }
 /* Podcast page
 ----------------*/
+
 div.podInfo {
   width: 50%;
   display: inline-block;
@@ -326,6 +349,7 @@ div.podEpisodes {
   width: 40%;
   padding-right: 2.5%;
   display: inline-block;
+  margin-bottom: 150px;
 }
 div.episodeList {
   border: 1px solid #a6a6a6;

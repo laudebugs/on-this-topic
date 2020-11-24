@@ -1,35 +1,37 @@
 import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
+import { connect } from "react-redux";
+
 import PodElement from "./PodElement";
 
-export default function PodCarousel() {
-  let [podcasts, setPodcasts] = useState({});
+import { loadPodcasts } from "./thunks";
 
+const mapStateToProps = (state) => ({
+  isLoading: state.isLoading,
+  podcasts: state.podcasts,
+});
+const mapDispatchToProps = (dispatch) => ({
+  startLoadingPodcasts: () => dispatch(loadPodcasts()),
+});
+export default connect(
+  mapStateToProps,
+  mapDispatchToProps
+)(function PodCarousel({ podcasts = [], isLoading, startLoadingPodcasts }) {
+  console.log(startLoadingPodcasts);
   useEffect(() => {
-    const fetchData = async () => {
-      const result = await fetch("/allpodcasts");
-      const body = await result.json();
-      setPodcasts(body);
-      console.log(podcasts);
-    };
-    fetchData();
+    startLoadingPodcasts();
   }, []);
-  const pods = [];
-  for (var i in podcasts) {
-    pods.push(podcasts[i]);
-  }
+  const loadingMessage = <div>Loading Podcasts...</div>;
+  console.log(podcasts);
   const printCarosel = () => {
-    return pods.map((pod) => (
-      <div className="carouselImage">
-        <Link to={`/podcast/${pod._id}`}>
-          <img src={pod.image} alt={pod.title} />
-        </Link>
-      </div>
-    ));
+    return <div className="carouselImage"></div>;
   };
-  return (
-    <div className="carousel">
-      <div className="horizontal-scroll-wrapper">{printCarosel()}</div>
+  const content = podcasts.map((pod) => (
+    <div className="carouselImage">
+      <Link to={`/podcast/${pod._id}`}>
+        <img src={pod.image} alt={pod.title} />
+      </Link>
     </div>
-  );
-}
+  ));
+  return isLoading ? loadingMessage : content;
+});

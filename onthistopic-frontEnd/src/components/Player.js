@@ -1,7 +1,8 @@
-import React from "react";
+import React, { useEffect } from "react";
 import ReactAudioPlayer from "react-audio-player";
 import $ from "jquery";
-
+import { connect } from "react-redux";
+import { playEpisode } from "./actions";
 // import components
 import playIcon from "../css/images/icons/play.png";
 import pauseIcon from "../css/images/icons/pause.png";
@@ -11,6 +12,13 @@ import comment from "../css/images/icons/comment.png";
 import like from "../css/images/icons/like.png";
 import timeline from "../css/images/timeline.svg";
 import Timeline from "./Timeline";
+
+const mapStateToProps = (state) => ({
+  player: state.player,
+});
+const mapDispatchToProps = (dispatch) => ({
+  onCreatePressed: (episode) => dispatch(playEpisode(episode)),
+});
 
 function playPause() {
   var audioelement = $(".audioHere")[0];
@@ -22,10 +30,32 @@ function playPause() {
     audioelement.pause();
   }
 }
+function niceTime(time) {
+  time = Math.trunc(time);
+  var hours = Math.trunc(time / 3600);
+  var mins = Math.trunc((time % 3600) / 60);
+  var secs = Math.trunc(time % 60);
+  var goodTym = "";
+  if (hours > 0) goodTym += hours + ":";
+  if (mins > 0) goodTym += mins + ":";
+  else if (mins > 0 && hours > 0) goodTym += "00" + ":";
+  else goodTym = "00:";
+  if (secs > 0) {
+    if (secs < 10) goodTym += "0";
+    goodTym += secs;
+  } else goodTym += "00";
+  return goodTym;
+}
+export default connect(
+  mapStateToProps,
+  mapDispatchToProps
+)(function Player({ player = [], pod_ep }) {
+  // console.log(player.playing);
 
-export default function Player(pod_ep) {
-  console.log(pod_ep);
-  const ep_link = pod_ep.rssFeed;
+  var ep_link;
+  if (player.length > 0) {
+    ep_link = pod_ep.rssFeed;
+  }
   const [dimensions, setDimensions] = React.useState({
     height: window.innerHeight,
     width: window.innerWidth * 0.48,
@@ -45,20 +75,28 @@ export default function Player(pod_ep) {
       console.log("resizing");
       setDimensions({
         height: 40,
-        width: $(document).width() * 0.48,
+        width: window.innerWidth * 0.48,
       });
     };
     var audioelement = $(".audioHere")[0];
 
     // Update the time for the timeline when audio is playing
-    audioelement.ontimeupdate = function () {
-      setPctPlayed(audioelement.currentTime / audioelement.duration);
-      if (audioelement.paused) {
-        $(".playPause img:first").attr("src", playIcon);
-      } else {
-        $(".playPause img:first").attr("src", pauseIcon);
-      }
-    };
+    if (audioelement !== undefined) {
+      audioelement.ontimeupdate = function () {
+        setPctPlayed(audioelement.currentTime / audioelement.duration);
+        if (audioelement.paused) {
+          $(".playPause img:first").attr("src", playIcon);
+        } else {
+          $(".playPause img:first").attr("src", pauseIcon);
+        }
+        var elem = $("#timeUpdate");
+        elem.html(
+          `${niceTime(audioelement.currentTime)}<br/>${niceTime(
+            audioelement.duration
+          )}`
+        );
+      };
+    }
 
     $("#timeline").on("click", function (e) {
       var goToPct =
@@ -93,13 +131,27 @@ export default function Player(pod_ep) {
     $("div.seekBack").on("click", function (e) {
       audioelement.currentTime = audioelement.currentTime - 15;
     });
-  });
+    $(document).ready(() => {
+      var audioelement = $(".audioHere")[0];
+      var elem = $("#timeUpdate");
+      if (audioelement != undefined) {
+        elem.html(
+          `${niceTime(audioelement.currentTime)}<br/>${niceTime(
+            audioelement.duration
+          )}`
+        );
+      }
+    });
+  }, [player]);
 
-  return (
+  return player.playing.map((p) => (
     <div className="player">
       <div className="playingTtl">
-        <div>
-          <img src={pod_ep.image} alt={pod_ep.title}></img>
+        <div className="podArt">
+          <img src={p.image}></img>
+        </div>
+        <div className="nowPlaying">
+          <p>{p.title}</p>
         </div>
       </div>
       <div className="icon playPause" draggable="true" onClick={playPause}>
@@ -108,6 +160,8 @@ export default function Player(pod_ep) {
       <div className="icon seekBack">
         <img src={rewind} />
       </div>
+      <div className="icon" id="timeUpdate"></div>
+
       <div className="progressBar">
         <Timeline
           id="timeline"
@@ -116,7 +170,7 @@ export default function Player(pod_ep) {
           pct={pctPlayed}
         />
         <ReactAudioPlayer
-          src="https://sphinx.acast.com/kiffe-ta-race/super-macroncontrelanti-france/media.mp3"
+          src={p.enclosure.url}
           autoPlay={false}
           className="audioHere"
         />
@@ -131,5 +185,5 @@ export default function Player(pod_ep) {
         <img src={like} />
       </div>
     </div>
-  );
-}
+  ));
+});

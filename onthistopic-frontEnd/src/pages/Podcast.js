@@ -4,6 +4,7 @@ import $ from "jquery";
 import Header from "../components/Header";
 import PodEpisodes from "../components/PodEpisodes";
 import Player from "../components/Player";
+import { player } from "../components/reducers";
 // Podcast takes a prop value which is the id of the podcast
 export default function Podcast() {
   let { slug } = useParams();
@@ -26,7 +27,6 @@ export default function Podcast() {
     });
     return element;
   }
-
   return (
     <div>
       <Header />
@@ -42,7 +42,7 @@ export default function Podcast() {
       <div className="podEpisodes">
         <PodEpisodes rss_feed={podcast.rssFeed} />
       </div>
-      <Player />
+      <Player />;
     </div>
   );
 }
