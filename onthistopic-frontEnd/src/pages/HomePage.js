@@ -11,9 +11,8 @@ export default function HomePage() {
     <div>
       <Header />
       <MenuBar />
-      {displayPage()}
       <PodCarousel />
-      <Player />
+      {/* <Player /> */}
     </div>
   );
 }

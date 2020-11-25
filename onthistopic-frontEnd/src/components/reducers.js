@@ -11,6 +11,9 @@ import {
   LOAD_PODCAST_EPISODES_IN_PROGRESS,
   LOAD_PODCAST_EPISODES_SUCCESS,
   LOAD_PODCAST_EPISODES_FAILURE,
+  PLAY_IN_PROGRESS,
+  PLAY_SUCCESS,
+  PLAY_FAILURE,
 } from "./actions";
 
 export const isLoading = (state = false, action) => {
@@ -51,6 +54,7 @@ export const podcast = (state = [], action) => {
       return state;
   }
 };
+
 export const podcasts = (state = [], action) => {
   const { type, payload } = action;
   switch (type) {

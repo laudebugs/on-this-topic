@@ -10,6 +10,7 @@ import AllLocations from "./pages/AllLocations";
 import Podcast from "./pages/Podcast";
 import Location from "./pages/Location";
 import Person from "./pages/Person";
+import { connect } from "react-redux";
 
 import Discover from "./pages/Discover";
 
@@ -18,10 +19,11 @@ import YourPodcasts from "./pages/YourPodcasts";
 
 import SignIn from "./pages/SignIn";
 import SignUp from "./pages/SignUp";
+import Player from "./components/Player";
 
-class App extends Component {
-  render() {
-    return (
+const App = ({ player = [] }) => {
+  return (
+    <div>
       <BrowserRouter>
         <Switch>
           <Route path="/" component={HomePage} exact />
@@ -41,7 +43,12 @@ class App extends Component {
           <Route path="/signup" component={SignUp} exact />
         </Switch>
       </BrowserRouter>
-    );
-  }
-}
-export default App;
+      <Player player={player} />
+    </div>
+  );
+};
+const mapStateToProps = (state) => ({
+  player: state.player,
+});
+
+export default connect(mapStateToProps)(App);

@@ -41,7 +41,7 @@ const Podcast = ({ podcast, isLoadingPod, startLoadingPodcastEpisodes }) => {
       <div className="podEpisodes">
         <PodEpisodes rss_feed={podcast.rssFeed} />
       </div>
-      <Player />
+      {/* <Player /> */}
     </div>
   );
   return isLoadingPod ? loadingMessage : PodPage;

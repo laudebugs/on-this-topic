@@ -13,13 +13,6 @@ import like from "../css/images/icons/like.png";
 import timeline from "../css/images/timeline.svg";
 import Timeline from "./Timeline";
 
-const mapStateToProps = (state) => ({
-  player: state.player,
-});
-const mapDispatchToProps = (dispatch) => ({
-  onCreatePressed: (episode) => dispatch(playEpisode(episode)),
-});
-
 function playPause() {
   var audioelement = $(".audioHere")[0];
   if (audioelement.paused) {
@@ -46,10 +39,7 @@ function niceTime(time) {
   } else goodTym += "00";
   return goodTym;
 }
-export default connect(
-  mapStateToProps,
-  mapDispatchToProps
-)(function Player({ player = [], pod_ep }) {
+export default function Player({ player, pod_ep }) {
   // console.log(player.playing);
 
   var ep_link;
@@ -186,4 +176,4 @@ export default connect(
       </div>
     </div>
   ));
-});
+}
