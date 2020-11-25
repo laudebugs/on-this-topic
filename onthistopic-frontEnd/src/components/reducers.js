@@ -15,7 +15,13 @@ import {
   PLAY_SUCCESS,
   PLAY_FAILURE,
 } from "./actions";
-
+const initialState = {
+  isLoading: false,
+  isLoadingPod: false,
+  podcasts: [],
+  podcasts: [],
+  player: { playing: [], playingSth: false, pause: true },
+};
 export const isLoading = (state = false, action) => {
   const { type } = action;
   switch (type) {

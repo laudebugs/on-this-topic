@@ -1,8 +1,6 @@
 import React, { useEffect } from "react";
 import ReactAudioPlayer from "react-audio-player";
 import $ from "jquery";
-import { connect } from "react-redux";
-import { playEpisode } from "./actions";
 // import components
 import playIcon from "../css/images/icons/play.png";
 import pauseIcon from "../css/images/icons/pause.png";
@@ -10,7 +8,6 @@ import rewind from "../css/images/icons/rewind.png";
 import forward from "../css/images/icons/forward.png";
 import comment from "../css/images/icons/comment.png";
 import like from "../css/images/icons/like.png";
-import timeline from "../css/images/timeline.svg";
 import Timeline from "./Timeline";
 
 function playPause() {
