@@ -19,67 +19,68 @@ const initialState = {
   isLoading: false,
   isLoadingPod: false,
   podcasts: [],
-  podcasts: [],
+  podcast: [],
   player: { playing: [], playingSth: false, pause: true },
 };
-export const isLoading = (state = false, action) => {
-  const { type } = action;
-  switch (type) {
-    case LOAD_PODCASTS_IN_PROGRESS:
-      return true;
-    case LOAD_PODCASTS_SUCCESS:
-    case LOAD_PODCASTS_FAILURE:
-      return false;
-    default:
-      return state;
-  }
-};
 
-export const isLoadingPod = (state = false, action) => {
-  const { type } = action;
-  switch (type) {
-    case LOAD_PODCAST_EPISODES_IN_PROGRESS:
-      return true;
-    case LOAD_PODCAST_EPISODES_SUCCESS:
-    case LOAD_PODCAST_EPISODES_FAILURE:
-      return false;
-    default:
-      return state;
-  }
-};
 // A single podcast with episodes
-export const podcast = (state = [], action) => {
+export const podcast = (state = initialState, action) => {
   const { type, payload } = action;
   switch (type) {
     case LOAD_PODCAST_EPISODES_SUCCESS:
       const { podcast } = payload;
-      return podcast;
+      return {
+        ...state,
+        podcast: podcast,
+      };
     case LOAD_PODCAST_EPISODES_IN_PROGRESS:
+      return {
+        ...state,
+        isLoadingPod: true,
+      };
     case LOAD_PODCAST_EPISODES_FAILURE:
+      return {
+        ...state,
+        isLoadingPod: false,
+      };
     default:
-      return state;
+      return { ...state };
   }
 };
 
-export const podcasts = (state = [], action) => {
+export const podcasts = (state = initialState, action) => {
   const { type, payload } = action;
   switch (type) {
     case LOAD_PODCASTS_SUCCESS:
       const { podcasts } = payload;
-      return podcasts;
+      return {
+        ...state,
+        isLoading: false,
+        podcasts: podcasts,
+      };
     case LOAD_PODCASTS_IN_PROGRESS:
+      return {
+        ...state,
+        isLoading: true,
+      };
     case LOAD_PODCASTS_FAILURE:
+      return {
+        ...state,
+        isLoading: false,
+      };
     default:
-      return state;
+      return { ...state };
   }
 };
-export const player = (state = [], action) => {
+
+export const player = (state = initialState, action) => {
   const { type, payload } = action;
   switch (type) {
     case PLAY_EPISODE:
       const { episode } = payload;
       return {
-        playing: [episode],
+        ...state,
+        playing: episode,
         playingSth: true,
         pause: false,
       };
@@ -99,6 +100,7 @@ export const player = (state = [], action) => {
 
     default:
       return {
+        ...state,
         playing: [],
         playingSth: false,
         pause: true,

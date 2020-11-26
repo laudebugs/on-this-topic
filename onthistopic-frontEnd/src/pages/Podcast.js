@@ -8,7 +8,7 @@ import { player } from "../components/reducers";
 import { connect } from "react-redux";
 import { loadPodcastEpisodes } from "../components/thunks";
 // Podcast takes a prop value which is the id of the podcast
-
+import { getPodcast, getIsLoadingPod } from "../components/selectors";
 const Podcast = ({ podcast, isLoadingPod, startLoadingPodcastEpisodes }) => {
   let { slug } = useParams();
 
@@ -24,6 +24,7 @@ const Podcast = ({ podcast, isLoadingPod, startLoadingPodcastEpisodes }) => {
     });
     return element;
   }
+  console.log(isLoadingPod);
   const loadingMessage = <div>Loading Podcasts...</div>;
   const PodPage = (
     <div>
@@ -39,7 +40,7 @@ const Podcast = ({ podcast, isLoadingPod, startLoadingPodcastEpisodes }) => {
         </div>
       </div>
       <div className="podEpisodes">
-        <PodEpisodes rss_feed={podcast.rssFeed} />
+        <PodEpisodes podImage={podcast.image} episodes={podcast} />
       </div>
       {/* <Player /> */}
     </div>
@@ -49,9 +50,8 @@ const Podcast = ({ podcast, isLoadingPod, startLoadingPodcastEpisodes }) => {
 
 const mapStateToProps = (state) => ({
   // Find a way to filter this podcast from others that have been loaded
-  podcast: state.podcast,
-  isLoadingPod: state.isLoadingPod,
-  // episodes: state.podcast.episodes,
+  podcast: getPodcast(state),
+  isLoadingPod: getIsLoadingPod(state),
 });
 
 const mapDispatchToProps = (dispatch) => ({

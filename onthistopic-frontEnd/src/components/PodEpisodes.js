@@ -7,24 +7,8 @@ import $ from "jquery";
 import PodElement from "./PodElement";
 
 // Podcast takes a prop value which is the id of the podcast
-export default function Podcast({ rss_feed }) {
-  // let rss_feed = podcast.rssFeed;
-  let [episodes, setEpisodes] = useState([]);
-  let [podImage, setPodImage] = useState("");
-  useEffect(() => {
-    //Get the podcast episodes from the rss_feed
-    const CORS_PROXY = "https://cors-anywhere.herokuapp.com/";
-    let parser = new Parser();
-    // let rssFeed = rss_feed.rssFeed;
-    parser.parseURL(CORS_PROXY + rss_feed, function (err, feed) {
-      if (err) console.log(err);
-      else if (feed !== undefined) {
-        setPodImage(feed.image);
-        setEpisodes(feed.items.slice(0, 10));
-      }
-    });
-  }, [rss_feed]);
-
+export default function Podcast({ podImage, episodes }) {
+  console.log(episodes);
   function printEpisodes() {
     return episodes.map((ep) => (
       <PodElement key={ep.enclosure.url} image={podImage} episode={ep} />

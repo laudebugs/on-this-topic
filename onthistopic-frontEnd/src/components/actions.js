@@ -1,5 +1,4 @@
 export const PLAY_EPISODE = "PLAY_EPISODE";
-
 export const playEpisode = (episode) => ({
   type: PLAY_EPISODE,
   payload: { episode },
@@ -14,7 +13,7 @@ export const pausePlay = (pause) => ({
   type: STOP_PLAY,
   payload: { pause },
 });
-export const LOAD_PODCASTS_IN_PROGRESS = "LOAD_PODCASTS";
+export const LOAD_PODCASTS_IN_PROGRESS = "LOAD_PODCASTS_IN_PROGRESS";
 export const loadPodcastsInProgress = () => ({
   type: LOAD_PODCASTS_IN_PROGRESS,
 });

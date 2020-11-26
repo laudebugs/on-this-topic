@@ -5,9 +5,10 @@ import { connect } from "react-redux";
 import { playEpisode } from "./actions";
 import { pausePlay } from "./actions";
 import $ from "jquery";
+import { getPlayer } from "./selectors";
 
 const mapStateToProps = (state) => ({
-  player: state.player,
+  player: getPlayer(state),
 });
 const mapDispatchToProps = (dispatch) => ({
   onCreatePressed: (episode) => dispatch(playEpisode(episode)),
@@ -17,8 +18,9 @@ const mapDispatchToProps = (dispatch) => ({
 export default connect(
   mapStateToProps,
   mapDispatchToProps
-)(function PodElement({ player, onCreatePressed, onPause, image, episode }) {
-  episode.image = image.url;
+)(function PodElement({ onCreatePressed, onPause, image, episode }) {
+  episode.image = image;
+
   const [isPlaying, setIsPlaying] = useState({ isPlaying: false });
   const [icon, setIcon] = useState({ icon: playIcon });
   useEffect(() => {

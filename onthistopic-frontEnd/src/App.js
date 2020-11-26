@@ -21,7 +21,7 @@ import SignIn from "./pages/SignIn";
 import SignUp from "./pages/SignUp";
 import Player from "./components/Player";
 
-const App = ({ player = [] }) => {
+const App = ({ player }) => {
   return (
     <div>
       <BrowserRouter>

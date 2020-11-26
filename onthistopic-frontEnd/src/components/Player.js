@@ -37,8 +37,6 @@ function niceTime(time) {
   return goodTym;
 }
 export default function Player({ player, pod_ep }) {
-  // console.log(player.playing);
-
   var ep_link;
   if (player.length > 0) {
     ep_link = pod_ep.rssFeed;
@@ -130,8 +128,7 @@ export default function Player({ player, pod_ep }) {
       }
     });
   }, [player]);
-
-  return player.playing.map((p) => (
+  const renderPlayer = player.playing.map((p) => (
     <div className="player">
       <div className="playingTtl">
         <div className="podArt">
@@ -173,4 +170,6 @@ export default function Player({ player, pod_ep }) {
       </div>
     </div>
   ));
+  const renderNothing = <div></div>;
+  return player.playing.length > 0 ? renderPlayer : renderNothing;
 }

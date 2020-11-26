@@ -276,11 +276,11 @@ div.carousel {
 div.carouselImage {
   width: 15%;
   display: inline-block;
-  padding: 2%;
+  padding: 2.5%;
 }
 .carouselImage img {
-  width: 300px;
-  height: 300px;
+  width: 100%;
+  height: 100%;
 }
 .horizontal-scroll-wrapper > div {
   width: 300px;
