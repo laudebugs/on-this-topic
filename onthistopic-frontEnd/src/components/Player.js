@@ -36,11 +36,9 @@ function niceTime(time) {
   } else goodTym += "00";
   return goodTym;
 }
-export default function Player({ player, pod_ep }) {
-  var ep_link;
-  if (player.length > 0) {
-    ep_link = pod_ep.rssFeed;
-  }
+export default function Player({ player }) {
+  const playThis = player.player.playing;
+
   const [dimensions, setDimensions] = React.useState({
     height: window.innerHeight,
     width: window.innerWidth * 0.48,
@@ -52,8 +50,9 @@ export default function Player({ player, pod_ep }) {
   // Whenever the link for a new podcast episode changes
   React.useEffect(() => {
     setPctPlayed(0);
-  }, [ep_link]);
-
+  }, [player]);
+  console.log(player);
+  console.log(player.player.playingSth);
   React.useEffect(() => {
     // Change the size of the player when the window resizes
     window.onresize = function () {
@@ -128,48 +127,54 @@ export default function Player({ player, pod_ep }) {
       }
     });
   }, [player]);
-  const renderPlayer = player.playing.map((p) => (
-    <div className="player">
-      <div className="playingTtl">
-        <div className="podArt">
-          <img src={p.image}></img>
-        </div>
-        <div className="nowPlaying">
-          <p>{p.title}</p>
-        </div>
-      </div>
-      <div className="icon playPause" draggable="true" onClick={playPause}>
-        <img src={playIcon} />
-      </div>
-      <div className="icon seekBack">
-        <img src={rewind} />
-      </div>
-      <div className="icon" id="timeUpdate"></div>
 
-      <div className="progressBar">
-        <Timeline
-          id="timeline"
-          height="40"
-          width={dimensions.width}
-          pct={pctPlayed}
-        />
-        <ReactAudioPlayer
-          src={p.enclosure.url}
-          autoPlay={false}
-          className="audioHere"
-        />
+  if (player.player.playingSth === true) {
+    return (
+      <div className="player">
+        <div className="playingTtl">
+          <div className="podArt">
+            <img src={playThis.image}></img>
+          </div>
+          <div className="nowPlaying">
+            <p>{playThis.title}</p>
+          </div>
+        </div>
+        <div className="icon playPause" draggable="true" onClick={playPause}>
+          <img src={playIcon} />
+        </div>
+        <div className="icon seekBack">
+          <img src={rewind} />
+        </div>
+        <div className="icon" id="timeUpdate"></div>
+
+        <div className="progressBar">
+          <Timeline
+            id="timeline"
+            height="40"
+            width={dimensions.width}
+            pct={pctPlayed}
+          />
+          <ReactAudioPlayer
+            src={playThis.enclosure.url}
+            autoPlay={false}
+            className="audioHere"
+          />
+        </div>
+        <div className="icon seekForward">
+          <img src={forward} />
+        </div>
+        <div className="icon comment">
+          <img src={comment} />
+        </div>
+        <div className="icon like">
+          <img src={like} />
+        </div>
       </div>
-      <div className="icon seekForward">
-        <img src={forward} />
-      </div>
-      <div className="icon comment">
-        <img src={comment} />
-      </div>
-      <div className="icon like">
-        <img src={like} />
-      </div>
-    </div>
-  ));
-  const renderNothing = <div></div>;
-  return player.playing.length > 0 ? renderPlayer : renderNothing;
+    );
+  } else {
+    return <div></div>;
+  }
+
+  // const renderNothing = <div></div>;
+  // return player.player.playing.playingSth > 0 ? renderPlayer : renderNothing;
 }

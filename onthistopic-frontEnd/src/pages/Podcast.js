@@ -14,7 +14,7 @@ const Podcast = ({ podcast, isLoadingPod, startLoadingPodcastEpisodes }) => {
 
   useEffect(() => {
     startLoadingPodcastEpisodes(slug);
-  }, [slug, startLoadingPodcastEpisodes]);
+  }, []);
   function parsethisHtml(this_html) {
     var element;
     $("document").ready(function () {
@@ -24,7 +24,7 @@ const Podcast = ({ podcast, isLoadingPod, startLoadingPodcastEpisodes }) => {
     });
     return element;
   }
-  console.log(isLoadingPod);
+  console.log(podcast);
   const loadingMessage = <div>Loading Podcasts...</div>;
   const PodPage = (
     <div>
@@ -40,7 +40,7 @@ const Podcast = ({ podcast, isLoadingPod, startLoadingPodcastEpisodes }) => {
         </div>
       </div>
       <div className="podEpisodes">
-        <PodEpisodes podImage={podcast.image} episodes={podcast} />
+        <PodEpisodes podImage={podcast.image} episodes={podcast.episodes} />
       </div>
       {/* <Player /> */}
     </div>

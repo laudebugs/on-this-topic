@@ -37,7 +37,6 @@ export const loadPodcastEpisodes = (slug) => async (dispatch, getState) => {
 
     let feed = await parser.parseURL(CORS_PROXY + podcast.rssFeed);
     podcast.episodes = feed.items.slice(0, 100);
-    console.log(podcast);
 
     dispatch(loadPodcastEpisodesSuccess(podcast));
   } catch (error) {

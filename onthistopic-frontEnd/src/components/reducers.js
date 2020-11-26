@@ -20,7 +20,7 @@ const initialState = {
   isLoadingPod: false,
   podcasts: [],
   podcast: [],
-  player: { playing: [], playingSth: false, pause: true },
+  player: { playing: {}, playingSth: false, pause: true },
 };
 
 // A single podcast with episodes
@@ -31,6 +31,7 @@ export const podcast = (state = initialState, action) => {
       const { podcast } = payload;
       return {
         ...state,
+        isLoadingPod: false,
         podcast: podcast,
       };
     case LOAD_PODCAST_EPISODES_IN_PROGRESS:
@@ -80,9 +81,7 @@ export const player = (state = initialState, action) => {
       const { episode } = payload;
       return {
         ...state,
-        playing: episode,
-        playingSth: true,
-        pause: false,
+        player: { playing: episode, playingSth: true, pause: false },
       };
 
     case STOP_PLAY:
