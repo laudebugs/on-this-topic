@@ -15,7 +15,7 @@ const app = express();
 app.use(express.static(publicPath));
 app.use(bodyParser.json());
 app.use(bodyParser.json());
-
+app.use(express.static(path.join(__dirname, "/build")));
 require("./db");
 const dbFuncs = require("./addPodcast");
 const Podcast = mongoose.model("Podcast");
@@ -60,21 +60,21 @@ app.post("/podcast", function (req, res) {
       res.send("not found podcast");
     }
     console.log(feed);
-    Podcast.findOne({ title: feed.title, rssFeed: feed.feedUrl }, function (
-      err,
-      result
-    ) {
-      if (result == null) {
-        console.log("pod doesn' exists. Creating new one");
-        // Add the podcast to the database
-        dbFuncs.addPod(feed);
-        res.send(feed);
-      } else {
-        // figure out a way to redirect the user to the particular podcast --
-        // perhaps using redirect
-        res.send(feed);
+    Podcast.findOne(
+      { title: feed.title, rssFeed: feed.feedUrl },
+      function (err, result) {
+        if (result == null) {
+          console.log("pod doesn' exists. Creating new one");
+          // Add the podcast to the database
+          dbFuncs.addPod(feed);
+          res.send(feed);
+        } else {
+          // figure out a way to redirect the user to the particular podcast --
+          // perhaps using redirect
+          res.send(feed);
+        }
       }
-    });
+    );
   });
 });
 /*
@@ -287,4 +287,7 @@ app.get("/likes", function (req, res) {});
  */
 app.post("/like", function (req, res) {});
 
+app.get("*", (req, res) => {
+  res.sendFile(path.join(__dirname + "/build/index.html"));
+});
 app.listen(5000);
