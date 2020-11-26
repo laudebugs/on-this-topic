@@ -18,7 +18,7 @@ const mapDispatchToProps = (dispatch) => ({
 export default connect(
   mapStateToProps,
   mapDispatchToProps
-)(function PodElement({ onCreatePressed, onPause, image, episode }) {
+)(function PodElement({ player, onCreatePressed, onPause, image, episode }) {
   episode.image = image;
 
   const [isPlaying, setIsPlaying] = useState({ isPlaying: false });
