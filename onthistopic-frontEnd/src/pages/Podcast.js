@@ -1,20 +1,19 @@
 import React, { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
 import $ from "jquery";
-import Header from "../components/Header";
-import PodEpisodes from "../components/PodEpisodes";
-import Player from "../components/Player";
-import { player } from "../components/reducers";
+
 import { connect } from "react-redux";
 import { loadPodcastEpisodes } from "../components/thunks";
-// Podcast takes a prop value which is the id of the podcast
+
+import Header from "../components/Header";
+import PodEpisodes from "../components/PodEpisodes";
 import { getPodcast, getIsLoadingPod } from "../components/selectors";
 const Podcast = ({ podcast, isLoadingPod, startLoadingPodcastEpisodes }) => {
   let { slug } = useParams();
 
   useEffect(() => {
     startLoadingPodcastEpisodes(slug);
-  }, []);
+  }, [podcast]);
   function parsethisHtml(this_html) {
     var element;
     $("document").ready(function () {

@@ -10,7 +10,6 @@ import AllLocations from "./pages/AllLocations";
 import Podcast from "./pages/Podcast";
 import Location from "./pages/Location";
 import Person from "./pages/Person";
-import { connect } from "react-redux";
 
 import Discover from "./pages/Discover";
 
@@ -21,7 +20,7 @@ import SignIn from "./pages/SignIn";
 import SignUp from "./pages/SignUp";
 import Player from "./components/Player";
 
-const App = ({ player }) => {
+const App = () => {
   return (
     <div>
       <BrowserRouter>
@@ -47,8 +46,5 @@ const App = ({ player }) => {
     </div>
   );
 };
-const mapStateToProps = (state) => ({
-  player: state.player,
-});
 
-export default connect(mapStateToProps)(App);
+export default App;

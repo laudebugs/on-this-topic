@@ -1,10 +1,8 @@
 import React, { useState, useEffect } from "react";
-import playIcon from "../css/images/icons/play.png";
-import pauseIcon from "../css/images/icons/pause.png";
+
 import { connect } from "react-redux";
 import { playEpisode } from "./actions";
 import { playPause } from "./thunks";
-import $ from "jquery";
 import { getPlayer } from "./selectors";
 
 // import Helper Functions
@@ -31,21 +29,6 @@ export default connect(
   episode,
 }) {
   episode.image = image;
-
-  const [icon, setIcon] = useState({ icon: playIcon });
-  useEffect(() => {
-    if (player.playing === episode) {
-      // console.log(player);
-
-      if (!player.pause) {
-        setIcon(pauseIcon);
-      } else {
-        setIcon(playIcon);
-      }
-    } else {
-      setIcon(playIcon);
-    }
-  }, [player, episode]);
 
   const Pause = (
     <div
@@ -79,6 +62,22 @@ export default connect(
       </svg>
     </div>
   );
+  /**
+   * This useEffect changes the icon depending on whether the episode is currently playing or not
+   */
+  const [icon, setIcon] = useState(Play);
+  useEffect(() => {
+    if (player.playing === episode) {
+      if (!player.pause) {
+        setIcon(Pause);
+      } else {
+        setIcon(Play);
+      }
+    } else {
+      setIcon(Play);
+    }
+  }, [player, episode]);
+
   return (
     <div className="episode">
       <div className="icon">{icon}</div>
