@@ -43,7 +43,7 @@ const App = ({ player }) => {
           <Route path="/signup" component={SignUp} exact />
         </Switch>
       </BrowserRouter>
-      <Player player={player} />
+      <Player />
     </div>
   );
 };

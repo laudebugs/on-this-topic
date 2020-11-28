@@ -14,7 +14,7 @@ export const playInProgress = () => ({
 });
 export const PLAY_SUCCESS = "PLAY_SUCCESS";
 export const playSuccess = (pause) => ({
-  type: PLAY_IN_PROGRESS,
+  type: PLAY_SUCCESS,
   payload: { pause },
 });
 export const PLAY_FAILURE = "PLAY_FAILURE";

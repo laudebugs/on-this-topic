@@ -83,22 +83,6 @@ export const player = (state = initialState, action) => {
         ...state,
         player: { ...state.player, playing: episode, playingSth: true },
       };
-
-    case STOP_PLAY:
-      return "";
-
-    default:
-      return {
-        ...state,
-        playing: [],
-        playingSth: false,
-        pause: true,
-      };
-  }
-};
-export const pausePlay = (state = initialState, action) => {
-  const { type, payload } = action;
-  switch (type) {
     case PLAY_SUCCESS:
       const { pause } = payload;
       return {
@@ -115,9 +99,40 @@ export const pausePlay = (state = initialState, action) => {
         ...state,
         player: { ...state.player, switching: false },
       };
+    case STOP_PLAY:
+      return "";
+
     default:
       return {
         ...state,
+        playing: [],
+        playingSth: false,
+        pause: true,
       };
   }
 };
+// export const pausePlay = (state = initialState, action) => {
+//   const { type, payload } = action;
+//   switch (type) {
+//     case PLAY_SUCCESS:
+//       const { pause } = payload;
+//       return {
+//         ...state,
+//         player: { ...state.player, switching: false, pause: pause },
+//       };
+//     case PLAY_IN_PROGRESS:
+//       return {
+//         ...state,
+//         player: { ...state.player, switching: true },
+//       };
+//     case PLAY_FAILURE:
+//       return {
+//         ...state,
+//         player: { ...state.player, switching: false },
+//       };
+//     default:
+//       return {
+//         ...state,
+//       };
+//   }
+// };

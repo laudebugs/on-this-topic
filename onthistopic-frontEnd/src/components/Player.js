@@ -1,6 +1,7 @@
 import React, { useEffect } from "react";
 import ReactAudioPlayer from "react-audio-player";
 import $ from "jquery";
+import { connect } from "react-redux";
 
 import PlayIcon from "./icons/PlayIcon";
 import Rewind15 from "./icons/Rewind15";
@@ -8,10 +9,25 @@ import Forward15 from "./icons/Forward15";
 import Conversation from "./icons/Conversation";
 import Like from "./icons/Like";
 import Timeline from "./Timeline";
+import { getPlayer } from "./selectors";
+import { playPause } from "../components/thunks";
 
-export default function Player({ player }) {
-  const playThis = player.player.playing;
-  // console.log(playThis);
+// import Helper Functions
+const HelperFuncs = require("./HelperFuncs");
+
+const mapStateToProps = (state) => ({
+  player: getPlayer(state),
+});
+const mapDispatchToProps = (dispatch) => ({
+  onPlayPause: () => dispatch(playPause()),
+});
+
+export default connect(
+  mapStateToProps,
+  mapDispatchToProps
+)(function Player({ player, onPlayPause }) {
+  const playThis = player.playing;
+
   const [dimensions, setDimensions] = React.useState({
     height: window.innerHeight,
     width: window.innerWidth * 0.48,
@@ -21,10 +37,11 @@ export default function Player({ player }) {
   });
 
   // Whenever the link for a new podcast episode changes
-  React.useEffect(() => {
+  useEffect(() => {
     setPctPlayed(0);
-  }, [player]);
-  React.useEffect(() => {
+    onPlayPause();
+  }, [playThis]);
+  useEffect(() => {
     // Change the size of the player when the window resizes
     window.onresize = function () {
       console.log("resizing");
@@ -41,9 +58,9 @@ export default function Player({ player }) {
         setPctPlayed(audioelement.currentTime / audioelement.duration);
         var elem = $("#timeUpdate");
         elem.html(
-          `${niceTime(audioelement.currentTime)}<br/>${niceTime(
-            audioelement.duration
-          )}`
+          `${HelperFuncs.niceTime(
+            audioelement.currentTime
+          )}<br/>${HelperFuncs.niceTime(audioelement.duration)}`
         );
       };
     }
@@ -75,29 +92,28 @@ export default function Player({ player }) {
     $("div.seekForward").on("click", function (e) {
       e.preventDefault();
       const ct = audioelement.currentTime;
-
-      console.log(ct);
-      console.log(ct + 15);
       audioelement.currentTime = ct + 15;
     });
+
     // Back 15 seconds
     $("div.seekBack").on("click", function (e) {
       audioelement.currentTime = audioelement.currentTime - 15;
     });
+
     $(document).ready(() => {
       var audioelement = $(".audioHere")[0];
       var elem = $("#timeUpdate");
       if (audioelement != undefined) {
         elem.html(
-          `${niceTime(audioelement.currentTime)}<br/>${niceTime(
-            audioelement.duration
-          )}`
+          `${HelperFuncs.niceTime(
+            audioelement.currentTime
+          )}<br/>${HelperFuncs.niceTime(audioelement.duration)}`
         );
       }
     });
   }, [player]);
 
-  if (player.player.playingSth === true) {
+  if (player.playingSth === true) {
     return (
       <div className="player">
         <ReactAudioPlayer
@@ -107,7 +123,7 @@ export default function Player({ player }) {
         />
         <div className="playingTtl">
           <div className="podArt">
-            <img src={playThis.image}></img>
+            <img alt={playThis.title} src={playThis.image}></img>
           </div>
           <div className="nowPlaying">
             <p>{playThis.title}</p>
@@ -133,21 +149,4 @@ export default function Player({ player }) {
   } else {
     return <div></div>;
   }
-}
-
-function niceTime(time) {
-  time = Math.trunc(time);
-  var hours = Math.trunc(time / 3600);
-  var mins = Math.trunc((time % 3600) / 60);
-  var secs = Math.trunc(time % 60);
-  var goodTym = "";
-  if (hours > 0) goodTym += hours + ":";
-  if (mins > 0) goodTym += mins + ":";
-  else if (mins > 0 && hours > 0) goodTym += "00" + ":";
-  else goodTym = "00:";
-  if (secs > 0) {
-    if (secs < 10) goodTym += "0";
-    goodTym += secs;
-  } else goodTym += "00";
-  return goodTym;
-}
+});

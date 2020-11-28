@@ -287,7 +287,7 @@ app.get("/likes", function (req, res) {});
  */
 app.post("/like", function (req, res) {});
 
-app.get("*", (req, res) => {
-  res.sendFile(path.join(__dirname + "/build/index.html"));
-});
+// app.get("*", (req, res) => {
+//   res.sendFile(path.join(__dirname + "/build/index.html"));
+// });
 app.listen(5000);

@@ -5,9 +5,8 @@ import { playPause } from "../thunks";
 
 import $ from "jquery";
 
-const PlayIcon = ({ onPlayPause }) => {
+const PlayIcon = ({ player, onPlayPause }) => {
   var audioelement = $(".audioHere");
-
   const [element, setElement] = useState({ paused: true });
   useEffect(() => {
     if (audioelement.length > 0) setElement(audioelement[0]);
@@ -15,9 +14,8 @@ const PlayIcon = ({ onPlayPause }) => {
   const [play, setPlay] = useState(false);
 
   useEffect(() => {
-    setPlay(element.paused);
-  }, [element.paused]);
-
+    setPlay(player.pause);
+  }, [player.pause]);
   const Pause = (
     <div className="icon pause" onClick={() => onPlayPause()}>
       <svg viewBox="0 0 375 375">
