@@ -161,12 +161,12 @@ h2 {
 /* Header 
 -----------*/
 div.header {
-  padding: 2.5% 5% 2.5% 5%;
+  padding: 2% 2.5% 2% 2.5%;
 }
 div.siteIcon {
   width: 10%;
   display: inline-block;
-  text-align: left;
+  text-align: center;
 }
 .siteIcon img {
   width: 35%;
@@ -181,7 +181,7 @@ div.siteTtl {
 div.userIcon {
   width: 10%;
   display: inline-block;
-  text-align: right;
+  text-align: center;
 }
 .userIcon img {
   width: 35%;
@@ -221,18 +221,13 @@ div.player {
   font-size: 125%;
   line-height: 125%;
 }
-div.nowPlaying {
-  font-size: 90%;
-  height: 100%;
-  overflow-wrap: normal;
-}
+
 div.podArt {
   width: 20%;
   display: inline-block;
   vertical-align: middle;
   padding: 2.5%;
 }
-
 div.nowPlaying {
   width: 70%;
   padding: 2.5%;
@@ -275,6 +270,40 @@ div.icon svg {
   fill: #050a30;
   fill-opacity: 1;
   font-size: 325px;
+}
+#logo-one {
+  stroke: none;
+  fill-rule: nonzero;
+  fill: rgb(81.959534%, 45.878601%, 18.818665%);
+  stroke: rgb(81.959534%, 45.878601%, 18.818665%);
+
+  stroke-width: 2px;
+
+  fill-opacity: 1;
+}
+#logo_two {
+  stroke: none;
+  fill-rule: nonzero;
+  fill: rgb(46.269226%, 30.198669%, 19.219971%);
+  stroke: rgb(46.269226%, 30.198669%, 19.219971%);
+  stroke-width: 2px;
+  fill-opacity: 1;
+}
+#logo_three {
+  stroke: none;
+  fill-rule: nonzero;
+  fill: rgb(94.509888%, 66.668701%, 47.839355%);
+  stroke: rgb(94.509888%, 66.668701%, 47.839355%);
+  stroke-width: 2px;
+  fill-opacity: 1;
+}
+#logo_four {
+  stroke: none;
+  fill-rule: nonzero;
+  fill: rgb(88.238525%, 61.569214%, 43.139648%);
+  stroke: rgb(88.238525%, 61.569214%, 43.139648%);
+  stroke-width: 2px;
+  fill-opacity: 1;
 }
 .icon img {
   width: 50px;
