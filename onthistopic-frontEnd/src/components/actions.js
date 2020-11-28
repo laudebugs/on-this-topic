@@ -8,10 +8,18 @@ export const stopPlay = (episode) => ({
   type: STOP_PLAY,
   payload: { episode },
 });
-export const PAUSE_PLAY = "STOP_PLAY";
-export const pausePlay = (pause) => ({
-  type: STOP_PLAY,
+export const PLAY_IN_PROGRESS = "PLAY_IN_PROGRESS";
+export const playInProgress = () => ({
+  type: PLAY_IN_PROGRESS,
+});
+export const PLAY_SUCCESS = "PLAY_SUCCESS";
+export const playSuccess = (pause) => ({
+  type: PLAY_IN_PROGRESS,
   payload: { pause },
+});
+export const PLAY_FAILURE = "PLAY_FAILURE";
+export const playFailure = () => ({
+  type: PLAY_FAILURE,
 });
 export const LOAD_PODCASTS_IN_PROGRESS = "LOAD_PODCASTS_IN_PROGRESS";
 export const loadPodcastsInProgress = () => ({

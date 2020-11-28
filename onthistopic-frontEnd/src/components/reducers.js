@@ -4,7 +4,7 @@
 import {
   PLAY_EPISODE,
   STOP_PLAY,
-  PAUSE_PLAY,
+  // PAUSE_PLAY,
   LOAD_PODCASTS_IN_PROGRESS,
   LOAD_PODCASTS_SUCCESS,
   LOAD_PODCASTS_FAILURE,
@@ -20,7 +20,7 @@ const initialState = {
   isLoadingPod: false,
   podcasts: [],
   podcast: [],
-  player: { playing: {}, playingSth: false, pause: true },
+  player: { playing: {}, playingSth: false, pause: true, switching: false },
 };
 
 // A single podcast with episodes
@@ -81,21 +81,11 @@ export const player = (state = initialState, action) => {
       const { episode } = payload;
       return {
         ...state,
-        player: { playing: episode, playingSth: true, pause: false },
+        player: { ...state.player, playing: episode, playingSth: true },
       };
 
     case STOP_PLAY:
       return "";
-
-    case PAUSE_PLAY:
-      var temp = { ...state };
-      temp.pause = true;
-      return temp;
-
-    // case LOAD_PODCASTS_IN_PROGRESS:
-    //   temp = { ...state };
-    //   //   temp.podcasts = true;
-    //   return temp;
 
     default:
       return {
@@ -103,6 +93,31 @@ export const player = (state = initialState, action) => {
         playing: [],
         playingSth: false,
         pause: true,
+      };
+  }
+};
+export const pausePlay = (state = initialState, action) => {
+  const { type, payload } = action;
+  switch (type) {
+    case PLAY_SUCCESS:
+      const { pause } = payload;
+      return {
+        ...state,
+        player: { ...state.player, switching: false, pause: pause },
+      };
+    case PLAY_IN_PROGRESS:
+      return {
+        ...state,
+        player: { ...state.player, switching: true },
+      };
+    case PLAY_FAILURE:
+      return {
+        ...state,
+        player: { ...state.player, switching: false },
+      };
+    default:
+      return {
+        ...state,
       };
   }
 };

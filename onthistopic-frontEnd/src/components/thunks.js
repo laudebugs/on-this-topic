@@ -9,6 +9,7 @@ import {
   playSuccess,
   playFailure,
 } from "./actions";
+import $ from "jquery";
 
 import Parser from "rss-parser";
 export const loadPodcasts = () => async (dispatch, getState) => {
@@ -42,5 +43,26 @@ export const loadPodcastEpisodes = (slug) => async (dispatch, getState) => {
   } catch (error) {
     console.log(error);
     dispatch(loadPodcastEpisodesFailure());
+  }
+};
+
+export const playPause = () => async (dispatch, getState) => {
+  try {
+    dispatch(playInProgress());
+    var audioelement = $(".audioHere")[0];
+    if (audioelement.paused) {
+      let p = audioelement.play();
+      if (p !== undefined) {
+        p.then((_) => {
+          dispatch(playSuccess(audioelement.paused));
+        });
+      }
+    } else {
+      audioelement.pause();
+      dispatch(playSuccess(audioelement.paused));
+    }
+  } catch (error) {
+    console.log(error);
+    dispatch(playFailure());
   }
 };

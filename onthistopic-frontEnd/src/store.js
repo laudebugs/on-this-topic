@@ -4,12 +4,13 @@ import storage from "redux-persist/lib/storage";
 import autoMergeLevel2 from "redux-persist/lib/stateReconciler/autoMergeLevel2";
 import thunk from "redux-thunk";
 import { composeWithDevTools } from "redux-devtools-extension";
-import { player, podcasts, podcast } from "./components/reducers";
+import { player, podcasts, podcast, pausePlay } from "./components/reducers";
 
 const reducers = {
   player,
   podcasts,
   podcast,
+  pausePlay,
 };
 const persistConfig = {
   key: "root",

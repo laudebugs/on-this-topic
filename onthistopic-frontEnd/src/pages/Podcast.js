@@ -24,7 +24,6 @@ const Podcast = ({ podcast, isLoadingPod, startLoadingPodcastEpisodes }) => {
     });
     return element;
   }
-  console.log(podcast);
   const loadingMessage = <div>Loading Podcasts...</div>;
   const PodPage = (
     <div>

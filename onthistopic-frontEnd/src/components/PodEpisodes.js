@@ -13,10 +13,8 @@ export default function Podcast({ podImage, episodes }) {
   if (episodes === undefined) eps = [];
   else eps = episodes;
   useEffect(() => {
-    console.log(episodes);
     eps = episodes;
   }, []);
-  console.log(episodes);
   function printEpisodes() {
     return eps.map((ep) => (
       <PodElement key={ep.enclosure.url} image={podImage} episode={ep} />

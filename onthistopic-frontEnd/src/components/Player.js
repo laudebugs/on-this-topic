@@ -1,44 +1,17 @@
 import React, { useEffect } from "react";
 import ReactAudioPlayer from "react-audio-player";
 import $ from "jquery";
-// import components
-import playIcon from "../css/images/icons/play.png";
-import pauseIcon from "../css/images/icons/pause.png";
-import rewind from "../css/images/icons/rewind.png";
-import forward from "../css/images/icons/forward.png";
-import comment from "../css/images/icons/comment.png";
-import like from "../css/images/icons/like.png";
+
+import PlayIcon from "./icons/PlayIcon";
+import Rewind15 from "./icons/Rewind15";
+import Forward15 from "./icons/Forward15";
+import Conversation from "./icons/Conversation";
+import Like from "./icons/Like";
 import Timeline from "./Timeline";
 
-function playPause() {
-  var audioelement = $(".audioHere")[0];
-  if (audioelement.paused) {
-    audioelement.play();
-    $(".playPause img:first").attr("src", pauseIcon);
-  } else {
-    $(".playPause img:first").attr("src", playIcon);
-    audioelement.pause();
-  }
-}
-function niceTime(time) {
-  time = Math.trunc(time);
-  var hours = Math.trunc(time / 3600);
-  var mins = Math.trunc((time % 3600) / 60);
-  var secs = Math.trunc(time % 60);
-  var goodTym = "";
-  if (hours > 0) goodTym += hours + ":";
-  if (mins > 0) goodTym += mins + ":";
-  else if (mins > 0 && hours > 0) goodTym += "00" + ":";
-  else goodTym = "00:";
-  if (secs > 0) {
-    if (secs < 10) goodTym += "0";
-    goodTym += secs;
-  } else goodTym += "00";
-  return goodTym;
-}
 export default function Player({ player }) {
   const playThis = player.player.playing;
-
+  // console.log(playThis);
   const [dimensions, setDimensions] = React.useState({
     height: window.innerHeight,
     width: window.innerWidth * 0.48,
@@ -51,8 +24,6 @@ export default function Player({ player }) {
   React.useEffect(() => {
     setPctPlayed(0);
   }, [player]);
-  console.log(player);
-  console.log(player.player.playingSth);
   React.useEffect(() => {
     // Change the size of the player when the window resizes
     window.onresize = function () {
@@ -68,11 +39,6 @@ export default function Player({ player }) {
     if (audioelement !== undefined) {
       audioelement.ontimeupdate = function () {
         setPctPlayed(audioelement.currentTime / audioelement.duration);
-        if (audioelement.paused) {
-          $(".playPause img:first").attr("src", playIcon);
-        } else {
-          $(".playPause img:first").attr("src", pauseIcon);
-        }
         var elem = $("#timeUpdate");
         elem.html(
           `${niceTime(audioelement.currentTime)}<br/>${niceTime(
@@ -108,8 +74,11 @@ export default function Player({ player }) {
     // Forward 15 seconds
     $("div.seekForward").on("click", function (e) {
       e.preventDefault();
-      audioelement.currentTime = audioelement.currentTime + 15;
-      return;
+      const ct = audioelement.currentTime;
+
+      console.log(ct);
+      console.log(ct + 15);
+      audioelement.currentTime = ct + 15;
     });
     // Back 15 seconds
     $("div.seekBack").on("click", function (e) {
@@ -131,6 +100,11 @@ export default function Player({ player }) {
   if (player.player.playingSth === true) {
     return (
       <div className="player">
+        <ReactAudioPlayer
+          src={playThis.enclosure.url}
+          autoPlay={false}
+          className="audioHere"
+        />
         <div className="playingTtl">
           <div className="podArt">
             <img src={playThis.image}></img>
@@ -139,12 +113,8 @@ export default function Player({ player }) {
             <p>{playThis.title}</p>
           </div>
         </div>
-        <div className="icon playPause" draggable="true" onClick={playPause}>
-          <img src={playIcon} />
-        </div>
-        <div className="icon seekBack">
-          <img src={rewind} />
-        </div>
+        <PlayIcon />
+        <Rewind15 />
         <div className="icon" id="timeUpdate"></div>
 
         <div className="progressBar">
@@ -154,27 +124,30 @@ export default function Player({ player }) {
             width={dimensions.width}
             pct={pctPlayed}
           />
-          <ReactAudioPlayer
-            src={playThis.enclosure.url}
-            autoPlay={false}
-            className="audioHere"
-          />
         </div>
-        <div className="icon seekForward">
-          <img src={forward} />
-        </div>
-        <div className="icon comment">
-          <img src={comment} />
-        </div>
-        <div className="icon like">
-          <img src={like} />
-        </div>
+        <Forward15 />
+        <Conversation />
+        <Like />
       </div>
     );
   } else {
     return <div></div>;
   }
+}
 
-  // const renderNothing = <div></div>;
-  // return player.player.playing.playingSth > 0 ? renderPlayer : renderNothing;
+function niceTime(time) {
+  time = Math.trunc(time);
+  var hours = Math.trunc(time / 3600);
+  var mins = Math.trunc((time % 3600) / 60);
+  var secs = Math.trunc(time % 60);
+  var goodTym = "";
+  if (hours > 0) goodTym += hours + ":";
+  if (mins > 0) goodTym += mins + ":";
+  else if (mins > 0 && hours > 0) goodTym += "00" + ":";
+  else goodTym = "00:";
+  if (secs > 0) {
+    if (secs < 10) goodTym += "0";
+    goodTym += secs;
+  } else goodTym += "00";
+  return goodTym;
 }

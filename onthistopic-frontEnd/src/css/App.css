@@ -221,6 +221,7 @@ div.player {
   font-size: 125%;
   line-height: 125%;
 }
+
 div.podArt {
   width: 20%;
   display: inline-block;
@@ -246,10 +247,29 @@ div.playingTtl {
   padding: 0 1% 0 1%;
 }
 div.icon {
-  width: 4%;
-  padding: 0.5%;
+  width: 3.5%;
+  padding: 0.75%;
   display: inline-block;
   vertical-align: middle;
+}
+div.icon svg {
+  width: 35px;
+  stroke: none;
+  fill-rule: nonzero;
+  fill: #050a30;
+  fill-opacity: 1;
+}
+#conversation {
+  stroke: #050a30;
+  stroke-width: 14px;
+  fill: none;
+}
+#convo {
+  stroke: none;
+  fill-rule: nonzero;
+  fill: #050a30;
+  fill-opacity: 1;
+  font-size: 325px;
 }
 .icon img {
   width: 50px;

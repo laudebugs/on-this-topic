@@ -6,12 +6,7 @@ export default function Timeline(props) {
     percent = 0;
   }
   return (
-    <svg
-      width={props.width}
-      height={props.height}
-      viewBox={`0 0 ${props.width} ${props.height / 2}`}
-      {...props}
-    >
+    <svg viewBox={`0 0 ${props.width} ${props.height / 2}`} {...props}>
       <path
         stroke="#0292b7"
         strokeWidth={5}
