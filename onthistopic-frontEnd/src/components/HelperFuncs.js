@@ -54,7 +54,7 @@ const HelperFunctions = {
     }
     let mins = Number(TimeArr[1]);
     if (mins > 0) {
-      timeStr += mins + " mins";
+      timeStr += "  " + mins + " mins";
       if (hrs > 1) timeStr += "s";
     }
     return timeStr;
