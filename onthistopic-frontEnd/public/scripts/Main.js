@@ -1,3 +1,1 @@
-$("document").ready(function () {
-  var audioelement = $(".audioHere")[0];
-});
+$("document").ready(function () {});

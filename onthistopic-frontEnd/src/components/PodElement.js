@@ -52,7 +52,7 @@ export default connect(
       draggable="true"
       onClick={() => {
         onCreatePressed(episode);
-        onPlayPause();
+        if (player.playingSth) onPlayPause();
       }}
     >
       <svg viewBox="0 0 375 374.999991">

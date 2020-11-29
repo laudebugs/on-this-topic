@@ -247,8 +247,8 @@ div.playingTtl {
   padding: 0 1% 0 1%;
 }
 div.icon {
-  width: 3.5%;
-  padding: 0.75%;
+  width: 3.25%;
+  padding: 0.5%;
   display: inline-block;
   vertical-align: middle;
 }
@@ -305,6 +305,7 @@ div.icon svg {
   stroke-width: 2px;
   fill-opacity: 1;
 }
+
 .icon img {
   width: 50px;
 }
@@ -314,6 +315,9 @@ div.icon svg {
 div.progressBar {
   width: 48%;
   display: inline-block;
+}
+.hideBar {
+  display: none;
 }
 #timeline {
   /* padding: 2.5% 0 2.5% 0; */

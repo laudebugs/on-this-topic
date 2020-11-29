@@ -3,7 +3,7 @@ import * as React from "react";
 export default function Rewind15() {
   return (
     <div className="icon seekBack">
-      <svg viewBox="0 0 375 374.999991">
+      <svg viewBox="0 0 375 375">
         <defs>
           <clicpath id="clip1">
             <path d="M 23.4375 0 L 351.9375 0 L 351.9375 375 L 23.4375 375 Z M 23.4375 0 " />
