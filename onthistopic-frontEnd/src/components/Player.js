@@ -39,7 +39,6 @@ export default connect(
   var audioelement = $(".audioHere")[0];
   useEffect(() => {
     // if (audioelement !== undefined) audioelement.volume = 0.1;
-    console.log("changing");
   }, [player]);
 
   // Whenever the link for a new podcast episode changes
@@ -58,14 +57,12 @@ export default connect(
 
   const [volumeLevel, setVolumeLevel] = useState(level);
   useEffect(() => {
-    console.log(level);
     setVolumeLevel(level);
   }, [level]);
 
   useEffect(() => {
     // Change the size of the player when the window resizes
     window.onresize = function () {
-      console.log("resizing");
       setDimensions({
         height: 40,
         width: window.innerWidth * 0.48,
@@ -100,7 +97,6 @@ export default connect(
       var goToPct =
         (e.offsetX - $(document).width() * 0.48 * 0.03) /
         ($(document).width() * 0.48 * 0.95);
-      console.log(goToPct);
       var goTo = goToPct * audioelement.duration;
       // set the current time to the percentage of XValue/page width
       audioelement.currentTime = goTo;
@@ -137,11 +133,6 @@ export default connect(
     );
   }
   $("#volume").on("mouseover", (e) => {
-    var audioelement = $(".audioHere")[0];
-    if (audioelement !== undefined) {
-      var element = $("#volume");
-      console.log(e.pageX);
-    }
     var bar = $("#volumeBar")[0];
     bar.style.position = "fixed ";
     bar.style.display = "block";
@@ -149,14 +140,12 @@ export default connect(
   });
   function func(e) {
     let bar = $(".volumeBar")[0];
-    console.log(bar);
     let maxHeight = bar.height.animVal.value;
     let h = maxHeight - e.offsetY;
     let level = h / maxHeight;
     audioelement.volume = level;
     doThings();
     setLevel(level);
-    console.log("here");
   }
   $("#volumeBar").on("click", func);
   function doThings() {
@@ -194,7 +183,6 @@ export default connect(
       </svg>
     </div>
   );
-  // console.log(audioelement.volume);
   if (player.playingSth === true) {
     return (
       <div>
