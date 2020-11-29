@@ -251,8 +251,9 @@ div.icon {
   padding: 0.5%;
   display: inline-block;
   vertical-align: middle;
+  text-align: center;
 }
-div.icon svg {
+div.icon > svg {
   width: 35px;
   stroke: none;
   fill-rule: nonzero;
@@ -271,41 +272,52 @@ div.icon svg {
   fill-opacity: 1;
   font-size: 325px;
 }
-#logo-one {
+#logo_one {
   stroke: none;
   fill-rule: nonzero;
-  fill: rgb(81.959534%, 45.878601%, 18.818665%);
-  stroke: rgb(81.959534%, 45.878601%, 18.818665%);
-
-  stroke-width: 2px;
-
+  fill: rgb(46.269226%, 30.198669%, 19.219971%);
   fill-opacity: 1;
 }
 #logo_two {
   stroke: none;
   fill-rule: nonzero;
-  fill: rgb(46.269226%, 30.198669%, 19.219971%);
-  stroke: rgb(46.269226%, 30.198669%, 19.219971%);
-  stroke-width: 2px;
+  fill: rgb(94.509888%, 66.668701%, 47.839355%);
   fill-opacity: 1;
 }
 #logo_three {
   stroke: none;
   fill-rule: nonzero;
-  fill: rgb(94.509888%, 66.668701%, 47.839355%);
-  stroke: rgb(94.509888%, 66.668701%, 47.839355%);
-  stroke-width: 2px;
+  fill: rgb(88.238525%, 61.569214%, 43.139648%);
   fill-opacity: 1;
 }
 #logo_four {
   stroke: none;
   fill-rule: nonzero;
-  fill: rgb(88.238525%, 61.569214%, 43.139648%);
-  stroke: rgb(88.238525%, 61.569214%, 43.139648%);
-  stroke-width: 2px;
+  fill: rgb(81.959534%, 45.878601%, 18.818665%);
   fill-opacity: 1;
 }
-
+#volumeBar {
+  display: none;
+  text-align: center;
+  width: 3.5%;
+  position: fixed;
+  margin: 0;
+  bottom: 80px;
+  background-color: #a6a6a6;
+  padding: 1% 0 1% 0;
+}
+.volumeIcon {
+  overflow-wrap: break-word;
+  /* border: 1px solid #050a30; */
+}
+#volumeBase {
+  stroke: #0292b7;
+  fill: #0292b7;
+}
+#volumeLevel {
+  stroke: #050a30;
+  fill: #050a30;
+}
 .icon img {
   width: 50px;
 }
@@ -414,16 +426,15 @@ div.episodeList {
   font-size: 125%;
 }
 div.episode div:first-child {
-  width: 10%;
+  width: 5%;
   display: inline-block;
   vertical-align: middle;
   border: 0;
 }
-div.episode div:first-child img {
-  width: 75%;
-}
-div.episode div:nth-child(2) {
-  width: 70%;
+
+div.episode div:last-child {
+  border: 1px solid black;
+  width: 80%;
   display: inline-block;
   vertical-align: middle;
   border: 0;

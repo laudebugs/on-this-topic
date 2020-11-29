@@ -16,7 +16,7 @@ export default function Timeline(props) {
         cx={props.width * 0.03 + props.width * 0.95 * percent}
         cy={props.height / 2}
         r={7.5}
-        stroke="#000"
+        stroke="#050a30"
         strokeWidth={3}
         fill="#050A30"
       />

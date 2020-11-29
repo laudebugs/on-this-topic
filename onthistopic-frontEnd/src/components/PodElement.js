@@ -80,7 +80,7 @@ export default connect(
 
   return (
     <div className="episode">
-      <div className="icon">{icon}</div>
+      {icon}
       <div>
         <h4>{episode.title}</h4>
         <p>
