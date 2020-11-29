@@ -14,13 +14,20 @@ import {
   PLAY_IN_PROGRESS,
   PLAY_SUCCESS,
   PLAY_FAILURE,
+  SET_VOLUME,
 } from "./actions";
 const initialState = {
   isLoading: false,
   isLoadingPod: false,
   podcasts: [],
   podcast: [],
-  player: { playing: {}, playingSth: false, pause: true, switching: false },
+  player: {
+    playing: {},
+    playingSth: false,
+    pause: true,
+    switching: false,
+    volume: 1,
+  },
 };
 
 // A single podcast with episodes
@@ -77,6 +84,12 @@ export const podcasts = (state = initialState, action) => {
 export const player = (state = initialState, action) => {
   const { type, payload } = action;
   switch (type) {
+    case SET_VOLUME:
+      const { volume } = payload;
+      return {
+        ...state,
+        player: { ...state.player, volume: volume },
+      };
     case PLAY_EPISODE:
       const { episode } = payload;
       return {

@@ -21,6 +21,11 @@ export const PLAY_FAILURE = "PLAY_FAILURE";
 export const playFailure = () => ({
   type: PLAY_FAILURE,
 });
+export const SET_VOLUME = "SET_VOLUME";
+export const setVolume = (volume) => ({
+  type: SET_VOLUME,
+  payload: { volume },
+});
 export const LOAD_PODCASTS_IN_PROGRESS = "LOAD_PODCASTS_IN_PROGRESS";
 export const loadPodcastsInProgress = () => ({
   type: LOAD_PODCASTS_IN_PROGRESS,

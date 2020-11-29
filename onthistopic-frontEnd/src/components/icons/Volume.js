@@ -1,67 +1,8 @@
-import React, { useEffect, useState } from "react";
+import React from "react";
 
-import $ from "jquery";
 export default function Volume() {
-  var audioelement = $(".audioHere")[0];
-  const [level, setLevel] = useState(() => {
-    if (audioelement !== undefined) return audioelement.volume;
-    else return 1;
-  });
-  useEffect(() => {
-    return () => {};
-  }, [level]);
-
-  const [volumeLevel, setVolumeLevel] = useState(level);
-  useEffect(() => {
-    console.log(level);
-    setVolumeLevel(level);
-  }, [level]);
-
-  // $("#volume").hover((e) => {
-  //   var audioelement = $(".audioHere")[0];
-  //   if (audioelement !== undefined) {
-  //     var element = $("#volume");
-  //     console.log(e.pageX);
-  //   }
-  //   // var body = $("root");
-  //   // body.append(volumeBar);
-  //   // let bar = $("#volumeBar")[0];
-  //   // bar.style.position = "absolute";
-  //   // bar.style.left = 0 + "px";
-  //   // bar.style.top = 0 + "px";
-  // });
-
-  let volumeBar = (
-    <div className="volumeBar">
-      <svg
-        id="volumeBar icon"
-        xmlns="http://www.w3.org/2000/svg"
-        viewBox="0 0 400 800"
-      >
-        <rect
-          id="volumeBase"
-          x="160"
-          y="0"
-          width="80"
-          height="800"
-          rx="30"
-          ry="30"
-        />
-        <rect
-          id="volumeLevel"
-          x="160"
-          y={800 - 800 * volumeLevel}
-          width="80"
-          height={800 * volumeLevel}
-          rx="30"
-          ry="30"
-        />
-      </svg>
-    </div>
-  );
   return (
     <div className="icon volumeIcon">
-      {/* {volumeBar} */}
       <svg id="volume" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 375 375">
         <g id="surface1">
           <path

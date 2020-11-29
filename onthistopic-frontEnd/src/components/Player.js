@@ -11,6 +11,7 @@ import Like from "./icons/Like";
 import Timeline from "./Timeline";
 import { getPlayer } from "./selectors";
 import { playPause } from "../components/thunks";
+import { setVolume } from "../components/actions";
 import Volume from "./icons/Volume";
 // import Helper Functions
 const HelperFuncs = require("./HelperFuncs");
@@ -20,12 +21,13 @@ const mapStateToProps = (state) => ({
 });
 const mapDispatchToProps = (dispatch) => ({
   onPlayPause: () => dispatch(playPause()),
+  onSetVolume: (volume) => dispatch(setVolume(volume)),
 });
 
 export default connect(
   mapStateToProps,
   mapDispatchToProps
-)(function Player({ player, onPlayPause }) {
+)(function Player({ player, onPlayPause, onSetVolume }) {
   const playThis = player.playing;
 
   const [dimensions, setDimensions] = useState({
@@ -44,21 +46,15 @@ export default connect(
   // Whenever the link for a new podcast episode changes
   useEffect(() => {
     setPctPlayed(0);
+    if (audioelement !== undefined) audioelement.volume = player.volume;
     onPlayPause();
   }, [playThis]);
 
-  const [level, setLevel] = useState(() => {
-    if (audioelement !== undefined) return audioelement.volume;
-    else return 1;
-  });
-  useEffect(() => {
-    return () => {};
-  }, [level]);
-
-  const [volumeLevel, setVolumeLevel] = useState(level);
-  useEffect(() => {
-    setVolumeLevel(level);
-  }, [level]);
+  // const [level, setLevel] = useState(player.volume);
+  // useEffect(() => {
+  //   console.log(level);
+  //   onSetVolume(level);
+  // }, []);
 
   useEffect(() => {
     // Change the size of the player when the window resizes
@@ -104,26 +100,35 @@ export default connect(
     };
   }, [player]);
 
-  // Forward 15 seconds
+  /**
+   * Forward 15 seconds
+   */
   $("div.seekForward").on("click", function (e) {
     e.preventDefault();
     const ct = audioelement.currentTime;
     audioelement.currentTime = ct + 15;
   });
 
-  // Back 15 seconds
+  /**
+   * Rewind 15 seconds
+   */
   $("div.seekBack").on("click", function (e) {
     audioelement.currentTime = audioelement.currentTime - 15;
   });
 
-  // Listen for when the user wants to pause by pressing the keyboard
+  /**
+   * Listen for when the user wants to pause by pressing the keyboard
+   * To toggle pause and play
+   */
   document.onkeypress = function (e) {
     e.preventDefault();
     if (e.key === " " && e.target === document.body) {
       if (player.playingSth) onPlayPause();
     }
   };
-
+  /**
+   * A function to update the time on the timeline
+   */
   var elem = $("#timeUpdate");
   if (audioelement !== undefined) {
     elem.html(
@@ -132,29 +137,43 @@ export default connect(
       )}<br/>${HelperFuncs.niceTime(audioelement.duration)}`
     );
   }
+  /**
+   * Display the volume bar when hovering over the volume icon
+   */
   $("#volume").on("mouseover", (e) => {
     var bar = $("#volumeBar")[0];
     bar.style.position = "fixed ";
     bar.style.display = "block";
     bar.style.left = e.pageX - e.offsetX + "px";
   });
-  function func(e) {
+
+  /**
+   * Set the volume level
+   */
+  $("#volumeBar").on("click", changeVolLevel);
+  $("#volumeBar").on("mouseleave", (e) => {
+    var bar = $("#volumeBar")[0];
+    bar.style.display = "none";
+  });
+  function changeVolLevel(e) {
     let bar = $(".volumeBar")[0];
     let maxHeight = bar.height.animVal.value;
     let h = maxHeight - e.offsetY;
     let level = h / maxHeight;
     audioelement.volume = level;
-    doThings();
-    setLevel(level);
+    // console.log(audioelement.volume);
+    // console.log(player.volume);
+
+    if (level !== player.volume) {
+      console.log("changeing volume level");
+      console.log("player volume: " + player.volume);
+      console.log("new level: " + level);
+      onSetVolume(level);
+    }
   }
-  $("#volumeBar").on("click", func);
-  function doThings() {
-    document.removeEventListener("click", func);
-  }
-  $("#volumeBar").on("mouseleave", (e) => {
-    var bar = $("#volumeBar")[0];
-    bar.style.display = "none";
-  });
+  /**
+   * The component holding the volume bar
+   */
   let volumeBar = (
     <div id="volumeBar">
       <svg
@@ -174,9 +193,9 @@ export default connect(
         <rect
           id="volumeLevel"
           x="160"
-          y={800 - 800 * volumeLevel}
+          y={800 - 800 * player.volume}
           width="80"
-          height={800 * volumeLevel}
+          height={800 * player.volume}
           rx="30"
           ry="30"
         />
