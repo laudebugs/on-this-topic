@@ -1,11 +1,11 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import Logo from "./icons/Logo";
+import Menu from "./icons/Menu";
 import User from "./icons/User";
 const Header = () => (
   <div className="header">
     <div className="siteIcon">
-      <Logo />
+      <Menu />
     </div>
     <Link to="/">
       <div className="siteTtl">
@@ -13,7 +13,8 @@ const Header = () => (
       </div>
     </Link>
     <div className="userIcon">
-      <User />
+      Z u a <span>&#91;</span>
+      {/* <User /> */}
     </div>
   </div>
 );

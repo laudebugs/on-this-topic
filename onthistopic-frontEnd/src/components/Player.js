@@ -144,39 +144,47 @@ export default connect(
     var bar = $("#volumeBar")[0];
     bar.style.position = "fixed ";
     bar.style.display = "block";
-    bar.style.left = e.pageX - e.offsetX + "px";
+    bar.style.left = `${$("#volume").offset().left}px`;
   });
 
   /**
    * Set the volume level
    */
-  $("#volumeBar").on("click", changeVolLevel);
   $("#volumeBar").on("mouseleave", (e) => {
     var bar = $("#volumeBar")[0];
     bar.style.display = "none";
   });
   function changeVolLevel(e) {
+    $(document).on("resize", () => {
+      console.log("resizing");
+      var bar = $("#volumeBar")[0];
+      bar.style.left = `${$("#volume").offset().left}px`;
+    });
     let bar = $(".volumeBar")[0];
     let maxHeight = bar.height.animVal.value;
-    let h = maxHeight - e.offsetY;
+    let h = maxHeight - (e.clientY - $(".volumeBar").offset().top);
     let level = h / maxHeight;
     audioelement.volume = level;
     // console.log(audioelement.volume);
-    // console.log(player.volume);
-
+    console.log("changing vol level");
     if (level !== player.volume) {
-      console.log("changeing volume level");
-      console.log("player volume: " + player.volume);
-      console.log("new level: " + level);
       onSetVolume(level);
     }
   }
+  $(window).on("resize", () => {
+    var bar = $("#volumeBar")[0];
+    bar.style.left = `${$("#volume").offset().left}px`;
+  });
   /**
    * The component holding the volume bar
    */
   let volumeBar = (
     <div id="volumeBar">
       <svg
+        onClick={(e) => {
+          console.log(e);
+          changeVolLevel(e);
+        }}
         className="volumeBar icon"
         xmlns="http://www.w3.org/2000/svg"
         viewBox="0 0 400 800"
