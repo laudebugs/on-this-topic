@@ -2,7 +2,6 @@ import React, { useEffect, useState } from "react";
 import ReactAudioPlayer from "react-audio-player";
 import $ from "jquery";
 import { connect } from "react-redux";
-import { CSSTransitionGroup } from "react-transition-group"; // ES6
 
 import PlayIcon from "./icons/PlayIcon";
 import Rewind15 from "./icons/Rewind15";
@@ -41,7 +40,8 @@ export default connect(
   // Target the audio element
   var audioelement = $(".audioHere")[0];
   var bar = $("#volumeBar")[0];
-  if (bar != undefined) bar.style.left = `${$("#volume").offset().left - 10}px`;
+  if (bar !== undefined)
+    bar.style.left = `${$("#volume").offset().left - 10}px`;
   // Whenever the link for a new podcast episode changes
   useEffect(() => {
     setPctPlayed(0);
@@ -49,14 +49,10 @@ export default connect(
     onPlayPause();
   }, [playThis]);
 
-  // const [level, setLevel] = useState(player.volume);
-  // useEffect(() => {
-  //   console.log(level);
-  //   onSetVolume(level);
-  // }, []);
-
   useEffect(() => {
-    // Change the size of the player when the window resizes
+    /**
+     * Change the size of the player when the window resizes
+     */
     window.onresize = function () {
       setDimensions({
         height: 40,
@@ -64,30 +60,37 @@ export default connect(
       });
     };
 
-    // Update the time for the timeline when audio is playing
+    /**
+     * Update the time for the timeline when audio is playing
+     */
     if (audioelement !== undefined) {
       audioelement.ontimeupdate = function () {
         setPctPlayed(audioelement.currentTime / audioelement.duration);
-        var elem = $("#timeUpdate");
-        elem.html(
+        var element = $("#timeUpdate");
+        element.html(
           `${HelperFuncs.niceTime(
             audioelement.currentTime
           )}<br/>${HelperFuncs.niceTime(audioelement.duration)}`
         );
       };
     }
-
+    /**
+     * When a use clicks on the timeline
+     */
     $("#timeline").on("click", function (e) {
       var goToPct =
         (e.offsetX - $(document).width() * 0.48 * 0.03) /
         ($(document).width() * 0.48 * 0.95);
-      var goTo = goToPct * audioelement.duration;
+      if (audioelement !== undefined)
+        var goTo = goToPct * audioelement.duration;
       // set the current time to the percentage of XValue/page width
       audioelement.currentTime = goTo;
       setPctPlayed(audioelement.currentTime / audioelement.duration);
     });
 
-    // When a user drags the timeline back and forth
+    /**
+     * When a user drags the timeline back and forth
+     */
     $("#timeline").ondrag = function (e) {
       var goToPct =
         (e.offsetX - $(document).width() * 0.48 * 0.03) /
@@ -153,7 +156,7 @@ export default connect(
   $("#volumeBar").on("mouseleave", (e) => {
     var bar = $("#volumeBar")[0];
     bar.style.animation = "hideVBar 0.3s";
-    bar.style.bottom = "-90px";
+    bar.style.bottom = "-110px";
   });
 
   function changeVolLevel(e) {
@@ -168,6 +171,9 @@ export default connect(
       onSetVolume(level);
     }
   }
+  /**
+   * Resize the volumeBar when a user resizes the screen
+   */
   $(window).on("resize", () => {
     var bar = $("#volumeBar")[0];
     if (bar !== undefined)
@@ -208,6 +214,10 @@ export default connect(
       </svg>
     </div>
   );
+
+  /**
+   * Only render the player component if there is something being played
+   */
   if (player.playingSth === true) {
     return (
       <div>
@@ -227,8 +237,11 @@ export default connect(
               <p>{playThis.title}</p>
             </div>
           </div>
+
           <PlayIcon />
+
           <div className="icon" id="timeUpdate"></div>
+
           <Rewind15 />
 
           <div className="progressBar">
@@ -239,6 +252,7 @@ export default connect(
               pct={pctPlayed}
             />
           </div>
+
           <Forward15 />
           <Volume volume={player.volume} />
           <Conversation />

@@ -320,13 +320,13 @@ div.icon > svg {
   width: 3.5%;
   position: fixed;
   margin: 0;
-  bottom: -90px;
+  bottom: -110px;
   background-color: #a6a6a6;
   padding: 1% 0 1% 0.4%;
 }
 @keyframes showVBar {
   from {
-    bottom: -90px;
+    bottom: -110px;
   }
   to {
     bottom: 80px;
@@ -334,7 +334,7 @@ div.icon > svg {
 }
 @-moz-keyframes showVbar {
   from {
-    bottom: -90px;
+    bottom: -110px;
   }
   to {
     bottom: 80px;
@@ -342,7 +342,7 @@ div.icon > svg {
 }
 @-webkit-keyframes showVBar {
   from {
-    bottom: -80px;
+    bottom: -110px;
   }
   to {
     bottom: 80px;
@@ -353,7 +353,7 @@ div.icon > svg {
     bottom: 80px;
   }
   to {
-    bottom: -90px;
+    bottom: -110px;
   }
 }
 @-moz-keyframes hideVbar {
@@ -361,7 +361,7 @@ div.icon > svg {
     bottom: 80px;
   }
   to {
-    bottom: -90px;
+    bottom: -110px;
   }
 }
 @-webkit-keyframes hideVBar {
@@ -369,14 +369,10 @@ div.icon > svg {
     bottom: -80px;
   }
   to {
-    bottom: -90px;
+    bottom: -110px;
   }
 }
-​ .volumeIcon {
-  /* overflow-wrap: break-word;
-   */
-  /* border: 1px solid black; */
-}
+
 #volumeBase {
   stroke: #0292b7;
   fill: #0292b7;
@@ -649,4 +645,27 @@ p.signin a:hover {
 p.signin a {
   text-decoration: none;
   color: #0292b7;
+}
+
+/* Scroll bar
+--------------*/
+/* width */
+::-webkit-scrollbar {
+  width: 12px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #d9d9d9;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #050a30;
+  border-radius: 3px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #050a30;
 }

@@ -23,10 +23,13 @@ import SignIn from "./pages/SignIn";
 import SignUp from "./pages/SignUp";
 import Player from "./components/Player";
 import SideMenu from "./components/SideMenu";
+import Header from "./components/Header";
 const App = () => {
   return (
     <div>
       <BrowserRouter>
+        {/* <Header /> */}
+
         <Switch>
           <Route path="/" component={HomePage} exact />
           <Route path="/podcasts" component={AllPodcasts} exact />
