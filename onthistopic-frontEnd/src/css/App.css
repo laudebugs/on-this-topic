@@ -669,3 +669,8 @@ p.signin a {
 ::-webkit-scrollbar-thumb:hover {
   background: #050a30;
 }
+
+.errorMessage {
+  font-size: 90%;
+  background-color: #8fcbdb;
+}

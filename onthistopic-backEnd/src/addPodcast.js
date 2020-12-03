@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-require("./db");
+require("./lib/db");
 const Podcast = mongoose.model("Podcast");
 const Episode = mongoose.model("Episode");
 
