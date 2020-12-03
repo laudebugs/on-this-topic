@@ -19,7 +19,7 @@ import YourPodcasts from "./pages/YourPodcasts";
 import SignIn from "./pages/SignIn";
 import SignUp from "./pages/SignUp";
 import Player from "./components/Player";
-
+import SideMenu from "./components/SideMenu";
 const App = () => {
   return (
     <div>
@@ -41,6 +41,7 @@ const App = () => {
           <Route path="/signin" component={SignIn} exact />
           <Route path="/signup" component={SignUp} exact />
         </Switch>
+        <SideMenu />
       </BrowserRouter>
       <Player />
     </div>

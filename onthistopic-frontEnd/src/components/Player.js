@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import ReactAudioPlayer from "react-audio-player";
 import $ from "jquery";
 import { connect } from "react-redux";
+import { CSSTransitionGroup } from "react-transition-group"; // ES6
 
 import PlayIcon from "./icons/PlayIcon";
 import Rewind15 from "./icons/Rewind15";
@@ -39,10 +40,8 @@ export default connect(
   });
   // Target the audio element
   var audioelement = $(".audioHere")[0];
-  useEffect(() => {
-    // if (audioelement !== undefined) audioelement.volume = 0.1;
-  }, [player]);
-
+  var bar = $("#volumeBar")[0];
+  if (bar != undefined) bar.style.left = `${$("#volume").offset().left - 10}px`;
   // Whenever the link for a new podcast episode changes
   useEffect(() => {
     setPctPlayed(0);
@@ -121,7 +120,6 @@ export default connect(
    * To toggle pause and play
    */
   document.onkeypress = function (e) {
-    e.preventDefault();
     if (e.key === " " && e.target === document.body) {
       if (player.playingSth) onPlayPause();
     }
@@ -143,8 +141,9 @@ export default connect(
   $("#volume").on("mouseover", (e) => {
     var bar = $("#volumeBar")[0];
     bar.style.position = "fixed ";
-    bar.style.display = "block";
-    bar.style.left = `${$("#volume").offset().left}px`;
+    // bar.style.display = "block";
+    bar.style.animation = "showVBar 0.3s";
+    bar.style.bottom = "80px";
   });
 
   /**
@@ -152,14 +151,11 @@ export default connect(
    */
   $("#volumeBar").on("mouseleave", (e) => {
     var bar = $("#volumeBar")[0];
-    bar.style.display = "none";
+    bar.style.animation = "hideVBar 0.3s";
+    bar.style.bottom = "-90px";
   });
+
   function changeVolLevel(e) {
-    $(document).on("resize", () => {
-      console.log("resizing");
-      var bar = $("#volumeBar")[0];
-      bar.style.left = `${$("#volume").offset().left}px`;
-    });
     let bar = $(".volumeBar")[0];
     let maxHeight = bar.height.animVal.value;
     let h = maxHeight - (e.clientY - $(".volumeBar").offset().top);
@@ -173,7 +169,8 @@ export default connect(
   }
   $(window).on("resize", () => {
     var bar = $("#volumeBar")[0];
-    bar.style.left = `${$("#volume").offset().left}px`;
+    if (bar !== undefined)
+      bar.style.left = `${$("#volume").offset().left - 5}px`;
   });
   /**
    * The component holding the volume bar
@@ -242,7 +239,7 @@ export default connect(
             />
           </div>
           <Forward15 />
-          <Volume />
+          <Volume volume={player.volume} />
           <Conversation />
           <Like />
         </div>

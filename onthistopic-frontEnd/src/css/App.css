@@ -127,6 +127,14 @@ q:after {
   content: "";
   content: none;
 }
+a,
+a:visited,
+a:hover,
+a:active {
+  color: #050a30;
+  text-decoration: none;
+}
+
 table {
   border-collapse: collapse;
   border-spacing: 0;
@@ -136,6 +144,10 @@ table {
 @font-face {
   font-family: "Woodland Bold";
   src: url("./fonts/woodland/PPWoodland-Bold.otf");
+}
+@font-face {
+  font-family: "Woodland Light";
+  src: url("./fonts/woodland/PPWoodland-Ultralight.otf");
 }
 @font-face {
   font-family: "Sunborn";
@@ -166,6 +178,10 @@ h2 {
 -----------*/
 div.header {
   padding: 2% 2.5% 2% 2.5%;
+  top: 0;
+  /* position: -webkit-sticky;
+  position: sticky;
+  top: 0; */
 }
 div.siteIcon {
   width: 20%;
@@ -222,12 +238,18 @@ div.menuBar {
   width: 25%;
   text-align: center;
 }
+div.menuButton svg line {
+  stroke: #050a30;
+}
+/* div.menuButton svg line:hover {
+  stroke: #0292b7;
+} */
 /* Audio Player
 --------------*/
 div.player {
   background-color: #a6a6a6;
   width: 100%;
-  height: 90px;
+  height: 80px;
   position: fixed;
   margin: 0;
   bottom: 0;
@@ -246,13 +268,17 @@ div.podArt {
 }
 div.nowPlaying {
   width: 70%;
-  height: 100%;
-  padding: 2.5%;
-  vertical-align: middle;
+  padding: 2%;
   display: inline-block;
+  padding: 2% 0 2% 0;
+  vertical-align: middle;
 }
 div.nowPlaying p {
   overflow: hidden;
+  vertical-align: middle;
+  text-align: center;
+  overflow: hidden;
+  max-height: 60px;
 }
 div.podArt img {
   width: 80%;
@@ -289,42 +315,67 @@ div.icon > svg {
   fill-opacity: 1;
   font-size: 325px;
 }
-#logo_one {
-  stroke: none;
-  fill-rule: nonzero;
-  fill: rgb(46.269226%, 30.198669%, 19.219971%);
-  fill-opacity: 1;
-}
-#logo_two {
-  stroke: none;
-  fill-rule: nonzero;
-  fill: rgb(94.509888%, 66.668701%, 47.839355%);
-  fill-opacity: 1;
-}
-#logo_three {
-  stroke: none;
-  fill-rule: nonzero;
-  fill: rgb(88.238525%, 61.569214%, 43.139648%);
-  fill-opacity: 1;
-}
-#logo_four {
-  stroke: none;
-  fill-rule: nonzero;
-  fill: rgb(81.959534%, 45.878601%, 18.818665%);
-  fill-opacity: 1;
-}
 #volumeBar {
   text-align: center;
   width: 3.5%;
   position: fixed;
   margin: 0;
-  bottom: 80px;
+  bottom: -90px;
   background-color: #a6a6a6;
-  padding: 1% 0 1% 0;
+  padding: 1% 0 1% 0.4%;
 }
-.volumeIcon {
-  overflow-wrap: break-word;
-  /* border: 1px solid #050a30; */
+@keyframes showVBar {
+  from {
+    bottom: -90px;
+  }
+  to {
+    bottom: 80px;
+  }
+}
+@-moz-keyframes showVbar {
+  from {
+    bottom: -90px;
+  }
+  to {
+    bottom: 80px;
+  }
+}
+@-webkit-keyframes showVBar {
+  from {
+    bottom: -80px;
+  }
+  to {
+    bottom: 80px;
+  }
+}
+@keyframes hideVBar {
+  from {
+    bottom: 80px;
+  }
+  to {
+    bottom: -90px;
+  }
+}
+@-moz-keyframes hideVbar {
+  from {
+    bottom: 80px;
+  }
+  to {
+    bottom: -90px;
+  }
+}
+@-webkit-keyframes hideVBar {
+  from {
+    bottom: -80px;
+  }
+  to {
+    bottom: -90px;
+  }
+}
+​ .volumeIcon {
+  /* overflow-wrap: break-word;
+   */
+  /* border: 1px solid black; */
 }
 #volumeBase {
   stroke: #0292b7;
@@ -458,4 +509,144 @@ div.episode div:last-child {
 div.episodeList div {
   padding: 2% 2.5% 1% 2.5%;
   border: 1px solid #a6a6a6;
+}
+
+/*
+Side Menu
+*/
+
+div.sideMenu {
+  font-family: "Woodland Light";
+  font-size: 175%;
+  font-weight: 550;
+  line-height: 200%;
+  width: 400px;
+  display: inline-block;
+  height: 100vh;
+  left: -400px;
+  /* border: 50px; */
+  top: 0;
+  position: fixed;
+  background-color: #8fcbdb;
+}
+div.sideMenu hr {
+  border: 0.5px solid #050a30;
+}
+div.menuItems {
+  padding: 5%;
+}
+div.sideMenu div {
+  padding: 7.5% 7.5% 0 7.5%;
+}
+div.sideMenu hr {
+  width: 80%;
+}
+
+span.specialChar {
+  width: 20%;
+  display: inline-block;
+  text-align: center;
+  font-family: "Whirly Bats";
+}
+/* Side menu links
+------------------*/
+div.sideMenu a:hover {
+  text-shadow: #a6a6a6 2px 2px 2px;
+}
+@keyframes showSideMenu {
+  from {
+    left: -400px;
+  }
+  to {
+    left: 0px;
+  }
+}
+@-moz-keyframes showSideMenu {
+  from {
+    left: -400px;
+  }
+  to {
+    left: 0px;
+  }
+}
+@-webkit-keyframes showSideMenu {
+  from {
+    left: -400px;
+  }
+  to {
+    left: 0px;
+  }
+}
+@keyframes hideSideMenu {
+  from {
+    left: 0px;
+  }
+  to {
+    left: -400px;
+  }
+}
+@-moz-keyframes hideSideMenu {
+  from {
+    left: 0px;
+  }
+  to {
+    left: -400px;
+  }
+}
+@-webkit-keyframes hideSideMenu {
+  from {
+    left: 0px;
+  }
+  to {
+    left: -400px;
+  }
+}
+
+/*
+ * Forms
+ */
+div.inputForm {
+  font-size: 150%;
+  width: 100%;
+  text-align: center;
+  padding: 5% 0 0 0%;
+}
+
+div.inputForm form {
+  /* width: 40%; */
+  display: inline-block;
+}
+td {
+  padding: 2.5%;
+  text-align: center;
+}
+td label {
+  /* text-align: right; */
+}
+tr {
+  text-align: center;
+  width: 100%;
+}
+div.signinbtn {
+  text-align: center;
+  border: #050a30 1px solid;
+}
+input {
+  font-size: 75%;
+  font-family: "Glacial Indifference";
+}
+button.signinbtn {
+  font-size: 100%;
+  font-family: "Glacial Indifference";
+  border-radius: 5px;
+}
+p.signin {
+  padding: 1%;
+}
+p.signin a:hover {
+  text-decoration: underline;
+}
+p.signin a {
+  text-decoration: none;
+  color: #0292b7;
 }
