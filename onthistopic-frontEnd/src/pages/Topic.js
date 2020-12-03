@@ -4,11 +4,11 @@ import { Link } from "react-router-dom";
 
 import Header from "../components/Header";
 
-const AllPodcasts = () => {
+const Topic = () => {
   return (
     <>
       <Header />
     </>
   );
 };
-export default AllPodcasts;
+export default Topic;

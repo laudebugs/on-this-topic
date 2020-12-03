@@ -11,6 +11,9 @@ import Podcast from "./pages/Podcast";
 import Location from "./pages/Location";
 import Person from "./pages/Person";
 
+import AllTopics from "./pages/AllTopics";
+import Topic from "./pages/Topic";
+
 import Discover from "./pages/Discover";
 
 import ForYou from "./pages/ForYou";
@@ -32,6 +35,9 @@ const App = () => {
           <Route path="/locations/:location" component={Location} exact />
           <Route path="/people" component={AllPeople} exact />
           <Route path="/people/:person" component={Person} exact />
+
+          <Route path="/topics" component={AllTopics} exact />
+          <Route path="/topic/:topic" component={Topic} exact />
 
           <Route path="/discover" component={Discover} exact />
 

@@ -122,6 +122,7 @@ export default connect(
   document.onkeypress = function (e) {
     if (e.key === " " && e.target === document.body) {
       if (player.playingSth) onPlayPause();
+      e.preventDefault();
     }
   };
   /**
