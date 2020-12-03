@@ -15,7 +15,7 @@ import AllTopics from "./pages/AllTopics";
 import Topic from "./pages/Topic";
 
 import Discover from "./pages/Discover";
-
+import EditorsChoice from "./pages/EditorsChoice";
 import ForYou from "./pages/ForYou";
 import YourPodcasts from "./pages/YourPodcasts";
 
@@ -43,7 +43,7 @@ const App = () => {
           <Route path="/topic/:topic" component={Topic} exact />
 
           <Route path="/discover" component={Discover} exact />
-
+          <Route path="/editorschoice" component={EditorsChoice} exact />
           <Route path="/foryou" component={ForYou} exact />
           <Route path="/yourpodcasts" component={YourPodcasts} exact />
 

@@ -651,7 +651,7 @@ p.signin a {
 --------------*/
 /* width */
 ::-webkit-scrollbar {
-  width: 12px;
+  width: 8px;
 }
 
 /* Track */
