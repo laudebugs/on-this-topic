@@ -11,7 +11,7 @@ const SignUp = () => {
 
       <div className="inputForm">
         <div>
-          <form action="/register" method="POST">
+          <form action="/signup" method="POST">
             <table>
               <tr>
                 <td>
@@ -31,14 +31,6 @@ const SignUp = () => {
               </tr>
               <tr>
                 <td>
-                  <label for="username">Email Address</label>
-                </td>
-                <td>
-                  <input type="email" name="email" id="email" required></input>
-                </td>
-              </tr>
-              <tr>
-                <td>
                   <label for="username">Username</label>
                 </td>
                 <td>
@@ -52,13 +44,22 @@ const SignUp = () => {
               </tr>
               <tr>
                 <td>
+                  <label for="email">Email Address</label>
+                </td>
+                <td>
+                  <input type="email" name="email" id="email" required></input>
+                </td>
+              </tr>
+
+              <tr>
+                <td>
                   <label for="password">Enter Password</label>
                 </td>
                 <td>
                   <input
-                    id="password1"
+                    id="password"
                     type="password"
-                    name="password1"
+                    name="password"
                     required
                   ></input>
                 </td>
@@ -69,9 +70,9 @@ const SignUp = () => {
                 </td>
                 <td>
                   <input
-                    id="password2"
+                    id="password1"
                     type="password"
-                    name="password2"
+                    name="password1"
                     required
                   ></input>
                 </td>

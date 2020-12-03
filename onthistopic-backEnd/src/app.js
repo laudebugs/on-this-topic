@@ -3,20 +3,51 @@ const express = require("express");
 const path = require("path");
 const session = require("express-session");
 const bodyParser = require("body-parser");
-
 const mongoose = require("mongoose");
-const publicPath = path.resolve(__dirname, "public");
 const passport = require("passport");
+const publicPath = path.resolve(__dirname, "public");
+const cookieParser = require("cookie-parser");
+const MongoStore = require("connect-mongo")(session);
+const auth = require("./lib/auth");
+
 const { Db } = require("mongodb");
 const { default: addPod } = require("./addPodcast");
 const LocalStrategy = require("passport-local").Strategy;
 
 const app = express();
+
+function redirectIfSignedIn(req, res, next) {
+  if (req.user) res.redirect("/account");
+  return next;
+}
 app.use(express.static(publicPath));
 app.use(bodyParser.json());
-app.use(bodyParser.json());
+app.use(bodyParser.urlencoded());
+app.use(cookieParser());
+
+app.use(
+  session({
+    secret: "very secret 12348",
+    resave: true,
+    saveUninitialized: false,
+    store: new MongoStore({ mongooseConnection: mongoose.connection }),
+  })
+);
+app.use(auth.initialize);
+app.use(auth.session);
+app.use(auth.setUser);
+
+app.use(async (req, res, next) => {
+  try {
+    req.session.visits = req.session.visits ? req.session.visits + 1 : 1;
+    return next();
+  } catch (error) {
+    return next(error);
+  }
+});
 app.use(express.static(path.join(__dirname, "/build")));
-require("./db");
+require("./lib/db");
+
 const dbFuncs = require("./addPodcast");
 const Podcast = mongoose.model("Podcast");
 const User = mongoose.model("User");
@@ -24,6 +55,48 @@ const Episode = mongoose.model("Episode");
 const Comment = mongoose.model("Comment");
 const Topic = mongoose.model("Topic");
 const Location = mongoose.model("Location");
+
+app.post("/signup", async (req, res, next) => {
+  console.log(req.body);
+  try {
+    const user = new User({
+      firstname: req.body.firstname,
+      lastname: req.body.lastname,
+      username: req.body.username,
+      email: req.body.email,
+      password: req.body.password,
+    });
+    const savedUser = await user.save();
+    if (savedUser) return res.redirect("/");
+    return next(new Error("Failed to save User for unknown reasons"));
+  } catch (error) {
+    return next(error);
+  }
+});
+
+app.get("/signinuser", redirectIfSignedIn, (req, res) => {
+  res.json({ ready: true });
+});
+app.get("/signupuser", redirectIfSignedIn, (req, res) => {
+  res.json({ ready: true });
+});
+app.get("/account", (req, res, next) => {
+  if (req.user) return next();
+  return res.redirect("/signin");
+});
+
+app.post(
+  "/signin",
+  passport.authenticate("local", {
+    successRedirect: "/",
+    failureRedirect: "/signin?error=true",
+  })
+);
+
+app.post("/signout", (req, res) => {
+  req.logOut();
+  return res.redirect("/");
+});
 
 /**
  * Get all the podcasts in the database
@@ -290,4 +363,5 @@ app.post("/like", function (req, res) {});
 // app.get("*", (req, res) => {
 //   res.sendFile(path.join(__dirname + "/build/index.html"));
 // });
+
 app.listen(5000);
