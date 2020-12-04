@@ -10,9 +10,7 @@ import { getLoggedInStatus } from "../components/selectors";
 const Header = ({ beginStatusUpdate, isLoggedIn }) => {
   const [show, setShow] = useState(false);
   React.useEffect(() => {
-    console.log(isLoggedIn);
     setShow(isLoggedIn);
-    console.log(show);
   }, [isLoggedIn, show]);
   // request options
   const options = {
@@ -108,7 +106,6 @@ const Header = ({ beginStatusUpdate, isLoggedIn }) => {
             }}
             viewBox="0 0 400 400"
             onMouseOver={(e) => {
-              console.log($(".usr").height());
               $(".userMenu").css(
                 "top",
                 $(".usr").offset().top + $(".usr").height() + 5

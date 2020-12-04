@@ -23,7 +23,7 @@ function redirectIfSignedIn(req, res, next) {
 
 app.use(express.static(publicPath));
 app.use(bodyParser.json());
-app.use(bodyParser.urlencoded());
+app.use(bodyParser.urlencoded({ extended: true }));
 app.use(cookieParser());
 
 app.use(
@@ -59,10 +59,8 @@ const Location = mongoose.model("Location");
 
 app.get("/loginstatus", (req, res) => {
   if (req.user) {
-    console.log(true);
     res.json({ status: true });
   } else {
-    console.log(false);
     res.json({ status: false });
   }
 });
@@ -110,7 +108,6 @@ app.post(
 );
 
 app.post("/signout", (req, res) => {
-  console.log("signing out");
   req.logOut();
   return res.redirect("/");
 });
@@ -126,10 +123,35 @@ app.get("/allpodcasts", async function (req, res) {
 /**
  * Get one podcast with a list of episodes
  */
-app.get("/podcast/:podcast_id", async function (req, res) {
+app.get("/podcast/:slug", async function (req, res) {
   try {
-    const pod_id = req.params.podcast_id;
-    const pod = await Podcast.findOne({ _id: pod_id });
+    const slug = req.params.slug;
+    const pod = await Podcast.findOne({ slug: encodeURIComponent(slug) });
+    if (pod !== null) {
+      let Parser = require("rss-parser");
+      let parser = new Parser();
+      let updatedPod = await parser.parseURL(pod.rssFeed);
+      let rssBuildDate = new Date(updatedPod["lastBuildDate"]);
+      if (isNaN(rssBuildDate)) {
+        rssBuildDate = new Date(updatedPod.items[0].isoDate);
+      }
+      if (rssBuildDate > pod.updatedAt) {
+        console.log("update podcast feed");
+      }
+
+      let idArr = [];
+      for (let id in pod.episodes) {
+        idArr.push(mongoose.Types.ObjectId(pod.episodes[id]));
+      }
+      let episodes = await Episode.find({
+        _id: {
+          $in: pod.episodes,
+        },
+      });
+      pod.episodes = episodes;
+    }
+    // Check if the podcast needs updating
+
     res.json(pod);
   } catch (error) {
     console.log(error);
@@ -167,25 +189,20 @@ app.post("/podcast", function (req, res) {
     );
   });
 });
-/*
-app.get("/podcast/episodes/:podcast_id", async function (req, res) {
-  let pod_id = req.params.podcast_id;
-  let episodes = [];
-  console.log(pod_id);
-  await Podcast.findOne({ _id: pod_id }, async function (err, pod) {
-    if (err) console.log(err);
-    console.log(pod);
-    await pod.episodes.map(async (ep_id) => {
-      Episode.findOne({ _id: ep_id }, function (error, episode) {
-        console.log(ep_id);
-        if (error) console.log(error);
-        episodes.push(episode);
-      });
-    });
-    res.send(episodes);
-  });
+
+app.get("/podcast/:podcast/:episode", async function (req, res) {
+  try {
+    const slug = req.params;
+    console.log(slug);
+    const pod = await Podcast.findOne({ slug: slug });
+    console.log(slug);
+    res.json(pod);
+  } catch (error) {
+    console.log(error);
+    res.send("error");
+  }
 });
-*/
+
 app.get("/podcast/episodes/:podcast_id", async function (req, res) {
   let pod_id = req.params.podcast_id;
   let episodes = [];

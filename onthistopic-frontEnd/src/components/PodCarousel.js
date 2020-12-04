@@ -12,7 +12,7 @@ const PodCarousel = ({ podcasts, isLoading, startLoadingPodcasts }) => {
 
   const content = podcasts.podcasts.map((pod) => (
     <div className="carouselImage">
-      <Link to={`/podcast/${pod._id}`}>
+      <Link to={`/podcast/${pod.slug}`}>
         <img src={pod.image} alt={pod.title} />
       </Link>
     </div>

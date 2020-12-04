@@ -8,518 +8,601 @@
         "News"
     ],
     "image": "http://ichef.bbci.co.uk/images/ic/3000x3000/p06md9z7.jpg",
+    "slug": "BBC%3AAfrica%20Today",
     "episodes": [
+        {
+            "title": "TPLF condemns Abiy’s ‘path to destruction’",
+            "subtitle": "TPLF’s message to the Ethiopian prime minister is that civilian lives are being lost",
+            "datePublished": "Fri, 04 Dec 2020 19:32:00 +0000",
+            "description": "A spokesperson for the TPLF says his message to the Ethiopian prime minster is that his “path to destruction” is resulting in the loss of civilian lives.\n\nPlus the African human rights court has issued a landmark opinion on colonial era vagrancy laws that criminalise loitering, begging, or homelessness.\n\nAnd the Resident Presidents mourn the passing of dear friends.",
+            "duration": "1911",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p090jrcn.mp3",
+            "slug": "BBC%253AAfrica%2520Today/TPLF%20condemns%20Abiy%E2%80%99s%20%E2%80%98path%20to%20destruction%E2%80%99"
+        },
+        {
+            "title": "Liberia’s former rebel leader goes on trial for war crimes",
+            "subtitle": "Alieu Kosiah is accused of murder, the recruitment of child soldiers, and rape",
+            "datePublished": "Thu, 03 Dec 2020 19:09:00 +0000",
+            "description": "Former Liberian rebel commander Alieu Kosiah has appeared in a Swiss court charged with war crimes during Liberia’s civil war.\n\nPlus a report on the challenges presented by Ghana’s poor roads and makeshift transport links,and why they matter to the upcoming presidential election.  \n\nAnd we meet an award winning Kenyan yoga instructor, using his craft to drive social change.",
+            "duration": "1725",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p090fk72.mp3",
+            "slug": "BBC%253AAfrica%2520Today/Liberia%E2%80%99s%20former%20rebel%20leader%20goes%20on%20trial%20for%20war%20crimes"
+        },
+        {
+            "title": "Uganda: Bobi Wine back on the campaign trail",
+            "subtitle": "Uganda's Bobi Wine says he has asked the electoral body to protect opposition politicians",
+            "datePublished": "Wed, 02 Dec 2020 20:18:00 +0000",
+            "description": "Uganda's presidential candidate Robert Kyagulanyi, popularly known as Bobi Wine has said that he will resume campaigning, after he met with the electoral commission.\n\nPlus, is Nigeria becoming the epicentre of cyber-crime and lucrative scams?\n\nAnd a Gambian politician says the National Assembly may have failed the electorate by approving personal loans for legislators.",
+            "duration": "1715",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p090b0q9.mp3",
+            "slug": "BBC%253AAfrica%2520Today/Uganda%3A%20Bobi%20Wine%20back%20on%20the%20campaign%20trail"
+        },
+        {
+            "title": "World Aids Day: HIV drugs not suited for children",
+            "subtitle": "Unicef warns children are being left behind in the provision of HIV services",
+            "datePublished": "Tue, 01 Dec 2020 20:24:00 +0000",
+            "description": "Children with Aids struggle to get access to the drugs they need, warns Unicef.\n\nMore Kenyans seem to be switching to greener, cleaner energy, but at what cost to Kenya Power?\n\nAnd the university lecturers' strike in Sierra Leone that’s right in the middle of the exam period.",
+            "duration": "1838",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p090601h.mp3",
+            "slug": "BBC%253AAfrica%2520Today/World%20Aids%20Day%3A%20HIV%20drugs%20not%20suited%20for%20children"
+        },
+        {
+            "title": "Nigeria reels after farmers' massacre",
+            "subtitle": "Dozens of farmers were killed in Borno State during the weekend",
+            "datePublished": "Mon, 30 Nov 2020 18:05:00 +0000",
+            "description": "It's a day of reckoning for the Nigerian government, after a weekend marred by one of the bloodiest attacks on civilians in Borno state, possibly carried out by armed rebels linked to Boko Haram\n\nEthiopia: Media blackout is still ongoing in the northern Ethiopian region of Tigray, so we speak to the international red cross who have been coordinating rescue and relief efforts in the capital Mekelle\n\nWe have an exclusive interview with South Africa's former opposition leader Mmusi Maimane, in which he tells why he ended up quitting the Democratic Alliance party and what direction the rainbow nation has to take to diffuse a resurgence in racial tensions",
+            "duration": "1480",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0901m3h.mp3",
+            "slug": "BBC%253AAfrica%2520Today/Nigeria%20reels%20after%20farmers'%20massacre"
+        },
+        {
+            "title": "Ethiopia PM meets AU envoys but bars them from Tigray",
+            "subtitle": "The African Union is seeking to mediate in the Tigray crisis",
+            "datePublished": "Fri, 27 Nov 2020 19:22:00 +0000",
+            "description": "The Ethiopian prime minister has met the African Union envoys seeking to mediate in the Tigrayan crisis but has barred them from talking to the Tigray leaders.\n\nPlus, a new report highlights how the elderly are often neglected in times of disaster.\n\nAnd Olushambles or Oluchampagne? The wily resident president considers ways of boosting electoral chances.",
+            "duration": "1785",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08zv6y3.mp3",
+            "slug": "BBC%253AAfrica%2520Today/Ethiopia%20PM%20meets%20AU%20envoys%20but%20bars%20them%20from%20Tigray"
+        },
+        {
+            "title": "Ethiopia declares assault on Tigray capital",
+            "subtitle": "Prime Minister Abiy Ahmed urges Mekelle civilians to stay at home",
+            "datePublished": "Thu, 26 Nov 2020 18:47:00 +0000",
+            "description": "Ethiopian Prime Minister Abiy Ahmed states he is launching the \"final phase\" of the army's operation in the northern region of Tigray and urges civilians in the regional capital to stay at home.\n\nPlus, remembering Sudan’s former Prime Minister Sadiq al-Mahdi who has died after contracting the coronavirus infection.\n\nAnd good news for East Africa’s coffee growing countries as their product is rated to be among the world’s best.",
+            "duration": "1606",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08zqyfq.mp3",
+            "slug": "BBC%253AAfrica%2520Today/Ethiopia%20declares%20assault%20on%20Tigray%20capital"
+        },
+        {
+            "title": "Ethiopian minister says deadline to Tigray fighters has expired",
+            "subtitle": "An Ethiopian deadline for Tigray fighters to surrender has passed",
+            "datePublished": "Wed, 25 Nov 2020 19:55:00 +0000",
+            "description": "Ethiopia's Prime Minister Abiy Ahmed rejects foreign interference in the Tigray crisis, after issuing a deadline to Tigray fighters to surrender.\n\nPlus, sixteen days of activism against gender-based violence.\n\nAnd we hear from young Zimbabwean filmmakers hoping to revive their industry.",
+            "duration": "1842",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08zmgs3.mp3",
+            "slug": "BBC%253AAfrica%2520Today/Ethiopian%20minister%20says%20deadline%20to%20Tigray%20fighters%20has%20expired"
+        },
+        {
+            "title": "Western Sahara: Morocco ‘had to act‘ says official",
+            "subtitle": "Morocco’s Russia ambassador says they had to reopen road to Mauritania",
+            "datePublished": "Tue, 24 Nov 2020 19:50:00 +0000",
+            "description": "Morocco’s Moscow-based ambassador says Morocco did not breach the 29-year ceasefire agreement between Morocco and the Polisario Front and blames increased tensions on the pro-independence Polisario fighters.\n\nPlus Nigeria has a new taskforce in charge of acquiring, vetting and rolling out the Covid-19 vaccine – what challenges will it face?\n\nAnd we meet the UK-based comedian who reveals how being visibly Muslim and wearing a hijab helps her play up to, and challenge stereotypes.",
+            "duration": "1694",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08zj9tr.mp3",
+            "slug": "BBC%253AAfrica%2520Today/Western%20Sahara%3A%20Morocco%20%E2%80%98had%20to%20act%E2%80%98%20says%20official"
+        },
+        {
+            "title": "Nigeria slides back into recession",
+            "subtitle": "Economy hit by \"perfect storm\" of COVID19 pandemic, oil prices and... EndSARS protests",
+            "datePublished": "Mon, 23 Nov 2020 17:56:00 +0000",
+            "description": "Africa's largest economy has slipped into recession for the second time in five years, registering record-breaking unemployment figures. But it's not all doom and gloom, as some analysts see the recent news of a working vaccine showing some light at the end of the tunnel.\n\nEthiopia Prime Minister Abiy Ahmed has given TPLF forces deployed in the northern region of Tigray the country a seventy-two hours ultimatum to surrender, as government troops advance on the capital, Mekelle.\n\nWorld football's governing body, FIFA, has banned the head of the game in Africa for five years. We find out why",
+            "duration": "1209",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08zd2ns.mp3",
+            "slug": "BBC%253AAfrica%2520Today/Nigeria%20slides%20back%20into%20recession"
+        },
+        {
+            "title": "Uganda: Bobi Wine charged with 'acts to spread Covid-19'",
+            "subtitle": "The Ugandan presidential candidate has appeared in court and released on bail",
+            "datePublished": "Fri, 20 Nov 2020 20:21:00 +0000",
+            "description": "Ugandan presidential candidate Bobi Wine has been released on bail after being charged with spreading coronavirus.\n\nPlus a report on the female candidates who could be about to make history in Ghana’s upcoming elections.\n\nAnd the Resident Presidents rejoice that a Covid-19 vaccine could soon be available.",
+            "duration": "1823",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08z451d.mp3",
+            "slug": "BBC%253AAfrica%2520Today/Uganda%3A%20Bobi%20Wine%20charged%20with%20'acts%20to%20spread%20Covid-19'"
+        },
+        {
+            "title": "Uganda: Bobi Wine’s wife denied access to him",
+            "subtitle": "The Ugandan presidential candidate is being held by police",
+            "datePublished": "Thu, 19 Nov 2020 18:58:00 +0000",
+            "description": "The wife of Ugandan opposition leader popularly known as Bobi Wine, says she has not been allowed to see her husband since he was arrested while on the campaign trail.\n\nPlus there are growing security concerns in Burkina Faso, as the country gears up for elections.\n\nAnd we hear from the son of the late Afrobeat legend Fela Kuti, on why he is reviving his father’s political party.",
+            "duration": "1752",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08z0qm4.mp3",
+            "slug": "BBC%253AAfrica%2520Today/Uganda%3A%20Bobi%20Wine%E2%80%99s%20wife%20denied%20access%20to%20him"
+        },
+        {
+            "title": "Uganda’s Bobi Wine is arrested on campaign trail",
+            "subtitle": "The Ugandan presidential candidate was arrested during an election rally",
+            "datePublished": "Wed, 18 Nov 2020 18:47:00 +0000",
+            "description": "Ugandan presidential candidate and musician, Bobi Wine, whose real name is Robert Kyagulanyi, was arrested while campaigning in the east of the country.\n\nPlus, the DRC declares that the Ebola outbreak is at an end.\n\nAnd we hear from the eighteen-year-old Zimbabwean who's won the hearts and minds of the British public with her angelic singing.",
+            "duration": "1443",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08ywy6c.mp3",
+            "slug": "BBC%253AAfrica%2520Today/Uganda%E2%80%99s%20Bobi%20Wine%20is%20arrested%20on%20campaign%20trail"
+        },
+        {
+            "title": "Zambia defaults on its debt",
+            "subtitle": "Zambia becomes the first African economy to default on its debt since COVID-19 started",
+            "datePublished": "Tue, 17 Nov 2020 19:15:00 +0000",
+            "description": "Zambia's economy becomes the first casualty of the COVID-19 pandemic following the country defaulting on its sovereign debt. Our financial analyst from Lusaka, Trevor Hambayi, tells us how this economic default will be likely to impact Zambians.\n\nWe bring you an update on the worsening conflict in Ethiopia's Tigray region where a three-day deadline the central government imposed on TPLF fighters has expired.\n\nWe also hear about the curious case of Shepherd Bushiri, a millionaire Malawian church pastor who skipped bail in South Africa to resurface a few days later in his home country.",
+            "duration": "1368",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08yshkq.mp3",
+            "slug": "BBC%253AAfrica%2520Today/Zambia%20defaults%20on%20its%20debt"
+        },
+        {
+            "title": "Zambia defaults on its debt",
+            "subtitle": "Zambia becomes the first African economy to default on its debt since COVID-19 started",
+            "datePublished": "Tue, 17 Nov 2020 19:04:00 +0000",
+            "description": "Zambia's economy becomes the first casualty of the COVID-19 pandemic following the country defaulting on its sovereign debt. Our financial analyst from Lusaka, Trevor Hambayi, tells us how this economic default will be likely to impact Zambians.\n\nWe bring you an update on the worsening conflict in Ethiopia's Tigray region where a three-day deadline the central government imposed on TPLF fighters has expired.\n\nWe also hear about the curious case of Shepherd Bushiri, a millionaire Malawian church pastor who skipped bail in South Africa to resurface a few days later in his home country.",
+            "duration": "1368",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08ysjnl.mp3",
+            "slug": "BBC%253AAfrica%2520Today/Zambia%20defaults%20on%20its%20debt"
+        },
         {
             "title": "Ethiopia: Fears Tigray fighting could spread",
             "subtitle": "The TPLF says it carried out a rocket attack on Eritrea as refugees flee to Sudan",
             "datePublished": "Mon, 16 Nov 2020 19:06:00 +0000",
             "description": "We get the latest on fighting in Tigray, with Ethiopian federal troops fighting TPLF forces. The conflict there is already causing concern beyond Ethiopia’s borders, with thousands of people fleeing into neighboring Sudan, and the TPLF saying it was behind a rocket attack on Eritrea’s capital.\n\nPlus, the results of a year-long investigation in Kenya, lifting the lid on the sinister trade in stolen children.\n\nAnd we hear from our health correspondent Rhoda Odiambo in Nairobi, who has news on yet another new COVID-19 vaccine",
-            "length": "12152000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08ynqk7.mp3"
+            "duration": "1519",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08ynqk7.mp3",
+            "slug": "BBC%253AAfrica%2520Today/Ethiopia%3A%20Fears%20Tigray%20fighting%20could%20spread"
         },
         {
             "title": "Ethiopia issues arrest warrants for Tigray leaders",
             "subtitle": "The Ethiopian government issues arrest warrants for top Tigray officials of the TPLF",
             "datePublished": "Fri, 13 Nov 2020 19:31:00 +0000",
             "description": "The Ethiopian government has issued arrest warrants for the top Tigray officials who run the state and other prominent members of the Tigrayan People’s Liberation Front (TPLF).\n\nPlus we hear from the Kenyan senator challenging colonial-era norms by wearing traditional Maasai dress to the National Assembly.\n\nAnd the Resident Presidents weigh up the benefits of starting a civil war.",
-            "length": "15752000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08ydtcj.mp3"
+            "duration": "1969",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08ydtcj.mp3",
+            "slug": "BBC%253AAfrica%2520Today/Ethiopia%20issues%20arrest%20warrants%20for%20Tigray%20leaders"
         },
         {
             "title": "Ghana ex-President JJ Rawlings dies aged 73",
             "subtitle": "Former President Rawlings died in hospital in the capital, Accra, after a short illness",
             "datePublished": "Thu, 12 Nov 2020 19:35:00 +0000",
             "description": "Ghana is observing seven days of mourning following the death of former president and military ruler, Jerry John Rawlings.\n\nAn investigation in Tanzania uncovers allegations of human rights abuses at a diamond mine.\n\nAnd an art exhibition, that is not so much about the quality but rather its feel good spirit, opens in Cape Town.",
-            "length": "12992000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08y8n5r.mp3"
+            "duration": "1624",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08y8n5r.mp3",
+            "slug": "BBC%253AAfrica%2520Today/Ghana%20ex-President%20JJ%20Rawlings%20dies%20aged%2073"
         },
         {
             "title": "Ethiopian refugees stream into Sudan",
             "subtitle": "Thousands of Ethiopians are expected to cross into Sudan, to escape the Tigray conflict",
             "datePublished": "Wed, 11 Nov 2020 18:21:00 +0000",
             "description": "As the Tigray crisis in Ethiopia escalates, aid agencies warn that up to 200,000 people could flee the conflict into Sudan.\n\nPlus Tanzania’s opposition leader, Tundu Lissu on why he had to leave the country.\n\nAnd Togo rapper Elom Vince, on music, his new album and why he is not afraid to speak out.",
-            "length": "14880000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08y4fl7.mp3"
+            "duration": "1860",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08y4fl7.mp3",
+            "slug": "BBC%253AAfrica%2520Today/Ethiopian%20refugees%20stream%20into%20Sudan"
         },
         {
             "title": "Ground breaking results for HIV prevention",
             "subtitle": "New injection given once every 8 weeks better at preventing HIV than one-a-day-pill",
             "datePublished": "Tue, 10 Nov 2020 17:51:00 +0000",
             "description": "The Wits Reproductive Health and HIV Institute in South Africa has revealed the results of clinical trials showing a better efficacy at preventing HIV infections of a new drug injected every eight weeks over a pill currently taken once a day. We speak with the Director of Research, Professor Sinead Delany Moretlwe\n\nWe ask the ruling Prosperity Party of Ethiopia why military operations in the Tigray region are still ongoing. After a week of fighting and reassurance from PM Abyi Ahmed that operations would \"wrap up\" quickly, there still doesn't seem to be an end in sight to the conflict.\n\nAnd we take a preview of campaigning in Uganda, where elections are due in two months. Will Ugandans keep the incumbent President or choose to dance to the tune of the main opposition leader Bobi Wine?",
-            "length": "11152000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08y0y5l.mp3"
+            "duration": "1394",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08y0y5l.mp3",
+            "slug": "BBC%253AAfrica%2520Today/Ground%20breaking%20results%20for%20HIV%20prevention"
         },
         {
             "title": "When will a COVID-19 vaccine be available for Africa?",
             "subtitle": "Hope for a COVID-19 vaccine grows as pharma giant claims over 90% efficacy in trials",
             "datePublished": "Mon, 09 Nov 2020 17:49:00 +0000",
             "description": "Pharmaceutical company Pzifer says advanced trials for one of its vaccines shows over 90% efficacy in preventing COVID-19 infections\n\nEthiopia's federal government says the violent dispute in the Tigray region will end soon - but are both sides ready to agree on a way out of the conflict?\n\nAnd Libya's warring factions have begun a series of face-to-face meetings in Tunis to find a common path out of a nearly decade of strife.\n\n(Photo Credit: Reuters)",
-            "length": "10088000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08xxhyr.mp3"
+            "duration": "1261",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08xxhyr.mp3",
+            "slug": "BBC%253AAfrica%2520Today/When%20will%20a%20COVID-19%20vaccine%20be%20available%20for%20Africa%3F"
         },
         {
             "title": "Tigray crisis: Tensions escalate in northern Ethiopia",
             "subtitle": "Ethiopia's Prime Minister Abiy Ahmed sends more troops to the region",
             "datePublished": "Fri, 06 Nov 2020 18:11:00 +0000",
             "description": "Ethiopia’s prime minister sends more troops to the Tigray region but insists the military operation has clear and limited objectives.\n\nA Kenyan lawyer has appeared at the International Criminal Court (ICC) in The Hague, five years after it issued a warrant for his arrest.\n\nAnd a team of South African women in Cape Town are on a mission to protect the city’s water levels.",
-            "length": "13424000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08xmqj9.mp3"
+            "duration": "1678",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08xmqj9.mp3",
+            "slug": "BBC%253AAfrica%2520Today/Tigray%20crisis%3A%20Tensions%20escalate%20in%20northern%20Ethiopia"
         },
         {
             "title": "Is Ethiopia on the brink of civil war?",
             "subtitle": "PM Abiy Ahmed vows to continue a military offensive in the northern state of Tigray",
             "datePublished": "Thu, 05 Nov 2020 18:50:00 +0000",
             "description": "Prime Minister Abiy Ahmed's launched a military operation in the Tigray region on Wednesday night, after accusing the Tigrayan forces of attacking a federal army base.\n\nHow a Kenyan school has become a quarantine centre following a cluster of covid infections.\n\nIn Tanzania, President Magufuli is sworn in for a second term in power. We speak to our correspondent in the capital Dodoma\n\n(Photo: Ethiopian Prime Minister Abiy Ahmed addressed the nation on Wednesday evening. Credit: Reuters)",
-            "length": "8800000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08xj9yw.mp3"
-        },
-        {
-            "title": "Ethiopia’s prime minister declares emergency in Tigray region",
-            "subtitle": "Prime Minister Abiy Ahmed accused the region's authorities of an army base attack",
-            "datePublished": "Wed, 04 Nov 2020 18:00:00 +0000",
-            "description": "Ethiopia's Prime Minister Abiy Ahmed has declared a state of emergency in the Tigray region for six months, following an alleged attack on an army base there.\n\nWe have a report from Kenya as the country battles against a second wave of coronavirus infections.\n\nAnd Ghanaian striker Asamoah Gyan on his move to local club, Legon Cities.",
-            "length": "10040000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08xczhj.mp3"
-        },
-        {
-            "title": "Ivory Coast: President Ouattara wins third term amid boycott",
-            "subtitle": "Alassane Ouattara wins a third term in office in an election boycotted by the opposition",
-            "datePublished": "Tue, 03 Nov 2020 17:58:00 +0000",
-            "description": "Ivory Coast's President Alassane Ouattara took 94% of the vote, even winning 99% in some of his strongholds. Meanwhile the Ivorian opposition said it was creating a transitional government which would organise a new election.\n\nMore on the ethnic unrest in Ethiopia as the official number of people killed last Sunday in a village in the west of the country rises to 34. We ask who is behind the attacks?\n\nAnd we take a look at the impact of the COVID-19 pandemic on jobs in Uganda.",
-            "length": "8296000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08x8zpj.mp3"
-        },
-        {
-            "title": "Ivory Coast and Tanzania: Two contested elections",
-            "subtitle": "Ivory Coast and Tanzania incumbent presidents up for controversial re-election",
-            "datePublished": "Mon, 02 Nov 2020 18:08:00 +0000",
-            "description": "A number of opposition leaders in Tanzania are arrested including Freeman Mbowe of CHADEMA.. the authorities accuse them of planning a violent protest\n\nResults of Presidential elections in Ivory Coast at the weekend are coming in.. the incumbent Alassane Ouattara so far is in the lead, but the opposition cites irregularities and demands a transitional government be formed\n\nAnd we hear about how one of Ghana's most gifted dancers ended up in  Beyonce's video despite the reluctance from his parents\n\n(Photo:President Alassane Ouattara urged people to join him in voting. Credit: EPA)",
-            "length": "13200000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08x60vs.mp3"
-        },
-        {
-            "title": "Two jailed over Kenyan shopping mall attack",
-            "subtitle": "The men were sentenced to 33 and 18 years for their part in Nairobi’s Westgate mall siege",
-            "datePublished": "Fri, 30 Oct 2020 19:00:00 +0000",
-            "description": "A Kenyan judge has sentenced two men to 33 and 18 years in jail after they were convicted of helping Islamist militants in the 2013 Westgate shopping centre attack in Nairobi.\n\nPlus Tunisia introduces tighter controls to help stop the spread of the coronavirus.\n\nAnd we have a report on how the racial justice movement could affect the US presidential election.",
-            "length": "13000000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08wyh04.mp3"
-        },
-        {
-            "title": "Somalians call for a boycott of French goods",
-            "subtitle": "Somalia and Mali are among countries angered by remarks by the French president",
-            "datePublished": "Thu, 29 Oct 2020 18:43:00 +0000",
-            "description": "Somalia and Mali are among countries angered by French President Emmanuel Macron’s defence of religious cartoons, including depictions of the Prophet Mohammad.\n\nPlus Tanzania's main opposition presidential candidate has said he “will not accept the result of Wednesday's election”.\n\nAnd a new film raises the curtain on the little talked-about issue of new mums and depression.",
-            "length": "13272000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08wv84p.mp3"
-        },
-        {
-            "title": "Tanzanians go to the polls",
-            "subtitle": "Voting has ended in Tanzania's election where 15 candidates are running for president",
-            "datePublished": "Wed, 28 Oct 2020 18:35:00 +0000",
-            "description": "Tanzanians have been voting in the country’s sixth general election to choose their president, members of parliament and local councillors for the next five years. \n\nWe hear from a Kenyan doctor working on the frontline in the fight against Covid-19.\n\nAnd the Buganda royal family get their Rolls Royce back, some fifty years after it was taken.",
-            "length": "13872000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08wqh73.mp3"
-        },
-        {
-            "title": "Ivory Coast presidential election: will the economic boom influence votes?",
-            "subtitle": "Have years of economic growth made a difference in the pockets of Ivorians?",
-            "datePublished": "Tue, 27 Oct 2020 17:08:00 +0000",
-            "description": "With so many challengers either disqualified or having stood down in the upcoming presidential election, will the incumbent Alhassane Ouattara get an easy victory in his controversial third term bid? And have the years of economic growth made a difference in the pockets of Ivorians?\n\nIn Nigeria, a judicial panel of inquiry is to hear evidence related to last week's incidents in Lagos in which Nigerian armed forces are alleged to have shot dead demonstrators protesting against police brutality.\n\nInternational pressure has been mounting on Saudi Arabia to improve the treatment of migrants. It follows reports last month describing how  Ethiopian workers were kept in detention camps and subjected to horrific conditions.\n\n(Photo: Young Ivorians look at posters of candidates in the upcoming presidential election in Ivory Coast. Credit: Getty Images)",
-            "length": "11520000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08wltdw.mp3"
-        },
-        {
-            "title": "Fact-checking the #EndSARS protests",
-            "subtitle": "The role misinformation has played online in the #Endsars movement.",
-            "datePublished": "Mon, 26 Oct 2020 18:14:00 +0000",
-            "description": "As awareness around alleged police brutality in Nigeria spreads globally, we take a look at the role of misinformation in the EndSARS movement.\n\nAs Tanzania prepares to go to the polls, what do young voters make of the long-time ruling incumbent party?\n\nSeychelles elect an Anglican priest as their new president. The first time that voters choose an opposition candidate\n\n(Photo: People gather to march to Parliament Square in London to stage a protest against the attacks towards demonstrators during the ongoing protests in Nigeria. Credit: Hasan Esen/Anadolu Agency via Getty Images)",
-            "length": "11568000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08wgydj.mp3"
-        },
-        {
-            "title": "Libya rivals sign ceasefire deal",
-            "subtitle": "The deal between Libya’s warring factions was brokered by the UN",
-            "datePublished": "Fri, 23 Oct 2020 18:04:00 +0000",
-            "description": "Libya's warring factions have signed an agreement on a permanent ceasefire, after five days of talks in Geneva.\n\nPlus we hear from Ugandan schoolchildren about the challenges of learning during the coronavirus pandemic.\n\nAnd Resident Presidents Olushambles and Kibarkingmad discuss women leaders.",
-            "length": "11320000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08w60ll.mp3"
-        },
-        {
-            "title": "Nigeria: Police minister rejects outside condemnation",
-            "subtitle": "Nigeria’s Police minister says world should come to the country to see for themselves",
-            "datePublished": "Thu, 22 Oct 2020 18:49:00 +0000",
-            "description": "Nigeria’s Minister for Police Affairs challenges the world to come to the country and not just rely on what they've heard.\n\nPlus there are increasing concerns about security ahead of Ivory Coast’s presidential election.\n\nAnd ‘green tea’ in Kenya, as a tea farm moves to solar power on its plantations.",
-            "length": "13376000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08w28vv.mp3"
-        },
-        {
-            "title": "Nigeria’s President Buhari urges calm amid protests",
-            "subtitle": "End SARS protests continue after deadly night in Lagos",
-            "datePublished": "Wed, 21 Oct 2020 18:45:00 +0000",
-            "description": "President Buhari’s statement comes the day after a violent crackdown on #EndSARS protesters in Lagos.\n\nPlus could Zambia be about to default on its mounting debts?\n\nAnd the charm of Yoruba hand-woven cloth inspires a London-based designer.",
-            "length": "9536000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08vyvr7.mp3"
-        },
-        {
-            "title": "US elections: What's in it for Africa?",
-            "subtitle": "How Trump's 'America First' policy has impacted US commitments with Africa",
-            "datePublished": "Tue, 20 Oct 2020 17:29:00 +0000",
-            "description": "As the presidential election in the United States looms, we take a look at the impact that President Trump's 'America First' policy has had on US commitments in Africa.\n\nCitizens in Nigeria's most populous city are ordered to stay indoor as the country imposes a 24-hour curfew in Lagos. We gather the mood of protesters and their requests.\n\nWhy are so many African countries still subject to tough restrictions in air travel when they haven't been as badly affected by the COVID pandemic as European countries? We talk with one of the authors of a study looking exactly at this issue",
-            "length": "12368000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08vv4pg.mp3"
-        },
-        {
-            "title": "Undercover in the schools that chain boys",
-            "subtitle": "A BBC investigation has uncovered systemic child abuse inside Islamic schools in Sudan.",
-            "datePublished": "Mon, 19 Oct 2020 17:10:00 +0000",
-            "description": "An undercover BBC investigation in Sudan reveals cases of child abuse in a number of Islamic schools. We hear first hand experience of some of the students whose families are now seeking  justice\n\nWe take a look at one of Africa's most dynamic economies, Kenya, and find out how coronavirus is affecting business there as many entrepreneurs are having troubles repaying their loans and risk defaulting on their debts\n\nAnd we speak to a malaria survivor from Uganda who says they've invented a soap that not only keeps you clean, but it also helps with keeping mosquitos away",
-            "length": "13608000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08vqs8b.mp3"
+            "duration": "1100",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08xj9yw.mp3",
+            "slug": "BBC%253AAfrica%2520Today/Is%20Ethiopia%20on%20the%20brink%20of%20civil%20war%3F"
         },
         {
             "title": "Kenyan officials accused of Covid-19 corruption",
             "subtitle": "Kenyan officials suspected of stealing money meant for medical supplies face prosecution.",
             "datePublished": "Thu, 24 Sep 2020 19:54:00 +0000",
             "description": "At least 15 top Kenyan government officials and businesspeople face prosecution in connection for alleged theft of tens of millions of dollars meant for Covid-19 supplies. \n\nZambia’s credit rating has been downgraded over mounting debt crisis.\n\nWe also meet the man responsible for carrying on the tradition of the talking drum.",
-            "length": "10736000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08sgfn4.mp3"
+            "duration": "1342",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08sgfn4.mp3",
+            "slug": "BBC%253AAfrica%2520Today/Kenyan%20officials%20accused%20of%20Covid-19%20corruption"
         },
         {
             "title": "US sanction former Gambia first lady",
             "subtitle": "The United States has slapped sanctions on former Gambia first lady Zineb Jammeh.",
             "datePublished": "Wed, 16 Sep 2020 19:37:00 +0000",
             "description": "The United States has imposed sanctions on the country's former First Lady Zineb Jammeh accusing her of corruption during her husband Yahya Jammeh's rule. The US treasury suspects her of helping the former president transfer money illegally, and controlling his assets abroad. \n\nTalks have continued between Mali's military junta and opposition parties to try break a deadlock over a proposed transitional agreement. \n\nZimbabwe's plan to return farms to foreign white farmers who lost their land some 20 years ago under the rule of Robert Mugabe.",
-            "length": "11632000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08rpz60.mp3"
+            "duration": "1454",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08rpz60.mp3",
+            "slug": "BBC%253AAfrica%2520Today/US%20sanction%20former%20Gambia%20first%20lady"
         },
         {
             "title": "Cameroon army launches operation in North-West Region",
             "subtitle": "Cameroon’s security forces have launched an operation to restore security in Bamenda.",
             "datePublished": "Wed, 09 Sep 2020 19:08:00 +0000",
             "description": "Cameroon army launch operation dubbed  \"Bamenda Clean.\" It  aims to restore order to the capital of the Northwest Region which the army claims has been the target of attacks by what it calls \"terrorists and criminals\".\n\nZimbabwe bans  mining operations in the country's national parks following an outcry over proposed mining activities in Hwange National Park by two Chinese companies.\n\nSouth Africa introduce laws to try and deal with high levels of gender based violence in the country.",
-            "length": "13568000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08r07z3.mp3"
+            "duration": "1696",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08r07z3.mp3",
+            "slug": "BBC%253AAfrica%2520Today/Cameroon%20army%20launches%20operation%20in%20North-West%20Region"
         },
         {
             "title": "Ugandan Minister charged of attempted murder",
             "subtitle": "Deputy Minister of Labour Mwesigwa Rukutana remanded in custody on murder charges.",
             "datePublished": "Mon, 07 Sep 2020 20:27:00 +0000",
             "description": "Uganda’s Deputy Labour Minister, Mwesigwa Rukutana was today charged of attempted murder following a shooting incident during NRM party primary elections at the weekend.\n\nProtesters in South Africa force the closure of Clicks chain stores because of an advert deemed to be racist.\n  \nZimbabwe journalist Hopewell Chin’ono narrates his arrest and prison ordeal.",
-            "length": "10944000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08qt5zj.mp3"
+            "duration": "1368",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08qt5zj.mp3",
+            "slug": "BBC%253AAfrica%2520Today/Ugandan%20Minister%20charged%20of%20attempted%20murder"
         },
         {
             "title": "Global leaders call for free coronavirus vaccine",
             "subtitle": "African leaders join call for a free coronavirus vaccine",
             "datePublished": "Fri, 15 May 2020 18:32:00 +0000",
             "description": "African presidents are among world leaders calling for a free Covid-19 vaccine that should be made available worldwide.\n \nThe European Union pledges 480 million Euros to help revive Sudan's struggling economy.\n \nOur Resident Presidents tell us why health experts aren’t their cup of tea.",
-            "length": "13080000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08db3l9.mp3"
+            "duration": "1635",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08db3l9.mp3",
+            "slug": "BBC%253AAfrica%2520Today/Global%20leaders%20call%20for%20free%20coronavirus%20vaccine"
         },
         {
             "title": "Burundi orders WHO officials to leave the country",
             "subtitle": "Burundi gives World Health Organisation staffers 24 hours  to leave the country.",
             "datePublished": "Thu, 14 May 2020 18:49:00 +0000",
             "description": "Burundi has ordered four key staff members of the World Health Organisation to leave the country.\n \nClashes in Sudan’s South Kordofan region leave at least 26 dead. \n \nOur listeners share their experiences of life under lockdown.",
-            "length": "11760000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08d6gy8.mp3"
+            "duration": "1470",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08d6gy8.mp3",
+            "slug": "BBC%253AAfrica%2520Today/Burundi%20orders%20WHO%20officials%20to%20leave%20the%20country"
         },
         {
             "title": "Lesotho records first coronavirus case",
             "subtitle": "Lesotho became the last country in Africa to record a coronavirus case",
             "datePublished": "Wed, 13 May 2020 18:43:00 +0000",
             "description": "Lesotho today became the last country on the African continent to record a coronavirus case.\n \nCameroon's Julie Owono talks about her appointment to the board overseeing Facebook content.\n \nMalawian artist Hazel Mak on her new ‘Unorthodox’ album.",
-            "length": "12328000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08d2yfs.mp3"
+            "duration": "1541",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08d2yfs.mp3",
+            "slug": "BBC%253AAfrica%2520Today/Lesotho%20records%20first%20coronavirus%20case"
         },
         {
             "title": "Zambia closes Tanzania border as COVID-19 cases surge",
             "subtitle": "Over 80 new coronavirus cases have been discovered in Nakonde",
             "datePublished": "Mon, 11 May 2020 18:38:00 +0000",
             "description": "Zambia has acted quickly to close the border with Tanzania after a surge in Covid-19 cases near the national boundary.\n \nSierra Leone grapples with a spate of violence in areas supportive of the main opposition party.\n \nAnd we hear from France-based singer YSEE on Tony Allen’s final recording before his passing.",
-            "length": "9376000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08cwmn2.mp3"
+            "duration": "1172",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08cwmn2.mp3",
+            "slug": "BBC%253AAfrica%2520Today/Zambia%20closes%20Tanzania%20border%20as%20COVID-19%20cases%20surge"
         },
         {
             "title": "Malawi Supreme Court upholds Presidential poll nullification",
             "subtitle": "Malawi Supreme Court has upheld the nullification of last year's presidential elections",
             "datePublished": "Fri, 08 May 2020 18:54:00 +0000",
             "description": "Malawi’s Supreme Court has upheld the invalidation of last year's presidential election results and ruled that Peter Mutharika was not duly elected.\n\nPolitical tensions are rising in Ethiopia over the postponement of elections which were scheduled for August this year.\n\nAnd the miraculous tale of a migratory Mongolian Cuckoo called Onon which flew from Kenya to Asia in just seven days - a journey that normally takes seven days.",
-            "length": "9920000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08cpgrd.mp3"
+            "duration": "1240",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08cpgrd.mp3",
+            "slug": "BBC%253AAfrica%2520Today/Malawi%20Supreme%20Court%20upholds%20Presidential%20poll%20nullification"
         },
         {
             "title": "Madagascar conducts mass Covid-19 tests.",
             "subtitle": "Madagascar conducts mass coronavirus tests in its worst hit area.",
             "datePublished": "Thu, 07 May 2020 18:25:00 +0000",
             "description": "Madagascar is conducting mass coronavirus tests in its worst hit area and more on its Covid-Organics.\n\nWhy are schools being vandalised during coronavirus lockdown in South Africa?\n\nAnd the we hear from,ML Kejera, the first Gambian to be shortlisted for the prestigious Commonwealth Short Story Prize.",
-            "length": "11168000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08clg6v.mp3"
+            "duration": "1396",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08clg6v.mp3",
+            "slug": "BBC%253AAfrica%2520Today/Madagascar%20conducts%20mass%20Covid-19%20tests."
         },
         {
             "title": "African countries lift coronavirus restrictions",
             "subtitle": "Some African countries have started lifting coronavirus restrictions",
             "datePublished": "Mon, 04 May 2020 22:04:00 +0000",
             "description": "Some African countries among them Nigeria, South Africa and Rwanda have started relaxing coronavirus measures but some of their citizens see it as an ill-advised move.\n\nTanzania President John Magufuli criticised for his handling of the coronavirus pandemic.\n\nSomalia remains one of the most dangerous places to be a journalist in the world.",
-            "length": "10464000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08c8cnv.mp3"
+            "duration": "1308",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08c8cnv.mp3",
+            "slug": "BBC%253AAfrica%2520Today/African%20countries%20lift%20coronavirus%20restrictions"
         },
         {
             "title": "South Africa government outlines plan for COVID19 recovery",
             "subtitle": "South Africa government outlines stimulus for recovery from the effects of coronavirus",
             "datePublished": "Fri, 24 Apr 2020 19:46:00 +0000",
             "description": "The South Africa government has outlined a stimulus package to aid the country's recovery from the effects of coronavirus\n\nThe South African-Ghanaian entrepreneur helping light up Sierra Leone\n\nEast Africa face the combined threat of coronavirus and a second wave of locust swarms thought be 20 times bigger that the one which began last year",
-            "length": "13288000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08bfhsg.mp3"
+            "duration": "1661",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08bfhsg.mp3",
+            "slug": "BBC%253AAfrica%2520Today/South%20Africa%20government%20outlines%20plan%20for%20COVID19%20recovery"
         },
         {
             "title": "Thousands arrested in Morocco for Covid19 violations",
             "subtitle": "Thousands of people have been arrested in Morocco for violating coronavirus measures",
             "datePublished": "Thu, 23 Apr 2020 18:40:00 +0000",
             "description": "Police in Morocco have arrested more than fifty thousand people for violating coronavirus emergency measures\n\nAfrican nurses and doctors on how they are dealing with coronavirus on the frontline of the fight in Europe and the US.\n\nAnd Angelique Kidjo repurpose an old song to help spread the message on coronavirus",
-            "length": "9896000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08bb7nm.mp3"
+            "duration": "1237",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08bb7nm.mp3",
+            "slug": "BBC%253AAfrica%2520Today/Thousands%20arrested%20in%20Morocco%20for%20Covid19%20violations"
         },
         {
             "title": "Cameroon government admits military involvement in civilian deaths",
             "subtitle": "The Cameroonian government has admitted involvement of its military in civilian deaths",
             "datePublished": "Wed, 22 Apr 2020 19:30:00 +0000",
             "description": "The Cameroonian government has admitted the involvement of its military in the death of civilians last February\n\nHow the coronavirus pandemic has given the planet a lifeline \n\nKenya government hunts a group of people who escaped from a quarantine facility",
-            "length": "9208000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08b7582.mp3"
+            "duration": "1151",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08b7582.mp3",
+            "slug": "BBC%253AAfrica%2520Today/Cameroon%20government%20admits%20military%20involvement%20in%20civilian%20deaths"
         },
         {
             "title": "How a dip in global oil demand is affecting African countries",
             "subtitle": "A dip in oil demand around the world is having big effect on Africa's countries",
             "datePublished": "Tue, 21 Apr 2020 19:15:00 +0000",
             "description": "A dip in oil demand around the world is having big effect on Africa's countries big producers Nigeria and Angola.\n\nWe hear from a hand washing expert who is on a mission to save lives and she also has tips on how to keep clean even when there's no water. \n\nAnd a group of Kenyans question why they are being forced to stay in quarantine despite testing positive for coronavirus.",
-            "length": "9440000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08b3kmy.mp3"
+            "duration": "1180",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08b3kmy.mp3",
+            "slug": "BBC%253AAfrica%2520Today/How%20a%20dip%20in%20global%20oil%20demand%20is%20affecting%20African%20countries"
         },
         {
             "title": "Coronavirus in Africa: Your questions answered",
             "subtitle": "A special podcast where we put your coronavirus questions to the W.H.O.",
             "datePublished": "Mon, 30 Mar 2020 18:12:00 +0000",
             "description": "A special podcast where we put your questions about the coronavirus pandemic to the World Health Organisation",
-            "length": "15104000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08864b7.mp3"
+            "duration": "1888",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08864b7.mp3",
+            "slug": "BBC%253AAfrica%2520Today/Coronavirus%20in%20Africa%3A%20Your%20questions%20answered"
         },
         {
             "title": "Climate Change Strikes in Africa",
             "subtitle": "African children and activists protest the dangers of climate change around the world",
             "datePublished": "Fri, 20 Sep 2019 19:34:00 +0000",
             "description": "A world wide push to raise the alarm over climate change. And African children are actively involved in the demonstrations",
-            "length": "12512000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p07ny718.mp3"
+            "duration": "1564",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p07ny718.mp3",
+            "slug": "BBC%253AAfrica%2520Today/Climate%20Change%20Strikes%20in%20Africa"
         },
         {
             "title": "Detained Nigeria Shia leader to be freed to travel abroad for medical treatment",
             "subtitle": "Supporters of Ibrahim El-Zakzaky have staged weeks of protests to demand his release",
             "datePublished": "Mon, 05 Aug 2019 20:07:00 +0000",
             "description": "We explore the trials and tribulations of domestic workers in Africa; Dozens die in Libya drone attack; And the human breast milk bank newly opened in Nairobi.",
-            "length": "13336000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p07jvh8m.mp3"
+            "duration": "1667",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p07jvh8m.mp3",
+            "slug": "BBC%253AAfrica%2520Today/Detained%20Nigeria%20Shia%20leader%20to%20be%20freed%20to%20travel%20abroad%20for%20medical%20treatment"
         },
         {
             "title": "Ethiopia Airways crash latest.",
             "subtitle": "A day of mourning in Ethiopia following the Ethiopian Airlines crash.",
             "datePublished": "Mon, 11 Mar 2019 19:12:00 +0000",
             "description": "A day of mourning in Ethiopia following the Ethiopian Airlines crash.",
-            "length": "12648000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p07373nt.mp3"
+            "duration": "1581",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p07373nt.mp3",
+            "slug": "BBC%253AAfrica%2520Today/Ethiopia%20Airways%20crash%20latest."
         },
         {
             "title": "Jobs jobs jobs",
             "subtitle": "How can Africa create the millions of jobs needed for a growing population?",
             "datePublished": "Thu, 20 Dec 2018 12:50:00 +0000",
             "description": "The World Bank estimates that Africa's working age population could grow by as much as 450 million by 2035. So how can African countries create the millions of jobs needed to accommodate these people? This special episode of the Africa Today podcast hears from experts and innovators from across the continent.",
-            "length": "12816000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p06w5hhn.mp3"
+            "duration": "1602",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p06w5hhn.mp3",
+            "slug": "BBC%253AAfrica%2520Today/Jobs%20jobs%20jobs"
         },
         {
             "title": "Voter Registration Day in Nigeria",
             "subtitle": "Voter registration in Nigeria; Merkel in Nigeria; equality for South African Muslim women",
             "datePublished": "Fri, 31 Aug 2018 18:53:00 +0000",
             "description": "Thousands of frustrated Nigerians try to beat the voter registration deadline, but the electoral commission refuses any extension; first, Theresa May and now, the German Chancellor, Angela Merkel visits Nigeria... what's on her agenda?  Equality under the law for women married under Muslim rites in South Africa.",
-            "length": "8264000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p06jzqpm.mp3"
+            "duration": "1033",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p06jzqpm.mp3",
+            "slug": "BBC%253AAfrica%2520Today/Voter%20Registration%20Day%20in%20Nigeria"
         },
         {
             "title": "European Leaders Continue Charm Offensive in Africa",
             "subtitle": "European leaders set stalls in Africa; Nigerian security; Soweto; fishermen and condoms",
             "datePublished": "Thu, 30 Aug 2018 18:51:00 +0000",
             "description": "Two of Europe's most powerful leaders continue setting out their stalls in separate African visits - Kenya and Ghana state their wants; Nigeria's defence minister on his country's security crisis; Soweto in South Africa after the latest anti-immigrant attacks; and the fishermen staying safe at sea with the help of condoms.",
-            "length": "13728000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p06jvpdf.mp3"
+            "duration": "1716",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p06jvpdf.mp3",
+            "slug": "BBC%253AAfrica%2520Today/European%20Leaders%20Continue%20Charm%20Offensive%20in%20Africa"
         },
         {
             "title": "Europe's Leaders on a Charm Offensive in Africa",
             "subtitle": "Europe's leaders in Africa; Germany returns Namibian skulls; uproar over a TV ad in Kenya",
             "datePublished": "Wed, 29 Aug 2018 18:47:00 +0000",
             "description": "Europe's two leaders on multi-country Africa tours as evermore big world players woo the continent... we ask about the opportunities and risks for Africa; Germany hands back skulls of Namibians massacred more than a century ago; and an uproar over a TV condom advert in Kenya - what's so offensive about socks?",
-            "length": "12864000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p06js125.mp3"
+            "duration": "1608",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p06js125.mp3",
+            "slug": "BBC%253AAfrica%2520Today/Europe's%20Leaders%20on%20a%20Charm%20Offensive%20in%20Africa"
         },
         {
             "title": "Soldiers in Uganda Caught on Tape Assaulting a Journalist",
             "subtitle": "Ugandan soldiers assault journalist; a year of BBC Pidgin; Wenger gets award from Weah",
             "datePublished": "Tue, 21 Aug 2018 18:56:00 +0000",
             "description": "From Uganda, soldiers assaulting a journalist are caught on camera:  A police spokesman says the behaviour of the security forces will be investigated; Na waa oh!  We celebrate a year of BBC Pidgin; also, why is Arsene Wenger getting the Humane Order of African Redemption from Liberia?",
-            "length": "12128000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p06j2xyl.mp3"
+            "duration": "1516",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p06j2xyl.mp3",
+            "slug": "BBC%253AAfrica%2520Today/Soldiers%20in%20Uganda%20Caught%20on%20Tape%20Assaulting%20a%20Journalist"
         },
         {
             "title": "Zimbabwe Awaits Election Results",
             "subtitle": "Zimbabwe - Results expected; five banks merge in Ghana; Congolese opposition hopefuls",
             "datePublished": "Thu, 02 Aug 2018 19:42:00 +0000",
             "description": "Zimbabwe - presidential election results expected tonight; in Ghana, five banks are merged into one; and two strong Congolese opposition presidential hopefuls warming up for the presidential election in December.",
-            "length": "11736000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p06gdyfs.mp3"
+            "duration": "1467",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p06gdyfs.mp3",
+            "slug": "BBC%253AAfrica%2520Today/Zimbabwe%20Awaits%20Election%20Results"
         },
         {
             "title": "India to Open 18 New Embassies Accross Africa",
             "subtitle": "BRICS meeting in South Africa, Zimbabwe elections; Eritrea's changing political landscape",
             "datePublished": "Wed, 25 Jul 2018 18:37:00 +0000",
             "description": "Is New Delhi playing catch-up with Beijing? Zimbabwean women standing in landmark elections; will Eritrea's political landscape change now that the war with Ethiopia is truly over?",
-            "length": "14144000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p06fq5m3.mp3"
+            "duration": "1768",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p06fq5m3.mp3",
+            "slug": "BBC%253AAfrica%2520Today/India%20to%20Open%2018%20New%20Embassies%20Accross%20Africa"
         },
         {
             "title": "Military Chiefs Escape Attack in Cameroon",
             "subtitle": "Cameroon's military brass escape attack; UN embargo on South Sudan; Bio, 100 days",
             "datePublished": "Fri, 13 Jul 2018 18:41:00 +0000",
             "description": "Cameroon's defence minister and army chief escape an attack by Anglophone insurgents; after five years of civil war, the UN imposes an arms embargo on South Sudan, the same day women march for peace in Juba; and Sierra Leone:  100 days of President Bio - the pluses and minuses.",
-            "length": "11616000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p06dpl85.mp3"
+            "duration": "1452",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p06dpl85.mp3",
+            "slug": "BBC%253AAfrica%2520Today/Military%20Chiefs%20Escape%20Attack%20in%20Cameroon"
         },
         {
             "title": "Kenyan Lawmakers' Taxpayer-Funded Visit to Russia",
             "subtitle": "Kenyan lawmakers in Russia; the long shadow of Ebola; the multicultural roots of the ZCC",
             "datePublished": "Thu, 12 Jul 2018 19:10:00 +0000",
             "description": "Kenyans wondering why twenty lawmakers went to Russia during the World Cup on the taxpayers' dime; a new study shows just how long a shadow Ebola cast on those who survived it; the multicultural roots of the ZCC; The Gambia's healthcare crisis.",
-            "length": "17248000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p06dldlb.mp3"
+            "duration": "2156",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p06dldlb.mp3",
+            "slug": "BBC%253AAfrica%2520Today/Kenyan%20Lawmakers'%20Taxpayer-Funded%20Visit%20to%20Russia"
         },
         {
             "title": "EU Leaders Agree Deal on Migration",
             "subtitle": "EU leaders' agreement on migration; Ghana's electoral boss sacked; Resident Presidents",
             "datePublished": "Fri, 29 Jun 2018 18:31:00 +0000",
             "description": "After nine hours of talks, European Union leaders agree a deal of sorts on migration; Ghana's electoral commission boss, Charlotte Osei, sacked, the information minister tells us why; Gambia's Adama Barrow's major reshuffle; and the Resident Presidents on the merits or not of a lie detector.",
-            "length": "12968000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p06cgbs8.mp3"
+            "duration": "1621",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p06cgbs8.mp3",
+            "slug": "BBC%253AAfrica%2520Today/EU%20Leaders%20Agree%20Deal%20on%20Migration"
         },
         {
             "title": "Ghana Imposes Ban on Tilapia Fish Imports",
             "subtitle": "Why has Ghana banned tilapia imports? Ebola in the DRC; deadly fire in Nairob",
             "datePublished": "Thu, 28 Jun 2018 18:47:00 +0000",
             "description": "Why has Ghana slapped a ban on all imports of tilapia?  The Ebola outbreak in the DRC could be over but the WHO remains cautious; families continuing to try and find missing relatives after a deadly fire in Nairobi; and LGBTQ Pride celebrations in Swaziland.",
-            "length": "14728000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p06cbpjy.mp3"
+            "duration": "1841",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p06cbpjy.mp3",
+            "slug": "BBC%253AAfrica%2520Today/Ghana%20Imposes%20Ban%20on%20Tilapia%20Fish%20Imports"
         },
         {
             "title": "South Sudan's Leaders Meet",
             "subtitle": "South Sudan talks in Addis; Eritrea and Ethiopia's peace overtures; Tunisia law reforms",
             "datePublished": "Wed, 20 Jun 2018 18:43:00 +0000",
             "description": "South Sudan's warring leaders hold talks in Addis Ababa; Eritrea and Ethiopia's peace overtures; law reforms in Tunisia; and the government of The Gambia responds to the killings of demonstrators in Faraba.",
-            "length": "13808000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p06bnn4j.mp3"
+            "duration": "1726",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p06bnn4j.mp3",
+            "slug": "BBC%253AAfrica%2520Today/South%20Sudan's%20Leaders%20Meet"
         },
         {
             "title": "The WHO Lists Snake-bites as a Global Health Priority",
             "subtitle": "Snake-bites a WHO priority; Dutch company claims Teff ownership; Kassé Mady Diabaté",
             "datePublished": "Fri, 25 May 2018 20:03:00 +0000",
             "description": "The World Health Organisation says snake-bites are a global health priority; why is a Dutch company claiming ownership of Teff - an Ethiopian staple? Remembering the Malian music maestro, Kassé Mady Diabaté, who died last night.",
-            "length": "10984000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0688l3z.mp3"
+            "duration": "1373",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0688l3z.mp3",
+            "slug": "BBC%253AAfrica%2520Today/The%20WHO%20Lists%20Snake-bites%20as%20a%20Global%20Health%20Priority"
         },
         {
             "title": "Dam Burst in Kenya Kills Tens",
             "subtitle": "Hundreds homeless in Nakuru where dam bursts; a shortage of HIV medication in Liberia",
             "datePublished": "Thu, 10 May 2018 18:31:00 +0000",
             "description": "A burst dam in Kenya kills 47 people; a shortage of HIV medication in Liberia; Ethiopia orders closure of a mine after protests; the prospects for the Gambia's capital as the city votes for a new mayor.",
-            "length": "13360000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p066th78.mp3"
+            "duration": "1670",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p066th78.mp3",
+            "slug": "BBC%253AAfrica%2520Today/Dam%20Burst%20in%20Kenya%20Kills%20Tens"
         },
         {
             "title": "Fire Rages in Nairobi Suburb",
             "subtitle": "Thousands left homeless after fire in Lang'ata suburb in Nairobi",
             "datePublished": "Mon, 29 Jan 2018 19:25:00 +0000",
             "description": "Thousands left homeless after fire in Lang'ata suburb in Nairobi.\n\n\n\nAlso in the programme:  The UK High Court to sit in Sierra Leone to hear allegations of human rights abuses by a mining company; and antibiotic-resistant germs, could onions be the answer?",
-            "length": "13240000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p05wh91n.mp3"
+            "duration": "1655",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p05wh91n.mp3",
+            "slug": "BBC%253AAfrica%2520Today/Fire%20Rages%20in%20Nairobi%20Suburb"
         },
         {
             "title": "African Migrants Told To Leave Israel",
             "subtitle": "Israeli government orders 34,000 African migrants to leave or face imprisonment.",
             "datePublished": "Tue, 02 Jan 2018 19:16:00 +0000",
             "description": "Israel gives African migrants three months to leave the country voluntarily or face forcible repatriation or indefinite jail terms. The daily life of a female Zambian UN peacekeeper in the Central African Republic. The Grand Mufti of Egypt proscribes the crypto currency, bitcoin. And exciting new music coming out of Africa in 2018 with DJ Rita Ray.",
-            "length": "12344000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p05skkw4.mp3"
+            "duration": "1543",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p05skkw4.mp3",
+            "slug": "BBC%253AAfrica%2520Today/African%20Migrants%20Told%20To%20Leave%20Israel"
         },
         {
             "title": "Kenya Election Watch: Former Chief Justice Willy Mutunga",
             "subtitle": "Dickens Olewe wraps up our special podcast series with a rare interview",
             "datePublished": "Tue, 26 Dec 2017 03:00:00 +0000",
             "description": "In the last of our special podcast series about Kenya's elections this year, Dickens Olewe covers the twists and turns of the process in a rare interview with former Chief Justice Willy Mutunga. He explained his view that a new political party is needed to take the place of the current political elite, and why he would like to chair a commission of inquiry into alleged police brutality.",
-            "length": "14376000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p05rk4x3.mp3"
+            "duration": "1797",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p05rk4x3.mp3",
+            "slug": "BBC%253AAfrica%2520Today/Kenya%20Election%20Watch%3A%20Former%20Chief%20Justice%20Willy%20Mutunga"
         },
         {
             "title": "Chibok Girls: Three years after",
             "subtitle": "Almost two hundred students are still being held by Boko Haram.",
             "datePublished": "Thu, 13 Apr 2017 18:29:00 +0000",
             "description": "Britain's top diplomat to Nigeria on the three-year long search for the Chibok girls; More than ninety migrants feared drowned after their boat sank off the coast of Libya; Eighty thousand teenagers in danger of missing out on school in Burundi.",
-            "length": "15704000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p05012v5.mp3"
+            "duration": "1963",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p05012v5.mp3",
+            "slug": "BBC%253AAfrica%2520Today/Chibok%20Girls%3A%20Three%20years%20after"
         },
         {
             "title": "Wednesday, 17th August 2016",
             "subtitle": "South Sudan's new Vice President Taban Deng Gai addresses key issues in the country",
             "datePublished": "Wed, 17 Aug 2016 18:30:00 +0000",
             "description": "The new South Sudanese Vice President addresses key issues in the country and what political alliances will emerge in South Africa after recent municipal elections?",
-            "length": "9248000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0450dpr.mp3"
+            "duration": "1156",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0450dpr.mp3",
+            "slug": "BBC%253AAfrica%2520Today/Wednesday%2C%2017th%20August%202016"
         },
         {
             "title": "Wednesday, 10th August 2016",
             "subtitle": "Ahead of tomorrow's elections Zambian civil society groups call for a free and fair vote",
             "datePublished": "Wed, 10 Aug 2016 19:09:00 +0000",
             "description": "Ahead of tomorrow's elections Zambian civil society groups call for a free and fair vote. Burkina Faso bans donkey meat and skin exports following huge demand from China.",
-            "length": "15888000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0448k8r.mp3"
+            "duration": "1986",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p0448k8r.mp3",
+            "slug": "BBC%253AAfrica%2520Today/Wednesday%2C%2010th%20August%202016"
         },
         {
             "title": "Wednesday, 3rd August 2016",
             "subtitle": "Running battles in Zimbabwe; local elections in South Africa; Malian music sensation.",
             "datePublished": "Wed, 03 Aug 2016 18:25:00 +0000",
             "description": "Running battles in Zimbabwe's capital, Harare, between police and anti-government demonstrators.  Local elections in South Africa - a major test for the ruling ANC.  Malian music sensation, Modja... plus more.",
-            "length": "14408000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p043jbyj.mp3"
+            "duration": "1801",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p043jbyj.mp3",
+            "slug": "BBC%253AAfrica%2520Today/Wednesday%2C%203rd%20August%202016"
         },
         {
             "title": "Monday, 18th July 2016",
             "subtitle": "HIV infections still the leading killer of African children aged 10 to 19.",
             "datePublished": "Mon, 18 Jul 2016 18:51:00 +0000",
             "description": "HIV infections are still the leading killer of African children. And old attitudes to the virus still prevail; the AU postpones elections for a new chairman, so what happens next? And Africa's first Spelling Bee competition.",
-            "length": "14528000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p041wncn.mp3"
+            "duration": "1816",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p041wncn.mp3",
+            "slug": "BBC%253AAfrica%2520Today/Monday%2C%2018th%20July%202016"
         },
         {
             "title": "Tuesday 14th June",
             "subtitle": "Health experts warn of very serious levels of under-nutrition linked to obesity.",
             "datePublished": "Tue, 14 Jun 2016 18:57:00 +0000",
             "description": "Health experts warn of serious levels of under-nutrition linked to obesity. In South Africa, Reeva Steenkamp's father says her killer, Oscar Pistorius, must pay for his crime",
-            "length": "15056000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p03yc621.mp3"
+            "duration": "1882",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p03yc621.mp3",
+            "slug": "BBC%253AAfrica%2520Today/Tuesday%2014th%20June"
         },
         {
             "title": "Wednesday, 25th May 2016",
             "subtitle": "UN warns billions could starve as extreme weather changes poison food crops",
             "datePublished": "Wed, 25 May 2016 19:31:00 +0000",
             "description": "UN warns billions could starve as extreme weather changes poison food crops. 1000s of Zimbabweans march  in support of Robert Mugabe to thwart party infighting.",
-            "length": "11664000",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p03w8g8v.mp3"
+            "duration": "1458",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p03w8g8v.mp3",
+            "slug": "BBC%253AAfrica%2520Today/Wednesday%2C%2025th%20May%202016"
         }
     ]
 }

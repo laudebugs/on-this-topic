@@ -13,7 +13,7 @@ export default function Podcast({ podImage, episodes }) {
   }, []);
   function printEpisodes() {
     return eps.map((ep) => (
-      <PodElement key={ep.enclosure.url} image={podImage} episode={ep} />
+      <PodElement key={ep.sourceUrl} image={podImage} episode={ep} />
     ));
   }
 

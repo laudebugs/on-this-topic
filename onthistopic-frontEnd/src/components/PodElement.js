@@ -4,7 +4,7 @@ import { connect } from "react-redux";
 import { playEpisode } from "./actions";
 import { playPause } from "./thunks";
 import { getPlayer } from "./selectors";
-
+import { Link } from "react-router-dom";
 // import Helper Functions
 const HelperFuncs = require("./HelperFuncs");
 
@@ -77,15 +77,16 @@ export default connect(
       setIcon(Play);
     }
   }, [player, episode]);
-
   return (
     <div className="episode">
       {icon}
       <div>
-        <h4>{episode.title}</h4>
+        <Link to={`${episode.slug}`}>
+          <h4>{episode.title}</h4>
+        </Link>
         <p>
-          {episode.pubDate.slice(0, 17)} |{" "}
-          {HelperFuncs.toHrsMins(episode.itunes.duration)}
+          {episode.datePublished.substring(0, 16)} |{" "}
+          {HelperFuncs.toHrsMins(episode.duration)}
         </p>
       </div>
     </div>

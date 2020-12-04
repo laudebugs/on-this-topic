@@ -10,7 +10,7 @@ let populateEpisodes = (podcasts) => {
     } catch (error) {
       console.log(error);
     }
-    console.log(feed);
+    console.log(feed.title);
     let thisPod = {
       title: feed.title,
       publisher: feed["itunes"]["owner"]["name"],
@@ -20,26 +20,36 @@ let populateEpisodes = (podcasts) => {
       shortDescription: feed["itunes"]["subtitle"],
       categories: feed["itunes"]["categories"],
       image: feed["itunes"]["image"],
+      slug: `${encodeURIComponent(
+        feed["itunes"]["owner"]["name"] + ":" + feed.title
+      )}`,
+      lastUpdate: feed["lastBuildDate"],
     };
     // Populate episodes
     thisPod["episodes"] = [];
     feed.items.map((item) => {
       // For each podcast, initialize a list of episodes
+      if (item["enclosure"]["length"] === null) {
+        console.log(thisPod);
+      }
       let episode = {
         title: item["title"],
         subtitle: item["itunes"]["subtitle"],
         image: item["itunes"]["image"],
         datePublished: item["pubDate"],
         description: item["content"],
-        length: item["enclosure"]["length"],
+        duration: item["itunes"]["duration"],
         sourceUrl: item["enclosure"]["url"],
         snNo: item["itunes"]["season"],
         epNo: item["itunes"]["episode"],
+        slug: `${encodeURIComponent(thisPod.slug)}/${encodeURIComponent(
+          item["title"]
+        )}`,
       };
       thisPod["episodes"].push(episode);
     });
     const data = JSON.stringify(thisPod, null, 4);
-    fs.writeFileSync(`podcastData/${feed.title}.json`, data, (err) => {
+    fs.writeFileSync(`../podcastData/${feed.title}.json`, data, (err) => {
       if (err) {
         console.log("error writing to file");
       } else console.log("data is saved");
@@ -55,7 +65,7 @@ let populateEpisodes = (podcasts) => {
     });
 };
 
-const filename = "scripts/bestPodsRss.txt";
+const filename = "bestPodsRss.txt";
 
 var fs = require("fs");
 let content = fs.readFileSync(filename, "utf8");

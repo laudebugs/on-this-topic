@@ -45,6 +45,9 @@ const HelperFunctions = {
     if (!(time + "").includes(":")) {
       time = this.niceTime2(time);
     }
+    if (time.split(":").length === 2) {
+      time = "00:" + time;
+    }
     let TimeArr = time.split(":");
     let hrs = Number(TimeArr[0]);
     let timeStr = "";
@@ -54,7 +57,7 @@ const HelperFunctions = {
     }
     let mins = Number(TimeArr[1]);
     if (mins > 0) {
-      timeStr += "  " + mins + " mins";
+      timeStr += "  " + mins + " min";
       if (hrs > 1) timeStr += "s";
     }
     return timeStr;

@@ -3,9 +3,15 @@ import * as React from "react";
 export default function Like({ like }) {
   let fill = { fill: "none" };
   if (like) fill.fill = "#050a30";
+
   return (
     <div className="icon like">
-      <svg viewBox="0 0 375 375">
+      <svg
+        onClick={() => {
+          console.log("trynna like");
+        }}
+        viewBox="0 0 375 375"
+      >
         <g id="like">
           <path
             style={fill}

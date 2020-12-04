@@ -8,6 +8,8 @@ import AllPodcasts from "./pages/AllPodcasts";
 import AllPeople from "./pages/AllPeople";
 import AllLocations from "./pages/AllLocations";
 import Podcast from "./pages/Podcast";
+// import Episode from "./pages/Episode";
+
 import Location from "./pages/Location";
 import Person from "./pages/Person";
 
@@ -46,6 +48,7 @@ const App = ({ beginStatusUpdate }) => {
           <Route path="/" component={HomePage} exact />
           <Route path="/podcasts" component={AllPodcasts} exact />
           <Route path="/podcast/:slug" component={Podcast} exact />
+          {/* <Route path="/podcast/:slug/:ep" component={Episode} exact /> */}
           <Route path="/locations" component={AllLocations} exact />
           <Route path="/locations/:location" component={Location} exact />
           <Route path="/people" component={AllPeople} exact />

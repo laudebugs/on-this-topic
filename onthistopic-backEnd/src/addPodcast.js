@@ -16,6 +16,9 @@ const dbFuncs = {
         image: pod["itunes"]["image"],
         description: pod["description"],
         categories: pod["itunes"]["categories"],
+        slug: encodeURIComponent(
+          `${pod["itunes"]["owner"]["name"]}:${pod.title}`
+        ),
       })
     ).then(console.log("saved POD"));
     pod["items"].map((ep) => {
@@ -30,6 +33,7 @@ const dbFuncs = {
         comments: [],
         people: [],
         locations: [],
+        slug: encodeURIComponent(`${thisEp.title}`),
       });
       newEp.save((err) => {
         if (err) console.log(err);

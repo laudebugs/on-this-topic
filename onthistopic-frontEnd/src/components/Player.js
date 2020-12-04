@@ -81,11 +81,12 @@ export default connect(
       var goToPct =
         (e.offsetX - $(document).width() * 0.48 * 0.03) /
         ($(document).width() * 0.48 * 0.95);
-      if (audioelement !== undefined)
+      if (audioelement !== undefined) {
         var goTo = goToPct * audioelement.duration;
-      // set the current time to the percentage of XValue/page width
-      audioelement.currentTime = goTo;
-      setPctPlayed(audioelement.currentTime / audioelement.duration);
+        // set the current time to the percentage of XValue/page width
+        audioelement.currentTime = goTo;
+        setPctPlayed(audioelement.currentTime / audioelement.duration);
+      }
     });
 
     /**
@@ -224,7 +225,7 @@ export default connect(
         {volumeBar}
         <div className="player">
           <ReactAudioPlayer
-            src={playThis.enclosure.url}
+            src={playThis.sourceUrl}
             autoPlay={false}
             className="audioHere"
             volume="1"

@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-require("./db");
+require("./lib/db");
 const Podcast = mongoose.model("Podcast");
 const Episode = mongoose.model("Episode");
 
@@ -18,6 +18,7 @@ podData.map((pod) => {
       image: pod.image,
       description: pod.description,
       categories: pod.categories,
+      slug: pod.slug,
     })
   ).then(console.log("saved POD"));
   pod["episodes"].map((ep) => {
@@ -26,8 +27,9 @@ podData.map((pod) => {
       title: thisEp.title,
       datePublished: thisEp.datePublished,
       description: thisEp.description,
-      length: thisEp.length,
+      duration: thisEp.duration,
       sourceUrl: thisEp.sourceUrl,
+      slug: thisEp.slug,
       likes: [],
       comments: [],
       people: [],
