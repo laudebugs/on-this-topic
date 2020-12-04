@@ -3,6 +3,10 @@ import { Link } from "react-router-dom";
 import Menu from "./icons/Menu";
 import $ from "jquery";
 const Header = () => {
+  // request options
+  const options = {
+    method: "POST",
+  };
   return (
     <div className="header">
       <div className="siteIcon">
@@ -22,7 +26,16 @@ const Header = () => {
         </div>
       </Link>
       <div className="userIcon">
-        Z u a <span>&#91;</span>
+        <span className="btn">Z</span> <span className="btn">u</span>{" "}
+        <span className="btn">a</span>{" "}
+        <span
+          className="btn usr"
+          onClick={() => {
+            fetch("/signout", options);
+          }}
+        >
+          &#91;
+        </span>
       </div>
     </div>
   );

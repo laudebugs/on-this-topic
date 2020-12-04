@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { BrowserRouter, Switch, Route } from "react-router-dom";
 import "./css/App.css";
 
@@ -21,10 +21,22 @@ import YourPodcasts from "./pages/YourPodcasts";
 
 import SignIn from "./pages/SignIn";
 import SignUp from "./pages/SignUp";
+import Account from "./pages/Account";
+
 import Player from "./components/Player";
 import SideMenu from "./components/SideMenu";
 import Header from "./components/Header";
+
+async function getStatus() {
+  let result = await fetch("/loginstatus", { credentials: "include" });
+  const status = await result.json;
+  return status.status;
+}
 const App = () => {
+  useEffect(() => {
+    getStatus().then((res) => console.log(res));
+  }, []);
+
   return (
     <div>
       <BrowserRouter>
@@ -46,7 +58,7 @@ const App = () => {
           <Route path="/editorschoice" component={EditorsChoice} exact />
           <Route path="/foryou" component={ForYou} exact />
           <Route path="/yourpodcasts" component={YourPodcasts} exact />
-
+          <Route path="/account" component={Account} exact />
           <Route path="/signin" component={SignIn} exact />
           <Route path="/signup" component={SignUp} exact />
         </Switch>

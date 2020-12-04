@@ -20,6 +20,7 @@ function redirectIfSignedIn(req, res, next) {
   if (req.user) res.redirect("/account");
   return next;
 }
+
 app.use(express.static(publicPath));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded());
@@ -56,6 +57,16 @@ const Comment = mongoose.model("Comment");
 const Topic = mongoose.model("Topic");
 const Location = mongoose.model("Location");
 
+app.get("/loginstatus", (req, res) => {
+  if (req.user) {
+    console.log(true);
+    res.json({ status: true });
+  } else {
+    console.log(false);
+    res.json({ status: false });
+  }
+});
+
 app.post("/signup", async (req, res, next) => {
   console.log(req.body);
   try {
@@ -74,16 +85,21 @@ app.post("/signup", async (req, res, next) => {
   }
 });
 
-app.get("/signinuser", redirectIfSignedIn, (req, res) => {
+app.get("/signin", redirectIfSignedIn, (req, res) => {
+  console.log("at signing in");
   res.json({ ready: true });
 });
-app.get("/signupuser", redirectIfSignedIn, (req, res) => {
+app.get("/signup", redirectIfSignedIn, (req, res) => {
   res.json({ ready: true });
 });
-app.get("/account", (req, res, next) => {
-  if (req.user) return next();
-  return res.redirect("/signin");
-});
+// app.get("/oaccount", (req, res, next) => {
+//   if (req.user) {
+//     console.log("here");
+//     console.log(req.user);
+//     return next();
+//   }
+//   return res.redirect("/signin");
+// });
 
 app.post(
   "/signin",
@@ -94,6 +110,7 @@ app.post(
 );
 
 app.post("/signout", (req, res) => {
+  console.log("signing out");
   req.logOut();
   return res.redirect("/");
 });

@@ -209,13 +209,22 @@ div.userIcon {
   text-align: right;
   letter-spacing: 12px;
 }
-.userIcon span {
-  background-color: #a6a6a6;
+.btn {
   border-radius: 50%;
   width: 100px;
+}
+.btn:hover {
+  cursor: pointer;
+}
+.usr {
+  background-color: #a6a6a6;
+
   text-align: center;
   letter-spacing: 8px;
   padding-left: 2%;
+}
+.btn:active {
+  background-color: #8fcbdb;
 }
 
 /* Menu bar

@@ -63,7 +63,6 @@ User.pre("save", async function preSave(next) {
   }
 });
 User.methods.comparePassword = async function comparePassword(candidate) {
-  console.log("comparing password");
   return bcrypt.compare(candidate, this.password);
 };
 const Podcast = new Schema(
