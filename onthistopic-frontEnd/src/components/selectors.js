@@ -7,3 +7,5 @@ export const getIsLoading = (state) => state.isLoading;
 export const getPodcasts = (state) => state.podcasts;
 export const getPausePlay = (state) => state.player.pause;
 export const getVolume = (state) => state.player.volume;
+export const getLoggedInStatus = (state) => state.user.loggedIn;
+export const getLoggInLoading = (state) => state.user.statusUpdated;

@@ -4,7 +4,6 @@
 import {
   PLAY_EPISODE,
   STOP_PLAY,
-  // PAUSE_PLAY,
   LOAD_PODCASTS_IN_PROGRESS,
   LOAD_PODCASTS_SUCCESS,
   LOAD_PODCASTS_FAILURE,
@@ -15,6 +14,9 @@ import {
   PLAY_SUCCESS,
   PLAY_FAILURE,
   SET_VOLUME,
+  STATUS_FAILURE,
+  STATUS_IN_PROGRESS,
+  STATUS_SUCCESS,
 } from "./actions";
 const initialState = {
   isLoading: false,
@@ -28,6 +30,7 @@ const initialState = {
     switching: false,
     volume: 1,
   },
+  user: { loggedIn: false, statusUpdated: true },
 };
 
 // A single podcast with episodes
@@ -124,28 +127,29 @@ export const player = (state = initialState, action) => {
       };
   }
 };
-// export const pausePlay = (state = initialState, action) => {
-//   const { type, payload } = action;
-//   switch (type) {
-//     case PLAY_SUCCESS:
-//       const { pause } = payload;
-//       return {
-//         ...state,
-//         player: { ...state.player, switching: false, pause: pause },
-//       };
-//     case PLAY_IN_PROGRESS:
-//       return {
-//         ...state,
-//         player: { ...state.player, switching: true },
-//       };
-//     case PLAY_FAILURE:
-//       return {
-//         ...state,
-//         player: { ...state.player, switching: false },
-//       };
-//     default:
-//       return {
-//         ...state,
-//       };
-//   }
-// };
+
+export const user = (state = initialState, action) => {
+  const { type, payload } = action;
+  switch (type) {
+    case STATUS_IN_PROGRESS:
+      return {
+        ...state,
+        user: { ...state.user, statusUpdated: false },
+      };
+    case STATUS_FAILURE:
+      return {
+        ...state,
+        user: { ...state.user, statusUpdated: true },
+      };
+    case STATUS_SUCCESS:
+      const { status } = payload;
+      return {
+        ...state,
+        user: { ...state.user, loggedIn: status, statusUpdated: true },
+      };
+    default:
+      return {
+        ...state,
+      };
+  }
+};

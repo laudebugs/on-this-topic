@@ -27,14 +27,14 @@ import Player from "./components/Player";
 import SideMenu from "./components/SideMenu";
 import Header from "./components/Header";
 
-async function getStatus() {
-  let result = await fetch("/loginstatus", { credentials: "include" });
-  const status = await result.json;
-  return status.status;
-}
-const App = () => {
+import { connect } from "react-redux";
+import { getStatus } from "./components/thunks";
+import { getLoggedInStatus } from "./components/selectors";
+// Find a way to get this into the redux store
+
+const App = ({ beginStatusUpdate }) => {
   useEffect(() => {
-    getStatus().then((res) => console.log(res));
+    beginStatusUpdate();
   }, []);
 
   return (
@@ -68,5 +68,13 @@ const App = () => {
     </div>
   );
 };
+const mapStateToProps = (state) => ({
+  // Find a way to filter this podcast from others that have been loaded
+  isLoggedIn: getLoggedInStatus(state),
+});
 
-export default App;
+const mapDispatchToProps = (dispatch) => ({
+  beginStatusUpdate: () => dispatch(getStatus()),
+});
+
+export default connect(mapStateToProps, mapDispatchToProps)(App);

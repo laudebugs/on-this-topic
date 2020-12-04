@@ -8,6 +8,9 @@ import {
   playInProgress,
   playSuccess,
   playFailure,
+  statusInProgress,
+  statusSuccess,
+  statusFailure,
 } from "./actions";
 import $ from "jquery";
 
@@ -64,5 +67,17 @@ export const playPause = () => async (dispatch, getState) => {
   } catch (error) {
     console.log(error);
     dispatch(playFailure());
+  }
+};
+
+export const getStatus = () => async (dispatch, getState) => {
+  try {
+    dispatch(statusInProgress());
+    let result = await fetch("/loginstatus", { credentials: "include" });
+    const status = await result.json();
+    console.log(status);
+    dispatch(statusSuccess(status.status));
+  } catch (error) {
+    dispatch(statusFailure());
   }
 };

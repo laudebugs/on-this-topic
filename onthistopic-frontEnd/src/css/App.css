@@ -184,7 +184,7 @@ div.header {
   top: 0; */
 }
 div.siteIcon {
-  width: 20%;
+  width: 15%;
   display: inline-block;
   text-align: left;
 }
@@ -195,12 +195,12 @@ div.siteTtl {
   font-family: "Sunborn";
   font-size: 200%;
   text-align: center;
-  width: 60%;
+  width: 70%;
   display: inline-block;
   color: #050a30;
 }
-div.userIcon {
-  width: 20%;
+div.accountIcons {
+  width: 15%;
   display: inline-block;
   text-align: center;
   font-family: "Whirly Bats";
@@ -209,22 +209,51 @@ div.userIcon {
   text-align: right;
   letter-spacing: 12px;
 }
-.btn {
+div.accountIcons div {
+  width: 20%;
+  display: inline-block;
+  /* margin: 0 3% 0 4%; */
+  padding: 0 2.5% 0 2.5%;
   border-radius: 50%;
-  width: 100px;
+  text-align: center;
+  vertical-align: text-top;
 }
-.btn:hover {
+div.accountIcons div svg text {
+  font-size: 300px;
+  fill: #050a30;
+}
+div.accountIcons div:hover {
   cursor: pointer;
 }
-.usr {
-  background-color: #a6a6a6;
-
-  text-align: center;
-  letter-spacing: 8px;
-  padding-left: 2%;
+div.accountIcons div svg text:hover:not(.usr) {
+  fill: #0292b7;
 }
-.btn:active {
+.usr circle {
+  fill: #a6a6a6;
+}
+.usr text:hover {
+  fill: #0292b7;
+}
+/* User Menu*/
+div.userMenu {
+  position: fixed;
+  right: 2.5%;
+  font-family: "Woodland Light";
+  font-size: 175%;
+  font-weight: 550;
+  line-height: 200%;
+  width: 250px;
+  text-align: center;
+  /* border: 50px; */
+  top: 100px;
+  position: fixed;
   background-color: #8fcbdb;
+  border-radius: 10px;
+  display: none;
+}
+div.userMenu p:hover {
+  text-shadow: #a6a6a6 2px 2px 2px;
+  cursor: pointer;
 }
 
 /* Menu bar
@@ -311,6 +340,11 @@ div.icon > svg {
   fill-rule: nonzero;
   fill: #050a30;
   fill-opacity: 1;
+}
+#like {
+  stroke: #050a30;
+  stroke-width: 12px;
+  fill: none;
 }
 #conversation {
   stroke: #050a30;

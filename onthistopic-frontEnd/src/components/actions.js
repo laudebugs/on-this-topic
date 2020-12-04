@@ -57,3 +57,19 @@ export const LOAD_PODCAST_EPISODES_FAILURE = "LOAD_PODCAST_EPISODES_FAILURE";
 export const loadPodcastEpisodesFailure = () => ({
   type: LOAD_PODCAST_EPISODES_FAILURE,
 });
+
+export const STATUS_IN_PROGRESS = "STATUS_IN_PROGRESS";
+export const statusInProgress = () => ({
+  type: STATUS_IN_PROGRESS,
+});
+
+export const STATUS_SUCCESS = "STATUS_SUCCESS";
+export const statusSuccess = (status) => ({
+  type: STATUS_SUCCESS,
+  payload: { status },
+});
+
+export const STATUS_FAILURE = "STATUS_FAILURE";
+export const statusFailure = () => ({
+  type: STATUS_FAILURE,
+});

@@ -8,6 +8,7 @@ import { loadPodcastEpisodes } from "../components/thunks";
 import Header from "../components/Header";
 import PodEpisodes from "../components/PodEpisodes";
 import { getPodcast, getIsLoadingPod } from "../components/selectors";
+
 const Podcast = ({ podcast, isLoadingPod, startLoadingPodcastEpisodes }) => {
   let { slug } = useParams();
   useEffect(() => {
