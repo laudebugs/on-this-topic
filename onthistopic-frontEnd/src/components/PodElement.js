@@ -81,7 +81,7 @@ export default connect(
     <div className="episode">
       {icon}
       <div>
-        <Link to={`${episode.slug}`}>
+        <Link to={`/podcast/episode/${episode.slug}`}>
           <h4>{episode.title}</h4>
         </Link>
         <p>

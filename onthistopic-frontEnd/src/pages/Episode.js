@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
 import $ from "jquery";
+import * as QueryString from "query-string";
 
 import { connect } from "react-redux";
 import { loadEpisode } from "../components/thunks";
@@ -10,9 +11,13 @@ import PodEpisodes from "../components/PodEpisodes";
 import { getEpisode, getIsLoadingEpisode } from "../components/selectors";
 
 const Episode = ({ episode, isLoadingEpisode, startLoadingEpisode }) => {
+  const params = QueryString.parse(window.location.search);
+  console.log(params.episode);
   let { slug } = useParams();
   useEffect(() => {
-    startLoadingEpisode(slug);
+    startLoadingEpisode(
+      `${slug}?episode=${encodeURIComponent(params.episode)}`
+    );
   }, []);
   function parsethisHtml(this_html) {
     var element;

@@ -1,5 +1,5 @@
 let Parser = require("rss-parser");
-
+let uniqueSlug = require("unique-slug");
 let parser = new Parser();
 let populateEpisodes = (podcasts) => {
   console.log("pods: " + podcasts.length);
@@ -10,7 +10,7 @@ let populateEpisodes = (podcasts) => {
     } catch (error) {
       console.log(error);
     }
-    console.log(feed.title);
+    console.log(uniqueSlug(feed.title));
     let thisPod = {
       title: feed.title,
       publisher: feed["itunes"]["owner"]["name"],
@@ -30,7 +30,7 @@ let populateEpisodes = (podcasts) => {
     feed.items.map((item) => {
       // For each podcast, initialize a list of episodes
       if (item["enclosure"]["length"] === null) {
-        console.log(thisPod);
+        // console.log(thisPod);
       }
       let episode = {
         title: item["title"],
@@ -42,7 +42,7 @@ let populateEpisodes = (podcasts) => {
         sourceUrl: item["enclosure"]["url"],
         snNo: item["itunes"]["season"],
         epNo: item["itunes"]["episode"],
-        slug: `${encodeURIComponent(thisPod.slug)}/${encodeURIComponent(
+        slug: `${encodeURIComponent(thisPod.slug)}?episode=${encodeURIComponent(
           item["title"]
         )}`,
       };

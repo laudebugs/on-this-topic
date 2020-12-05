@@ -18,7 +18,7 @@
             "duration": "00:44:48",
             "sourceUrl": "https://cbc.mc.tritondigital.com/CBC_THESHADOWS_P/media/theshadows-lvL6JcCe-20180924.mp3",
             "epNo": "1",
-            "slug": "CBC%253AThe%2520Shadows/Episode%201%3A%20Romantic"
+            "slug": "CBC%253AThe%2520Shadows?episode=Episode%201%3A%20Romantic"
         },
         {
             "title": "Episode 2: Realist",
@@ -28,7 +28,7 @@
             "duration": "00:36:34",
             "sourceUrl": "https://cbc.mc.tritondigital.com/CBC_THESHADOWS_P/media/theshadows-1IuI90th-20180924.mp3",
             "epNo": "2",
-            "slug": "CBC%253AThe%2520Shadows/Episode%202%3A%20Realist"
+            "slug": "CBC%253AThe%2520Shadows?episode=Episode%202%3A%20Realist"
         },
         {
             "title": "Episode 3: Sweater",
@@ -38,7 +38,7 @@
             "duration": "00:32:07",
             "sourceUrl": "https://cbc.mc.tritondigital.com/CBC_THESHADOWS_P/media/theshadows-8C1Jy0ij-20180924.mp3",
             "epNo": "3",
-            "slug": "CBC%253AThe%2520Shadows/Episode%203%3A%20Sweater"
+            "slug": "CBC%253AThe%2520Shadows?episode=Episode%203%3A%20Sweater"
         },
         {
             "title": "Episode 4: Decision",
@@ -48,7 +48,7 @@
             "duration": "00:33:37",
             "sourceUrl": "https://cbc.mc.tritondigital.com/CBC_THESHADOWS_P/media/theshadows-KkP5bVy1-20180924.mp3",
             "epNo": "4",
-            "slug": "CBC%253AThe%2520Shadows/Episode%204%3A%20Decision"
+            "slug": "CBC%253AThe%2520Shadows?episode=Episode%204%3A%20Decision"
         },
         {
             "title": "Episode 5: An Argument That Should Be Simple.",
@@ -58,7 +58,7 @@
             "duration": "00:21:42",
             "sourceUrl": "https://cbc.mc.tritondigital.com/CBC_THESHADOWS_P/media/theshadows-CmG3eJjl-20180924.mp3",
             "epNo": "5",
-            "slug": "CBC%253AThe%2520Shadows/Episode%205%3A%20An%20Argument%20That%20Should%20Be%20Simple."
+            "slug": "CBC%253AThe%2520Shadows?episode=Episode%205%3A%20An%20Argument%20That%20Should%20Be%20Simple."
         },
         {
             "title": "Episode 6: End",
@@ -68,7 +68,7 @@
             "duration": "00:31:44",
             "sourceUrl": "https://cbc.mc.tritondigital.com/CBC_THESHADOWS_P/media/theshadows-po8XzLmZ-20180924.mp3",
             "epNo": "6",
-            "slug": "CBC%253AThe%2520Shadows/Episode%206%3A%20End"
+            "slug": "CBC%253AThe%2520Shadows?episode=Episode%206%3A%20End"
         }
     ]
 }

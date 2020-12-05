@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "rss-parser": "^3.9.0"
+    "rss-parser": "^3.9.0",
+    "unique-slug": "^2.0.2"
   }
 }

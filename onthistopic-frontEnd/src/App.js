@@ -48,7 +48,7 @@ const App = ({ beginStatusUpdate }) => {
           <Route path="/" component={HomePage} exact />
           <Route path="/podcasts" component={AllPodcasts} exact />
           <Route path="/podcast/:slug" component={Podcast} exact />
-          <Route path="/podcast/:slug/:ep" component={Episode} exact />
+          <Route path="/podcast/episode/:slug" component={Episode} exact />
           <Route path="/locations" component={AllLocations} exact />
           <Route path="/locations/:location" component={Location} exact />
           <Route path="/people" component={AllPeople} exact />
