@@ -1,5 +1,5 @@
 let Parser = require("rss-parser");
-let uniqueSlug = require("unique-slug");
+var slug = require("slug");
 let parser = new Parser();
 let populateEpisodes = (podcasts) => {
   console.log("pods: " + podcasts.length);
@@ -10,7 +10,6 @@ let populateEpisodes = (podcasts) => {
     } catch (error) {
       console.log(error);
     }
-    console.log(uniqueSlug(feed.title));
     let thisPod = {
       title: feed.title,
       publisher: feed["itunes"]["owner"]["name"],
@@ -20,9 +19,7 @@ let populateEpisodes = (podcasts) => {
       shortDescription: feed["itunes"]["subtitle"],
       categories: feed["itunes"]["categories"],
       image: feed["itunes"]["image"],
-      slug: `${encodeURIComponent(
-        feed["itunes"]["owner"]["name"] + ":" + feed.title
-      )}`,
+      slug: `${slug(feed["itunes"]["owner"]["name"] + "-" + feed.title)}`,
       lastUpdate: feed["lastBuildDate"],
     };
     // Populate episodes
@@ -32,6 +29,7 @@ let populateEpisodes = (podcasts) => {
       if (item["enclosure"]["length"] === null) {
         // console.log(thisPod);
       }
+
       let episode = {
         title: item["title"],
         subtitle: item["itunes"]["subtitle"],
@@ -42,9 +40,10 @@ let populateEpisodes = (podcasts) => {
         sourceUrl: item["enclosure"]["url"],
         snNo: item["itunes"]["season"],
         epNo: item["itunes"]["episode"],
-        slug: `${encodeURIComponent(thisPod.slug)}?episode=${encodeURIComponent(
-          item["title"]
-        )}`,
+        podcast: thisPod.slug,
+        slug: `${thisPod.slug}?episode=${new Date(item["pubDate"])
+          .toISOString()
+          .substring(0, 10)}-${slug(item["title"])}`,
       };
       thisPod["episodes"].push(episode);
     });

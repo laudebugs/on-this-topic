@@ -9,7 +9,7 @@
         "Society & Culture"
     ],
     "image": "https://cdn.simplecast.com/images/8b774a2b-4c5b-4893-b25f-d045583d8230/a48eebc7-ef93-4034-a518-6760eaaebdfe/3000x3000/3000x3000_becomingwise.jpg?aid=rss_feed",
-    "slug": "On%20Being%20Studios%3ABecoming%20Wise",
+    "slug": "on-being-studios-becoming-wise",
     "lastUpdate": "Mon, 23 Mar 2020 16:01:07 +0000",
     "episodes": [
         {
@@ -21,7 +21,8 @@
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/2d139c/2d139c6f-3caf-480c-88ab-b6eb0811fbce/4bc4db81-be6b-4d90-968b-c2ee5390c491/650195468_becoming_wise_listener_survey_tc.mp3?aid=rss_feed",
             "snNo": "1",
             "epNo": "37",
-            "slug": "On%2520Being%2520Studios%253ABecoming%2520Wise?episode=What%20did%20you%20love%3F%20What%20would%20you%20like%20to%20hear%3F"
+            "podcast": "on-being-studios-becoming-wise",
+            "slug": "on-being-studios-becoming-wise?episode=2019-07-15-what-did-you-love-what-would-you-like-to-hear"
         },
         {
             "title": "Releasing Anger as an Act of Self-Compassion | Sharon Salzberg and Robert Thurman",
@@ -32,7 +33,8 @@
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/2d139c/2d139c6f-3caf-480c-88ab-b6eb0811fbce/db0cf616-6021-484c-b98e-0734f6b09724/645680259_releasing_anger_as_an_act_of_self_compassion_sharon_salzberg_and_robert_thurman_jul2019_tc.mp3?aid=rss_feed",
             "snNo": "1",
             "epNo": "36",
-            "slug": "On%2520Being%2520Studios%253ABecoming%2520Wise?episode=Releasing%20Anger%20as%20an%20Act%20of%20Self-Compassion%20%7C%20Sharon%20Salzberg%20and%20Robert%20Thurman"
+            "podcast": "on-being-studios-becoming-wise",
+            "slug": "on-being-studios-becoming-wise?episode=2019-07-08-releasing-anger-as-an-act-of-self-compassion-sharon-salzberg-and-robert-thurman"
         },
         {
             "title": "Healing Through Story | Desmond Tutu",
@@ -43,7 +45,8 @@
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/2d139c/2d139c6f-3caf-480c-88ab-b6eb0811fbce/025f7dd6-d7f1-4ce3-972e-c83175d3bf7a/643041372_healing_through_story_desmond_tutu_becoming_wise_jul2019_tc.mp3?aid=rss_feed",
             "snNo": "1",
             "epNo": "35",
-            "slug": "On%2520Being%2520Studios%253ABecoming%2520Wise?episode=Healing%20Through%20Story%20%7C%20Desmond%20Tutu"
+            "podcast": "on-being-studios-becoming-wise",
+            "slug": "on-being-studios-becoming-wise?episode=2019-07-01-healing-through-story-desmond-tutu"
         },
         {
             "title": "The Daily Opportunity in Randomness | Leonard Mlodinow",
@@ -54,7 +57,8 @@
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/2d139c/2d139c6f-3caf-480c-88ab-b6eb0811fbce/0af00cf6-2462-4ea1-8730-718473226b25/640136382_the_daily_opportunity_in_randomness_leonard_mlodinow_becoming_wise_jun2019_tc.mp3?aid=rss_feed",
             "snNo": "1",
             "epNo": "34",
-            "slug": "On%2520Being%2520Studios%253ABecoming%2520Wise?episode=The%20Daily%20Opportunity%20in%20Randomness%20%7C%20Leonard%20Mlodinow"
+            "podcast": "on-being-studios-becoming-wise",
+            "slug": "on-being-studios-becoming-wise?episode=2019-06-24-the-daily-opportunity-in-randomness-leonard-mlodinow"
         },
         {
             "title": "The Inner Life of Social Change | Ruby Sales",
@@ -65,7 +69,8 @@
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/2d139c/2d139c6f-3caf-480c-88ab-b6eb0811fbce/a5879aec-f33e-48d3-8268-c6f08cd64386/636235758_the_inner_life_of_social_change_ruby_sales_jun2019_tc.mp3?aid=rss_feed",
             "snNo": "1",
             "epNo": "33",
-            "slug": "On%2520Being%2520Studios%253ABecoming%2520Wise?episode=The%20Inner%20Life%20of%20Social%20Change%20%7C%20Ruby%20Sales"
+            "podcast": "on-being-studios-becoming-wise",
+            "slug": "on-being-studios-becoming-wise?episode=2019-06-17-the-inner-life-of-social-change-ruby-sales"
         },
         {
             "title": "Empathy Rooted in Action | Terry Tempest Williams",
@@ -76,7 +81,8 @@
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/2d139c/2d139c6f-3caf-480c-88ab-b6eb0811fbce/2b397558-5fa7-4fcf-acfe-7f5e3087acff/632852517_empathy_rooted_in_action_terry_tempest_williams_becoming_wise_tc.mp3?aid=rss_feed",
             "snNo": "1",
             "epNo": "32",
-            "slug": "On%2520Being%2520Studios%253ABecoming%2520Wise?episode=Empathy%20Rooted%20in%20Action%20%7C%20Terry%20Tempest%20Williams"
+            "podcast": "on-being-studios-becoming-wise",
+            "slug": "on-being-studios-becoming-wise?episode=2019-06-10-empathy-rooted-in-action-terry-tempest-williams"
         },
         {
             "title": "Who We’re Called to Become | James Martin",
@@ -87,7 +93,8 @@
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/2d139c/2d139c6f-3caf-480c-88ab-b6eb0811fbce/e502a0cf-c4ae-4a11-95e5-679d1c7acdd8/629055993_who_were_called_to_become_james_martin_becoming_wise_tc.mp3?aid=rss_feed",
             "snNo": "1",
             "epNo": "31",
-            "slug": "On%2520Being%2520Studios%253ABecoming%2520Wise?episode=Who%20We%E2%80%99re%20Called%20to%20Become%20%7C%20James%20Martin"
+            "podcast": "on-being-studios-becoming-wise",
+            "slug": "on-being-studios-becoming-wise?episode=2019-06-03-who-were-called-to-become-james-martin"
         },
         {
             "title": "Happiness Is Practice, Not Pleasure | Matthieu Ricard",
@@ -98,7 +105,8 @@
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/2d139c/2d139c6f-3caf-480c-88ab-b6eb0811fbce/61b9a2b1-fd3e-46ef-86dc-cbd4b50e9a7d/620172795_happiness_is_practice_not_pleasure_matthieu_ricard_becoming_wise_tc.mp3?aid=rss_feed",
             "snNo": "1",
             "epNo": "30",
-            "slug": "On%2520Being%2520Studios%253ABecoming%2520Wise?episode=Happiness%20Is%20Practice%2C%20Not%20Pleasure%20%7C%20Matthieu%20Ricard"
+            "podcast": "on-being-studios-becoming-wise",
+            "slug": "on-being-studios-becoming-wise?episode=2019-05-27-happiness-is-practice-not-pleasure-matthieu-ricard"
         },
         {
             "title": "A Planetary Sense of Love | Natalie Batalha",
@@ -109,7 +117,8 @@
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/2d139c/2d139c6f-3caf-480c-88ab-b6eb0811fbce/587d28fa-1e04-48dd-b15b-362f64c677ae/620170464_a_planetary_sense_of_love_natalie_batalha_becoming_wise_tc.mp3?aid=rss_feed",
             "snNo": "1",
             "epNo": "29",
-            "slug": "On%2520Being%2520Studios%253ABecoming%2520Wise?episode=A%20Planetary%20Sense%20of%20Love%20%7C%20Natalie%20Batalha"
+            "podcast": "on-being-studios-becoming-wise",
+            "slug": "on-being-studios-becoming-wise?episode=2019-05-20-a-planetary-sense-of-love-natalie-batalha"
         },
         {
             "title": "Our Lives Can Be Signposts for What's Possible | Vincent Harding",
@@ -120,7 +129,8 @@
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/2d139c/2d139c6f-3caf-480c-88ab-b6eb0811fbce/85ff443a-d3eb-4709-a1fb-4b04192793eb/618602676_our_lives_can_be_signposts_for_whats_possible_vincent_harding_tc.mp3?aid=rss_feed",
             "snNo": "1",
             "epNo": "28",
-            "slug": "On%2520Being%2520Studios%253ABecoming%2520Wise?episode=Our%20Lives%20Can%20Be%20Signposts%20for%20What's%20Possible%20%7C%20Vincent%20Harding"
+            "podcast": "on-being-studios-becoming-wise",
+            "slug": "on-being-studios-becoming-wise?episode=2019-05-13-our-lives-can-be-signposts-for-whats-possible-vincent-harding"
         },
         {
             "title": "Art and Justice Work Together | Rami Nashashibi",
@@ -131,7 +141,8 @@
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/2d139c/2d139c6f-3caf-480c-88ab-b6eb0811fbce/2f36d994-5076-43e2-90be-a2d3f538d91c/615184782_art_and_justice_work_together_rami_nashashibi_becoming_wise_tc.mp3?aid=rss_feed",
             "snNo": "1",
             "epNo": "27",
-            "slug": "On%2520Being%2520Studios%253ABecoming%2520Wise?episode=Art%20and%20Justice%20Work%20Together%20%7C%20Rami%20Nashashibi"
+            "podcast": "on-being-studios-becoming-wise",
+            "slug": "on-being-studios-becoming-wise?episode=2019-05-06-art-and-justice-work-together-rami-nashashibi"
         },
         {
             "title": "Nurturing Our Children’s Souls | Sandy Eisenberg Sasso",
@@ -142,7 +153,8 @@
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/2d139c/2d139c6f-3caf-480c-88ab-b6eb0811fbce/1a723e04-3fc8-4ef6-967d-f9bdacb46cec/611755893_nurturing_our_childrens_souls_sandy_eisenberg_sasso_tc.mp3?aid=rss_feed",
             "snNo": "1",
             "epNo": "26",
-            "slug": "On%2520Being%2520Studios%253ABecoming%2520Wise?episode=Nurturing%20Our%20Children%E2%80%99s%20Souls%20%7C%20Sandy%20Eisenberg%20Sasso"
+            "podcast": "on-being-studios-becoming-wise",
+            "slug": "on-being-studios-becoming-wise?episode=2019-04-29-nurturing-our-childrens-souls-sandy-eisenberg-sasso"
         },
         {
             "title": "The Everyday Gift of Writing | Naomi Shihab Nye",
@@ -153,7 +165,8 @@
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/2d139c/2d139c6f-3caf-480c-88ab-b6eb0811fbce/121fba63-7076-430f-994d-52f582a2997b/608364675_the_everyday_gift_of_writing_naomi_shihab_nye_tc.mp3?aid=rss_feed",
             "snNo": "1",
             "epNo": "25",
-            "slug": "On%2520Being%2520Studios%253ABecoming%2520Wise?episode=The%20Everyday%20Gift%20of%20Writing%20%7C%20Naomi%20Shihab%20Nye"
+            "podcast": "on-being-studios-becoming-wise",
+            "slug": "on-being-studios-becoming-wise?episode=2019-04-22-the-everyday-gift-of-writing-naomi-shihab-nye"
         },
         {
             "title": "Friendship and the Democratic Process | Kwame Anthony Appiah | Becoming Wise",
@@ -164,7 +177,8 @@
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/2d139c/2d139c6f-3caf-480c-88ab-b6eb0811fbce/dbc373e0-b8db-4a3d-8e14-ac2b9637c47d/604983972_friendship_and_the_democratic_process_kwame_anthony_appiah_tc.mp3?aid=rss_feed",
             "snNo": "1",
             "epNo": "24",
-            "slug": "On%2520Being%2520Studios%253ABecoming%2520Wise?episode=Friendship%20and%20the%20Democratic%20Process%20%7C%20Kwame%20Anthony%20Appiah%20%7C%20Becoming%20Wise"
+            "podcast": "on-being-studios-becoming-wise",
+            "slug": "on-being-studios-becoming-wise?episode=2019-04-15-friendship-and-the-democratic-process-kwame-anthony-appiah-becoming-wise"
         },
         {
             "title": "Life Beyond the Mind | Eckhart Tolle",
@@ -175,7 +189,8 @@
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/2d139c/2d139c6f-3caf-480c-88ab-b6eb0811fbce/c66a9bcb-1e4d-42d1-8ea5-12331240ccdb/601540041_life_beyond_the_mind_eckhart_tolle_tc.mp3?aid=rss_feed",
             "snNo": "1",
             "epNo": "23",
-            "slug": "On%2520Being%2520Studios%253ABecoming%2520Wise?episode=Life%20Beyond%20the%20Mind%20%7C%20Eckhart%20Tolle"
+            "podcast": "on-being-studios-becoming-wise",
+            "slug": "on-being-studios-becoming-wise?episode=2019-04-08-life-beyond-the-mind-eckhart-tolle"
         },
         {
             "title": "We Believe Each Other into Being | Jennifer Michael Hecht",
@@ -186,7 +201,8 @@
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/2d139c/2d139c6f-3caf-480c-88ab-b6eb0811fbce/cbed2704-4037-4941-ad75-146beffa7212/we_believe_each_other_into_being_jennifer_michael_hecht_tc.mp3?aid=rss_feed",
             "snNo": "1",
             "epNo": "22",
-            "slug": "On%2520Being%2520Studios%253ABecoming%2520Wise?episode=We%20Believe%20Each%20Other%20into%20Being%20%7C%20Jennifer%20Michael%20Hecht"
+            "podcast": "on-being-studios-becoming-wise",
+            "slug": "on-being-studios-becoming-wise?episode=2019-04-01-we-believe-each-other-into-being-jennifer-michael-hecht"
         },
         {
             "title": "The Pilgrimage of “Who Am I?” | Paulo Coelho",
@@ -197,7 +213,8 @@
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/2d139c/2d139c6f-3caf-480c-88ab-b6eb0811fbce/398887af-0852-493c-82b8-29af8d690324/593797899_the_pilgrimage_of_who_am_i_paulo_coelho_tc.mp3?aid=rss_feed",
             "snNo": "1",
             "epNo": "21",
-            "slug": "On%2520Being%2520Studios%253ABecoming%2520Wise?episode=The%20Pilgrimage%20of%20%E2%80%9CWho%20Am%20I%3F%E2%80%9D%20%7C%20Paulo%20Coelho"
+            "podcast": "on-being-studios-becoming-wise",
+            "slug": "on-being-studios-becoming-wise?episode=2019-03-25-the-pilgrimage-of-who-am-i-paulo-coelho"
         },
         {
             "title": "Season Two Trailer",
@@ -208,7 +225,8 @@
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/2d139c/2d139c6f-3caf-480c-88ab-b6eb0811fbce/ab4056f6-4ea8-4784-b914-1e4d8bc23eac/586991166_becoming_wise_season_two_trailer_tc.mp3?aid=rss_feed",
             "snNo": "1",
             "epNo": "20",
-            "slug": "On%2520Being%2520Studios%253ABecoming%2520Wise?episode=Season%20Two%20Trailer"
+            "podcast": "on-being-studios-becoming-wise",
+            "slug": "on-being-studios-becoming-wise?episode=2019-03-11-season-two-trailer"
         },
         {
             "title": "Einstein Speaks to Us About Race | S. James Gates",
@@ -219,7 +237,8 @@
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/2d139c/2d139c6f-3caf-480c-88ab-b6eb0811fbce/593591ce-2d67-4bbc-b0c7-e8a6926181eb/274221806_einstein_speaks_to_us_about_race_s_james_gates_becoming_wise_tc.mp3?aid=rss_feed",
             "snNo": "1",
             "epNo": "19",
-            "slug": "On%2520Being%2520Studios%253ABecoming%2520Wise?episode=Einstein%20Speaks%20to%20Us%20About%20Race%20%7C%20S.%20James%20Gates"
+            "podcast": "on-being-studios-becoming-wise",
+            "slug": "on-being-studios-becoming-wise?episode=2016-07-25-einstein-speaks-to-us-about-race-s-james-gates"
         },
         {
             "title": "Trauma and Resilience Land in Our Bodies | Bessel van der Kolk",
@@ -230,7 +249,8 @@
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/2d139c/2d139c6f-3caf-480c-88ab-b6eb0811fbce/509a4707-e07f-4ea0-ab42-3a72ab9da87c/275270253_trauma_and_resilience_land_in_our_bodies_bessel_van_der_kolk_tc.mp3?aid=rss_feed",
             "snNo": "1",
             "epNo": "18",
-            "slug": "On%2520Being%2520Studios%253ABecoming%2520Wise?episode=Trauma%20and%20Resilience%20Land%20in%20Our%20Bodies%20%7C%20Bessel%20van%20der%20Kolk"
+            "podcast": "on-being-studios-becoming-wise",
+            "slug": "on-being-studios-becoming-wise?episode=2016-07-25-trauma-and-resilience-land-in-our-bodies-bessel-van-der-kolk"
         },
         {
             "title": "Evil, Forgiveness, and Prayer | Elie Wiesel",
@@ -241,7 +261,8 @@
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/2d139c/2d139c6f-3caf-480c-88ab-b6eb0811fbce/89933da8-acf1-460f-8ac8-8c4ee1bda93e/272764293_evil_forgiveness_and_prayer_elie_wiesel_becoming_wise_tc.mp3?aid=rss_feed",
             "snNo": "1",
             "epNo": "17",
-            "slug": "On%2520Being%2520Studios%253ABecoming%2520Wise?episode=Evil%2C%20Forgiveness%2C%20and%20Prayer%20%7C%20Elie%20Wiesel"
+            "podcast": "on-being-studios-becoming-wise",
+            "slug": "on-being-studios-becoming-wise?episode=2016-07-08-evil-forgiveness-and-prayer-elie-wiesel"
         },
         {
             "title": "We Are the Beloved Community | John Lewis",
@@ -252,7 +273,8 @@
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/2d139c/2d139c6f-3caf-480c-88ab-b6eb0811fbce/2961c31d-3aa3-4872-92a6-b643fa8b36e3/272284192_we_are_the_beloved_community_john_lewis_becoming_wise_tc.mp3?aid=rss_feed",
             "snNo": "1",
             "epNo": "16",
-            "slug": "On%2520Being%2520Studios%253ABecoming%2520Wise?episode=We%20Are%20the%20Beloved%20Community%20%7C%20John%20Lewis"
+            "podcast": "on-being-studios-becoming-wise",
+            "slug": "on-being-studios-becoming-wise?episode=2016-07-05-we-are-the-beloved-community-john-lewis"
         },
         {
             "title": "The Universe Participates in the Mystery of God | Guy Consolmagno and George Coyne",
@@ -263,7 +285,8 @@
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/2d139c/2d139c6f-3caf-480c-88ab-b6eb0811fbce/e4262673-23ed-486a-b2b3-2907217a0a7c/271072105_16_the_universe_participates_in_the_mystery_of_god_guy_consolmagno_george_coyne_becoming_wise_tc.mp3?aid=rss_feed",
             "snNo": "1",
             "epNo": "15",
-            "slug": "On%2520Being%2520Studios%253ABecoming%2520Wise?episode=The%20Universe%20Participates%20in%20the%20Mystery%20of%20God%20%7C%20Guy%20Consolmagno%20and%20George%20Coyne"
+            "podcast": "on-being-studios-becoming-wise",
+            "slug": "on-being-studios-becoming-wise?episode=2016-06-27-the-universe-participates-in-the-mystery-of-god-guy-consolmagno-and-george-coyne"
         },
         {
             "title": "I Feel, Therefore I Am | Eve Ensler",
@@ -274,7 +297,8 @@
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/2d139c/2d139c6f-3caf-480c-88ab-b6eb0811fbce/1117bcfc-9999-4d28-a848-31779d4b0196/270060504_i_feel_therefore_i_am_eve_ensler_becoming_wise_tc.mp3?aid=rss_feed",
             "snNo": "1",
             "epNo": "14",
-            "slug": "On%2520Being%2520Studios%253ABecoming%2520Wise?episode=I%20Feel%2C%20Therefore%20I%20Am%20%7C%20Eve%20Ensler"
+            "podcast": "on-being-studios-becoming-wise",
+            "slug": "on-being-studios-becoming-wise?episode=2016-06-20-i-feel-therefore-i-am-eve-ensler"
         },
         {
             "title": "We Reclaim Abandoned Spaces | Shane Claiborne",
@@ -285,7 +309,8 @@
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/2d139c/2d139c6f-3caf-480c-88ab-b6eb0811fbce/b8334396-dd8c-402b-92c2-9dcf8a68edab/268871917_we_reclaim_abandoned_spaces_shane_claiborne_becoming_wise_tc.mp3?aid=rss_feed",
             "snNo": "1",
             "epNo": "13",
-            "slug": "On%2520Being%2520Studios%253ABecoming%2520Wise?episode=We%20Reclaim%20Abandoned%20Spaces%20%7C%20Shane%20Claiborne"
+            "podcast": "on-being-studios-becoming-wise",
+            "slug": "on-being-studios-becoming-wise?episode=2016-06-13-we-reclaim-abandoned-spaces-shane-claiborne"
         },
         {
             "title": "We Choose Our Own Tribes | Seth Godin",
@@ -296,7 +321,8 @@
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/2d139c/2d139c6f-3caf-480c-88ab-b6eb0811fbce/3ab6d700-8bc8-426d-a97f-f0ba52ee8031/267805434_we_choose_our_own_tribes_seth_godin_becoming_wise_tc.mp3?aid=rss_feed",
             "snNo": "1",
             "epNo": "12",
-            "slug": "On%2520Being%2520Studios%253ABecoming%2520Wise?episode=We%20Choose%20Our%20Own%20Tribes%20%7C%20Seth%20Godin"
+            "podcast": "on-being-studios-becoming-wise",
+            "slug": "on-being-studios-becoming-wise?episode=2016-06-06-we-choose-our-own-tribes-seth-godin"
         },
         {
             "title": "Spirituality Is Enfolded Into the Act of Living | Sylvia Boorstein",
@@ -307,7 +333,8 @@
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/2d139c/2d139c6f-3caf-480c-88ab-b6eb0811fbce/6e5dc107-ec79-45e3-b6b6-4df372a6d91d/266102421_spirituality_is_enfolded_into_the_act_of_living_sylvia_boorstein_becoming_wise_tc.mp3?aid=rss_feed",
             "snNo": "1",
             "epNo": "11",
-            "slug": "On%2520Being%2520Studios%253ABecoming%2520Wise?episode=Spirituality%20Is%20Enfolded%20Into%20the%20Act%20of%20Living%20%7C%20Sylvia%20Boorstein"
+            "podcast": "on-being-studios-becoming-wise",
+            "slug": "on-being-studios-becoming-wise?episode=2016-05-31-spirituality-is-enfolded-into-the-act-of-living-sylvia-boorstein"
         },
         {
             "title": "The Good in the Other, the Doubt in Ourselves | Frances Kissling",
@@ -318,7 +345,8 @@
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/2d139c/2d139c6f-3caf-480c-88ab-b6eb0811fbce/5f75a9e3-628c-4fe0-962b-27912279789d/265499067_the_good_in_the_other_the_doubt_in_ourselves_frances_kissling_becoming_wise_tc.mp3?aid=rss_feed",
             "snNo": "1",
             "epNo": "10",
-            "slug": "On%2520Being%2520Studios%253ABecoming%2520Wise?episode=The%20Good%20in%20the%20Other%2C%20the%20Doubt%20in%20Ourselves%20%7C%20Frances%20Kissling"
+            "podcast": "on-being-studios-becoming-wise",
+            "slug": "on-being-studios-becoming-wise?episode=2016-05-23-the-good-in-the-other-the-doubt-in-ourselves-frances-kissling"
         },
         {
             "title": "The Inner World Is a Great, Undiscovered Terrain | Pico Iyer",
@@ -329,7 +357,8 @@
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/2d139c/2d139c6f-3caf-480c-88ab-b6eb0811fbce/26a1856c-4b2a-42ed-a9de-cf01f23fee4b/264387649_the_inner_world_is_a_great_undiscovered_terrain_pico_iyer_tc.mp3?aid=rss_feed",
             "snNo": "1",
             "epNo": "9",
-            "slug": "On%2520Being%2520Studios%253ABecoming%2520Wise?episode=The%20Inner%20World%20Is%20a%20Great%2C%20Undiscovered%20Terrain%20%7C%20Pico%20Iyer"
+            "podcast": "on-being-studios-becoming-wise",
+            "slug": "on-being-studios-becoming-wise?episode=2016-05-16-the-inner-world-is-a-great-undiscovered-terrain-pico-iyer"
         },
         {
             "title": "Present to Life, Moment by Moment | Jon Kabat-Zinn",
@@ -340,7 +369,8 @@
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/2d139c/2d139c6f-3caf-480c-88ab-b6eb0811fbce/d344567d-93a9-4a7b-bd3c-570f17d59338/263206403_present_to_life_moment_by_moment_jon_kabat_zinn_tc.mp3?aid=rss_feed",
             "snNo": "1",
             "epNo": "8",
-            "slug": "On%2520Being%2520Studios%253ABecoming%2520Wise?episode=Present%20to%20Life%2C%20Moment%20by%20Moment%20%7C%20Jon%20Kabat-Zinn"
+            "podcast": "on-being-studios-becoming-wise",
+            "slug": "on-being-studios-becoming-wise?episode=2016-05-09-present-to-life-moment-by-moment-jon-kabat-zinn"
         },
         {
             "title": "The Paradox of Suffering and Love | Kate Braestrup",
@@ -351,7 +381,8 @@
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/2d139c/2d139c6f-3caf-480c-88ab-b6eb0811fbce/c1af1f0f-9fe8-413c-b42d-4f7454407dc1/262152209_the_paradox_of_suffering_and_love_kate_braestrup_tc.mp3?aid=rss_feed",
             "snNo": "1",
             "epNo": "7",
-            "slug": "On%2520Being%2520Studios%253ABecoming%2520Wise?episode=The%20Paradox%20of%20Suffering%20and%20Love%20%7C%20Kate%20Braestrup"
+            "podcast": "on-being-studios-becoming-wise",
+            "slug": "on-being-studios-becoming-wise?episode=2016-05-02-the-paradox-of-suffering-and-love-kate-braestrup"
         },
         {
             "title": "Enriched by Difference | Jonathan Sacks",
@@ -362,7 +393,8 @@
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/2d139c/2d139c6f-3caf-480c-88ab-b6eb0811fbce/b507396a-e90e-48ec-929e-0559c79c19cb/260801739_enriched_by_difference_jonathan_sacks_tc.mp3?aid=rss_feed",
             "snNo": "1",
             "epNo": "6",
-            "slug": "On%2520Being%2520Studios%253ABecoming%2520Wise?episode=Enriched%20by%20Difference%20%7C%20Jonathan%20Sacks"
+            "podcast": "on-being-studios-becoming-wise",
+            "slug": "on-being-studios-becoming-wise?episode=2016-04-25-enriched-by-difference-jonathan-sacks"
         },
         {
             "title": "The Hidden Hand of the Equations | Brian Greene",
@@ -373,7 +405,8 @@
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/2d139c/2d139c6f-3caf-480c-88ab-b6eb0811fbce/58de0012-5903-4532-9526-57282e94f25d/259680265_the_hidden_hand_of_the_equations_brian_greene_tc.mp3?aid=rss_feed",
             "snNo": "1",
             "epNo": "5",
-            "slug": "On%2520Being%2520Studios%253ABecoming%2520Wise?episode=The%20Hidden%20Hand%20of%20the%20Equations%20%7C%20Brian%20Greene"
+            "podcast": "on-being-studios-becoming-wise",
+            "slug": "on-being-studios-becoming-wise?episode=2016-04-18-the-hidden-hand-of-the-equations-brian-greene"
         },
         {
             "title": "The Desire to Know Each Other | Elizabeth Alexander",
@@ -384,7 +417,8 @@
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/2d139c/2d139c6f-3caf-480c-88ab-b6eb0811fbce/58e80dc1-b790-4789-a66d-1ec575c8d43e/258450403_the_desire_to_know_each_other_elizabeth_alexander_tc.mp3?aid=rss_feed",
             "snNo": "1",
             "epNo": "4",
-            "slug": "On%2520Being%2520Studios%253ABecoming%2520Wise?episode=The%20Desire%20to%20Know%20Each%20Other%20%7C%20Elizabeth%20Alexander"
+            "podcast": "on-being-studios-becoming-wise",
+            "slug": "on-being-studios-becoming-wise?episode=2016-04-11-the-desire-to-know-each-other-elizabeth-alexander"
         },
         {
             "title": "Compassion for Our Bodies | Matthew Sanford",
@@ -395,7 +429,8 @@
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/2d139c/2d139c6f-3caf-480c-88ab-b6eb0811fbce/fd6b437b-afac-40e0-a07c-40ffc7e990ab/257256863_compassion_for_our_bodies_matthew_sanford_tc.mp3?aid=rss_feed",
             "snNo": "1",
             "epNo": "3",
-            "slug": "On%2520Being%2520Studios%253ABecoming%2520Wise?episode=Compassion%20for%20Our%20Bodies%20%7C%20Matthew%20Sanford"
+            "podcast": "on-being-studios-becoming-wise",
+            "slug": "on-being-studios-becoming-wise?episode=2016-04-04-compassion-for-our-bodies-matthew-sanford"
         },
         {
             "title": "Beauty Is an Edge of Becoming | John O'Donohue",
@@ -406,7 +441,8 @@
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/2d139c/2d139c6f-3caf-480c-88ab-b6eb0811fbce/fae79fa7-cd19-4fcd-bae7-3c3c24fe166e/252676792_beauty_is_an_edge_of_becoming_john_odonohue_tc.mp3?aid=rss_feed",
             "snNo": "1",
             "epNo": "2",
-            "slug": "On%2520Being%2520Studios%253ABecoming%2520Wise?episode=Beauty%20Is%20an%20Edge%20of%20Becoming%20%7C%20John%20O'Donohue"
+            "podcast": "on-being-studios-becoming-wise",
+            "slug": "on-being-studios-becoming-wise?episode=2016-03-18-beauty-is-an-edge-of-becoming-john-odonohue"
         },
         {
             "title": "Courage Is Born from Struggle | Brené Brown",
@@ -417,7 +453,8 @@
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/2d139c/2d139c6f-3caf-480c-88ab-b6eb0811fbce/3b2ea081-5380-4da2-83d7-64f4c2078429/252672381_courage_is_born_from_struggle_brene_brown_tc.mp3?aid=rss_feed",
             "snNo": "1",
             "epNo": "1",
-            "slug": "On%2520Being%2520Studios%253ABecoming%2520Wise?episode=Courage%20Is%20Born%20from%20Struggle%20%7C%20Bren%C3%A9%20Brown"
+            "podcast": "on-being-studios-becoming-wise",
+            "slug": "on-being-studios-becoming-wise?episode=2016-03-18-courage-is-born-from-struggle-brene-brown"
         },
         {
             "title": "Mapping Meaning in a Digital Age | Maria Popova",
@@ -428,7 +465,8 @@
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/2d139c/2d139c6f-3caf-480c-88ab-b6eb0811fbce/7ca1e7e2-36b7-4e9f-904b-1322759856df/252677881_mapping_meaning_in_a_digital_age_maria_popova_tc.mp3?aid=rss_feed",
             "snNo": "1",
             "epNo": "0",
-            "slug": "On%2520Being%2520Studios%253ABecoming%2520Wise?episode=Mapping%20Meaning%20in%20a%20Digital%20Age%20%7C%20Maria%20Popova"
+            "podcast": "on-being-studios-becoming-wise",
+            "slug": "on-being-studios-becoming-wise?episode=2016-03-18-mapping-meaning-in-a-digital-age-maria-popova"
         }
     ]
 }

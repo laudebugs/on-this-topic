@@ -96,6 +96,7 @@ const Episode = new Schema(
     comments: [{ type: Schema.Types.ObjectId, ref: "Comment" }],
     people: [{ type: Schema.Types.ObjectId, ref: "Person" }],
     locations: [{ type: Schema.Types.ObjectId, ref: "Location" }],
+    podcast: String,
     slug: {
       type: String,
       required: true,

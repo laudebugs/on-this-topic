@@ -92,11 +92,11 @@ export const episode = (state = initialState, action) => {
   const { type, payload } = action;
   switch (type) {
     case LOAD_EPISODE_SUCCESS:
-      const { episode } = payload;
+      const { ep } = payload;
       return {
         ...state,
         isLoadingEpisode: false,
-        episode: episode,
+        episode: ep,
       };
     case LOAD_EPISODE_IN_PROGRESS:
       return {

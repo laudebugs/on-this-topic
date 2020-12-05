@@ -9,7 +9,7 @@
         "Arts"
     ],
     "image": "https://content.production.cdn.art19.com/images/ea/b9/34/a6/eab934a6-8454-4124-a933-9f110c892a96/ec98959527a16859434850bbdedbde43b5ad0b440974269387098e25124d0ea74c0ea5042043e290ca7fb45fdb8b20bfd66775b9f930b25241da2b14c805b8d3.jpeg",
-    "slug": "Topic%20%2F%20Pineapple%20Street%20Media%20%2F%20Dan%20Taberski%3AHeadlong%3A%20Missing%20Richard%20Simmons",
+    "slug": "topic-pineapple-street-media-dan-taberski-headlong-missing-richard-simmons",
     "episodes": [
         {
             "title": "Out Now: Running from COPS - Headlong Season 3",
@@ -19,7 +19,8 @@
             "duration": "00:09:59",
             "sourceUrl": "https://rss.art19.com/episodes/8028a30d-124f-4c53-a305-2c4e80fa2075.mp3",
             "epNo": "1",
-            "slug": "Topic%2520%252F%2520Pineapple%2520Street%2520Media%2520%252F%2520Dan%2520Taberski%253AHeadlong%253A%2520Missing%2520Richard%2520Simmons?episode=Out%20Now%3A%20Running%20from%20COPS%20-%20Headlong%20Season%203"
+            "podcast": "topic-pineapple-street-media-dan-taberski-headlong-missing-richard-simmons",
+            "slug": "topic-pineapple-street-media-dan-taberski-headlong-missing-richard-simmons?episode=2019-04-23-out-now-running-from-cops-headlong-season-3"
         },
         {
             "title": "Season 3: Running From COPS - Coming April 23",
@@ -29,7 +30,8 @@
             "duration": "00:03:38",
             "sourceUrl": "https://rss.art19.com/episodes/9ff5354e-e496-4d03-8f9d-06d4c08d781d.mp3",
             "epNo": "1",
-            "slug": "Topic%2520%252F%2520Pineapple%2520Street%2520Media%2520%252F%2520Dan%2520Taberski%253AHeadlong%253A%2520Missing%2520Richard%2520Simmons?episode=Season%203%3A%20Running%20From%20COPS%20-%20Coming%20April%2023"
+            "podcast": "topic-pineapple-street-media-dan-taberski-headlong-missing-richard-simmons",
+            "slug": "topic-pineapple-street-media-dan-taberski-headlong-missing-richard-simmons?episode=2019-04-22-season-3-running-from-cops-coming-april-23"
         },
         {
             "title": "Introducing Headlong: Surviving Y2K | November 13 ",
@@ -39,7 +41,8 @@
             "duration": "00:03:28",
             "sourceUrl": "https://rss.art19.com/episodes/274aac2d-5518-48a1-9218-01a1ae5144b5.mp3",
             "snNo": "2",
-            "slug": "Topic%2520%252F%2520Pineapple%2520Street%2520Media%2520%252F%2520Dan%2520Taberski%253AHeadlong%253A%2520Missing%2520Richard%2520Simmons?episode=Introducing%20Headlong%3A%20Surviving%20Y2K%20%7C%20November%2013%20"
+            "podcast": "topic-pineapple-street-media-dan-taberski-headlong-missing-richard-simmons",
+            "slug": "topic-pineapple-street-media-dan-taberski-headlong-missing-richard-simmons?episode=2018-11-08-introducing-headlong-surviving-y2k-november-13"
         },
         {
             "title": "18 Months Later | Missing Richard Simmons",
@@ -49,7 +52,8 @@
             "duration": "00:20:28",
             "sourceUrl": "https://rss.art19.com/episodes/d2c6a7a4-86f7-45b2-8848-96c132b66fd5.mp3",
             "snNo": "1",
-            "slug": "Topic%2520%252F%2520Pineapple%2520Street%2520Media%2520%252F%2520Dan%2520Taberski%253AHeadlong%253A%2520Missing%2520Richard%2520Simmons?episode=18%20Months%20Later%20%7C%20Missing%20Richard%20Simmons"
+            "podcast": "topic-pineapple-street-media-dan-taberski-headlong-missing-richard-simmons",
+            "slug": "topic-pineapple-street-media-dan-taberski-headlong-missing-richard-simmons?episode=2018-11-01-18-months-later-missing-richard-simmons"
         },
         {
             "title": "6: A Day at the Beach | Missing Richard Simmons",
@@ -60,7 +64,8 @@
             "sourceUrl": "https://rss.art19.com/episodes/a3a537c8-408e-41e0-a3d5-28486f4a1a1b.mp3",
             "snNo": "1",
             "epNo": "6",
-            "slug": "Topic%2520%252F%2520Pineapple%2520Street%2520Media%2520%252F%2520Dan%2520Taberski%253AHeadlong%253A%2520Missing%2520Richard%2520Simmons?episode=6%3A%20A%20Day%20at%20the%20Beach%20%7C%20Missing%20Richard%20Simmons"
+            "podcast": "topic-pineapple-street-media-dan-taberski-headlong-missing-richard-simmons",
+            "slug": "topic-pineapple-street-media-dan-taberski-headlong-missing-richard-simmons?episode=2017-03-20-6-a-day-at-the-beach-missing-richard-simmons"
         },
         {
             "title": "5: O Brother, Where Art Thou? | Missing Richard Simmons",
@@ -71,7 +76,8 @@
             "sourceUrl": "https://rss.art19.com/episodes/3479d4f5-6fb4-4d1a-a126-f7660fd0f646.mp3",
             "snNo": "1",
             "epNo": "5",
-            "slug": "Topic%2520%252F%2520Pineapple%2520Street%2520Media%2520%252F%2520Dan%2520Taberski%253AHeadlong%253A%2520Missing%2520Richard%2520Simmons?episode=5%3A%20O%20Brother%2C%20Where%20Art%20Thou%3F%20%7C%20Missing%20Richard%20Simmons"
+            "podcast": "topic-pineapple-street-media-dan-taberski-headlong-missing-richard-simmons",
+            "slug": "topic-pineapple-street-media-dan-taberski-headlong-missing-richard-simmons?episode=2017-03-15-5-o-brother-where-art-thou-missing-richard-simmons"
         },
         {
             "title": "4: \"Till the Day I Die\" | Missing Richard Simmons",
@@ -82,7 +88,8 @@
             "sourceUrl": "https://rss.art19.com/episodes/eb1fa1ef-fe8e-42a4-be9d-ddea38ce081c.mp3",
             "snNo": "1",
             "epNo": "4",
-            "slug": "Topic%2520%252F%2520Pineapple%2520Street%2520Media%2520%252F%2520Dan%2520Taberski%253AHeadlong%253A%2520Missing%2520Richard%2520Simmons?episode=4%3A%20%22Till%20the%20Day%20I%20Die%22%20%7C%20Missing%20Richard%20Simmons"
+            "podcast": "topic-pineapple-street-media-dan-taberski-headlong-missing-richard-simmons",
+            "slug": "topic-pineapple-street-media-dan-taberski-headlong-missing-richard-simmons?episode=2017-03-08-4-till-the-day-i-die-missing-richard-simmons"
         },
         {
             "title": "3: The Maid and the Masseuse | Missing Richard Simmons",
@@ -93,7 +100,8 @@
             "sourceUrl": "https://rss.art19.com/episodes/4e5eb4c0-03cc-41c5-b818-68f7fa8032ae.mp3",
             "snNo": "1",
             "epNo": "3",
-            "slug": "Topic%2520%252F%2520Pineapple%2520Street%2520Media%2520%252F%2520Dan%2520Taberski%253AHeadlong%253A%2520Missing%2520Richard%2520Simmons?episode=3%3A%20The%20Maid%20and%20the%20Masseuse%20%7C%20Missing%20Richard%20Simmons"
+            "podcast": "topic-pineapple-street-media-dan-taberski-headlong-missing-richard-simmons",
+            "slug": "topic-pineapple-street-media-dan-taberski-headlong-missing-richard-simmons?episode=2017-03-01-3-the-maid-and-the-masseuse-missing-richard-simmons"
         },
         {
             "title": "2: Stakeout | Missing Richard Simmons",
@@ -104,7 +112,8 @@
             "sourceUrl": "https://rss.art19.com/episodes/9654bd25-01c8-4aed-a6fe-5c92b8a426fa.mp3",
             "snNo": "1",
             "epNo": "2",
-            "slug": "Topic%2520%252F%2520Pineapple%2520Street%2520Media%2520%252F%2520Dan%2520Taberski%253AHeadlong%253A%2520Missing%2520Richard%2520Simmons?episode=2%3A%20Stakeout%20%7C%20Missing%20Richard%20Simmons"
+            "podcast": "topic-pineapple-street-media-dan-taberski-headlong-missing-richard-simmons",
+            "slug": "topic-pineapple-street-media-dan-taberski-headlong-missing-richard-simmons?episode=2017-02-22-2-stakeout-missing-richard-simmons"
         },
         {
             "title": "1: Where's Richard? | Missing Richard Simmons",
@@ -115,7 +124,8 @@
             "sourceUrl": "https://rss.art19.com/episodes/85cf54a2-5c75-4e1f-97cf-c2fcf31e1525.mp3",
             "snNo": "1",
             "epNo": "1",
-            "slug": "Topic%2520%252F%2520Pineapple%2520Street%2520Media%2520%252F%2520Dan%2520Taberski%253AHeadlong%253A%2520Missing%2520Richard%2520Simmons?episode=1%3A%20Where's%20Richard%3F%20%7C%20Missing%20Richard%20Simmons"
+            "podcast": "topic-pineapple-street-media-dan-taberski-headlong-missing-richard-simmons",
+            "slug": "topic-pineapple-street-media-dan-taberski-headlong-missing-richard-simmons?episode=2017-02-15-1-wheres-richard-missing-richard-simmons"
         },
         {
             "title": "Preview: \"Mirror, Mirror on the Wall\"",
@@ -125,7 +135,8 @@
             "duration": "00:01:29",
             "sourceUrl": "https://rss.art19.com/episodes/d446d4eb-9791-47af-81bd-293d90479530.mp3",
             "snNo": "1",
-            "slug": "Topic%2520%252F%2520Pineapple%2520Street%2520Media%2520%252F%2520Dan%2520Taberski%253AHeadlong%253A%2520Missing%2520Richard%2520Simmons?episode=Preview%3A%20%22Mirror%2C%20Mirror%20on%20the%20Wall%22"
+            "podcast": "topic-pineapple-street-media-dan-taberski-headlong-missing-richard-simmons",
+            "slug": "topic-pineapple-street-media-dan-taberski-headlong-missing-richard-simmons?episode=2017-02-14-preview-mirror-mirror-on-the-wall"
         },
         {
             "title": "Coming Soon: \"Missing Richard Simmons\"",
@@ -135,7 +146,8 @@
             "duration": "00:01:42",
             "sourceUrl": "https://rss.art19.com/episodes/0b2e894e-5319-4cbf-8c78-573a50e5e067.mp3",
             "snNo": "1",
-            "slug": "Topic%2520%252F%2520Pineapple%2520Street%2520Media%2520%252F%2520Dan%2520Taberski%253AHeadlong%253A%2520Missing%2520Richard%2520Simmons?episode=Coming%20Soon%3A%20%22Missing%20Richard%20Simmons%22"
+            "podcast": "topic-pineapple-street-media-dan-taberski-headlong-missing-richard-simmons",
+            "slug": "topic-pineapple-street-media-dan-taberski-headlong-missing-richard-simmons?episode=2017-02-06-coming-soon-missing-richard-simmons"
         }
     ]
 }

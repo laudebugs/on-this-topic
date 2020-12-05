@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "rss-parser": "^3.9.0",
+    "slug": "^4.0.2",
     "unique-slug": "^2.0.2"
   }
 }

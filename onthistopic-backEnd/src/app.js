@@ -200,7 +200,7 @@ app.get("/podcast/episode/:podcast", async function (req, res) {
   )}?episode=${encodeURIComponent(req.query.episode)}`;
   try {
     const pod = await Episode.findOne({ slug: slug });
-    console.log(slug);
+    console.log(pod);
     res.json(pod);
   } catch (error) {
     console.log(error);

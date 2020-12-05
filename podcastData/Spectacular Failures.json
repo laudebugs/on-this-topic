@@ -8,7 +8,7 @@
         "Business"
     ],
     "image": "https://img.apmcdn.org/f9273c34e08d73c788c7ecebd8744ba9ac6f2084/uncropped/cf14b0-20190529-spectacular-failures-podcast.jpg",
-    "slug": "American%20Public%20Media%3ASpectacular%20Failures",
+    "slug": "american-public-media-spectacular-failures",
     "episodes": [
         {
             "title": "Sqirl finds itself in a jam",
@@ -18,7 +18,8 @@
             "sourceUrl": "https://play.podtrac.com/APM-SpectacularFailures/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2020/10/05/spectacular_failures_20201005_s2e10_128.mp3",
             "snNo": "2",
             "epNo": "10",
-            "slug": "American%2520Public%2520Media%253ASpectacular%2520Failures?episode=Sqirl%20finds%20itself%20in%20a%20jam"
+            "podcast": "american-public-media-spectacular-failures",
+            "slug": "american-public-media-spectacular-failures?episode=2020-10-05-sqirl-finds-itself-in-a-jam"
         },
         {
             "title": "NYC Taxi Medallions' steep fare",
@@ -28,7 +29,8 @@
             "sourceUrl": "https://play.podtrac.com/APM-SpectacularFailures/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2020/09/28/spectacular_failures_20200928_s2e9_128.mp3",
             "snNo": "2",
             "epNo": "9",
-            "slug": "American%2520Public%2520Media%253ASpectacular%2520Failures?episode=NYC%20Taxi%20Medallions'%20steep%20fare"
+            "podcast": "american-public-media-spectacular-failures",
+            "slug": "american-public-media-spectacular-failures?episode=2020-09-28-nyc-taxi-medallions-steep-fare"
         },
         {
             "title": "Subprime times at Countrywide Financial",
@@ -38,7 +40,8 @@
             "sourceUrl": "https://play.podtrac.com/APM-SpectacularFailures/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2020/09/21/spectacular_failures_20200921_s2e8_128.mp3",
             "snNo": "2",
             "epNo": "8",
-            "slug": "American%2520Public%2520Media%253ASpectacular%2520Failures?episode=Subprime%20times%20at%20Countrywide%20Financial"
+            "podcast": "american-public-media-spectacular-failures",
+            "slug": "american-public-media-spectacular-failures?episode=2020-09-21-subprime-times-at-countrywide-financial"
         },
         {
             "title": "Pan Am hits major turbulence",
@@ -48,7 +51,8 @@
             "sourceUrl": "https://play.podtrac.com/APM-SpectacularFailures/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2020/09/14/spectacular_failures_20200914_s2e7_128.mp3",
             "snNo": "2",
             "epNo": "7",
-            "slug": "American%2520Public%2520Media%253ASpectacular%2520Failures?episode=Pan%20Am%20hits%20major%20turbulence"
+            "podcast": "american-public-media-spectacular-failures",
+            "slug": "american-public-media-spectacular-failures?episode=2020-09-14-pan-am-hits-major-turbulence"
         },
         {
             "title": "A dairy giant gets milked",
@@ -58,7 +62,8 @@
             "sourceUrl": "https://play.podtrac.com/APM-SpectacularFailures/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2020/09/07/spectacular_failures_20200907_s2e6_128.mp3",
             "snNo": "2",
             "epNo": "6",
-            "slug": "American%2520Public%2520Media%253ASpectacular%2520Failures?episode=A%20dairy%20giant%20gets%20milked"
+            "podcast": "american-public-media-spectacular-failures",
+            "slug": "american-public-media-spectacular-failures?episode=2020-09-07-a-dairy-giant-gets-milked"
         },
         {
             "title": "Napster fought the law and the law won",
@@ -68,7 +73,8 @@
             "sourceUrl": "https://play.podtrac.com/APM-SpectacularFailures/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2020/08/31/spectacular_failures_20200831_s2e5_128.mp3",
             "snNo": "2",
             "epNo": "5",
-            "slug": "American%2520Public%2520Media%253ASpectacular%2520Failures?episode=Napster%20fought%20the%20law%20and%20the%20law%20won"
+            "podcast": "american-public-media-spectacular-failures",
+            "slug": "american-public-media-spectacular-failures?episode=2020-08-31-napster-fought-the-law-and-the-law-won"
         },
         {
             "title": "The toxic tale of the Love Canal fail",
@@ -78,7 +84,8 @@
             "sourceUrl": "https://play.podtrac.com/APM-SpectacularFailures/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2020/08/24/spectacular_failures_20200824_s2e4_128.mp3",
             "snNo": "2",
             "epNo": "4",
-            "slug": "American%2520Public%2520Media%253ASpectacular%2520Failures?episode=The%20toxic%20tale%20of%20the%20Love%20Canal%20fail"
+            "podcast": "american-public-media-spectacular-failures",
+            "slug": "american-public-media-spectacular-failures?episode=2020-08-24-the-toxic-tale-of-the-love-canal-fail"
         },
         {
             "title": "The curtain falls on a big Broadway company",
@@ -88,7 +95,8 @@
             "sourceUrl": "https://play.podtrac.com/APM-SpectacularFailures/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2020/08/17/spectacular_failures_20200817_s2e3_128.mp3",
             "snNo": "2",
             "epNo": "3",
-            "slug": "American%2520Public%2520Media%253ASpectacular%2520Failures?episode=The%20curtain%20falls%20on%20a%20big%20Broadway%20company"
+            "podcast": "american-public-media-spectacular-failures",
+            "slug": "american-public-media-spectacular-failures?episode=2020-08-17-the-curtain-falls-on-a-big-broadway-company"
         },
         {
             "title": "Forever 21 goes from rags to riches to bankruptcy court",
@@ -98,7 +106,8 @@
             "sourceUrl": "https://play.podtrac.com/APM-SpectacularFailures/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2020/08/10/spectacular_failures_20200810_s2e2_128.mp3",
             "snNo": "2",
             "epNo": "2",
-            "slug": "American%2520Public%2520Media%253ASpectacular%2520Failures?episode=Forever%2021%20goes%20from%20rags%20to%20riches%20to%20bankruptcy%20court"
+            "podcast": "american-public-media-spectacular-failures",
+            "slug": "american-public-media-spectacular-failures?episode=2020-08-10-forever-21-goes-from-rags-to-riches-to-bankruptcy-court"
         },
         {
             "title": "Blue Apron wilts, then rises to a new challenge",
@@ -108,7 +117,8 @@
             "sourceUrl": "https://play.podtrac.com/APM-SpectacularFailures/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2020/08/03/spectacular_failures_20200803_s2e1_128.mp3",
             "snNo": "2",
             "epNo": "1",
-            "slug": "American%2520Public%2520Media%253ASpectacular%2520Failures?episode=Blue%20Apron%20wilts%2C%20then%20rises%20to%20a%20new%20challenge"
+            "podcast": "american-public-media-spectacular-failures",
+            "slug": "american-public-media-spectacular-failures?episode=2020-08-03-blue-apron-wilts-then-rises-to-a-new-challenge"
         },
         {
             "title": "Spectacular Failures - Season Two",
@@ -117,7 +127,8 @@
             "duration": "00:01:30",
             "sourceUrl": "https://play.podtrac.com/APM-SpectacularFailures/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2020/07/20/spectacular_failures_20200720_S2Trailer_128.mp3",
             "snNo": "2",
-            "slug": "American%2520Public%2520Media%253ASpectacular%2520Failures?episode=Spectacular%20Failures%20-%20Season%20Two"
+            "podcast": "american-public-media-spectacular-failures",
+            "slug": "american-public-media-spectacular-failures?episode=2020-07-20-spectacular-failures-season-two"
         },
         {
             "title": "Trump's big gamble on Atlantic City",
@@ -127,7 +138,8 @@
             "sourceUrl": "https://play.podtrac.com/APM-SpectacularFailures/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2019/08/19/spectacular_failures_20190819_10_128.mp3",
             "snNo": "1",
             "epNo": "10",
-            "slug": "American%2520Public%2520Media%253ASpectacular%2520Failures?episode=Trump's%20big%20gamble%20on%20Atlantic%20City"
+            "podcast": "american-public-media-spectacular-failures",
+            "slug": "american-public-media-spectacular-failures?episode=2019-08-19-trumps-big-gamble-on-atlantic-city"
         },
         {
             "title": "Toys R Us goes bust",
@@ -137,7 +149,8 @@
             "sourceUrl": "https://play.podtrac.com/APM-SpectacularFailures/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2019/08/12/spectacular_failures_20190812_9_128.mp3",
             "snNo": "1",
             "epNo": "9",
-            "slug": "American%2520Public%2520Media%253ASpectacular%2520Failures?episode=Toys%20R%20Us%20goes%20bust"
+            "podcast": "american-public-media-spectacular-failures",
+            "slug": "american-public-media-spectacular-failures?episode=2019-08-12-toys-r-us-goes-bust"
         },
         {
             "title": "Lincoln Savings loses it all",
@@ -147,7 +160,8 @@
             "sourceUrl": "https://play.podtrac.com/APM-SpectacularFailures/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2019/08/05/spectacular_failures_20190805_8_128.mp3",
             "snNo": "1",
             "epNo": "8",
-            "slug": "American%2520Public%2520Media%253ASpectacular%2520Failures?episode=Lincoln%20Savings%20loses%20it%20all"
+            "podcast": "american-public-media-spectacular-failures",
+            "slug": "american-public-media-spectacular-failures?episode=2019-08-05-lincoln-savings-loses-it-all"
         },
         {
             "title": "The inferno that transformed American labor",
@@ -157,7 +171,8 @@
             "sourceUrl": "https://play.podtrac.com/APM-SpectacularFailures/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2019/07/29/spectacular_failures_20190729_7_128.mp3",
             "snNo": "1",
             "epNo": "7",
-            "slug": "American%2520Public%2520Media%253ASpectacular%2520Failures?episode=The%20inferno%20that%20transformed%20American%20labor"
+            "podcast": "american-public-media-spectacular-failures",
+            "slug": "american-public-media-spectacular-failures?episode=2019-07-29-the-inferno-that-transformed-american-labor"
         },
         {
             "title": "Family fighting sends U-Haul on a detour",
@@ -167,7 +182,8 @@
             "sourceUrl": "https://play.podtrac.com/APM-SpectacularFailures/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2019/07/22/spectacular_failures_20190722_6_128.mp3",
             "snNo": "1",
             "epNo": "6",
-            "slug": "American%2520Public%2520Media%253ASpectacular%2520Failures?episode=Family%20fighting%20sends%20U-Haul%20on%20a%20detour"
+            "podcast": "american-public-media-spectacular-failures",
+            "slug": "american-public-media-spectacular-failures?episode=2019-07-22-family-fighting-sends-u-haul-on-a-detour"
         },
         {
             "title": "Kodak misses its moment",
@@ -177,7 +193,8 @@
             "sourceUrl": "https://play.podtrac.com/APM-SpectacularFailures/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2019/07/15/spectacular_failures_20190715_5_128.mp3",
             "snNo": "1",
             "epNo": "5",
-            "slug": "American%2520Public%2520Media%253ASpectacular%2520Failures?episode=Kodak%20misses%20its%20moment"
+            "podcast": "american-public-media-spectacular-failures",
+            "slug": "american-public-media-spectacular-failures?episode=2019-07-15-kodak-misses-its-moment"
         },
         {
             "title": "A funeral industry giant keels over ",
@@ -187,7 +204,8 @@
             "sourceUrl": "https://play.podtrac.com/APM-SpectacularFailures/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2019/07/08/spectacular_failures_20190708_4_128.mp3",
             "snNo": "1",
             "epNo": "4",
-            "slug": "American%2520Public%2520Media%253ASpectacular%2520Failures?episode=A%20funeral%20industry%20giant%20keels%20over%20"
+            "podcast": "american-public-media-spectacular-failures",
+            "slug": "american-public-media-spectacular-failures?episode=2019-07-08-a-funeral-industry-giant-keels-over"
         },
         {
             "title": "Schlitz Beer goes bad, then worse",
@@ -197,7 +215,8 @@
             "sourceUrl": "https://play.podtrac.com/APM-SpectacularFailures/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2019/07/01/spectacular_failures_20190701_3_128.mp3",
             "snNo": "1",
             "epNo": "3",
-            "slug": "American%2520Public%2520Media%253ASpectacular%2520Failures?episode=Schlitz%20Beer%20goes%20bad%2C%20then%20worse"
+            "podcast": "american-public-media-spectacular-failures",
+            "slug": "american-public-media-spectacular-failures?episode=2019-07-01-schlitz-beer-goes-bad-then-worse"
         },
         {
             "title": "MoviePass begins with plenty of drama",
@@ -207,7 +226,8 @@
             "sourceUrl": "https://play.podtrac.com/APM-SpectacularFailures/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2019/06/24/spectacular_failures_20190624_2_128.mp3",
             "snNo": "1",
             "epNo": "2",
-            "slug": "American%2520Public%2520Media%253ASpectacular%2520Failures?episode=MoviePass%20begins%20with%20plenty%20of%20drama"
+            "podcast": "american-public-media-spectacular-failures",
+            "slug": "american-public-media-spectacular-failures?episode=2019-06-24-moviepass-begins-with-plenty-of-drama"
         },
         {
             "title": "A Christian theme park plunges into scandal ",
@@ -217,7 +237,8 @@
             "sourceUrl": "https://play.podtrac.com/APM-SpectacularFailures/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2019/06/17/spectacular_failures_20190617_1_128.mp3",
             "snNo": "1",
             "epNo": "1",
-            "slug": "American%2520Public%2520Media%253ASpectacular%2520Failures?episode=A%20Christian%20theme%20park%20plunges%20into%20scandal%20"
+            "podcast": "american-public-media-spectacular-failures",
+            "slug": "american-public-media-spectacular-failures?episode=2019-06-17-a-christian-theme-park-plunges-into-scandal"
         },
         {
             "title": "Introducing Spectacular Failures",
@@ -226,7 +247,8 @@
             "duration": "00:02:30",
             "sourceUrl": "https://play.podtrac.com/APM-SpectacularFailures/play.publicradio.org/itunes/o/americanpublicmedia/podcasts/spectacular_failures/2019/05/31/spectacular_failures_20190531_0_128.mp3",
             "snNo": "1",
-            "slug": "American%2520Public%2520Media%253ASpectacular%2520Failures?episode=Introducing%20Spectacular%20Failures"
+            "podcast": "american-public-media-spectacular-failures",
+            "slug": "american-public-media-spectacular-failures?episode=2019-05-30-introducing-spectacular-failures"
         }
     ]
 }

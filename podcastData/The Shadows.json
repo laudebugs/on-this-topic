@@ -8,7 +8,7 @@
         "Arts"
     ],
     "image": "https://www.cbc.ca/radio/podcasts/images/promo-theshadows-1400x1400.jpg",
-    "slug": "CBC%3AThe%20Shadows",
+    "slug": "cbc-the-shadows",
     "episodes": [
         {
             "title": "Episode 1: Romantic",
@@ -18,7 +18,8 @@
             "duration": "00:44:48",
             "sourceUrl": "https://cbc.mc.tritondigital.com/CBC_THESHADOWS_P/media/theshadows-lvL6JcCe-20180924.mp3",
             "epNo": "1",
-            "slug": "CBC%253AThe%2520Shadows?episode=Episode%201%3A%20Romantic"
+            "podcast": "cbc-the-shadows",
+            "slug": "cbc-the-shadows?episode=2018-09-24-episode-1-romantic"
         },
         {
             "title": "Episode 2: Realist",
@@ -28,7 +29,8 @@
             "duration": "00:36:34",
             "sourceUrl": "https://cbc.mc.tritondigital.com/CBC_THESHADOWS_P/media/theshadows-1IuI90th-20180924.mp3",
             "epNo": "2",
-            "slug": "CBC%253AThe%2520Shadows?episode=Episode%202%3A%20Realist"
+            "podcast": "cbc-the-shadows",
+            "slug": "cbc-the-shadows?episode=2018-09-24-episode-2-realist"
         },
         {
             "title": "Episode 3: Sweater",
@@ -38,7 +40,8 @@
             "duration": "00:32:07",
             "sourceUrl": "https://cbc.mc.tritondigital.com/CBC_THESHADOWS_P/media/theshadows-8C1Jy0ij-20180924.mp3",
             "epNo": "3",
-            "slug": "CBC%253AThe%2520Shadows?episode=Episode%203%3A%20Sweater"
+            "podcast": "cbc-the-shadows",
+            "slug": "cbc-the-shadows?episode=2018-09-24-episode-3-sweater"
         },
         {
             "title": "Episode 4: Decision",
@@ -48,7 +51,8 @@
             "duration": "00:33:37",
             "sourceUrl": "https://cbc.mc.tritondigital.com/CBC_THESHADOWS_P/media/theshadows-KkP5bVy1-20180924.mp3",
             "epNo": "4",
-            "slug": "CBC%253AThe%2520Shadows?episode=Episode%204%3A%20Decision"
+            "podcast": "cbc-the-shadows",
+            "slug": "cbc-the-shadows?episode=2018-09-24-episode-4-decision"
         },
         {
             "title": "Episode 5: An Argument That Should Be Simple.",
@@ -58,7 +62,8 @@
             "duration": "00:21:42",
             "sourceUrl": "https://cbc.mc.tritondigital.com/CBC_THESHADOWS_P/media/theshadows-CmG3eJjl-20180924.mp3",
             "epNo": "5",
-            "slug": "CBC%253AThe%2520Shadows?episode=Episode%205%3A%20An%20Argument%20That%20Should%20Be%20Simple."
+            "podcast": "cbc-the-shadows",
+            "slug": "cbc-the-shadows?episode=2018-09-24-episode-5-an-argument-that-should-be-simple"
         },
         {
             "title": "Episode 6: End",
@@ -68,7 +73,8 @@
             "duration": "00:31:44",
             "sourceUrl": "https://cbc.mc.tritondigital.com/CBC_THESHADOWS_P/media/theshadows-po8XzLmZ-20180924.mp3",
             "epNo": "6",
-            "slug": "CBC%253AThe%2520Shadows?episode=Episode%206%3A%20End"
+            "podcast": "cbc-the-shadows",
+            "slug": "cbc-the-shadows?episode=2018-09-24-episode-6-end"
         }
     ]
 }

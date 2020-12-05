@@ -8,7 +8,7 @@
         "Society & Culture"
     ],
     "image": "https://image.simplecastcdn.com/images/ae6a4c49-b2c4-4a46-a0e7-b098089a58a2/7904c1b8-11bf-4069-8f3d-07acb9a41321/3000x3000/e860c94b566b8b2363a42b858a31fa88d1ff26b3d68f0a15cc0b8c8a7af87dde3a76598685aa02d8b2654850a07c1c483ef856393acd72869e9b096a4a054d43.jpeg?aid=rss_feed",
-    "slug": "The%20New%20York%20Times%3ATogether%20Apart",
+    "slug": "the-new-york-times-together-apart",
     "lastUpdate": "Tue, 1 Dec 2020 20:08:00 +0000",
     "episodes": [
         {
@@ -20,7 +20,8 @@
             "duration": "00:17:40",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/nyt.simplecastaudio.com/ae6a4c49-b2c4-4a46-a0e7-b098089a58a2/episodes/405a0ef3-5a1f-43ec-aa48-a32b50fa69dc/audio/128/default.mp3?aid=rss_feed&awCollectionId=ae6a4c49-b2c4-4a46-a0e7-b098089a58a2&awEpisodeId=405a0ef3-5a1f-43ec-aa48-a32b50fa69dc&feed=_W7F21T0",
             "epNo": "9",
-            "slug": "The%2520New%2520York%2520Times%253ATogether%2520Apart?episode=Juneteenth%3A%20Freedom%20for%20All"
+            "podcast": "the-new-york-times-together-apart",
+            "slug": "the-new-york-times-together-apart?episode=2020-06-18-juneteenth-freedom-for-all"
         },
         {
             "title": "Centering Blackness: A World Re-imagined",
@@ -31,7 +32,8 @@
             "duration": "00:36:52",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/nyt.simplecastaudio.com/ae6a4c49-b2c4-4a46-a0e7-b098089a58a2/episodes/aa718c25-bae8-421c-9294-08b353496420/audio/128/default.mp3?aid=rss_feed&awCollectionId=ae6a4c49-b2c4-4a46-a0e7-b098089a58a2&awEpisodeId=aa718c25-bae8-421c-9294-08b353496420&feed=_W7F21T0",
             "epNo": "8",
-            "slug": "The%2520New%2520York%2520Times%253ATogether%2520Apart?episode=Centering%20Blackness%3A%20A%20World%20Re-imagined"
+            "podcast": "the-new-york-times-together-apart",
+            "slug": "the-new-york-times-together-apart?episode=2020-06-17-centering-blackness-a-world-re-imagined"
         },
         {
             "title": "Graduation: A Sunset Rise",
@@ -42,7 +44,8 @@
             "duration": "00:35:52",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/nyt.simplecastaudio.com/ae6a4c49-b2c4-4a46-a0e7-b098089a58a2/episodes/df6f1928-2870-4791-a61e-ae84cfc3d063/audio/128/default.mp3?aid=rss_feed&awCollectionId=ae6a4c49-b2c4-4a46-a0e7-b098089a58a2&awEpisodeId=df6f1928-2870-4791-a61e-ae84cfc3d063&feed=_W7F21T0",
             "epNo": "7",
-            "slug": "The%2520New%2520York%2520Times%253ATogether%2520Apart?episode=Graduation%3A%20A%20Sunset%20Rise"
+            "podcast": "the-new-york-times-together-apart",
+            "slug": "the-new-york-times-together-apart?episode=2020-06-03-graduation-a-sunset-rise"
         },
         {
             "title": "Playing Cupid in Quarantine",
@@ -53,7 +56,8 @@
             "duration": "00:26:20",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/nyt.simplecastaudio.com/ae6a4c49-b2c4-4a46-a0e7-b098089a58a2/episodes/1e741f13-9b2b-478a-a5de-7a926403f1c9/audio/128/default.mp3?aid=rss_feed&awCollectionId=ae6a4c49-b2c4-4a46-a0e7-b098089a58a2&awEpisodeId=1e741f13-9b2b-478a-a5de-7a926403f1c9&feed=_W7F21T0",
             "epNo": "6",
-            "slug": "The%2520New%2520York%2520Times%253ATogether%2520Apart?episode=Playing%20Cupid%20in%20Quarantine"
+            "podcast": "the-new-york-times-together-apart",
+            "slug": "the-new-york-times-together-apart?episode=2020-05-20-playing-cupid-in-quarantine"
         },
         {
             "title": "Saving the Date: Weddings in Quarantine",
@@ -64,7 +68,8 @@
             "duration": "00:28:21",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/nyt.simplecastaudio.com/ae6a4c49-b2c4-4a46-a0e7-b098089a58a2/episodes/90eea545-943a-4c4f-b43f-15e282bf713a/audio/128/default.mp3?aid=rss_feed&awCollectionId=ae6a4c49-b2c4-4a46-a0e7-b098089a58a2&awEpisodeId=90eea545-943a-4c4f-b43f-15e282bf713a&feed=_W7F21T0",
             "epNo": "5",
-            "slug": "The%2520New%2520York%2520Times%253ATogether%2520Apart?episode=Saving%20the%20Date%3A%20Weddings%20in%20Quarantine"
+            "podcast": "the-new-york-times-together-apart",
+            "slug": "the-new-york-times-together-apart?episode=2020-05-06-saving-the-date-weddings-in-quarantine"
         },
         {
             "title": "Schools: How Does a Teacher Decide Which Gatherings to Save?",
@@ -75,7 +80,8 @@
             "duration": "00:39:43",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/nyt.simplecastaudio.com/ae6a4c49-b2c4-4a46-a0e7-b098089a58a2/episodes/fe92feaa-0ade-43b3-9c05-9ca99f7456f0/audio/128/default.mp3?aid=rss_feed&awCollectionId=ae6a4c49-b2c4-4a46-a0e7-b098089a58a2&awEpisodeId=fe92feaa-0ade-43b3-9c05-9ca99f7456f0&feed=_W7F21T0",
             "epNo": "4",
-            "slug": "The%2520New%2520York%2520Times%253ATogether%2520Apart?episode=Schools%3A%20How%20Does%20a%20Teacher%20Decide%20Which%20Gatherings%20to%20Save%3F"
+            "podcast": "the-new-york-times-together-apart",
+            "slug": "the-new-york-times-together-apart?episode=2020-04-28-schools-how-does-a-teacher-decide-which-gatherings-to-save"
         },
         {
             "title": "You Can't Put the Baby Back In",
@@ -86,7 +92,8 @@
             "duration": "00:25:51",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/nyt.simplecastaudio.com/ae6a4c49-b2c4-4a46-a0e7-b098089a58a2/episodes/de256cf1-ff52-44f1-a2c9-212708b9fb02/audio/128/default.mp3?aid=rss_feed&awCollectionId=ae6a4c49-b2c4-4a46-a0e7-b098089a58a2&awEpisodeId=de256cf1-ff52-44f1-a2c9-212708b9fb02&feed=_W7F21T0",
             "epNo": "3",
-            "slug": "The%2520New%2520York%2520Times%253ATogether%2520Apart?episode=You%20Can't%20Put%20the%20Baby%20Back%20In"
+            "podcast": "the-new-york-times-together-apart",
+            "slug": "the-new-york-times-together-apart?episode=2020-04-21-you-cant-put-the-baby-back-in"
         },
         {
             "title": "Birthdays: Light At The Middle of the Tunnel",
@@ -97,7 +104,8 @@
             "duration": "00:26:53",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/nyt.simplecastaudio.com/ae6a4c49-b2c4-4a46-a0e7-b098089a58a2/episodes/e83332be-56df-4f43-91da-54bf81a7d13a/audio/128/default.mp3?aid=rss_feed&awCollectionId=ae6a4c49-b2c4-4a46-a0e7-b098089a58a2&awEpisodeId=e83332be-56df-4f43-91da-54bf81a7d13a&feed=_W7F21T0",
             "epNo": "2",
-            "slug": "The%2520New%2520York%2520Times%253ATogether%2520Apart?episode=Birthdays%3A%20Light%20At%20The%20Middle%20of%20the%20Tunnel"
+            "podcast": "the-new-york-times-together-apart",
+            "slug": "the-new-york-times-together-apart?episode=2020-04-15-birthdays-light-at-the-middle-of-the-tunnel"
         },
         {
             "title": "How is This Night Different Than All Other Nights?",
@@ -108,7 +116,8 @@
             "duration": "00:27:16",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/nyt.simplecastaudio.com/ae6a4c49-b2c4-4a46-a0e7-b098089a58a2/episodes/3b732776-3ccc-4739-a890-13acffcf7c03/audio/128/default.mp3?aid=rss_feed&awCollectionId=ae6a4c49-b2c4-4a46-a0e7-b098089a58a2&awEpisodeId=3b732776-3ccc-4739-a890-13acffcf7c03&feed=_W7F21T0",
             "epNo": "1",
-            "slug": "The%2520New%2520York%2520Times%253ATogether%2520Apart?episode=How%20is%20This%20Night%20Different%20Than%20All%20Other%20Nights%3F"
+            "podcast": "the-new-york-times-together-apart",
+            "slug": "the-new-york-times-together-apart?episode=2020-04-08-how-is-this-night-different-than-all-other-nights"
         },
         {
             "title": "Introducing 'Together Apart'",
@@ -118,7 +127,8 @@
             "description": "\n        <p><em>Together Apart </em>is part guide, part reminder of the resiliency of the human spirit to <em>still</em> creatively meaningfully gather, even while we have to be apart.<strong> </strong>The show is hosted by Priya Parker, a conflict facilitator whose expertise is in how we gather.<strong> </strong></p><p><em>Together Apart </em>is produced by Magnificent Noise, in partnership with The New York Times.</p>\n\n      ",
             "duration": "00:02:03",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/nyt.simplecastaudio.com/ae6a4c49-b2c4-4a46-a0e7-b098089a58a2/episodes/840dca7b-28a3-4a43-8000-ef5dd0a421ad/audio/128/default.mp3?aid=rss_feed&awCollectionId=ae6a4c49-b2c4-4a46-a0e7-b098089a58a2&awEpisodeId=840dca7b-28a3-4a43-8000-ef5dd0a421ad&feed=_W7F21T0",
-            "slug": "The%2520New%2520York%2520Times%253ATogether%2520Apart?episode=Introducing%20'Together%20Apart'"
+            "podcast": "the-new-york-times-together-apart",
+            "slug": "the-new-york-times-together-apart?episode=2020-04-02-introducing-together-apart"
         }
     ]
 }

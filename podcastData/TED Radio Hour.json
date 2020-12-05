@@ -10,7 +10,7 @@
         "Society & Culture"
     ],
     "image": "https://media.npr.org/assets/img/2020/03/09/trh_podcast-tile_sq-c05fb259465d433a5cf8a21248b8fa209a6b7690.png?s=1400",
-    "slug": "NPR%3ATED%20Radio%20Hour",
+    "slug": "npr-ted-radio-hour",
     "lastUpdate": "Fri, 04 Dec 2020 00:01:32 -0500",
     "episodes": [
         {
@@ -20,7 +20,8 @@
             "description": "This year's election saw historic voter turnout. But in a divided democracy, how else can we commit to our civic duties? This hour, Baratunde Thurston joins Manoush with ideas on how to citizen. ",
             "duration": "3234",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-mp3/npr/ted/2020/12/20201203_ted_curator-chat-thurston-tedpod.mp3?awCollectionId=510298&awEpisodeId=942183533&orgId=1&d=3234&p=510298&story=942183533&t=podcast&e=942183533&size=51633774&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=How%20To%20Citizen"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2020-12-04-how-to-citizen"
         },
         {
             "title": "Listen Again: Making Amends",
@@ -29,7 +30,8 @@
             "description": "Original broadcast date: July 10, 2020. What makes a true apology? What does it mean to make amends for past mistakes? This hour, TED speakers explore how repairing the wrongs of the past is the first step toward healing for the future. Guests include historian Brent Leggs, law professor Martha Minow, librarian Dawn Wacek, and playwright V (formerly Eve Ensler). ",
             "duration": "3203",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2020/11/20201127_ted_making_amends_pod-33e96a3c-7ec8-4214-81e0-1d1f6b9f559c.mp3?awCollectionId=510298&awEpisodeId=936205803&orgId=1&d=3203&p=510298&story=936205803&t=podcast&e=936205803&size=51135633&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Listen%20Again%3A%20Making%20Amends"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2020-11-27-listen-again-making-amends"
         },
         {
             "title": "Listen Again: TED Radio Wow-er",
@@ -38,7 +40,8 @@
             "description": "Original broadcast date: June 26, 2020. With so many schools closed, lots of kids are stuck at home, learning remotely. Special guest Guy Raz joins Manoush for an hour packed with TED science lessons... for everyone. ",
             "duration": "3155",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2020/11/20201118_ted_radio_wower-e80207f2-397f-4042-87c1-814287eee0dd.mp3?awCollectionId=510298&awEpisodeId=936205565&orgId=1&d=3155&p=510298&story=936205565&t=podcast&e=936205565&size=50359681&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Listen%20Again%3A%20TED%20Radio%20Wow-er"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2020-11-20-listen-again-ted-radio-wow-er"
         },
         {
             "title": "The Life Cycles Of Cities",
@@ -47,7 +50,8 @@
             "description": "Cities are never static; they can transform in months, years, or centuries. This hour, TED speakers explore how today's cities are informed by the past, and how they'll need to evolve for the future. Guests include archaeologist Alyssa Loorya, architects Marwa Al-Sabouni and Rahul Mehrotra, and landscape architect Kotchakorn Voraakhom. ",
             "duration": "3149",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2020/11/20201113_ted_tedpod-99291ff0-26f9-4006-aeb3-a0913d67a5cb.mp3?awCollectionId=510298&awEpisodeId=934144539&orgId=1&d=3149&p=510298&story=934144539&t=podcast&e=934144539&size=49987247&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=The%20Life%20Cycles%20Of%20Cities"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2020-11-13-the-life-cycles-of-cities"
         },
         {
             "title": "Building Our Zero-Emissions Future ",
@@ -56,7 +60,8 @@
             "description": "Fighting climate change is a big, messy task that will take a lot of work. This hour, TED's Science Curator David Biello joins Manoush to share some promising and fascinating solutions. ",
             "duration": "3152",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2020/11/20201105_ted_zero_emissions_future-eb2a2def-0491-469e-9c40-f27a162a717a.mp3?awCollectionId=510298&awEpisodeId=931842071&orgId=1&d=3152&p=510298&story=931842071&t=podcast&e=931842071&size=50322900&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Building%20Our%20Zero-Emissions%20Future%20"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2020-11-06-building-our-zero-emissions-future"
         },
         {
             "title": "Warped Reality",
@@ -65,7 +70,8 @@
             "description": "False information on the internet makes it harder and harder to know what's true, and the consequences have been devastating. This hour, TED speakers explore ideas around technology and deception. Guests include law professor Danielle Citron, journalist Andrew Marantz, and computer scientist Joy Buolamwini. ",
             "duration": "3103",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2020/10/20201029_ted_warped_reality_pod-2c680c99-496a-4dc6-b644-f3aa9381f361-73338e33-84fe-4bdd-ab2c-2d13e738fca8-335faaf0-235a-4576-a737-2f5bad5cf4b9.mp3?awCollectionId=510298&awEpisodeId=929115189&orgId=1&d=3103&p=510298&story=929115189&t=podcast&e=929115189&size=49532385&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Warped%20Reality"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2020-10-30-warped-reality"
         },
         {
             "title": "Listen Again: The Power Of Spaces",
@@ -74,7 +80,8 @@
             "description": "How do spaces shape the human experience? In what ways do our rooms, homes, and buildings give us meaning and purpose? This hour, TED speakers explore the power of the spaces we make and inhabit. Guests include architect Michael Murphy, musician David Byrne, artist Es Devlin, and architect Siamak Hariri.",
             "duration": "3202",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2020/10/20201022_ted_spaces_with_purpose_tedpod-130105d3-b39a-43ff-be6f-094e9e17060e.mp3?awCollectionId=510298&awEpisodeId=926696007&orgId=1&d=3202&p=510298&story=926696007&t=podcast&e=926696007&size=51244170&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Listen%20Again%3A%20The%20Power%20Of%20Spaces"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2020-10-23-listen-again-the-power-of-spaces"
         },
         {
             "title": "Sound And Silence",
@@ -83,7 +90,8 @@
             "description": "Sound surrounds us, from cacophony even to silence. But depending on how we hear, the world can be a different auditory experience for each of us. This hour, TED speakers explore the science of sound. Guests on the show include NPR All Things Considered host Mary Louise Kelly, neuroscientist Jim Hudspeth, writer Rebecca Knill, and sound designer Dallas Taylor. ",
             "duration": "3000",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2020/10/20201016_ted_tedpod-7fe9feda-da2f-4e2e-ba08-1fe1503b9bf2-c0d00074-90c0-48bb-b3ca-edfec11faeee.mp3?awCollectionId=510298&awEpisodeId=923958093&orgId=1&d=3000&p=510298&story=923958093&t=podcast&e=923958093&size=50689977&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Sound%20And%20Silence"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2020-10-16-sound-and-silence"
         },
         {
             "title": "Listen Again: Climate Mindset",
@@ -92,7 +100,8 @@
             "description": "Original broadcast date: May 22, 2020. In the past few months, human beings have come together to fight a global threat. This hour, TED speakers explore how our response can be the catalyst to fight another global crisis: climate change. Guests include political strategist Tom Rivett-Carnac, diplomat Christiana Figueres, climate justice activist Xiye Bastida, and writer, illustrator, and artist Oliver Jeffers. ",
             "duration": "3164",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2020/10/20201008_ted_tedpod-4f9700b9-de77-4a03-bb56-b0545c7dbdb6.mp3?awCollectionId=510298&awEpisodeId=921579520&orgId=1&d=3164&p=510298&story=921579520&t=podcast&e=921579520&size=50501825&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Listen%20Again%3A%20Climate%20Mindset"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2020-10-09-listen-again-climate-mindset"
         },
         {
             "title": "School Of Life",
@@ -101,7 +110,8 @@
             "description": "Right now, many kids aren't in their classrooms — but there is so much to learn outside of school as well. This hour, TED speakers explore life lessons that teach us far more than any textbook. Guests on the show include poltician Stacey Abrams, sailor Tracy Edwards, educator Alvin Irby, and LGBTQ rights advocate Ash Beckham. ",
             "duration": "3297",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2020/10/20201002_ted_podcast-b38bd36c-2e98-45a6-ae61-472f317eb72b-1181926b-717d-48d5-9466-dbe15f754894.mp3?awCollectionId=510298&awEpisodeId=919066958&orgId=1&d=3297&p=510298&story=919066958&t=podcast&e=919066958&size=52635699&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=School%20Of%20Life"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2020-10-02-school-of-life"
         },
         {
             "title": "Debbie Millman: Designing Our Lives",
@@ -110,7 +120,8 @@
             "description": "From prehistoric cave art to today's social media feeds, to design is to be human. This hour, designer Debbie Millman guides us through a world made and remade—and helps us design our own paths. ",
             "duration": "5206",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2020/09/20200925_ted_millman_pod-2663e2c7-f5df-43ff-a996-5ebd6cc095d6-d9975d72-4600-492f-a309-6d64f7c1925e-aaeeaa5b-38fe-4371-bd77-eb408b310ab3.mp3?awCollectionId=510298&awEpisodeId=916480347&orgId=1&d=5206&p=510298&story=916480347&t=podcast&e=916480347&size=49913523&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Debbie%20Millman%3A%20Designing%20Our%20Lives"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2020-09-25-debbie-millman-designing-our-lives"
         },
         {
             "title": "Listen Again: IRL Online",
@@ -119,7 +130,8 @@
             "description": "Original broadcast date: March 20, 2020. Our online lives are now entirely interwoven with our real lives. But the laws that govern real life don't apply online. This hour, TED speakers explore rules to navigate this vast virtual space. ",
             "duration": "3249",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2020/09/20200918_ted_tedpod-4101f710-b0b0-40cc-a46e-913ae03b7bfa-09e1c5f4-57be-4309-8eff-49dd64320862-8f3e27d4-e591-44b1-aa59-b6ff471a203d.mp3?awCollectionId=510298&awEpisodeId=913116101&orgId=1&d=3249&p=510298&story=913116101&t=podcast&e=913116101&size=49941462&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Listen%20Again%3A%20IRL%20Online"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2020-09-18-listen-again-irl-online"
         },
         {
             "title": "Esther Perel: Building Resilient Relationships",
@@ -128,7 +140,8 @@
             "description": "How do we build more trusting and empathetic relationships, even during a crisis? This hour, therapist Esther Perel shares ideas on creating lasting bonds in romance, family, and at work. ",
             "duration": "3149",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2020/09/20200911_ted_estherpod-13393302-384a-4085-93d2-7815f799fe68-4b413d11-c6f2-4d7b-90f2-d35998780fa8.mp3?awCollectionId=510298&awEpisodeId=911392320&orgId=1&d=3149&p=510298&story=911392320&t=podcast&e=911392320&size=49958142&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Esther%20Perel%3A%20Building%20Resilient%20Relationships"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2020-09-11-esther-perel-building-resilient-relationships"
         },
         {
             "title": "Finding Another Way",
@@ -137,7 +150,8 @@
             "description": "Conflict is a part of life. But in a polarized world, reaching a resolution is harder than ever. This hour, TED speakers explore creative and extraordinary ways of approaching conflict. Guests on the show include authors Shaka Senghor and Ebony Roberts, zoologist Lucy King, and radio journalist Jad Abumrad. ",
             "duration": "5141",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2020/09/20200904_ted_tedpod-a473e921-f999-42d8-baaf-3163db7fdfe4-24d2a3d3-1848-4b06-95d5-499b6a6f3b88-6290309a-794a-493b-911c-b1748f2e2fcb.mp3?awCollectionId=510298&awEpisodeId=909228987&orgId=1&d=5141&p=510298&story=909228987&t=podcast&e=909228987&size=49508199&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Finding%20Another%20Way"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2020-09-04-finding-another-way"
         },
         {
             "title": "Listen Again: Pure Joy",
@@ -146,7 +160,8 @@
             "description": "Original broadcast date: April 17, 2020. More than ever, we need to make time for joy. This hour, Manoush and TED's Head Curator Helen Walters explore talks that surprise, inspire, and delight. ",
             "duration": "3064",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2020/08/20200828_ted_tedpod2-92672df2-038b-4ef9-ae28-6f2869438360-dd6e9c7e-1827-4a96-a3d8-4061846cf441.mp3?awCollectionId=510298&awEpisodeId=906654343&orgId=1&d=3064&p=510298&story=906654343&t=podcast&e=906654343&size=50090331&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Listen%20Again%3A%20Pure%20Joy"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2020-08-28-listen-again-pure-joy"
         },
         {
             "title": "Lessons From The Summer",
@@ -155,7 +170,8 @@
             "description": "The summer of 2020 has been overwhelming for most of us. This hour, we hear from four guests—each from recent episodes—who sum up where we've been and offer the wisdom we need for the months ahead. Guests include political strategist Tom Rivett-Carnac, political philosopher Danielle Allen, anthropologist Heidi Larson, and writer and scholar Clint Smith. ",
             "duration": "3073",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2020/08/20200820_ted_tedpod-1bb78e53-d748-4bda-9763-aa831895433a-1389524a-6409-4e88-acd9-e8af638cee55.mp3?awCollectionId=510298&awEpisodeId=904299340&orgId=1&d=3073&p=510298&story=904299340&t=podcast&e=904299340&size=49054086&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Lessons%20From%20The%20Summer"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2020-08-21-lessons-from-the-summer"
         },
         {
             "title": "Listen Again: The Biology Of Sex",
@@ -164,7 +180,8 @@
             "description": "Original broadcast date: May 8, 2020.  Many of us were taught biological sex is a question of female or male, XX or XY ... but it's far more complicated. This hour, TED speakers explore what determines our sex.  Guests on the show include artist Emily Quinn, journalist Molly Webster, neuroscientist Lisa Mosconi, and structural biologist Karissa Sanbonmatsu. ",
             "duration": "3122",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2020/08/20200814_ted_sex_and_gender_pod-4c2fff59-7226-49d5-b81e-e47ed0dd3fb2-7ed373c1-6102-46f1-9a97-6ba390e8d8f0.mp3?awCollectionId=510298&awEpisodeId=899845707&orgId=1&d=3122&p=510298&story=899845707&t=podcast&e=899845707&size=49841382&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Listen%20Again%3A%20The%20Biology%20Of%20Sex"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2020-08-14-listen-again-the-biology-of-sex"
         },
         {
             "title": "Our Relationship With Water",
@@ -173,7 +190,8 @@
             "description": "We need water to live. But with rising seas and so many lacking clean water — water is in crisis and so are we. This hour, TED speakers explore ideas around restoring our relationship with water. Guests on the show include legal scholar Kelsey Leonard, artist LaToya Ruby Frazier, and community organizer Colette Pichon Battle.",
             "duration": "3056",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2020/08/20200807_ted_waterpod-0ad04661-46e7-4c8a-9c47-397db7c9e846-47dd507b-efda-4e22-8735-5cf0a0c874df.mp3?awCollectionId=510298&awEpisodeId=899845219&orgId=1&d=3056&p=510298&story=899845219&t=podcast&e=899845219&size=48796380&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Our%20Relationship%20With%20Water"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2020-08-07-our-relationship-with-water"
         },
         {
             "title": "Processing The Pandemic",
@@ -182,7 +200,8 @@
             "description": "Between the pandemic and America's reckoning with racism and police brutality, many of us are anxious, angry, and depressed. This hour, TED Fellow and writer Laurel Braitman helps us process it all. ",
             "duration": "3140",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2020/07/20200730_ted_braitman_podcast-36fbe738-9530-44a1-8b1e-e9d1cb6ec966-e3d0a045-6973-4699-9ce3-0cd8d50aff3a.mp3?awCollectionId=510298&awEpisodeId=897232516&orgId=1&d=3140&p=510298&story=897232516&t=podcast&e=897232516&size=50134332&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Processing%20The%20Pandemic"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2020-07-31-processing-the-pandemic"
         },
         {
             "title": "The Power Of Spaces",
@@ -191,7 +210,8 @@
             "description": "How do spaces shape the human experience? In what ways do our rooms, homes, and buildings give us meaning and purpose? This hour, TED speakers explore the power of the spaces we make and inhabit. Guests include architect Michael Murphy, musician David Byrne, artist Es Devlin, and architect Siamak Hariri. ",
             "duration": "3136",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2020/07/20200723_ted_spaces_with_purpose_pod-89d2c976-42f3-4853-a4ef-97494362e95f-0fab85ff-0cd3-44f8-9de5-892d6001a3d9.mp3?awCollectionId=510298&awEpisodeId=894580784&orgId=1&d=3136&p=510298&story=894580784&t=podcast&e=894580784&size=50065728&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=The%20Power%20Of%20Spaces"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2020-07-24-the-power-of-spaces"
         },
         {
             "title": "Listen Again: What We Value",
@@ -200,7 +220,8 @@
             "description": "Original broadcast date: May 1, 2020. As the pandemic reveals the weaknesses of our economy, businesses and consumers are rethinking what they value. This hour, TED's Corey Hajim shares ideas on shifting the role of business in society. ",
             "duration": "3105",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2020/07/20200717_ted_curatorpod-edec022c-a1fa-4778-84f7-10790624faa1-fd576a35-d6b6-42d9-96da-cccf1ce3512d.mp3?awCollectionId=510298&awEpisodeId=891826374&orgId=1&d=3105&p=510298&story=891826374&t=podcast&e=891826374&size=49562409&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Listen%20Again%3A%20What%20We%20Value"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2020-07-17-listen-again-what-we-value"
         },
         {
             "title": "Making Amends",
@@ -209,7 +230,8 @@
             "description": "What makes a true apology? What does it mean to make amends for past mistakes? This hour, TED speakers explore how repairing the wrongs of the past is the first step toward healing for the future. Guests include historian and preservationist Brent Leggs, law professor Martha Minow, librarian Dawn Wacek, and playwright V (formerly Eve Ensler). ",
             "duration": "3105",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2020/07/20200710_ted_amends_pod-822a5098-9fe1-4dd1-9e12-5c78debe97e7-b43aaf27-e540-4741-b6d9-75252e9c127f.mp3?awCollectionId=510298&awEpisodeId=889466450&orgId=1&d=3105&p=510298&story=889466450&t=podcast&e=889466450&size=49566996&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Making%20Amends"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2020-07-10-making-amends"
         },
         {
             "title": "Listen Again: Meditations on Loneliness",
@@ -218,7 +240,8 @@
             "description": "Original broadcast date: April 24, 2020. We're a social species now living in isolation. But loneliness was a problem well before this era of social distancing. This hour, TED speakers explore how we can live and make peace with loneliness. Guests on the show include author and illustrator Jonny Sun, psychologist Susan Pinker, architect Grace Kim, and writer Suleika Jaouad. ",
             "duration": "3147",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2020/07/20200703_ted_loneliness_pod-6390ce0d-896a-4801-a063-1bc549eda96e-e193a462-da57-4d5e-ad7c-89b23c9a8215.mp3?awCollectionId=510298&awEpisodeId=886292087&orgId=1&d=3147&p=510298&story=886292087&t=podcast&e=886292087&size=50237115&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Listen%20Again%3A%20Meditations%20on%20Loneliness"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2020-07-03-listen-again-meditations-on-loneliness"
         },
         {
             "title": "TED Radio Wow-er",
@@ -227,7 +250,8 @@
             "description": "School's out, but many kids—and their parents—are still stuck at home. Let's keep learning together. Special guest Guy Raz joins Manoush for an hour packed with TED science lessons for everyone. ",
             "duration": "3094",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2020/06/20200626_ted_wonderpod-c7fd17d9-f243-45f0-bd13-0176302ee178-d07ea69f-7d89-4d69-8424-9dbf87b90499.mp3?awCollectionId=510298&awEpisodeId=883415663&orgId=1&d=3094&p=510298&story=883415663&t=podcast&e=883415663&size=49388520&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=TED%20Radio%20Wow-er"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2020-06-26-ted-radio-wow-er"
         },
         {
             "title": "The Greater Good?",
@@ -236,7 +260,8 @@
             "description": "In times of crisis, how do we decide what personal sacrifices we must make for the benefit of all? This hour, TED speakers share four different ideas about how to act for the greater good. ",
             "duration": "3102",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2020/06/20200618_ted_greatergood-3158161a-1df6-4e5f-975d-88a06bb8f912-741f8e5f-2fa4-4e4a-8dfe-318a8aef45cb-cced0c5a-ecfc-49c3-b545-ef80620f142d.mp3?awCollectionId=510298&awEpisodeId=880153542&orgId=1&d=3102&p=510298&story=880153542&t=podcast&e=880153542&size=49519041&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=The%20Greater%20Good%3F"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2020-06-19-the-greater-good"
         },
         {
             "title": "Ingrained Injustice",
@@ -245,7 +270,8 @@
             "description": "As protests for racial justice continue, many are asking how racism became so embedded in our lives. This hour, TED's Whitney Pennington Rodgers guides us through talks that offer part of the answer. ",
             "duration": "3055",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2020/06/20200611_ted_injustice_pod-4dd24fd6-8a9d-4647-b3a9-6d160af8925c-224a6959-d1c4-4210-acef-69dc22f4a1b9.mp3?awCollectionId=510298&awEpisodeId=875163377&orgId=1&d=3055&p=510298&story=875163377&t=podcast&e=875163377&size=48761769&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Ingrained%20Injustice"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2020-06-12-ingrained-injustice"
         },
         {
             "title": "Clint Smith",
@@ -254,7 +280,8 @@
             "description": "The killing of George Floyd by a police officer has sparked massive protests nationwide. This hour, writer and scholar Clint Smith reflects on this moment, through conversation, letters, and poetry. ",
             "duration": "3101",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2020/06/20200604_ted_clint_smith-4f7c689f-7aca-448e-9d88-0e3558ff4eb7-42b8d707-e630-489d-969e-702d676f7383.mp3?awCollectionId=510298&awEpisodeId=869947742&orgId=1&d=3101&p=510298&story=869947742&t=podcast&e=869947742&size=49504446&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Clint%20Smith"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2020-06-05-clint-smith"
         },
         {
             "title": "Listen Again: Reinvention",
@@ -263,7 +290,8 @@
             "description": "Change is hard, but it's also an opportunity to discover and reimagine what you thought you knew. From our economy, to music, to even ourselves—this hour TED speakers explore the power of reinvention. Guests include OK Go lead singer Damian Kulash Jr., former college gymnastics coach Valorie Kondos Field, Stockton Mayor Michael Tubbs, and entrepreneur Nick Hanauer. ",
             "duration": "3094",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2020/05/20200529_ted_reinventionpod-5837b103-4a5f-4f92-b102-27f67e792ac9-41f83232-b5b9-471f-b0ea-e62efe664b1a.mp3?awCollectionId=510298&awEpisodeId=863724755&orgId=1&d=3094&p=510298&story=863724755&t=podcast&e=863724755&size=49403949&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Listen%20Again%3A%20Reinvention"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2020-05-29-listen-again-reinvention"
         },
         {
             "title": "Climate Mindset",
@@ -272,7 +300,8 @@
             "description": "In the past few months, human beings have come together to fight a global threat. This hour, TED speakers explore how our response can be the catalyst to fight another global crisis: climate change. Guests include political strategist Tom Rivett-Carnac, diplomat Christiana Figueres, climate justice activist Xiye Bastida, and writer, illustrator, and artist Oliver Jeffers. ",
             "duration": "3132",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2020/05/20200521_ted_climate-dd6e6c23-d434-45f7-be31-a1029bdcc521-3ab8244a-ceeb-4c64-a1e3-7d1af0a2d1ab.mp3?awCollectionId=510298&awEpisodeId=860307097&orgId=1&d=3132&p=510298&story=860307097&t=podcast&e=860307097&size=49991919&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Climate%20Mindset"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2020-05-22-climate-mindset"
         },
         {
             "title": "Listen Again: Uncharted",
@@ -281,7 +310,8 @@
             "description": "Original broadcast date: March 27, 2020. There's so much we've yet to explore—from outer space to the deep ocean to our own brains. This hour, Manoush goes on a journey through those uncharted places, led by TED Science Curator David Biello.",
             "duration": "3131",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2020/05/20200514_ted_uncharted_podcast-63603797-4abb-4b2f-9bd7-7aed0ba14334-6112db65-38d9-471d-8efa-f5022bbc2be4.mp3?awCollectionId=510298&awEpisodeId=856205774&orgId=1&d=3131&p=510298&story=856205774&t=podcast&e=856205774&size=49994004&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Listen%20Again%3A%20Uncharted"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2020-05-15-listen-again-uncharted"
         },
         {
             "title": "The Biology Of Sex",
@@ -290,7 +320,8 @@
             "description": "Many of us were taught biological sex is a question of female or male, XX or XY ... but it's far more complicated. This hour, TED speakers explore what determines our sex. Guests on the show include artist Emily Quinn, journalist Molly Webster, neuroscientist Lisa Mosconi, and structural biologist Karissa Sanbonmatsu. ",
             "duration": "3097",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2020/05/20200507_ted_sex_and_gender-cababb6b-1c08-4f0a-8efc-90cff4d5c70e-46fc5ba1-e807-4842-be29-e718cb765873.mp3?awCollectionId=510298&awEpisodeId=851886771&orgId=1&d=3097&p=510298&story=851886771&t=podcast&e=851886771&size=49446483&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=The%20Biology%20Of%20Sex"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2020-05-08-the-biology-of-sex"
         },
         {
             "title": "What We Value",
@@ -299,7 +330,8 @@
             "description": "As the pandemic reveals the weaknesses of our economy, businesses and consumers are rethinking what they value. This hour, TED's Corey Hajim shares ideas on shifting the role of business in society. ",
             "duration": "3100",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2020/04/20200430_ted_what_we_value-cd4ecce2-16e3-4f65-b5ac-38dccc2313db-76a308c3-b8c8-4fe3-ba48-38a93f435217.mp3?awCollectionId=510298&awEpisodeId=848462564&orgId=1&d=3100&p=510298&story=848462564&t=podcast&e=848462564&size=49480677&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=What%20We%20Value"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2020-05-01-what-we-value"
         },
         {
             "title": "Meditations On Loneliness",
@@ -308,7 +340,8 @@
             "description": "We're a social species now living in isolation. But loneliness was a problem well before this era of social distancing. This hour, TED speakers explore how we can live and make peace with loneliness. Guests on the show include author and illustrator Jonny Sun, psychologist Susan Pinker, architect Grace Kim, and writer Suleika Jaouad. ",
             "duration": "3120",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2020/04/20200424_ted_lonliness-e86f466a-3224-4017-b8d7-c07cfcc65667-d0c789ad-144a-46c7-b149-23c4858a8da0.mp3?awCollectionId=510298&awEpisodeId=842564307&orgId=1&d=3120&p=510298&story=842564307&t=podcast&e=842564307&size=49803018&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Meditations%20On%20Loneliness"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2020-04-24-meditations-on-loneliness"
         },
         {
             "title": "Pure Joy",
@@ -317,7 +350,8 @@
             "description": "More than ever, we need to make time for joy. This hour, Manoush and TED's Head Curator Helen Walters explore talks that surprise, inspire, and delight. ",
             "duration": "3064",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2020/04/20200416_ted_pure_joy_podcast-21e45fcc-b4f0-4b5f-b50d-fdafbca36adb-9c2189ff-af46-4b3a-9623-1deca6b095b0.mp3?awCollectionId=510298&awEpisodeId=836441933&orgId=1&d=3064&p=510298&story=836441933&t=podcast&e=836441933&size=48910221&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Pure%20Joy"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2020-04-17-pure-joy"
         },
         {
             "title": "Inoculation",
@@ -326,7 +360,8 @@
             "description": "Can we protect ourselves from future outbreaks? COVID-19 isn't the first pandemic, and likely not the last. This hour, TED speakers share lessons from past pandemics and what they mean for our future. Guests on the show include science journalist Laura Spinney, anthropologist Heidi Larson, ecologist and animal-borne disease researcher Daniel Streicker, and physician economist Anupam Jena. We also hear some personal stories on coping with COVID-19 from TED speakers Susan Pinker, Leticia Gasca, Dixon Chibanda, and Dawn Wacek. ",
             "duration": "3076",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2020/04/20200409_ted_podcast_final-dbab2479-4ce2-4abb-a231-21518b554cd4.mp3?awCollectionId=510298&awEpisodeId=825896597&aw_0_1st.cv=yes&orgId=1&d=3076&p=510298&story=825896597&t=podcast&e=825896597&size=49101592&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Inoculation"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2020-04-10-inoculation"
         },
         {
             "title": "Teaching For Better Humans 2.0",
@@ -335,7 +370,8 @@
             "description": "More than test scores or good grades—what do kids need for the future? This hour, TED speakers explore how to help children grow into better humans, both during and after this time of crisis. Guests include educators Richard Culatta and Liz Kleinrock, psychologist Thomas Curran, and writer Jacqueline Woodson. ",
             "duration": "3093",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2020/04/20200402_ted_how_we_teach_pod-d3255aee-b3d0-43d6-be56-88c7f3383ae1-644eea34-30bd-47df-9323-b954a32cc8bf.mp3?awCollectionId=510298&awEpisodeId=825994469&aw_0_1st.cv=yes&orgId=1&d=3093&p=510298&story=825994469&t=podcast&e=825994469&size=49384767&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Teaching%20For%20Better%20Humans%202.0"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2020-04-03-teaching-for-better-humans-20"
         },
         {
             "title": "Uncharted",
@@ -344,7 +380,8 @@
             "description": "There's so much we've yet to explore—from outer space to the deep ocean to our own brains. This hour, Manoush goes on a journey through those uncharted places, led by TED Science Curator David Biello. ",
             "duration": "3066",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2020/03/20200327_ted_david_biello__podcast-181fbea7-8e9d-4db4-ba6f-1a9ad98e4c08-b39ba6bf-ddfd-4878-a200-5e98c1de03e0-c030321b-bf79-4145-bd64-d880eb4ba000.mp3?awCollectionId=510298&awEpisodeId=822004716&orgId=1&d=3066&p=510298&story=822004716&t=podcast&e=822004716&size=48954840&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Uncharted"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2020-03-27-uncharted"
         },
         {
             "title": "IRL Online",
@@ -353,7 +390,8 @@
             "description": "Our online lives are now entirely interwoven with our real lives. But the laws that govern real life don't apply online. This hour, TED speakers explore rules to navigate this vast virtual space. Guests include Edward Snowden, misinformation expert Claire Wardle, sociologist Zeynep Tufekci, EU Commissioner for Competition Margrethe Vestager, and social psychologist Adam Alter. ",
             "duration": "3099",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2020/03/20200319_ted_irl_online_final_podcast-f0114920-f243-4ea8-8b3a-b97cf5b118dc-4b879ca2-0e24-4864-9ce3-3f4ef57113d4-e84a07fd-a191-4399-ae87-d10e70b99c07.mp3?awCollectionId=510298&awEpisodeId=818293048&orgId=1&d=3099&p=510298&story=818293048&t=podcast&e=818293048&size=49464831&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=IRL%20Online"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2020-03-20-irl-online"
         },
         {
             "title": "From Manoush: The Opportunity Of Boredom",
@@ -362,7 +400,8 @@
             "description": "With many of us stuck at home right now, it's natural to feel bored and listless. But our new host Manoush Zomorodi is kind of an expert in boredom - she wrote a book and gave a TED Talk on the topic - and she says it doesn't have to be so bad. In 2018, Guy Raz interviewed Manoush for our episode \"Attention Please.\" Listen to why we might actually need to feel bored in order to jump-start our creativity. ",
             "duration": "625",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-mp3/npr/ted/2020/03/20200318_ted_zomorodi.mp3?awCollectionId=510298&awEpisodeId=813765949&orgId=1&d=625&p=510298&story=813765949&t=podcast&e=813765949&size=10012170&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=From%20Manoush%3A%20The%20Opportunity%20Of%20Boredom"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2020-03-18-from-manoush-the-opportunity-of-boredom"
         },
         {
             "title": "Reinvention",
@@ -371,7 +410,8 @@
             "description": "Change is hard. Transitions can be tough. But they're also opportunities to discover and reimagine what you thought you knew. In her first episode, Manoush Zomorodi explores the power of reinvention. Guests include OK Go lead singer Damian Kulash Jr., former college gymnastics coach Valorie Kondos Field, Stockton Mayor Michael Tubbs, and entrepreneur Nick Hanauer. ",
             "duration": "3074",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2020/03/20200313_ted_reinvention_pod-9fef84d9-2092-4ac9-bf80-35c8eaabe4d7-3c7a1042-a78b-498f-ade2-feb90a2ca1a7-5a358963-5530-4011-ac23-d8d698327800-5e295da1-2a54-429c-9460-6e5e4b0e21ae.mp3?awCollectionId=510298&awEpisodeId=813765778&orgId=1&d=3074&p=510298&story=813765778&t=podcast&e=813765778&size=49071183&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Reinvention"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2020-03-13-reinvention"
         },
         {
             "title": "Coming Soon: Manoush! ",
@@ -380,7 +420,8 @@
             "description": "New episodes of TED Radio Hour with host Manoush Zomorodi begin March 13. ",
             "duration": "110",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-mp3/npr/ted/2020/03/20200309_ted_2020trailer.mp3?awCollectionId=510298&awEpisodeId=813641344&orgId=1&d=110&p=510298&story=813641344&t=podcast&e=813641344&size=1753485&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Coming%20Soon%3A%20Manoush!%20"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2020-03-10-coming-soon-manoush"
         },
         {
             "title": "Manoush's Favorites: Circular",
@@ -389,7 +430,8 @@
             "description": "We're back next week with brand new episodes of the TED Radio Hour featuring our new host, Manoush Zomorodi. While we finish those episodes, Manoush shares a favorite episode of the show from over the years. This episode originally aired on December 7, 2018. <br/><br/>We're told if the economy is growing, and if we keep producing, that's a good thing. But at what cost? This hour, TED speakers explore circular systems that regenerate and re-use what we already have. Guests include economist Kate Raworth, environmental activist Tristram Stuart, landscape architect Kate Orff, entrepreneur David Katz, and graphic designer Jessi Arrington. ",
             "duration": "3104",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2020/03/20200304_ted_circular-417fc24c-0b7c-4f13-a775-8325012938dd-fad39c50-7277-45d8-bc76-b0b333e5b96f-d79a7119-d3fa-468c-a4f9-82f84d9ca446-05573cf2-effa-4268-8b3f-7e27c0df03fa.mp3?awCollectionId=510298&awEpisodeId=812477259&orgId=1&d=3104&p=510298&story=812477259&t=podcast&e=812477259&size=49550733&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Manoush's%20Favorites%3A%20Circular"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2020-03-06-manoushs-favorites-circular"
         },
         {
             "title": "Manoush's Favorites: Jumpstarting Creativity",
@@ -398,7 +440,8 @@
             "description": "We're hard at work on new episodes of the TED Radio Hour, which will start rolling out in March. In the meantime, new host Manoush Zomorodi shares some of her favorite episodes of the show. This episode originally aired on May 10, 2019.<br/><br/>Our greatest breakthroughs and triumphs have one thing in common: creativity. But how do you ignite it? And how do you rekindle it? This hour, TED speakers explore ideas on jumpstarting creativity. ",
             "duration": "3141",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2020/02/20200226_ted_jump_creativity-a43be23d-43ae-4fee-b85e-a4bae94b5a8c-b1ab16ac-67b9-44a4-a719-e459e3a2fce3.mp3?awCollectionId=510298&awEpisodeId=809928213&orgId=1&d=3141&p=510298&story=809928213&t=podcast&e=809928213&size=50143290&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Manoush's%20Favorites%3A%20Jumpstarting%20Creativity"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2020-02-28-manoushs-favorites-jumpstarting-creativity"
         },
         {
             "title": "Manoush's Favorites: Gender, Power, And Fairness",
@@ -407,7 +450,8 @@
             "description": "We're hard at work on new episodes of the TED Radio Hour, which will start rolling out in March. In the meantime, new host Manoush Zomorodi shares some of her favorite episodes of the show. This episode originally aired on February 1, 2019.<br/><br/>The Me Too movement has changed the way we think and talk about gender discrimination. This hour, TED speakers explore how the conversation has moved beyond a hashtag, and where we go from here. Guests include Me Too movement founder Tarana Burke, actor and activist Ashley Judd, writer Laura Bates, and anti-sexism educator Jackson Katz. ",
             "duration": "3151",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2020/02/20200220_ted_gender_reckoning-dbdd768a-853a-4d95-9c0f-272151eafd87-b1a974ef-a635-46ca-b3c7-a054ef3f53c4.mp3?awCollectionId=510298&awEpisodeId=807794308&orgId=1&d=3151&p=510298&story=807794308&t=podcast&e=807794308&size=50304669&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Manoush's%20Favorites%3A%20Gender%2C%20Power%2C%20And%20Fairness"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2020-02-21-manoushs-favorites-gender-power-and-fairness"
         },
         {
             "title": "Manoush's Favorites: Moving Forward",
@@ -416,7 +460,8 @@
             "description": "We're hard at work on new episodes of the TED Radio Hour, which will start rolling out in March. In the meantime, new host Manoush Zomorodi shares some of her favorite episodes of the show. This episode originally aired on June 21, 2019. When the life you've built slips out of your grasp, you're often told it's best to move on. But is that true? Instead of forgetting the past, TED speakers describe how we can move forward with it. Guests include writers Nora McInerny and Suleika Jaouad, and human rights advocate Lindy Lou Isonhood.",
             "duration": "3179",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2020/02/20200213_ted_moving_forward_podcast-fe412f21-2a19-4b85-b10b-edf09b298551.mp3?awCollectionId=510298&awEpisodeId=805696655&orgId=1&d=3179&p=510298&story=805696655&t=podcast&e=805696655&size=50761284&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Manoush's%20Favorites%3A%20Moving%20Forward"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2020-02-14-manoushs-favorites-moving-forward"
         },
         {
             "title": "Manoush's Favorites: Painfully Funny",
@@ -425,7 +470,8 @@
             "description": "We're hard at work on new episodes of the TED Radio Hour, which will start rolling out in March. In the meantime, new host Manoush Zomorodi shares some of her favorite episodes of the show. This episode originally aired on March 24, 2017. Humans have a capacity to laugh even in the hardest of times. This hour, TED speakers describe how they use humor as a weapon and a shield, to ward off doubt, discrimination, and even depression. Guests include comedians Sandi Toksvig, Maysoon Zayid, Negin Farsad, and Kevin Breel.",
             "duration": "3202",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2020/02/20200207_ted_painfully-d5c3e291-5909-4020-9048-7796e8c9089a.mp3?awCollectionId=510298&awEpisodeId=803449505&orgId=1&d=3202&p=510298&story=803449505&t=podcast&e=803449505&size=50968950&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Manoush's%20Favorites%3A%20Painfully%20Funny"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2020-02-07-manoushs-favorites-painfully-funny"
         },
         {
             "title": "Manoush's Favorites: Slowing Down",
@@ -434,7 +480,8 @@
             "description": "We're hard at work on new episodes of the TED Radio Hour, which will start rolling out in March. In the meantime, our new host Manoush Zomorodi shares some of her favorite episodes of the show. This episode originally aired on August 28, 2016. We're always asked to be faster and more precise. But what can we learn from slowing down — even procrastinating? This hour, TED speakers explore why taking it slow is crucial...for all of us. Guests include TV producer Thomas Hellum, psychologist Adam Grant, blogger Tim Urban, mindfulness expert Andy Puddicombe, marketer Lakshmi Pratury, and video artist Gabriel Barcia-Colombo.",
             "duration": "3186",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2020/01/20200131_ted_slowing-aae3455a-29cf-4fde-a285-104599818cb8-bbc24645-2846-44d3-9fc7-c57b6e10ee37-ea4cc9fb-4ebd-4878-a892-856f8b75b5a0-f0f205cc-f16d-4d67-8798-9eaaf2819cf4-52f8c259-5614-4ac9-9d0e-7610b6923ac7.mp3?awCollectionId=510298&awEpisodeId=799006959&orgId=1&d=3186&p=510298&story=799006959&t=podcast&e=799006959&size=50865117&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Manoush's%20Favorites%3A%20Slowing%20Down"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2020-01-31-manoushs-favorites-slowing-down"
         },
         {
             "title": "Guy's Favorites: What Is Original?",
@@ -443,7 +490,8 @@
             "description": "As we transition to our new host Manoush Zomorodi, Guy Raz looks back on some of his favorite episodes from his seven years hosting the TED Radio Hour. This episode originally aired on June 27, 2014. When is copying flattery, when is it thievery, and when is it sheer genius? In this hour, TED speakers explore how sampling, borrowing, and riffing make all of us innovators.",
             "duration": "3145",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2020/01/20200124_ted_what-b039c87f-a854-4659-a186-6a4590abf972-73d1765f-be21-4f25-914e-55df07436a70.mp3?awCollectionId=510298&awEpisodeId=797103615&orgId=1&d=3145&p=510298&story=797103615&t=podcast&e=797103615&size=50370138&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Guy's%20Favorites%3A%20What%20Is%20Original%3F"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2020-01-24-guys-favorites-what-is-original"
         },
         {
             "title": "Guy's Favorites: Shifting Time",
@@ -452,7 +500,8 @@
             "description": "As we transition to our new host Manoush Zomorodi, Guy Raz looks back on some of his favorite episodes from his seven years hosting the TED Radio Hour. This episode originally aired on June 19, 2015. We live our lives by the calendar and the clock, but time is also an abstraction, even an illusion. In this hour, TED speakers explore how our sense of time changes depending on who and where we are.",
             "duration": "3169",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2020/01/20200116_ted__shifting-c2699c35-1020-4481-a8c4-1336a4543560-6fb98a86-8c7c-4aed-99e3-15e734a348fd.mp3?awCollectionId=510298&awEpisodeId=796953693&orgId=1&d=3169&p=510298&story=796953693&t=podcast&e=796953693&size=50593233&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Guy's%20Favorites%3A%20Shifting%20Time"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2020-01-17-guys-favorites-shifting-time"
         },
         {
             "title": "Guy's Favorites: Solve For X",
@@ -460,7 +509,8 @@
             "datePublished": "Fri, 10 Jan 2020 00:01:00 -0500",
             "description": "As we transition to our new host Manoush Zomorodi, Guy Raz looks back on some of his favorite episodes from his seven years hosting the TED Radio Hour. This episode originally aired on March 6, 2015. Math intimidates a lot of us, but it can deliver surprising answers to life's pressing questions. In this episode, TED speakers discuss the elegant simplicity, and giddy complexity, of solving for X.",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2020/01/20200110_ted_solve-a2ffcea6-494c-4266-8818-3008bbcf5be2-59c5029d-4117-44c7-a3d6-e7b52c9a2713.mp3?awCollectionId=510298&awEpisodeId=794864660&orgId=1&p=510298&story=794864660&t=podcast&e=794864660&size=50498991&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Guy's%20Favorites%3A%20Solve%20For%20X"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2020-01-10-guys-favorites-solve-for-x"
         },
         {
             "title": "Guy's Favorites: Peering Into Space",
@@ -469,7 +519,8 @@
             "description": "As we transition to our new host Manoush Zomorodi, Guy Raz looks back on some of his favorite episodes from his seven years hosting the TED Radio Hour. This episode originally aired on March 8, 2013. Gazing up at the night sky is simultaneously humbling and utterly thrilling. This hour, we'll hear from TED speakers who share an infectious sense of wonder and curiosity about our place in the universe and what lies beyond our skies. Guests include physicist Brian Greene, writer Phil Plait and astronomer Jill Tarter.",
             "duration": "3096",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2020/01/20200103_ted_peering_into_space-5e913f72-4fff-4694-a727-e60b7445da5b-3c58ae47-2212-4952-82b8-b4ad99773131.mp3?awCollectionId=510298&awEpisodeId=790228204&orgId=1&d=3096&p=510298&story=790228204&t=podcast&e=790228204&size=49426467&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Guy's%20Favorites%3A%20Peering%20Into%20Space"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2020-01-03-guys-favorites-peering-into-space"
         },
         {
             "title": "Guy's Favorites: The Source Of Creativity",
@@ -478,7 +529,8 @@
             "description": "As we transition to our new host Manoush Zomorodi, Guy Raz looks back on some of his favorite episodes over the past seven years. This episode originally aired on October 3, 2014. We want to be creative but channeling our creative impulses is no small feat. Is creativity something we are born with or can we learn it? In this hour, TED speakers examine the mystery of creativity. Guests include musician Sting, neuroscientist Charles Limb, author and educator Sir Ken Robinson, and writer Elizabeth Gilbert.",
             "duration": "3159",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2019/12/20191227_ted_creativity-e40a1ffd-90fb-4446-9eb6-8ef1d94bd142-5cef477a-5e1b-4d10-a6db-77b3977a33db.mp3?awCollectionId=510298&awEpisodeId=790224993&orgId=1&d=3159&p=510298&story=790224993&t=podcast&e=790224993&size=50429769&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Guy's%20Favorites%3A%20The%20Source%20Of%20Creativity"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2019-12-27-guys-favorites-the-source-of-creativity"
         },
         {
             "title": "Wisdom In Hindsight",
@@ -487,7 +539,8 @@
             "description": "Life is full of moments that shape us — and if we're lucky, we might pick up some wisdom along the way. In host Guy Raz's final episode, TED speakers share some of the life lessons they've learned. Guests include writer Pico Iyer, financial literacy advocate Curtis \"Wall Street\" Carroll, and neuroscientist Indre Viskontas.",
             "duration": "3127",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2019/12/20191219_ted_wisdom-4184b909-c014-4238-8243-a82fd8f042e0-841185ce-24fc-402d-b376-0e03091caa66.mp3?awCollectionId=510298&awEpisodeId=789859482&orgId=1&d=3127&p=510298&story=789859482&t=podcast&e=789859482&size=49920612&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Wisdom%20In%20Hindsight"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2019-12-20-wisdom-in-hindsight"
         },
         {
             "title": "Accessing Better Health",
@@ -496,7 +549,8 @@
             "description": "Essential health care is a right, not a privilege ... or is it? This hour, TED speakers explore how we can give everyone access to a healthier way of life, despite who you are or where you live. Guests include physician Raj Panjabi, former NYC health commissioner Mary Bassett, researcher Michael Hendryx, and neuroscientist Rachel Wurzman.",
             "duration": "3105",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2019/12/20191206_ted_health_podcast-9681c4af-c96d-47af-bf21-c6251b71cbdb-330b2cf9-bd9e-4c2b-9172-97f55c83e2ec.mp3?awCollectionId=510298&awEpisodeId=787399828&orgId=1&d=3105&p=510298&story=787399828&t=podcast&e=787399828&size=49569498&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Accessing%20Better%20Health"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2019-12-13-accessing-better-health"
         },
         {
             "title": "How It All Began",
@@ -505,7 +559,8 @@
             "description": "In this hour, TED speakers explore our origins as a species — who we are, where we come from, where we're headed — and how we're connected to everything that came before us. In an updated interview, futurist Juan Enriquez says homo sapiens are becoming a new species, right before our eyes. Other guests from the original 2014 episode include geneticist Spencer Wells, historian David Christian, paleontologist Jack Horner, and anthropologist Louise Leakey.",
             "duration": "3224",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2019/12/20191206_ted_origins-fb1bec04-cf32-4d56-94b1-aacfd283f955.mp3?awCollectionId=510298&awEpisodeId=784530578&orgId=1&d=3224&p=510298&story=784530578&t=podcast&e=784530578&size=51589863&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=How%20It%20All%20Began"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2019-12-06-how-it-all-began"
         },
         {
             "title": "Inspire To Action",
@@ -514,7 +569,8 @@
             "description": "Original broadcast date: May 18, 2018. What motivates us to take up a cause, follow a leader, or create change? This hour, TED speakers explore stories of inspirational leadership, and what makes some movements more successful than others. Guests include high school history teacher Diane Wolk-Rogers, writer and behavioral researcher Simon Sinek, 2016 Icelandic presidential candidate Halla Tomasdottir, professor of leadership Jochen Menges, and writer and activist Naomi Klein.",
             "duration": "3197",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2019/11/20191129_ted_inspire_to_action_rev-9cb698a2-1518-43d7-bdb6-f7e4163f824d.mp3?awCollectionId=510298&awEpisodeId=782955974&orgId=1&d=3197&p=510298&story=782955974&t=podcast&e=782955974&size=50914740&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Inspire%20To%20Action"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2019-11-29-inspire-to-action"
         },
         {
             "title": "In & Out Of Love",
@@ -523,7 +579,8 @@
             "description": "We think of love as a mysterious, unknowable force. Something that happens to us. But what if we could control it? This hour, TED speakers on whether we can decide to fall in — and out of — love. Guests include writer Mandy Len Catron, biological anthropologist Helen Fisher, musician Dessa, One Love CEO Katie Hood, and psychologist Guy Winch.",
             "duration": "3118",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2019/11/20191122_ted_in_and_out-4ccb70ff-bbe1-4c8f-95cb-0cdd37cbfe5f.mp3?awCollectionId=510298&awEpisodeId=781687828&orgId=1&d=3118&p=510298&story=781687828&t=podcast&e=781687828&size=49776747&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=In%20%26%20Out%20Of%20Love"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2019-11-22-in-out-of-love"
         },
         {
             "title": "Open Source World",
@@ -532,7 +589,8 @@
             "description": "Original broadcast date: October 23, 2015. The era of open source has led to countless innovations. When does it work and when is it chaos? In this episode, TED speakers explore how open source is changing how we build, collaborate and govern.",
             "duration": "3143",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2019/11/20191115_ted_opensource-070936bb-337b-4b4f-8ce5-ad304b23ec7d-9adef42c-80da-4f96-a6e7-310873786f06-8e29261f-620b-4b94-a6f3-1f080f4b552d.mp3?awCollectionId=510298&awEpisodeId=779436276&orgId=1&d=3143&p=510298&story=779436276&t=podcast&e=779436276&size=50181654&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Open%20Source%20World"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2019-11-15-open-source-world"
         },
         {
             "title": "Risk",
@@ -541,7 +599,8 @@
             "description": "Why do we revere risk-takers, even when their actions terrify us? Why are some better at taking risks than others? This hour, TED speakers explore the alluring, dangerous, and calculated sides of risk. Guests include professional rock climber Alex Honnold, economist Mariana Mazzucato, psychology researcher Kashfia Rahman, structural engineer and bridge designer Ian Firth, and risk intelligence expert Dylan Evans.",
             "duration": "3120",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2019/11/20191107_ted_risk-0e190b6c-ba3e-4421-a5b6-b898f8b35884.mp3?awCollectionId=510298&awEpisodeId=777330428&orgId=1&d=3120&p=510298&story=777330428&t=podcast&e=777330428&size=49807188&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Risk"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2019-11-08-risk"
         },
         {
             "title": "Overcoming",
@@ -550,7 +609,8 @@
             "description": "Original broadcast date: January 3, 2014. We all have our struggles, whether they be mental, physical, or social. But what is it that makes some of us keep trying and striving to overcome despite the odds? In this hour, TED speakers tell their stories about overcoming a weakness and turning it into a strength. Guests include professor Temple Grandin, poet Shane Koyczan, psychologist Eleanor Longden, and educator Kakenya Ntaiya.",
             "duration": "3121",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2019/11/20191101_ted_overcoming_updated-f1192786-015d-4dc6-9453-785875a422bf-801c009a-892f-4375-bf3e-722a1a236e31.mp3?awCollectionId=510298&awEpisodeId=775092843&orgId=1&d=3121&p=510298&story=775092843&t=podcast&e=775092843&size=49823034&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Overcoming"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2019-11-01-overcoming"
         },
         {
             "title": "What Is Original?",
@@ -559,7 +619,8 @@
             "description": "Original broadcast date: June 27, 2014. When is copying flattery, when is it thievery, and when is it sheer genius? In this hour, TED speakers explore how sampling, borrowing, and riffing make all of us innovators. Guests include DJ Mark Ronson, filmmaker Kirby Ferguson, media and entertainment expert Johanna Blakley, and writer Steven Johnson.",
             "duration": "3131",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2019/10/20191024_ted_tedpod-original-4fdcfbbe-bf64-44ba-98fa-d4de7015ec13-5fb89c15-4cac-4048-ae33-79995721f7f2.mp3?awCollectionId=510298&awEpisodeId=768701049&orgId=1&d=3131&p=510298&story=768701049&t=podcast&e=768701049&size=49988583&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=What%20Is%20Original%3F"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2019-10-25-what-is-original"
         },
         {
             "title": "Rethinking Anger",
@@ -568,7 +629,8 @@
             "description": "Anger is universal and complex: it can be quiet, festering, justified, vengeful, and destructive. This hour, TED speakers explore the many sides of anger, why we need it, and who's allowed to feel it. Guests include psychologists Ryan Martin and Russell Kolts, writer Soraya Chemaly, former talk radio host Lisa Fritsch, and business professor Dan Moshavi.",
             "duration": "3117",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2019/10/20191017_ted_ted-full-9b1fa4e8-7b88-4b83-9b99-e4b79bd65883-3d183dbd-a85f-43b5-921b-054de52e0e8e.mp3?awCollectionId=510298&awEpisodeId=768700886&orgId=1&d=3117&p=510298&story=768700886&t=podcast&e=768700886&size=46696785&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Rethinking%20Anger"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2019-10-18-rethinking-anger"
         },
         {
             "title": "Erasing The Stigma",
@@ -577,7 +639,8 @@
             "description": "Many of us either cope with mental illness or know someone who does. But we still have a hard time talking about it. This hour, TED speakers explore ways to push past — and even erase — the stigma. Guests include musician and comedian Jordan Raskopoulos, neuroscientist and psychiatrist Thomas Insel, psychiatrist Dixon Chibanda, anxiety and depression researcher Olivia Remes, and entrepreneur Sangu Delle.",
             "duration": "3130",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2019/10/20191010_ted_erasing_the_stigma_pod-1d75f77c-d17f-4b65-b0ff-67204c0e74d0-4679d414-ed73-415d-b725-316fa277b2ce.mp3?awCollectionId=510298&awEpisodeId=768700733&orgId=1&d=3130&p=510298&story=768700733&t=podcast&e=768700733&size=49965648&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Erasing%20The%20Stigma"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2019-10-11-erasing-the-stigma"
         },
         {
             "title": "Maslow's Human Needs",
@@ -586,7 +649,8 @@
             "description": "Original broadcast date: April 17, 2015. Humans need food, sleep, safety, love, purpose. Psychologist Abraham Maslow ordered our needs into a hierarchy. This week, TED speakers explore that spectrum of need, from primal to profound. Guests include psychologist Margie Lachman, neuroscientist Russell Foster, computer security expert Bruce Schneier, journalist Sebastian Junger, activist Caroline Casey, and psychologist Mihaly Csikszentmihalyi.",
             "duration": "3129",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2019/10/20191003_ted_maslowpod-0632aa3a-cab7-46a4-8ded-3428ae648588-0dee0696-0b4c-414c-97dd-925a89a39f32.mp3?awCollectionId=510298&awEpisodeId=766861457&orgId=1&d=3129&p=510298&story=766861457&t=podcast&e=766861457&size=49956891&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Maslow's%20Human%20Needs"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2019-10-04-maslows-human-needs"
         },
         {
             "title": "Transparency",
@@ -595,7 +659,8 @@
             "description": "Original broadcast date: December 1, 2017. Sometimes, being truthful can be uncomfortable--even risky. But can radical honesty and openness change things for the better? This hour, TED speakers take transparency all the way to its limit. Guests include business writer David Burkus, entrepreneur Ray Dalio, journalist Trevor Timm, and hospital-patient liaison Leilani Schweitzer.",
             "duration": "3147",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2019/09/20190926_ted_transparencypod-84062192-6e58-47f0-8075-10cb62618325-b12a6f85-8614-40ba-8f47-283516af028e.mp3?awCollectionId=510298&awEpisodeId=762812997&orgId=1&d=3147&p=510298&story=762812997&t=podcast&e=762812997&size=50241702&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Transparency"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2019-09-27-transparency"
         },
         {
             "title": "Teaching For Better Humans",
@@ -604,7 +669,8 @@
             "description": "More than test scores or good grades — what do kids need to prepare them for the future? This hour, guest host Manoush Zomorodi and TED speakers explore how to help children grow into better humans, in and out of the classroom. Guests include educators Olympia Della Flora and Liz Kleinrock, psychologist Thomas Curran, and writer Jacqueline Woodson.",
             "duration": "3122",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2019/09/20190918_ted_teachingpod-a171b3b6-8409-4699-b880-32d05fe3c271.mp3?awCollectionId=510298&awEpisodeId=761342972&orgId=1&d=3122&p=510298&story=761342972&t=podcast&e=761342972&size=49849188&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Teaching%20For%20Better%20Humans"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2019-09-20-teaching-for-better-humans"
         },
         {
             "title": "How Art Changes Us",
@@ -613,7 +679,8 @@
             "description": "Original broadcast date: November 10, 2017. Art can evoke powerful feelings. But can it do more? This hour, TED speakers share ideas on the transformative nature of art and its ability to shape the way we see ourselves and the world around us. Guests include painter and sculptor Titus Kaphar, painters Dre Urhahn and eL Seed, textile artist Magda Sayeg, and conductor Benjamin Zander.",
             "duration": "3137",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2019/09/20190912_ted_how-art-changes-us-tedpod-9efed21f-66f5-4fd8-85b1-d9a5036d667b-2f64ba32-4731-49af-96ca-d70a239de6fe.mp3?awCollectionId=510298&awEpisodeId=759593929&orgId=1&d=3137&p=510298&story=759593929&t=podcast&e=759593929&size=50081157&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=How%20Art%20Changes%20Us"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2019-09-13-how-art-changes-us"
         },
         {
             "title": "Peering Deeper Into Space",
@@ -622,7 +689,8 @@
             "description": "The past few years have ushered in an explosion of new discoveries about our universe. This hour, TED speakers explore the implications of these advances — and the lingering mysteries of the cosmos. Guests include theoretical physicist Allan Adams, planetary scientist Sara Seager, and astrophysicists Natasha Hurley-Walker and Jedidah Isler.",
             "duration": "3171",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2019/09/20190905_ted_peeringintospace-a88b2c7d-d37b-4caf-a6d0-a8b87a546e94-3fca105c-cc5d-450f-8876-d0d62e4573e4.mp3?awCollectionId=510298&awEpisodeId=758025242&orgId=1&d=3171&p=510298&story=758025242&t=podcast&e=758025242&size=50616585&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Peering%20Deeper%20Into%20Space"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2019-09-06-peering-deeper-into-space"
         },
         {
             "title": "The Unknown Brain",
@@ -630,7 +698,8 @@
             "datePublished": "Fri, 30 Aug 2019 00:01:00 -0400",
             "description": "Original broadcast date: February 20, 2015. The brain can seem as mysterious as a distant galaxy, but scientists are starting to map and manipulate its many regions. In this hour, TED speakers take us on a trip through the human brain. Guests include neuroanatomist Jill Bolte-Taylor, neuroscientists Suzana Herculano-Houzel, Nancy Kanwisher, and Rebecca Saxe, and philosopher David Chalmers.",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2019/08/20190830_ted_unknown_brain-3bf19068-561b-4b31-9f99-de661aa826ee-d30c2f03-c2c7-40fc-87a0-1548dd6b8554.mp3?awCollectionId=510298&awEpisodeId=755431776&orgId=1&p=510298&story=755431776&t=podcast&e=755431776&size=50706240&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=The%20Unknown%20Brain"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2019-08-30-the-unknown-brain"
         },
         {
             "title": "Believers And Doubters",
@@ -639,7 +708,8 @@
             "description": "Why do some of us believe, and some of us don't? And can doubt bring our beliefs into sharper focus? In this hour, TED speakers, from ardent aetheists to the devout, explore all ends of the spectrum. In a brand new interview, minister Greg Tonkinson describes how he had to reckon with doubt when his faith was shaken to its core. Other guests from the original 2013 episode include actor Julia Sweeney, and writers Lesley Hazelton, Alain de Botton, and Devdutt Pattanaik.",
             "duration": "3078",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2019/08/20190822_ted_believerspod-8991ee02-aed2-4399-8803-793dab4a3ad8-a778517c-b135-4fbe-9fbd-f1a37e8ac3ac.mp3?awCollectionId=510298&awEpisodeId=753457020&orgId=1&d=3078&p=510298&story=753457020&t=podcast&e=753457020&size=49131231&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Believers%20And%20Doubters"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2019-08-23-believers-and-doubters"
         },
         {
             "title": "Anthropomorphic",
@@ -648,7 +718,8 @@
             "description": "Do animals grieve? Do they have language or consciousness? For a long time, scientists resisted the urge to look for human qualities in animals. This hour, TED speakers explore how that is changing. Guests include biological anthropologist Barbara King, dolphin researcher Denise Herzing, primatologist Frans de Waal, and ecologist Carl Safina.",
             "duration": "3105",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2019/08/20190815_ted_anthropomorphic-937893a6-4a21-400f-bdcf-3ef31ea7c159-7dddd5e5-12f3-4a5b-a60a-a4c5c953bd49.mp3?awCollectionId=510298&awEpisodeId=751431341&orgId=1&d=3105&p=510298&story=751431341&t=podcast&e=751431341&size=49574085&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Anthropomorphic"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2019-08-16-anthropomorphic"
         },
         {
             "title": "Press Play",
@@ -657,7 +728,8 @@
             "description": "Original broadcast date: March 27, 2015. In this episode, TED speakers describe how all forms of amusement — from tossing a ball to video games — can make us smarter, saner and more collaborative. Guests include neuroscientist Jeff Mogil, comedian Charlie Todd, Dr. Stuart Brown, primatologist Isabel Behncke Izquierdo, and researcher Jane McGonigal.",
             "duration": "3153",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2019/08/20190809_ted_press_play-becce1d5-8ee5-48f0-8963-4b5dc5473e21-cad79424-a067-4941-9d59-3db874636ce6.mp3?awCollectionId=510298&awEpisodeId=747304600&orgId=1&d=3153&p=510298&story=747304600&t=podcast&e=747304600&size=50335944&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Press%20Play"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2019-08-09-press-play"
         },
         {
             "title": "How To Be Better",
@@ -666,7 +738,8 @@
             "description": "Self-help advice is filled with quick fixes on \"living your best life.\" But there are no shortcuts. This hour, TED speakers search for meaningful ways to reduce stress, gain confidence, and connect. Guests include conflict mediator Priya Parker, activist Brittany Packnett, cognitive scientist Sabine Doebel, health psychologist Kelly McGonigal, and author Nilofer Merchant.",
             "duration": "3149",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2019/08/20190801_ted_tedpod-how-to-be-better-24ce91b1-6573-49f5-aacf-7ad28eb89b16-bdf223b3-b464-4d1b-83ac-9dff40f065ef.mp3?awCollectionId=510298&awEpisodeId=747299680&orgId=1&d=3149&p=510298&story=747299680&t=podcast&e=747299680&size=49167927&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=How%20To%20Be%20Better"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2019-08-02-how-to-be-better"
         },
         {
             "title": "Dialogue And Exchange",
@@ -675,7 +748,8 @@
             "description": "Original broadcast date: October 27, 2017. We're living in a time of intense ideological division, and it often feels impossible to bridge the gap. But can we afford not to? This hour, TED speakers explore how to communicate across the divide. Guests include social media activist Megan Phelps-Roper, social psychologist Robb Willer, former Norwegian Foreign Minister Jonas Gahr Støre, public radio host Celeste Headlee, and Rabbi Jonathan Sacks.",
             "duration": "3118",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2019/07/20190724_ted_dialog-bb759b7f-3e60-40b0-94f1-1fdf283e460b-da12ffde-17aa-416d-98d6-9d1d0cc6f040.mp3?awCollectionId=510298&awEpisodeId=745340552&orgId=1&d=3118&p=510298&story=745340552&t=podcast&e=745340552&size=49778832&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Dialogue%20And%20Exchange"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2019-07-26-dialogue-and-exchange"
         },
         {
             "title": "Simple Solutions",
@@ -684,7 +758,8 @@
             "description": "Original broadcast date: November 17, 2017. Sometimes, the best solutions to complex problems are simple. But simple doesn't always mean easy. This hour, TED speakers describe the innovation and hard work that goes into achieving simplicity. Guests include designer Mileha Soneji, chef Sam Kass, sleep researcher Wendy Troxel, public health advocate Myriam Sidibe, and engineer Amos Winter.",
             "duration": "3175",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2019/07/20190718_ted_tedpod-simple-solutions-4afc42f0-566d-4337-a5ad-3b05066e3d55.mp3?awCollectionId=510298&awEpisodeId=742179884&orgId=1&d=3175&p=510298&story=742179884&t=podcast&e=742179884&size=50686224&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Simple%20Solutions"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2019-07-19-simple-solutions"
         },
         {
             "title": "Digital Manipulation",
@@ -693,7 +768,8 @@
             "description": "Technology has reshaped our lives in amazing ways. But at what cost? This hour, TED speakers reveal how what we see, read, believe — even how we vote — can be manipulated by the technology we use. Guests include journalist Carole Cadwalladr, consumer advocate Finn Myrstad, writer and marketing professor Scott Galloway, behavioral designer Nir Eyal, and computer graphics researcher Doug Roble.",
             "duration": "3127",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2019/07/20190711_ted_digitalmanipulationpod-4d81f3b0-9af7-4cea-a594-f8698b0406aa-e6b7bac1-a80d-4186-a886-7d3e4ec9c474.mp3?awCollectionId=510298&awEpisodeId=740833056&orgId=1&d=3127&p=510298&story=740833056&t=podcast&e=740833056&size=49915608&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Digital%20Manipulation"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2019-07-12-digital-manipulation"
         },
         {
             "title": "7 Deadly Sins",
@@ -702,7 +778,8 @@
             "description": "Original broadcast date: February 6, 2016. Sinful behavior is human, and nearly impossible to avoid. In this hour, TED speakers talk about the guilty pleasure of behaving badly and the challenge of confronting sin — and avoiding it. Guests include psychologist Christopher Ryan, former Oklahoma City mayor Mick Cornett, activist Dave Meslin, epidemiologist Gary Slutkin, entrepreneur Nick Hanauer, book editor Parul Seghal, and record-holding Jeopardy champion Ken Jennings.",
             "duration": "3174",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2019/07/20190703_ted_sevensinspod-8a2bc9a3-8f04-4712-9c21-e687dc42043c-00aeb9b5-d237-4953-b667-3fd1517f8cc9.mp3?awCollectionId=510298&awEpisodeId=736960506&orgId=1&d=3174&p=510298&story=736960506&t=podcast&e=736960506&size=49753812&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=7%20Deadly%20Sins"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2019-07-05-7-deadly-sins"
         },
         {
             "title": "How We Love",
@@ -711,7 +788,8 @@
             "description": "Original broadcast date: April 25, 2014. Love is instinctive and essential, but what is it that brings certain people together? In this hour, TED speakers examine the mystery of connection and relationships. Guests include writers Amy Webb and Jeff Kluger, Anthropologist Helen Fisher, Psychotherapist Esther Perel, and CEO Angela Patton.",
             "duration": "3204",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2019/06/20190627_ted_lovepodcast-1a67d229-1b35-487f-bae5-e996cbe2af4d.mp3?awCollectionId=510298&awEpisodeId=734413480&orgId=1&d=3204&p=510298&story=734413480&t=podcast&e=734413480&size=51148260&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=How%20We%20Love"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2019-06-28-how-we-love"
         },
         {
             "title": "Moving Forward",
@@ -720,7 +798,8 @@
             "description": "When the life you've built slips out of your grasp, you're often told it's best to move on. But is that true? Instead of forgetting the past, TED speakers describe how we can move forward with it. Guests include writers Nora McInerny and Suleika Jaouad, and human rights advocate Lindy Lou Isonhood.",
             "duration": "3150",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2019/06/20190620_ted_tedpod-moving-forward-c770f4b9-6d19-4319-b42a-092dee70eaab.mp3?awCollectionId=510298&awEpisodeId=734358678&orgId=1&d=3150&p=510298&story=734358678&t=podcast&e=734358678&size=50288823&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Moving%20Forward"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2019-06-21-moving-forward"
         },
         {
             "title": "Future Consequences",
@@ -729,7 +808,8 @@
             "description": "Original broadcast date: September 15, 2017. From data collection to gene editing to AI, what we once considered science fiction is now becoming reality. This hour, TED speakers explore the future consequences of our present actions.Guests include designer Anab Jain, futurist Juan Enriquez, biologist Paul Knoepfler, and neuroscientist and philosopher Sam Harris.",
             "duration": "3149",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2019/06/20190613_ted_tedpod-consequences-394b6d5d-8ece-46bf-a206-5bd4489c77db-02691d22-e1be-4c94-9aeb-9312b3b30541.mp3?awCollectionId=510298&awEpisodeId=730694773&orgId=1&d=3149&p=510298&story=730694773&t=podcast&e=730694773&size=50271726&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Future%20Consequences"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2019-06-14-future-consequences"
         },
         {
             "title": "Climate Crisis",
@@ -738,7 +818,8 @@
             "description": "There's no greater threat to humanity than climate change. What can we do to stop the worst consequences? This hour, TED speakers explore how we can save our planet and whether we can do it in time. Guests include climate activist Greta Thunberg, chemical engineer Jennifer Wilcox, research scientist Sean Davis, food innovator Bruce Friedrich, and psychologist Per Espen Stoknes.",
             "duration": "3269",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2019/06/20190606_ted_tedpod-02f4571d-8633-4777-9a91-5351d28c90e9-79dac66f-0fdb-4417-8696-1b476706e717.mp3?awCollectionId=510298&awEpisodeId=729246198&orgId=1&d=3269&p=510298&story=729246198&t=podcast&e=729246198&size=51511467&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Climate%20Crisis"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2019-06-07-climate-crisis"
         },
         {
             "title": "Prevention",
@@ -747,7 +828,8 @@
             "description": "Original broadcast date: July 21, 2017. We often know how to plan for the future, but find it hard to take the necessary steps. This hour, TED speakers challenge the inevitable and explore what to do today to prepare ourselves for tomorrow. TED speakers include neuroscientists Daniel Levitin and Rebecca Brachman, writer Lisa Genova, epidemiologist Seth Berkley, and behavioral economist Daniel Goldstein.",
             "duration": "3178",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2019/05/20190530_ted_prevention-8feaec00-26d7-47a5-b60f-c523f168a5c6.mp3?awCollectionId=510298&awEpisodeId=728242682&orgId=1&d=3178&p=510298&story=728242682&t=podcast&e=728242682&size=50730426&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Prevention"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2019-05-31-prevention"
         },
         {
             "title": "Setbacks",
@@ -756,7 +838,8 @@
             "description": "Failure can feel lonely and final. But can we learn from failure, even reframe it, to feel more like a temporary setback? This hour, TED speakers on changing a crushing defeat into a stepping stone. Guests include entrepreneur Leticia Gasca, psychology professor Alison Ledgerwood, astronomer Phil Plait, former professional athlete Charly Haversat, and UPS training manager Jon Bowers.",
             "duration": "3272",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2019/05/20190523_ted_tedpod-48bf67ed-03a1-4e12-be1e-af2e8bc799ff.mp3?awCollectionId=510298&awEpisodeId=726153288&orgId=1&d=3272&p=510298&story=726153288&t=podcast&e=726153288&size=52237881&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Setbacks"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2019-05-24-setbacks"
         },
         {
             "title": "Going Undercover",
@@ -765,7 +848,8 @@
             "description": "Original broadcast date: December 15, 2017. Are deception and secrecy categorically wrong? Or can they be a necessary means to an end? This hour, TED speakers share stories of going undercover to explore unknown territory, and find the truth. Guests include poet and activist Theo E.J. Wilson, journalist Jamie Bartlett, counter-terrorism expert Mubin Shaikh, and educator Shabana Basij-Rasikh.",
             "duration": "3194",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2019/05/20190515_ted_undercoverpod-78d5976d-da5d-4dbd-8aad-7455bb5d9794.mp3?awCollectionId=510298&awEpisodeId=723523201&orgId=1&d=3194&p=510298&story=723523201&t=podcast&e=723523201&size=50989800&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Going%20Undercover"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2019-05-17-going-undercover"
         },
         {
             "title": "Jumpstarting Creativity",
@@ -774,7 +858,8 @@
             "description": "Our greatest breakthroughs and triumphs have one thing in common: creativity. But how do you ignite it? And how do you rekindle it? This hour, TED speakers explore ideas on jumpstarting creativity. Guests include economist Tim Harford, producer Helen Marriage, artificial intelligence researcher Steve Engels, and behavioral scientist Marily Oppezzo.",
             "duration": "3184",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2019/05/20190509_ted_creativitypodcast-fde7503f-db0e-40c2-9a47-16ad6531b82b.mp3?awCollectionId=510298&awEpisodeId=721741595&orgId=1&d=3184&p=510298&story=721741595&t=podcast&e=721741595&size=50827170&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Jumpstarting%20Creativity"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2019-05-10-jumpstarting-creativity"
         },
         {
             "title": "Becoming Wise",
@@ -783,7 +868,8 @@
             "description": "Original broadcast date: June 10, 2016. We usually get wiser with age, but that doesn't mean we have to grow up to wise up. This hour, TED speakers explore what it means to find wisdom at every stage of life. Guests include journalist Joshua Prager, writer Adora Svitak, conservationist Boyd Varty, advocate Tony Porter, and psychiatrist Robert Waldinger.",
             "duration": "3205",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2019/05/20190502_ted_wisdompodcast-8acc753f-a590-48a2-a2b2-b3034297f50e-e07a31d1-96f0-415a-b675-2a9b4515d6bc.mp3?awCollectionId=510298&awEpisodeId=719555967&orgId=1&d=3205&p=510298&story=719555967&t=podcast&e=719555967&size=51157851&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Becoming%20Wise"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2019-05-03-becoming-wise"
         },
         {
             "title": "Keeping Secrets",
@@ -792,7 +878,8 @@
             "description": "Who should get to keep secrets, and who should demand to know them? In this hour, TED speakers talk about the damage secrets can do, and the shifting roles we play when we keep, or share them. In a special updated interview, Global Witness co-founder Charmian Gooch explains how secrecy and corruption have changed in the five years since she gave her TED talk. Other guests from the original 2015 episode include PostSecret founder Frank Warren, equality advocate Ash Beckham, and journalist Glenn Greenwald.",
             "duration": "3133",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2019/04/20190425_ted_secretspodcast-f3bbba67-ffce-49ac-8f06-afff46089014-427da72a-4510-4e7b-9548-6e212d4ad36b.mp3?awCollectionId=510298&awEpisodeId=717119988&orgId=1&d=3133&p=510298&story=717119988&t=podcast&e=717119988&size=50012352&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Keeping%20Secrets"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2019-04-26-keeping-secrets"
         },
         {
             "title": "Failure Is An Option",
@@ -801,7 +888,8 @@
             "description": "Original broadcast date: July 29, 2016. Failure can be devastating, but it can also make us stronger and smarter. This week, TED speakers explore how failure clears the way for success, in our everyday work, and our innermost lives. Guests include entrepreneur Astro Teller, economist Tim Harford, author Casey Gerald, and writer Lidia Yuknavitch.",
             "duration": "3142",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2019/04/20190416_ted_failure-44d68abf-a012-4f3b-ba03-d0620c35994f-6693182d-1224-4bc8-96c9-0eaca6baa621.mp3?awCollectionId=510298&awEpisodeId=712287281&orgId=1&d=3142&p=510298&story=712287281&t=podcast&e=712287281&size=50152464&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Failure%20Is%20An%20Option"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2019-04-19-failure-is-an-option"
         },
         {
             "title": "Changing The World",
@@ -810,7 +898,8 @@
             "description": "What does it take to change the world for the better? This hour, TED speakers explore ideas on activism—what motivates it, why it matters, and how each of us can make a difference. Guests include civil rights activist Ruby Sales, labor leader and civil rights activist Dolores Huerta, author Jeremy Heimans, \"craftivist\" Sarah Corbett, and designer and futurist Angela Oguntala.",
             "duration": "3249",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2019/04/20190411_ted_tedpod-5945912c-02a6-4d15-a461-537b68555e2c.mp3?awCollectionId=510298&awEpisodeId=712287234&orgId=1&d=3249&p=510298&story=712287234&t=podcast&e=712287234&size=51862998&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Changing%20The%20World"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2019-04-12-changing-the-world"
         },
         {
             "title": "How Things Spread",
@@ -819,7 +908,8 @@
             "description": "Original broadcast date: March 4, 2016. What makes an idea, a brand, or a behavior catch fire? This hour, TED speakers explore the mysteries behind the many things we spread: laughter and sadness, imagination, viruses and viral ideas. Guests include neuroscientist Sophie Scott, entrepreneur Seth Godin, philanthropist Bill Gates, social scientist Nicholas Christakis, and historian Yuval Harari.",
             "duration": "3188",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2019/04/20190404_ted_spreadpodcast-3701a5a7-8fc5-4a07-bbe0-87e33f17a0a0.mp3?awCollectionId=510298&awEpisodeId=709856335&orgId=1&d=3188&p=510298&story=709856335&t=podcast&e=709856335&size=50733345&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=How%20Things%20Spread"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2019-04-05-how-things-spread"
         },
         {
             "title": "Confronting Racism",
@@ -828,7 +918,8 @@
             "description": "Racism isn't always obvious, but it can be found almost everywhere. This hour, TED speakers explore the effects of everyday and systemic racism in America—and how we can work to defeat it. Guests include authors Brittney Cooper and Monique Morris, journalism professor Pat Ferrucci, clinical psychologist Howard Stevenson, and anti-racism educator Travis Jones.",
             "duration": "3333",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2019/03/20190328_ted_racepodcast-a0ce6b77-e928-44fd-8e74-f19aacb4f112.mp3?awCollectionId=510298&awEpisodeId=707709197&orgId=1&d=3333&p=510298&story=707709197&t=podcast&e=707709197&size=53212410&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Confronting%20Racism"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2019-03-29-confronting-racism"
         },
         {
             "title": "Shifting Time",
@@ -837,7 +928,8 @@
             "description": "Original broadcast date: June 19, 2015. We live our lives by the calendar and the clock, but time is also an abstraction, even an illusion. In this hour, TED speakers explore how our sense of time changes depending on who and where we are. Guests include director Cesar Kuriyama, poet Rives, psychologists Dan Gilbert and Laura Carstensen, and cosmologist Sean Carroll.",
             "duration": "3232",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2019/03/20190321_ted_tedpod-e23ef1fc-6c3d-4d8c-9502-b7b3da1a818b.mp3?awCollectionId=510298&awEpisodeId=705531119&orgId=1&d=3232&p=510298&story=705531119&t=podcast&e=705531119&size=51586944&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Shifting%20Time"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2019-03-22-shifting-time"
         },
         {
             "title": "Don't Fear Math",
@@ -846,7 +938,8 @@
             "description": "Why do many of us hate, even fear math? Why are we convinced we're bad at it? This hour, TED speakers explore the myths we tell ourselves and how changing our approach can unlock the beauty of math. Guests include budgeting specialist Phylecia Jones, mathematician and educator Dan Finkel, math teacher Eddie Woo, educator Masha Gershman, and radio personality and eternal math nerd Adam Spencer.",
             "duration": "3216",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2019/03/20190315_ted_mathpodcast-3c421a39-c5c8-42b1-97e4-6d0588a0a79b.mp3?awCollectionId=510298&awEpisodeId=703329880&orgId=1&d=3216&p=510298&story=703329880&t=podcast&e=703329880&size=0&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Don't%20Fear%20Math"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2019-03-15-dont-fear-math"
         },
         {
             "title": "Hardwired",
@@ -855,7 +948,8 @@
             "description": "Original broadcast date: August 25, 2017. How much of who we are is biology? How much is learned? And how much can we change? This hour, TED speakers on how genes and experience collaborate — and compete — to make us who we are. TED speakers include neuroscientist Robert Sapolsky, epigeneticist Moshe Szyf, pediatrician Nadine Burke Harris, and psychologist Brian Little.",
             "duration": "3178",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2019/03/20190308_ted_tedpod-87967610-91a3-4c01-9d4d-37a26d18170e.mp3?awCollectionId=510298&awEpisodeId=701212885&orgId=1&d=3178&p=510298&story=701212885&t=podcast&e=701212885&size=0&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Hardwired"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2019-03-08-hardwired"
         },
         {
             "title": "Luck, Fortune, And Chance",
@@ -864,7 +958,8 @@
             "description": "What makes someone lucky? Can luck be controlled, is it random, or is it based on something else entirely? This hour, TED speakers explore ideas about why some people seem so much luckier than others. Guests include former professional poker player Liv Boeree, professor of entrepreneurship Tina Seelig, community activist Amy Hunter, journalist Mark Sutcliffe, and youth services advocate Eshauna Smith.",
             "duration": "3145",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2019/03/20190301_ted_tedpod-c73ab8be-8b83-466b-9e13-aeb33958a997.mp3?awCollectionId=510298&awEpisodeId=699108738&orgId=1&d=3145&p=510298&story=699108738&t=podcast&e=699108738&size=0&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Luck%2C%20Fortune%2C%20And%20Chance"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2019-03-01-luck-fortune-and-chance"
         },
         {
             "title": "A Better You",
@@ -873,7 +968,8 @@
             "description": "(Original broadcast date: June 16, 2017.) Many of us are lured by the promise of self-improvement, but find it hard to follow through. In our 100th episode, TED speakers reveal ways to discover our better selves. TED speakers include entrepreneur Jia Jang, Headspace co-founder Andy Puddicombe, psychologist Emily Balcetis, technologist Matt Cutts, and New York Times columnist David Brooks.",
             "duration": "3212",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2019/02/20190221_ted_betteryoupod-9ba8cbc6-1e2b-4e64-a0bb-8338e0920d2c.mp3?awCollectionId=510298&awEpisodeId=696599672&orgId=1&d=3212&p=510298&story=696599672&t=podcast&e=696599672&size=0&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=A%20Better%20You"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2019-02-22-a-better-you"
         },
         {
             "title": "Bias And Perception",
@@ -882,7 +978,8 @@
             "description": "How does bias distort our thinking, our listening, our beliefs... and even our search results? How can we fight it? This hour, TED speakers explore ideas about the unconscious biases that shape us. Guests include writer and broadcaster Yassmin Abdel-Magied, climatologist J. Marshall Shepherd, journalist Andreas Ekström, and experimental psychologist Tony Salvador.",
             "duration": "3151",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2019/02/20190214_ted_tedpod-31591dfe-50de-445c-8961-03452d8e1ebc.mp3?awCollectionId=510298&awEpisodeId=694729259&orgId=1&d=3151&p=510298&story=694729259&t=podcast&e=694729259&size=0&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Bias%20And%20Perception"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2019-02-15-bias-and-perception"
         },
         {
             "title": "Finite",
@@ -891,7 +988,8 @@
             "description": "Original broadcast date: July 17, 2015. In a world with limited resources, can we find ways to salvage what's disappearing? Can we innovate our way out of a finite landscape? This hour, TED speakers explore ideas about living with less. Guests include ethnobotanist Mark Plotkin, ecologist Jon Foley, economist Ramanan Laxminarayan, community organizer Rob Hopkins, and researcher Navi Radjou.",
             "duration": "3216",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2019/02/20190207_ted_finitepodcast-bc2f72e4-800b-46c9-b0fb-30af05748b1e.mp3?awCollectionId=510298&awEpisodeId=691588219&orgId=1&d=3216&p=510298&story=691588219&t=podcast&e=691588219&size=0&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Finite"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2019-02-08-finite"
         },
         {
             "title": "Gender, Power, and Fairness",
@@ -900,7 +998,8 @@
             "description": "The Me Too movement has changed the way we think and talk about gender discrimination. This hour, TED speakers explore how the conversation has moved beyond a hashtag, and where we go from here. Guests include Me Too movement founder Tarana Burke, actor and activist Ashley Judd, writer Laura Bates, and anti-sexism educator Jackson Katz.",
             "duration": "3152",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2019/01/20190121_ted_tedpod-14e457c2-abf8-45a0-adc4-cfaaf0a2ff6f.mp3?awCollectionId=510298&awEpisodeId=690381109&orgId=1&d=3152&p=510298&story=690381109&t=podcast&e=690381109&size=0&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Gender%2C%20Power%2C%20and%20Fairness"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2019-02-01-gender-power-and-fairness"
         },
         {
             "title": "Wired For Altruism",
@@ -909,7 +1008,8 @@
             "description": "(Original broadcast date: May 26, 2017). Helping others feels good, but why do some go farther than others? This hour, TED speakers explore ideas about altruism — what motivates us to be altruistic, what limits us and do we ever go too far. TED speakers include psychologist Abigail Marsh, clinical psychologist Cheryl Steed, philosopher Peter Singer, and writer Larissa MacFarquhar.",
             "duration": "3232",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2019/01/20190124_ted_altruismpod-ec33e9f2-7fdf-4f21-b822-c7974a757976.mp3?awCollectionId=510298&awEpisodeId=688147476&orgId=1&d=3232&p=510298&story=688147476&t=podcast&e=688147476&size=0&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Wired%20For%20Altruism"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2019-01-25-wired-for-altruism"
         },
         {
             "title": "Approaching With Kindness",
@@ -918,7 +1018,8 @@
             "description": "We often forget to say the words \"thank you.\" But can those two words change how you — and those around you — look at the world? This hour, TED speakers on the power of gratitude and appreciation. Guests include author AJ Jacobs, author and former baseball player Mike Robbins, Dr. Laura Trice, Professor of Management Christine Porath, and former Danish politician Özlem Cekic.",
             "duration": "3158",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2019/01/20190117_ted_kindnesspodcast-6b50d2b9-5085-4e39-9c28-6ee23da07431.mp3?awCollectionId=510298&awEpisodeId=686328012&orgId=1&d=3158&p=510298&story=686328012&t=podcast&e=686328012&size=0&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Approaching%20With%20Kindness"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2019-01-18-approaching-with-kindness"
         },
         {
             "title": "Forgiveness",
@@ -927,7 +1028,8 @@
             "description": "Original broadcast date: May 12, 2017. When loss, violence, or betrayal test our willingness to forgive — how do we do it anyway? This hour, TED speakers explore the challenges and benefits of forgiving others — and ourselves. Guests include mental health advocate Sue Klebold, co-authors Thordis Elva and Tom Stranger, and writer Elizabeth Lesser.",
             "duration": "3212",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2018/01/20180111_ted_tedpod-67cce0db-8e03-43da-8130-497eba01347f.mp3?awCollectionId=510298&awEpisodeId=683604166&orgId=1&d=3212&p=510298&story=683604166&t=podcast&e=683604166&size=0&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Forgiveness"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2019-01-11-forgiveness"
         },
         {
             "title": "Extrasensory",
@@ -936,7 +1038,8 @@
             "description": "Original broadcast date: March 7, 2014. In this hour, TED speakers question whether we can experience the world more deeply by not only extending our senses — but going beyond them. Guests include artist Neil Harbisson, engineer Todd Kuiken, speech scientist Rupal Patel, and sound expert Julian Treasure.",
             "duration": "3181",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2019/01/20190104_ted_tedpod-f6e34ae5-2fd5-4b0c-890f-85d2d852a749.mp3?awCollectionId=510298&awEpisodeId=678628385&orgId=1&d=3181&p=510298&story=678628385&t=podcast&e=678628385&size=0&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Extrasensory"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2019-01-04-extrasensory"
         },
         {
             "title": "Transformation",
@@ -945,7 +1048,8 @@
             "description": "Are we simply the sum of our experiences? Or can we choose our own path? In this hour, TED speakers share stories of undergoing remarkable transformations despite extraordinary challenges. In a special updated interview, biophysicist Hugh Herr explains that in the coming decades, wearable robotics will allow humans to augment their physical capabilities. Other guests from the original 2014 episode include peace advocate Zak Ibrahim, model Geena Rocero, and criminal justice reform advocate Shaka Sengor.",
             "duration": "3213",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2018/12/20181224_ted_transformationpod-e618b975-ef56-4ff5-a2d7-0be5b11920e5.mp3?awCollectionId=510298&awEpisodeId=678627705&orgId=1&d=3213&p=510298&story=678627705&t=podcast&e=678627705&size=0&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Transformation"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2018-12-28-transformation"
         },
         {
             "title": "The Next Frontier",
@@ -954,7 +1058,8 @@
             "description": "Colonizing Mars or more distant planets seems like science fiction. But becoming a spacefaring species may be in our near future. This hour, TED speakers on living beyond Earth--and whether we should. Guests include NASA Chief Scientist James Green, science writer Stephen Petranek, MIT Media Lab researcher Lisa Nip, and astronomer Lucianne Walkowicz.",
             "duration": "3188",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2018/12/20181220_ted_frontierpod-c7d6d317-abeb-4793-ae81-f9789401a67c.mp3?awCollectionId=510298&awEpisodeId=678626170&orgId=1&d=3188&p=510298&story=678626170&t=podcast&e=678626170&size=0&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=The%20Next%20Frontier"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2018-12-21-the-next-frontier"
         },
         {
             "title": "Courage",
@@ -963,7 +1068,8 @@
             "description": "(Original broadcast date: December 12, 2014) What does it mean to be courageous? Is it an automatic response or a conscious choice? This hour, TED speakers examine the nature of courage and what it takes to risk everything to do the right thing. Guests include entrepreneur Margaret Heffernan, reporter Janine di Giovanni, lawyer Kimberley Motley, and president of Planned Parenthood Dr. Leana Wen.",
             "duration": "3228",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2018/12/20181212_ted_tedpod-67509140-d005-45f5-843a-c39099db7660.mp3?awCollectionId=510298&awEpisodeId=675556190&orgId=1&d=3228&p=510298&story=675556190&t=podcast&e=675556190&size=0&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Courage"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2018-12-14-courage"
         },
         {
             "title": "Circular",
@@ -972,7 +1078,8 @@
             "description": "We're told if the economy is growing, and if we keep producing, that's a good thing. But at what cost? This hour, TED speakers explore circular systems that regenerate and re-use what we already have. Guests include economist Kate Raworth, environmental activist Tristram Stuart, landscape architect Kate Orff, entrepreneur David Katz, and graphic designer Jessi Arrington.",
             "duration": "3162",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2018/12/20181217_ted_tedpod-e425776a-ab4b-49e2-8a21-85860ef300e2.mp3?awCollectionId=510298&awEpisodeId=674353501&orgId=1&d=3162&p=510298&story=674353501&t=podcast&e=674353501&size=0&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Circular"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2018-12-07-circular"
         },
         {
             "title": "Misconceptions",
@@ -981,7 +1088,8 @@
             "description": "Original broadcast date: November 15, 2013. What if truths we believe in are completely wrong? In this hour, TED speakers move beyond conventional wisdom to reveal complex realities about what we think we know to be true. Guests include writers Malcolm Gladwell, Jennifer 8. Lee and Leslie T. Chang, environmentalist Allan Savory, and psychologist Barry Schwartz.",
             "duration": "3244",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-mp3/npr/ted/2018/11/20181128_ted_tedpod.mp3?awCollectionId=510298&awEpisodeId=670861557&orgId=1&d=3244&p=510298&story=670861557&t=podcast&e=670861557&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Misconceptions"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2018-11-30-misconceptions"
         },
         {
             "title": "Speaking Up",
@@ -990,7 +1098,8 @@
             "description": "Original broadcast date: April 7, 2017. Whether it's asking for a raise or asking for equality, speaking up can be risky — even dangerous. This hour, TED speakers share ideas and stories about taking the crucial step to say something. Guests include activists Esra'a and Dalia Mogahed, climate scientist James Hansen, social psychologist Adam Galinsky, and poet Clint Smith.",
             "duration": "3173",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2018/11/20181120_ted_tedpod-06636d07-0500-4583-8506-b9804ed85da8.mp3?awCollectionId=510298&awEpisodeId=669766782&orgId=1&d=3173&p=510298&story=669766782&t=podcast&e=669766782&size=0&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Speaking%20Up"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2018-11-23-speaking-up"
         },
         {
             "title": "Where Joy Hides",
@@ -999,7 +1108,8 @@
             "description": "When we focus so much on achievement and success, it's easy to lose sight of joy. This hour, TED speakers search for joy in unexpected places, and explain why it's crucial to a fulfilling life. Speakers include inventor Simone Giertz, designer Ingrid Fetell Lee, journalist David Baron, and musician Meklit Hadero.",
             "duration": "3154",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2018/11/20181115_ted_tedpod-5e3fb096-5231-43a0-b44c-d688a0f1a300.mp3?awCollectionId=510298&awEpisodeId=668278391&orgId=1&d=3154&p=510298&story=668278391&t=podcast&e=668278391&size=0&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Where%20Joy%20Hides"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2018-11-16-where-joy-hides"
         },
         {
             "title": "Quiet",
@@ -1008,7 +1118,8 @@
             "description": "Original broadcast date: November 21, 2014. In this episode, we explore ways to find quiet in our busy lives. How can we step back and make time to reflect in an increasingly distracted and hurried world? Guests include environmentalist John Francis, authors Susan Cain and Gavin Pretor-Pinney, musician Megan Washington, and writer Pico Iyer.",
             "duration": "3225",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2018/11/20181108_ted_quietpod-2925e645-48cb-406c-bb76-5a70664d4064.mp3?awCollectionId=510298&awEpisodeId=665224869&orgId=1&d=3225&p=510298&story=665224869&t=podcast&e=665224869&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Quiet"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2018-11-09-quiet"
         },
         {
             "title": "Unintended Consequences",
@@ -1017,7 +1128,8 @@
             "description": "Human innovation has transformed the way we live, often for the better. But as our technologies grow more powerful, so do their consequences. This hour, TED speakers explore technology's dark side. Guests include writer and artist James Bridle, historians Yuval Noah Harari and Edward Tenner, internet security strategist Yasmin Green, and journalist Kashmir Hill.",
             "duration": "3198",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2018/11/20181101_ted_tedpod-823b6a8d-ef55-4156-b64b-cfee864fae6f.mp3?awCollectionId=510298&awEpisodeId=663028741&orgId=1&d=3198&p=510298&story=663028741&t=podcast&e=663028741&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Unintended%20Consequences"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2018-11-02-unintended-consequences"
         },
         {
             "title": "Painfully Funny",
@@ -1026,7 +1138,8 @@
             "description": "Original broadcast date: March 24, 2017. Humans have a capacity to laugh even in the hardest of times. This hour, TED speakers describe how they use humor as a weapon and a shield, to ward off doubt, discrimination, and even depression. Guests include comedians Sandi Toksvig, Maysoon Zayid, Negin Farsad, and Kevin Breel.",
             "duration": "3227",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2018/10/20181025_ted_painfullyfunnypod-c04a0f88-c248-4243-a01b-1a45b6368435.mp3?awCollectionId=510298&awEpisodeId=658918266&orgId=1&d=3227&p=510298&story=658918266&t=podcast&e=658918266&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Painfully%20Funny"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2018-10-26-painfully-funny"
         },
         {
             "title": "The Food We Eat",
@@ -1035,7 +1148,8 @@
             "description": "Original broadcast date: November 17, 2016. Food is more than nourishment. It's a source of pleasure — and guilt — and an agent of change. This episode, TED speakers explore our deep connection to food, and where it's headed. Guests include community leader Pam Warhurst, food writer Mark Bittman, pediatrician Robert Lustig, experimental psychologist Charles Spence, and entomologist Marcel Dicke.",
             "duration": "3194",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2018/10/20181018_ted_tedpod-6934eaab-e6e2-4313-8b0b-bb4d4a180d85.mp3?awCollectionId=510298&awEpisodeId=658480421&orgId=1&d=3194&p=510298&story=658480421&t=podcast&e=658480421&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=The%20Food%20We%20Eat"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2018-10-19-the-food-we-eat"
         },
         {
             "title": "Hacking The Law",
@@ -1044,7 +1158,8 @@
             "description": "We have a vision of justice as blind, impartial, and fair — but in reality, the law often fails those who need it most. This hour, TED speakers explore radical ways to change the legal system. Guests include lawyer and social justice advocate Robin Steinberg, animal rights lawyer Steven Wise, political activist Brett Hennig, and lawyer and social entrepreneur Vivek Maru.",
             "duration": "3169",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2018/10/20181011_ted_tedpod-a19d8660-c799-45f5-b247-a0b78c6e6e29.mp3?awCollectionId=510298&awEpisodeId=656505943&orgId=1&d=3169&p=510298&story=656505943&t=podcast&e=656505943&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Hacking%20The%20Law"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2018-10-12-hacking-the-law"
         },
         {
             "title": "What Makes Us ... Us",
@@ -1053,7 +1168,8 @@
             "description": "For thousands of years, we've searched to answer the question: Who are we? Today, science has brought us closer than ever to the answer. This hour, TED speakers share ideas on what makes us ... us. In a brand new interview, neuroscientist Anil Seth explores how our brains construct our conscious reality--everything we perceive, from objects to emotions. Other guests from the original 2016 episode include biochemist Sam Sternberg, psychologist Steven Pinker, and humorist Ze Frank.",
             "duration": "3226",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2018/10/20181005_ted_tedpod-3165e639-df84-41da-88d5-18fc47a6b3fe.mp3?awCollectionId=510298&awEpisodeId=652211875&orgId=1&d=3226&p=510298&story=652211875&t=podcast&e=652211875&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=What%20Makes%20Us%20...%20Us"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2018-10-05-what-makes-us-us"
         },
         {
             "title": "Building Humane Cities",
@@ -1062,7 +1178,8 @@
             "description": "Cities are symbols of hope and opportunity. But today, overcrowding and gentrification are hurting their most vulnerable residents. This hour, TED speakers explore how we can build more humane cities. Guests include architects Liz Ogbu and Vishaan Chakrabarti, writer OluTimehin Adegbeye, former Albuquerque Mayor Richard Berry, and journalist Drew Philp.",
             "duration": "3151",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2018/09/20180927_ted_tedpod-9edb298a-3781-477c-ba16-bb6b4a50569a-c82df517-b1e6-4d47-82ad-06bc5cb83933.mp3?awCollectionId=510298&awEpisodeId=652222731&orgId=1&d=3151&p=510298&story=652222731&t=podcast&e=652222731&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Building%20Humane%20Cities"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2018-09-28-building-humane-cities"
         },
         {
             "title": "Getting Better",
@@ -1071,7 +1188,8 @@
             "description": "Original broadcast date: February 10, 2017. We expect a lot of our doctors, but they don't always have the best tools to treat us. This episode, TED speakers explore new ways to think about disease, diagnosis, and the delicate art of healing. Guests include filmmaker Jennifer Brea, anesthesiologist Elliot Krane, law professor Dorothy Roberts, and cardiologist Paula Johnson.",
             "duration": "3205",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2018/09/20180919_ted_tedpod-5dfe32a8-8e68-45b5-bd33-2f6bdad238f1.mp3?awCollectionId=510298&awEpisodeId=649835660&orgId=1&d=3205&p=510298&story=649835660&t=podcast&e=649835660&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Getting%20Better"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2018-09-21-getting-better"
         },
         {
             "title": "Decisions Decisions Decisions ",
@@ -1080,7 +1198,8 @@
             "description": "Original broadcast date: March 10, 2017. Whether you're choosing spaghetti sauce or a life partner, making decisions can be paralyzing. This hour, TED speakers explore how we make the choices we make, and how we learn to live with them. Guests include author Malcolm Gladwell, psycho-economist Sheena Iyengar, philosopher Ruth Chang, and behavioral economist Dan Ariely.",
             "duration": "3143",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2018/09/20180912_ted_tedpod-037ec043-0755-414c-afcd-cafdceac551a-fc1dcb14-7641-4f4b-a34c-0ba7160ed5ca.mp3?awCollectionId=510298&awEpisodeId=646690220&orgId=1&d=3143&p=510298&story=646690220&t=podcast&e=646690220&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Decisions%20Decisions%20Decisions%20"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2018-09-14-decisions-decisions-decisions"
         },
         {
             "title": "Dying Well",
@@ -1089,7 +1208,8 @@
             "description": "Is there a way to talk about death candidly, without fear ... and even with humor? How can we best prepare for it with those we love? This hour, TED speakers explore the beauty of life ... and death. Guests include lawyer Jason Rosenthal, humorist Emily Levine, banker and travel blogger Michelle Knox, mortician Caitlin Doughty, and entrepreneur Lux Narayan.",
             "duration": "3180",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2018/09/20180906_ted_tedpod-ec6a526b-eea4-4020-b496-082b1c4cd4b2.mp3?awCollectionId=510298&awEpisodeId=643774281&orgId=1&d=3180&p=510298&story=643774281&t=podcast&e=643774281&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Dying%20Well"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2018-09-07-dying-well"
         },
         {
             "title": "Hidden",
@@ -1098,7 +1218,8 @@
             "description": "What lies beyond the reach of the naked eye, and how do these hidden forces shape our lives? This hour, TED speakers reveal forgotten cities, underwater canyons, tiny parasites, and a boiling river. In a special updated interview, space archaeologist Sarah Parcak explains how a global team of citizen scientists has helped her discover thousands of ancient hidden sites. Other guests from the original 2016 episode include computer scientist Abe Davis, ocean explorer Robert Ballard, science writer Ed Yong, and geoscientist Andrés Ruzo.",
             "duration": "3270",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2018/08/20180830_ted_tedpod2-f007c57d-a237-4d1e-ad79-48451b04bccb-67e39b19-d574-4983-9b84-e1e44d76bd20.mp3?awCollectionId=510298&awEpisodeId=643377136&orgId=1&d=3270&p=510298&story=643377136&t=podcast&e=643377136&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Hidden"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2018-08-31-hidden"
         },
         {
             "title": "The Power Of Design",
@@ -1107,7 +1228,8 @@
             "description": "Design is all around us, but much of it could be better, bolder, more elegant. This episode, TED speakers on the essence of good design in buildings, brands, the digital realm and the natural world. Guests include designer Tony Fadell, architect Marc Kushner, Airbnb co-founder Joe Gebbia, design critic Alice Rawsthorn, and science writer Janine Benyus. (Original broadcast date: May 20, 2016).",
             "duration": "3601",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2018/08/20180822_ted_tedpod-90fd0b3f-99d3-463a-80d5-947f42425214.mp3?awCollectionId=510298&awEpisodeId=641191778&orgId=1&d=3601&p=510298&story=641191778&t=podcast&e=641191778&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=The%20Power%20Of%20Design"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2018-08-24-the-power-of-design"
         },
         {
             "title": "The Story Behind The Numbers",
@@ -1116,7 +1238,8 @@
             "description": "Is life today better than ever before? Does the data bear that out? This hour, TED speakers explore the stories we tell with numbers — and whether those stories portray the full picture. Guests include psychologist Steven Pinker, economists Tyler Cowen and Michael Green, journalist Hanna Rosin, and environmental activist Paul Gilding.",
             "duration": "3103",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2018/08/20180816_ted_tedpod-8d2a0c7c-3132-4d84-b93f-27be10269ae8.mp3?awCollectionId=510298&awEpisodeId=639208484&orgId=1&d=3103&p=510298&story=639208484&t=podcast&e=639208484&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=The%20Story%20Behind%20The%20Numbers"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2018-08-17-the-story-behind-the-numbers"
         },
         {
             "title": "The Spirit Of Inquiry ",
@@ -1125,7 +1248,8 @@
             "description": "The force behind scientific progress is the simple act of asking questions. This episode, TED speakers explore how a deeper and more humble style of inquiry may help achieve the next big breakthrough. Guests include educator Michael Stevens, professor and science historian Naomi Oreskes, surgeon Kevin Jones, former college president Liz Coleman, and author Eric Haseltine. (Original broadcast date: February 24, 2017.)",
             "duration": "3178",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2018/08/20180810_ted_tedpod-9f915a48-bd7e-4382-b4d1-17960ec07eec.mp3?awCollectionId=510298&awEpisodeId=637061595&orgId=1&d=3178&p=510298&story=637061595&t=podcast&e=637061595&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=The%20Spirit%20Of%20Inquiry%20"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2018-08-10-the-spirit-of-inquiry"
         },
         {
             "title": "Crisis And Response ",
@@ -1134,7 +1258,8 @@
             "description": "Moments of crisis can upend our lives, but can also help define them. This episode, TED speakers explore how a quick, compassionate or unexpected response can turn crisis into opportunity. (Original broadcast date: April 1, 2016.)",
             "duration": "3201",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2018/08/20180803_ted_tedpod-49271020-6cf3-4b93-89ff-6eae404fd9f9.mp3?awCollectionId=510298&awEpisodeId=634930797&orgId=1&d=3201&p=510298&story=634930797&t=podcast&e=634930797&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Crisis%20And%20Response%20"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2018-08-03-crisis-and-response"
         },
         {
             "title": "The Right To Speak",
@@ -1143,7 +1268,8 @@
             "description": "Should all speech, even the most offensive, be allowed on college campuses? And is hearing from those we deeply disagree with ... worth it? This hour, TED speakers explore the debate over free speech. Guests include recent college graduate Zachary Wood, political scientist Jeffrey Howard, novelist Elif Shafak, and journalist and author James Kirchick.",
             "duration": "3130",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2018/07/20180725_ted_tedpod-3ebe1d08-797b-4dad-842d-21183bca90f3.mp3?awCollectionId=510298&awEpisodeId=632649612&orgId=1&d=3130&p=510298&story=632649612&t=podcast&e=632649612&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=The%20Right%20To%20Speak"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2018-07-27-the-right-to-speak"
         },
         {
             "title": "The Five Senses",
@@ -1152,7 +1278,8 @@
             "description": "The five senses shape all our experience, but we still don't fully understand them. This episode, TED speakers explore how our brains make sense of sensation, and how our minds manufacture \"reality.\" Guests include astronomer Wanda Diaz Merced, geneticist Nicole Garneau, author Isaac Lidsky, zoologist Tristram Wyatt and neuroscientist David Linden. (Original broadcast date: January 20, 2017.)",
             "duration": "3210",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2018/07/20180720_ted_tedpod-a0e7a6b4-c260-423d-8392-26c10f0f6cc0.mp3?awCollectionId=510298&awEpisodeId=630168970&orgId=1&d=3210&p=510298&story=630168970&t=podcast&e=630168970&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=The%20Five%20Senses"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2018-07-20-the-five-senses"
         },
         {
             "title": "Why We Hate",
@@ -1161,7 +1288,8 @@
             "description": "From bullying to hate crimes, cruelty is all around us. So what makes us hate? And is it learned or innate? This hour, TED speakers explore the causes and consequences of hate — and how we can fight it. Guests include reformed white nationalist Christian Picciolini, CNN commentator Sally Kohn, podcast host Dylan Marron, and writer Anand Giridharadas.",
             "duration": "3105",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2018/07/20180713_ted_tedpod-e9c34694-35a5-4522-a11b-02575e12894c.mp3?awCollectionId=510298&awEpisodeId=626649594&orgId=1&d=3105&p=510298&story=626649594&t=podcast&e=626649594&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Why%20We%20Hate"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2018-07-13-why-we-hate"
         },
         {
             "title": "Networks",
@@ -1170,7 +1298,8 @@
             "description": "Networks surround and sustain us, in nature, in our bodies, in relationships, in the digital world. This hour, TED speakers explore how we rely on networks and how we have the power to shape them. Guests include ecologist Suzanne Simard, UPS executive Wanis Kabbaj, computer scientist Avi Rubin and anthropologist Robin Dunbar. (Original broadcast date: January 13, 2017)",
             "duration": "3175",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2018/07/20180706_ted_tedpod-7ba36956-8b3d-48d8-a81d-8da85d372d21.mp3?awCollectionId=510298&awEpisodeId=625791734&orgId=1&d=3175&p=510298&story=625791734&t=podcast&e=625791734&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Networks"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2018-07-06-networks"
         },
         {
             "title": "Hidden Potential ",
@@ -1179,7 +1308,8 @@
             "description": "Are grit and perseverance enough to succeed? Or does someone need to give you a chance? This hour, TED speakers explore why some are overlooked despite their talents, and how that can begin to change. Guests include recovering politician Jeff Smith, human resources expert Regina Hartley, sociologist Victor Rios, arts curator and activist Malika Whitley, and middle school principal Pearl Arredondo.",
             "duration": "3105",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2018/06/20180628_ted_tedpod-fc6e46de-9a58-42a9-bcf9-5b32950e4275.mp3?awCollectionId=510298&awEpisodeId=623940788&orgId=1&d=3105&p=510298&story=623940788&t=podcast&e=623940788&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Hidden%20Potential%20"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2018-06-29-hidden-potential"
         },
         {
             "title": "Anthropocene",
@@ -1188,7 +1318,8 @@
             "description": "Some scientists say we're in a new geological age where humans are having an unprecedented impact on Earth. This hour, TED speakers ask what this means for the future of our planet, and our species. Guests include paleontologists Kenneth Lacovara and Peter Ward, environmental writer Emma Marris, and biodiversity archivist Cary Fowler. (Original broadcast date: September 30, 2016.)",
             "duration": "3168",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2018/06/20180620_ted_tedpod-a79306f3-b3ee-4224-ab37-4ab2b29d304b.mp3?awCollectionId=510298&awEpisodeId=622186724&orgId=1&d=3168&p=510298&story=622186724&t=podcast&e=622186724&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Anthropocene"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2018-06-22-anthropocene"
         },
         {
             "title": "The Person You Become ",
@@ -1197,7 +1328,8 @@
             "description": "Over the course of our lives, we shed parts of our old selves, embrace new ones, and redefine who we are. This hour, TED speakers explore ideas about the experiences that shape the person we become. Guests include aerobatics pilot and public speaker Janine Shepherd, writers Roxane Gay and Taiye Selasi, activist Jackson Bird, and fashion executive Kaustav Dey.",
             "duration": "3109",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2018/06/20180613_ted_person-e0f9c130-4c8a-43f8-bba8-415a9bdf61f0.mp3?awCollectionId=510298&awEpisodeId=619655558&orgId=1&d=3109&p=510298&story=619655558&t=podcast&e=619655558&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=The%20Person%20You%20Become%20"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2018-06-15-the-person-you-become"
         },
         {
             "title": "Animals And Us",
@@ -1206,7 +1338,8 @@
             "description": "Our relationship with animals is complicated: we love and fear them; hunt, consume and protect them. In this hour, TED speakers explore what happens when humans and animals interact. Guests include writer Jon Mooallem, animal trainer Ian Dunbar, poet Billy Collins, science historian Laurel Braitman, and biologist Frans de Waal. (Original Broadcast Date: September 5, 2014.)",
             "duration": "3169",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2018/06/20180607_ted_tedpod-a5d24f59-609b-4179-aee4-d30c7d89f56c.mp3?awCollectionId=510298&awEpisodeId=617888623&orgId=1&d=3169&p=510298&story=617888623&t=podcast&e=617888623&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Animals%20And%20Us"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2018-06-08-animals-and-us"
         },
         {
             "title": "Becoming Wise",
@@ -1215,7 +1348,8 @@
             "description": "We usually get wiser with age, but that doesn't mean we have to grow up to wise up. This hour, TED speakers explore what it means to find wisdom at every stage of life. Guests include journalist Joshua Prager, student Adora Svitak, writers Boyd Varty and Tony Porter, and psychiatrist Robert Waldinger. (Original broadcast date: June 10, 2016)",
             "duration": "3184",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2018/06/20180601_ted_tedpod-15231ac5-301a-4adb-b7c6-7160bb445578.mp3?awCollectionId=510298&awEpisodeId=615768149&orgId=1&d=3184&p=510298&story=615768149&t=podcast&e=615768149&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Becoming%20Wise"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2018-06-01-becoming-wise"
         },
         {
             "title": "Attention Please",
@@ -1224,7 +1358,8 @@
             "description": "In an age of constant information and infinite distractions, how can we pay more attention to our ... attention? This hour, TED speakers explore the battle for our awareness during the digital age. Guests include sociologist Zeynep Tufekci, podcast host Manoush Zomorodi, neuroscientist Amishi Jha, designer Tristan Harris, and computer scientist Jaron Lanier.",
             "duration": "3154",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2018/05/20180525_ted_tedpod-2d37dc1d-1c23-4c16-b80d-15e547a933b8.mp3?awCollectionId=510298&awEpisodeId=614045393&orgId=1&d=3154&p=510298&story=614045393&t=podcast&e=614045393&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Attention%20Please"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2018-05-25-attention-please"
         },
         {
             "title": "Inspire To Action",
@@ -1233,7 +1368,8 @@
             "description": "What motivates us to take up a cause, follow a leader, or create change? This hour, TED speakers explore stories of inspirational leadership, and what makes some movements more successful than others. Guests include high school history teacher Diane Wolk-Rogers, writer and behavioral researcher Simon Sinek, 2016 Icelandic presidential candidate Halla Tómasdóttir, professor of leadership Jochen Menges, and writer and activist Naomi Klein.",
             "duration": "3136",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2018/05/20180517_ted_inspire_to_action-e5da713a-6ff4-4c9a-9276-7e66b269fde4.mp3?awCollectionId=510298&awEpisodeId=611967239&orgId=1&d=3136&p=510298&story=611967239&t=podcast&e=611967239&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Inspire%20To%20Action"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2018-05-18-inspire-to-action"
         },
         {
             "title": "The Fountain Of Youth",
@@ -1242,7 +1378,8 @@
             "description": "Aging is inevitable. We can slow it down a little, but could we ever bring it to a grinding halt? In this episode, TED speakers explore how we all might live longer and even better lives. Guests include writer and explorer Dan Buettner, anti-aging advocate Aubrey de Grey, biochemist Cynthia Kenyon, medical ethicist Harvey Fineberg, and author Isabel Allende. (Original broadcast date: May 22, 2015).",
             "duration": "3170",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2018/05/20180510_ted_tedpod-a48cd80e-4e65-46c7-abe1-b5b4535d9c6b.mp3?awCollectionId=510298&awEpisodeId=610063657&orgId=1&d=3170&p=510298&story=610063657&t=podcast&e=610063657&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=The%20Fountain%20Of%20Youth"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2018-05-11-the-fountain-of-youth"
         },
         {
             "title": "The Act Of Listening",
@@ -1251,7 +1388,8 @@
             "description": "Listening — to loved ones, strangers, faraway places — is an act of generosity and a source of discovery. In this episode, TED speakers describe how we change when we listen deeply. In a special updated interview, StoryCorps founder Dave Isay reflects on how we can best listen to each other, especially within our current political climate. Other guests from the original 2015 broadcast include sound artist Honor Harger, percussionist Evelyn Glennie, and Baptist minister Jeffrey Brown.",
             "duration": "3205",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2018/05/20180503_ted_podcastmixed-893877bf-c979-468c-8ce2-d9262f25b552.mp3?awCollectionId=510298&awEpisodeId=608136435&orgId=1&d=3205&p=510298&story=608136435&t=podcast&e=608136435&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=The%20Act%20Of%20Listening"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2018-05-04-the-act-of-listening"
         },
         {
             "title": "Comfort Zone",
@@ -1260,7 +1398,8 @@
             "description": "We're all guilty of getting too comfortable - with our routines, social circles, the status quo. But is it stopping us from growing? This hour, TED speakers explore ways to push out of comfort zones. Guests include entrepreneur and podcaster Tim Ferriss, organizational psychologist Tanya Menon, author and blogger Luvvie Ajayi, writer Ann Morgan, and humanitarian activist Dan Pallotta.",
             "duration": "3113",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2018/04/20180426_ted_tedpod-324b54db-623c-4ffb-82f9-a0b47748e6e3.mp3?awCollectionId=510298&awEpisodeId=606023250&orgId=1&d=3113&p=510298&story=606023250&t=podcast&e=606023250&size=0&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Comfort%20Zone"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2018-04-27-comfort-zone"
         },
         {
             "title": "The Meaning Of Work",
@@ -1269,7 +1408,8 @@
             "description": "Love it or hate it, most of us have to work for a living. So, how can we make work more meaningful? This hour, TED speakers explore our values and motivations when it comes to the workplace. Guests include entrepreneur Margaret Heffernan, psychologist Barry Schwartz, behavioral economist Dan Ariely, and tech entrepreneur Dame Stephanie Shirley. (Original broadcast date: October 2, 2015).",
             "duration": "3189",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-mp3/npr/ted/2018/04/20180419_ted_tedpod.mp3?awCollectionId=510298&awEpisodeId=604031866&orgId=1&d=3189&p=510298&story=604031866&t=podcast&e=604031866&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=The%20Meaning%20Of%20Work"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2018-04-20-the-meaning-of-work"
         },
         {
             "title": "Everything Is Connected",
@@ -1278,7 +1418,8 @@
             "description": "In this hour, TED speakers explain how everything in nature is connected, and how we can restore its delicate balance. Guests include journalist George Monbiot, author Jane Poynter, bioacoustician Bernie Krause, and entomologist Marla Spivak (Original broadcast date: September 27, 2013).",
             "duration": "3195",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2018/04/20180412_ted_tedpod-e3389d1e-d146-4f6c-aa82-4ad56388f8c8.mp3?awCollectionId=510298&awEpisodeId=601826554&orgId=1&d=3195&p=510298&story=601826554&t=podcast&e=601826554&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Everything%20Is%20Connected"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2018-04-13-everything-is-connected"
         },
         {
             "title": "Turning Kids Into Grown-Ups",
@@ -1287,7 +1428,8 @@
             "description": "Parenting is fraught with uncertainty, changing with each generation. This hour, TED speakers share ideas about raising kids and how — despite our best efforts — we're probably still doing it wrong. Guests include former Stanford dean Julie Lythcott-Haims, former firefighter Caroline Paul, author Peggy Orenstein, psychologist Dr. Aala El-Khani, and poet Sarah Kay.",
             "duration": "3178",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2018/04/20180405_ted_tedpod-60723639-ab4c-4c81-85e6-fdeb0f1a137b.mp3?awCollectionId=510298&awEpisodeId=599866462&orgId=1&d=3178&p=510298&story=599866462&t=podcast&e=599866462&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Turning%20Kids%20Into%20Grown-Ups"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2018-04-06-turning-kids-into-grown-ups"
         },
         {
             "title": "Trust And Consequences",
@@ -1296,7 +1438,8 @@
             "description": "Our lives are fueled by trust: in our loved ones, our colleagues, our leaders. But how do we cultivate it, and restore if it's lost? In this episode, TED speakers explore our relationship with trust. Guests include conductor Charles Hazlewood, management theorist Simon Sinek, former Greek Prime Minister George Papandreou, author Rachel Botsman, and psychotherapist Esther Perel. (Original broadcast date: May 15, 2015)",
             "duration": "3228",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2018/03/20180329_ted_trust-ad852338-343d-4bf4-891d-bdedebc28452.mp3?awCollectionId=510298&awEpisodeId=598031628&orgId=1&d=3228&p=510298&story=598031628&t=podcast&e=598031628&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Trust%20And%20Consequences"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2018-03-30-trust-and-consequences"
         },
         {
             "title": "In Search Of",
@@ -1305,7 +1448,8 @@
             "description": "How far would you go to find something that's just out of reach, or maybe not even real? In this hour, TED speakers tell stories about searching for elusive sea creatures and distant aliens. Guests include astronomer Seth Shostak, oceanographer Edith Widder, chef Dan Barber, and humorist John Hodgman. (Original broadcast date: January 9, 2015)",
             "duration": "3202",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2018/03/20180323_ted_tedpod-1442370f-aba5-4d8a-be0c-ba99486d5c84.mp3?awCollectionId=510298&awEpisodeId=595815710&orgId=1&d=3202&p=510298&story=595815710&t=podcast&e=595815710&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=In%20Search%20Of"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2018-03-23-in-search-of"
         },
         {
             "title": "The Consequences Of Racism",
@@ -1314,7 +1458,8 @@
             "description": "What does it mean to be judged before you walk through the door? What are the consequences? This week, TED speakers delve into the ways racism impacts our lives, from education, to health, to safety. Guests include poet and writer Clint Smith, writer and activist Miriam Zoila Pérez, educator Dena Simmons, and former prosecutor Adam Foss.",
             "duration": "3164",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2018/03/20180315_ted_tedpod-63ff6c01-7fd2-4c4e-a574-0f5194f21336.mp3?awCollectionId=510298&awEpisodeId=593945431&orgId=1&d=3164&p=510298&story=593945431&t=podcast&e=593945431&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=The%20Consequences%20Of%20Racism"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2018-03-16-the-consequences-of-racism"
         },
         {
             "title": "Decoding Our Emotions",
@@ -1323,7 +1468,8 @@
             "description": "We experience powerful emotions all of the time, but what are they exactly? Where do they come from? This hour, TED speakers invoke history, language, science and music to help us think about the way we feel. Guests include writer John Koenig, cultural historian Tiffany Watt Smith, psychologist Lisa Feldman Barrett, developmental researcher Kang Lee, and conductor Michael Tilson Thomas.",
             "duration": "3203",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2018/03/20180313_ted_tedpod-149dea70-a20b-401d-8ceb-fb10fe54c207.mp3?awCollectionId=510298&awEpisodeId=591889022&orgId=1&d=3203&p=510298&story=591889022&t=podcast&e=591889022&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Decoding%20Our%20Emotions"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2018-03-09-decoding-our-emotions"
         },
         {
             "title": "Nudge",
@@ -1332,7 +1478,8 @@
             "description": "It's hard to change habits, but a gentle push can move us in the right direction. This episode, TED speakers offer deceptively simple \"nudges\" for managing our kids, our health, and our aspirations. Guests include behavioral economist Richard Thaler, psychiatrist Judson Brewer, psychologist Carol Dweck, Girls Who Code founder Reshma Saujani, and economist Sendhil Mullainathan. (Original broadcast date: June 24, 2016)",
             "duration": "3208",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2018/03/20180302_ted_tedpod-7fd3a6d6-d1a2-4fbd-80e5-3e6e4d39b8cb.mp3?awCollectionId=510298&awEpisodeId=589863286&orgId=1&d=3208&p=510298&story=589863286&t=podcast&e=589863286&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Nudge"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2018-03-02-nudge"
         },
         {
             "title": "Confronting Stigma",
@@ -1341,7 +1488,8 @@
             "description": "Why do we harshly judge certain behaviors or conditions, making it harder to talk honestly about them? This hour, TED speakers confront stigmas around addiction, depression, HIV and sex work. Guests include journalist Johann Hari, TV/film producer and mental health advocate Nikki Webber Allen, HIV awareness educator Arik Hartmann, and sex worker and activist Juno Mac.",
             "duration": "3164",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2018/02/20180223_ted_tedpod-22c4b7c2-4570-49a7-b3fd-6f597e56a685.mp3?awCollectionId=510298&awEpisodeId=587930330&orgId=1&d=3164&p=510298&story=587930330&t=podcast&e=587930330&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Confronting%20Stigma"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2018-02-23-confronting-stigma"
         },
         {
             "title": "Adaptation",
@@ -1350,7 +1498,8 @@
             "description": "Humans adapt to physical and creative challenges in remarkable ways. How do we do it, and what happens when we can't? In this episode, TED speakers share inspiring stories about our capacity to adapt. Guests include runner Christopher McDougall, nonprofit founder Daniel Kish, author Rich Benjamin and artist Janet Echelman. (Original Broadcast Date: November 20, 2015)",
             "duration": "3178",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2018/02/20180214_ted_adapt-ffc20ed3-9a2a-4588-8aa9-fe506db95224.mp3?awCollectionId=510298&awEpisodeId=585802067&orgId=1&d=3178&p=510298&story=585802067&t=podcast&e=585802067&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Adaptation"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2018-02-16-adaptation"
         },
         {
             "title": "Peering Deeper Into Space",
@@ -1359,7 +1508,8 @@
             "description": "The past few years have ushered in an explosion of new discoveries about our universe. This hour, TED speakers explore the implications of these advances — and the lingering mysteries of the cosmos. Guests include theoretical physicist Allan Adams, planetary scientist Sara Seager, and astrophysicists Natasha Hurley-Walker and Jedidah Isler.",
             "duration": "3140",
             "sourceUrl": "https://play.podtrac.com/npr-510298/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/ted/2018/02/20180208_ted_tedpod-4181a575-b4af-4f04-98d1-872be0470f0c.mp3?awCollectionId=510298&awEpisodeId=584302075&orgId=1&d=3140&p=510298&story=584302075&t=podcast&e=584302075&ft=pod&f=510298",
-            "slug": "NPR%253ATED%2520Radio%2520Hour?episode=Peering%20Deeper%20Into%20Space"
+            "podcast": "npr-ted-radio-hour",
+            "slug": "npr-ted-radio-hour?episode=2018-02-09-peering-deeper-into-space"
         }
     ]
 }

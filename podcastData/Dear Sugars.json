@@ -9,8 +9,8 @@
         "Society & Culture"
     ],
     "image": "https://d279m997dpfwgl.cloudfront.net/wp/2016/06/album-art-dearsugars3000.jpg",
-    "slug": "WBUR%3ADear%20Sugars",
-    "lastUpdate": "Fri, 04 Dec 2020 23:25:02 -0500",
+    "slug": "wbur-dear-sugars",
+    "lastUpdate": "Sat, 05 Dec 2020 01:20:44 -0500",
     "episodes": [
         {
             "title": "Redux: Location, Location, Location",
@@ -19,7 +19,8 @@
             "description": "<p>Location, location, location. It makes all the difference in real estate, and it can make all the difference to one's happiness. But finding a place that really feels like home can be tricky. This episode was originally published on March 9th, 2017.</p>",
             "duration": "00:36:02",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR6651913925.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Redux%3A%20Location%2C%20Location%2C%20Location"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2020-11-20-redux-location-location-location"
         },
         {
             "title": "Redux: When Your Loved Ones Just Don't 'Get It'",
@@ -28,7 +29,8 @@
             "description": "<p>Our loved ones are the people who are supposed to understand us. But what if they just...can't? Where do we turn then, and how do we fight the feelings of resentment that this lack of understanding can stir up? This episode was originally released November 11th, 2016.</p>",
             "duration": "00:32:05",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR2799204630.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Redux%3A%20When%20Your%20Loved%20Ones%20Just%20Don't%20'Get%20It'"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2020-11-09-redux-when-your-loved-ones-just-dont-get-it"
         },
         {
             "title": "Dear Sugars Presents: Anything For Selena",
@@ -37,7 +39,8 @@
             "description": "<p>Listen to the trailer for \"Anything For Selena,\" a new podcast from WBUR and Futuro Studios coming in January 2021. Subscribe now so you don't miss it!</p>\r\n\r\n<p>About The Show:</p>\r\n\r\n<p>On March 31, 1995, nine-year-old Maria Garcia came home to find her mother glued to the TV, tears rolling down her rosy cheeks. The phone kept ringing. Relatives in Mexico and the States wanted to know if Maria’s family was watching, too. American networks and Mexican programming aired the same top story. Selena Quintanilla, the Grammy-winning ascending Mexican American popstar had been killed — swiftly, violently — by the president of her fan club.</p>\r\n\r\n<p>The story shook the country and changed Maria’s life.</p>\r\n\r\n<p>In \"Anything For Selena,\" host Maria Garcia goes on an intimate, revelatory quest to understand how Selena has become a potent symbol for tensions around race, class and body politics in the United States.</p>\r\n\r\n<p>The series weaves Maria’s personal story as a queer, first-generation Mexican immigrant with cultural analysis, history and politics to explore how, 25 years after her death, Selena remains an unparalleled vessel for understanding Latino identity and American belonging.</p>",
             "duration": "00:04:54",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR4207964823.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Dear%20Sugars%20Presents%3A%20Anything%20For%20Selena"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2020-10-29-dear-sugars-presents-anything-for-selena"
         },
         {
             "title": "Redux: Pet Dilemmas",
@@ -46,7 +49,8 @@
             "description": "<p>The Sugars, along with Julie Barton -- author of the memoir \"Dog Medicine: How My Dog Saved Me From Myself\" -- answer letters about pet dilemmas and the ways these creatures affect human relationships. </p>\r\n\r\n<p>This episode was originally released on August 26th, 2017.</p>",
             "duration": "00:46:34",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR5991329462.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Redux%3A%20Pet%20Dilemmas"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2020-10-23-redux-pet-dilemmas"
         },
         {
             "title": "Redux: Male-Female Friendships",
@@ -55,7 +59,8 @@
             "description": "<p>The Sugars' conversation on friendship continues with a handful of letters concerning male-female friendships. Is there such a thing as a platonic relationship between a heterosexual man and woman? Can male-female friendships be as emotionally satisfying as same-gender relationships? What do you do when a friend crosses a romantic line? The Sugars discuss it all in rapid-fire fashion. This episode was originally published on November 4th, 2016.</p>",
             "duration": "00:32:04",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR8134194214.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Redux%3A%20Male-Female%20Friendships"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2020-10-09-redux-male-female-friendships"
         },
         {
             "title": "Redux: I'm A Transgender Man, Seeking Acceptance",
@@ -64,7 +69,8 @@
             "description": "<p>The Sugars read the letters of two transgender men who are struggling to find love and acceptance. They discuss with Cooper Lee Bombardier, a visual artist, writer and transgender man. </p>",
             "duration": "00:38:32",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR9016834025.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Redux%3A%20I'm%20A%20Transgender%20Man%2C%20Seeking%20Acceptance"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2020-09-25-redux-im-a-transgender-man-seeking-acceptance"
         },
         {
             "title": "Redux: Step Into Your Spotlight",
@@ -73,7 +79,8 @@
             "description": "<p>The Sugars find out what happened to two letter writers who let self-image sabotage their love lives. They find out if “Scared to Choose Wrong” married her fiancé, and they give “Aspiring Warrior for Love” a call to see how he’s changed since hearing the Sugars’ advice more than a year ago. This episode was originally published on February 3rd, 2018.</p>",
             "duration": "00:36:51",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR4617529516.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Redux%3A%20Step%20Into%20Your%20Spotlight"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2020-09-11-redux-step-into-your-spotlight"
         },
         {
             "title": "Redux: Inbox Outliers",
@@ -82,7 +89,8 @@
             "description": "<p>Infidelity. In-Laws. Friendship. These are just a few of the categories that help keep the Dear Sugar inbox organized. But every once in a while, we get a letter that doesn't fit neatly into any category. The Sugars discuss a handful of those letters in rapid-fire fashion -- from a woman whose mother-in-law might be faking an allergy to her cat, to a woman whose identity was stolen...by her own sister. This episode was originally published on April 25th, 2017.</p>",
             "duration": "00:39:33",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR9145817723.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Redux%3A%20Inbox%20Outliers"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2020-08-28-redux-inbox-outliers"
         },
         {
             "title": "Redux: 'Totally Confused' Finds A Resolution",
@@ -91,7 +99,8 @@
             "description": "<p>The Sugars get an update from a 62-year-old, divorced woman who was considering a reconciliation with her ex-husband, even after years of unhappiness inside their marriage. The situation was further complicated by the fact that he was engaged to another woman. Find out how the letter-writer and her ex-husband decided to proceed. This episode was originally published on August 26th, 2016.</p>",
             "duration": "00:40:18",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR2282861891.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Redux%3A%20'Totally%20Confused'%20Finds%20A%20Resolution"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2020-08-17-redux-totally-confused-finds-a-resolution"
         },
         {
             "title": "Redux: Does 'The Wicked Stepmother' Still Feel Wicked?",
@@ -100,7 +109,8 @@
             "description": "<p>The Sugars revisit a letter from a woman who felt like a fairytale-esque wicked stepmother. When she wrote to the Sugars, she was feeling pressured to love her stepchildren \"like her own,\" but she didn't want to be their mother. The Sugars find out how the self-proclaimed 'Wicked Stepmother' and her husband are doing today. This episode was originally released on August 19th, 2016.</p>",
             "duration": "00:49:36",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR6374762645.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Redux%3A%20Does%20'The%20Wicked%20Stepmother'%20Still%20Feel%20Wicked%3F"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2020-07-31-redux-does-the-wicked-stepmother-still-feel-wicked"
         },
         {
             "title": "Dear Sugars Presents: Loneliness In A Socially Distant World",
@@ -109,7 +119,8 @@
             "description": "<p>Former U.S. Surgeon General Dr. Vivek Murthy talks with the Kind World team about the startling effects of chronic loneliness and how we can combat this public health concern -- even in a socially distant world.</p>",
             "duration": "00:13:37",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR9714733568.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Dear%20Sugars%20Presents%3A%20Loneliness%20In%20A%20Socially%20Distant%20World"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2020-07-16-dear-sugars-presents-loneliness-in-a-socially-distant-world"
         },
         {
             "title": "Redux: An Update From 'Head Or The Heart'",
@@ -118,7 +129,8 @@
             "description": "<p>The Sugars get an update from \"Head or the Heart\" -- a woman who'd fallen in love with a man with a troubled childhood. She worried that the traumas of his past could surface at some point in their relationship. Nine months later, is she still with her boyfriend? The Sugars find out. This episode was originally published on August 12th, 2016.</p>",
             "duration": "00:33:43",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR9632131468.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Redux%3A%20An%20Update%20From%20'Head%20Or%20The%20Heart'"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2020-07-10-redux-an-update-from-head-or-the-heart"
         },
         {
             "title": "Redux: An Update From 'Two Truths And Many Lies'",
@@ -127,7 +139,8 @@
             "description": "<p>The Sugars catch up with \"Two Truths and Many Lies,\" whose letter about her husband's infidelity generated significant interest and advice from our listeners. Did she stay with her husband or walk away? The Sugars find out. </p>",
             "duration": "00:49:22",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR9696579392.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Redux%3A%20An%20Update%20From%20'Two%20Truths%20And%20Many%20Lies'"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2020-07-02-redux-an-update-from-two-truths-and-many-lies"
         },
         {
             "title": "Redux: Sexual Fluidity",
@@ -136,7 +149,8 @@
             "description": "<p>\"Whatever\" -- that's how the actress Maria Bello describes her sexual orientation. Her \"love who you love\" attitude toward sexuality, regardless of gender, is often referred to as fluidity. Maria joins the Sugars this week to discuss a couple of letters having to do with the confusion and complications that can accompany a shift in one's sexual preferences and partnerships. This episode was originally published on March 3rd, 2017.</p>",
             "duration": "00:42:31",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR2164781237.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Redux%3A%20Sexual%20Fluidity"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2020-06-26-redux-sexual-fluidity"
         },
         {
             "title": "Redux: I Divorced My Spouse, And My Child Divorced Me",
@@ -145,7 +159,8 @@
             "description": "<p>Divorce is always a painful process, but it's especially so when there are children in the middle. This week, the Sugars discuss situations of parental alienation caused by divorce. They answer letters from a mother and a father whose daughters have cut off all communication with them after taking the other parent's side.</p>",
             "duration": "00:30:59",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR2071961052.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Redux%3A%20I%20Divorced%20My%20Spouse%2C%20And%20My%20Child%20Divorced%20Me"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2020-06-19-redux-i-divorced-my-spouse-and-my-child-divorced-me"
         },
         {
             "title": "Redux: The Writer's Resist, Part 2",
@@ -154,7 +169,8 @@
             "description": "<p>Part 2 of \"Dear Sugar Radio: The Writers Resist\" at The Aladdin Theater in Portland, Oregon. They discuss how to counteract post-election cynicism with Zahir Janmohamed, writer and co-host of the podcast \"Racist Sandwich,\" and they answer questions from the audience in rapid-fire fashion. </p>\r\n\r\n<p>This episode was originally released on January 27th, 2017.</p>",
             "duration": "00:29:39",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR1343974848.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Redux%3A%20The%20Writer's%20Resist%2C%20Part%202"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2020-06-12-redux-the-writers-resist-part-2"
         },
         {
             "title": "Redux: The Writers Resist",
@@ -163,7 +179,8 @@
             "description": "<p>On November 9th, 2016 -- the day after Donald Trump became America's President-elect -- the Dear Sugar inbox was flooded with emails asking some version of the question, \"How do we move forward as a nation from here?\" In this episode, the Sugars bring that question before an audience at The Aladdin Theater in Portland, Oregon. This episode was originally released on January 20th, 2017.</p>",
             "duration": "00:37:18",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR9225665616.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Redux%3A%20The%20Writers%20Resist"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2020-06-05-redux-the-writers-resist"
         },
         {
             "title": "Redux: Friendships",
@@ -172,7 +189,8 @@
             "description": "<p>Everyone has had a friendship quandary of some sort in the past, right? This week, the Sugars take on frequently asked questions in \"rapid fire\" fashion – from hating your best friend's significant other, to hating her politics.</p>",
             "duration": "00:41:28",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR4716720664.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Redux%3A%20Friendships"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2020-05-29-redux-friendships"
         },
         {
             "title": "Redux: How Do I Find the Courage to Be My Own Guide?",
@@ -181,7 +199,8 @@
             "description": "<p>The Sugars often discuss letters dealing with very specific problems or struggles. This week, they take on a broader, more existential question -- how to follow your heart. This episode was originally released July 28th, 2016.</p>",
             "duration": "00:26:50",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR9295751319.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Redux%3A%20How%20Do%20I%20Find%20the%20Courage%20to%20Be%20My%20Own%20Guide%3F"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2020-05-22-redux-how-do-i-find-the-courage-to-be-my-own-guide"
         },
         {
             "title": "Redux: What About The Stepchildren?",
@@ -190,7 +209,8 @@
             "description": "<p>When the Sugars answered a letter from a woman who felt trapped in the role of \"wicked stepmother,\" dozens of listeners wrote in asking the same question: what about the stepchildren, who have no control over the restructuring of their family? The Sugars respond with an episode devoted to the other side of the story. They're joined by Jane Alison, author of the memoir \"The Sisters Antipodes,\" which tells the story of how her parents swapped spouses with another couple when she was 4 years old.</p>\r\n\r\n<p>This episode was originally published on November 18th, 2016.</p>",
             "duration": "00:40:10",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR9824708728.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Redux%3A%20What%20About%20The%20Stepchildren%3F"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2020-05-15-redux-what-about-the-stepchildren"
         },
         {
             "title": "Redux: May-December Romances",
@@ -199,7 +219,8 @@
             "description": "<p>Age is just a number in many contexts, but when it comes to finding long-lasting love, an age gap between partners can greatly impact the course of the relationship — both in positive and challenging ways. </p>",
             "duration": "00:29:54",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR4811971864.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Redux%3A%20May-December%20Romances"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2020-05-08-redux-may-december-romances"
         },
         {
             "title": "Dear Sugars Presents: Madness",
@@ -208,7 +229,8 @@
             "description": "<p>\"Madness\" is a new investigative series from our fellow WBUR podcast, Endless Thread. Told in 5 parts, \"Madness\" unravels the shocking history of CIA-funded mind-control experiments.</p>\r\n\r\n<p>In the first episode, Endless Thread presents powerful accounts of abuse at a psychiatric hospital in Montreal, and introduces the renowned doctor who conducted these disturbing experiments on his unwitting patients.</p>",
             "duration": "00:27:31",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR7098005066.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Dear%20Sugars%20Presents%3A%20Madness"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2020-05-04-dear-sugars-presents-madness"
         },
         {
             "title": "Redux: Step Into Your Spotlight",
@@ -217,7 +239,8 @@
             "description": "<p>We find out what happened to two letter writers who let self-image sabotage their love lives. The Sugars find out if “Scared to Choose Wrong” married her fiancé, and they give “Aspiring Warrior for Love” a call to see how he’s changed since hearing the Sugars’ advice more than a year ago. The episode was originally released on February 3rd, 2018.</p>",
             "duration": "00:36:50",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR8836031546.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Redux%3A%20Step%20Into%20Your%20Spotlight"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2020-05-01-redux-step-into-your-spotlight"
         },
         {
             "title": "Redux: Change Is A Work In Progress",
@@ -226,7 +249,8 @@
             "description": "<p>In today’s update episode, we check in with some of our most memorable letter writers from previous episodes. The Sugars find out if “Struggling” was kicked out of his mother’s house, and they give “Bad Mom” a call to see if and how her views of motherhood have changed since hearing the Sugars’ advice more than two years ago. This episode was originally published on January 27th, 2018.</p>",
             "duration": "00:35:28",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR3102975162.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Redux%3A%20Change%20Is%20A%20Work%20In%20Progress"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2020-04-24-redux-change-is-a-work-in-progress"
         },
         {
             "title": "Redux: Should I Stay Or Go?",
@@ -235,7 +259,8 @@
             "description": "<p>The Sugars bring you another \"Rapid Fire\" episode, where they give brief answers to a handful of letters that are all centered around a theme. The theme for this episode is \"stay or go\" -- people who have a voice in their head telling them to leave their relationship, but who aren't sure it's the right move. This episode was originally released on September 9, 2016. </p>",
             "duration": "00:34:19",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR4089666271.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Redux%3A%20Should%20I%20Stay%20Or%20Go%3F"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2020-04-17-redux-should-i-stay-or-go"
         },
         {
             "title": "Episodes We Love: Saying Goodbye",
@@ -244,7 +269,8 @@
             "description": "<p>It's never easy saying goodbye to our loved ones, but it can be especially painful when a goodbye is drawn out by illness. This week, the Sugars answer two letters dealing with the guilt and heartache involved in a long goodbye to a parent. They're joined by Robin Romm, author of the memoir \"The Mercy Papers,\" which tells the story of her mother's death from cancer. This episode was originally published on September 16th, 2016.</p>",
             "duration": "00:33:26",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR3684361414.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20Saying%20Goodbye"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2020-04-10-episodes-we-love-saying-goodbye"
         },
         {
             "title": "Dear Sugars Presents: Sugar Calling",
@@ -253,7 +279,8 @@
             "description": "<p>Hear the first episode of the New York Times podcast “Sugar Calling,” featuring our own Cheryl Strayed.</p>",
             "duration": "00:09:44",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR9469375908.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Dear%20Sugars%20Presents%3A%20Sugar%20Calling"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2020-04-10-dear-sugars-presents-sugar-calling"
         },
         {
             "title": "Episodes We Love: The Great Reckoning",
@@ -262,7 +289,8 @@
             "description": "<p>Dear Sugars returns to Portland, Oregon, for another epic live show. Special guests Mitchell S. Jackson and Rebecca Skloot share the stage with the Sugars to tell stories of personal reckoning and answer letters from the audience. This episode was originally published on July 28th, 2018.</p>",
             "duration": "00:51:35",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR6152530149.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20The%20Great%20Reckoning"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2020-04-03-episodes-we-love-the-great-reckoning"
         },
         {
             "title": "Dear Sugars Presents: Good Life Project",
@@ -271,7 +299,8 @@
             "description": "<p>Every week, the Good Life Project podcast from Jonathan Fields and Wondery shares inspirational, intimate and unfiltered conversations about what it really takes to live a good life. Host Jonathan Fields chats with world-shakers like Elizabeth Gilbert, Brene Brown, Cleo Wade, Adam Grant, Glennon Doyle, and Gretchen Rubin as well as everyday guests. Subscribe today.</p>",
             "duration": "00:08:56",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR2481514921.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Dear%20Sugars%20Presents%3A%20Good%20Life%20Project"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2020-04-03-dear-sugars-presents-good-life-project"
         },
         {
             "title": "Episodes We Love: Emotional Abuse",
@@ -280,7 +309,8 @@
             "description": "<p>Reema Zaman, our guest in this week’s episode, was in an emotionally abusive marriage. Although her husband’s abuses never left any physical mark, it took her years to repair the damage he inflicted upon her. Ms. Zaman describes some of the telltale signs of an emotionally abusive relationship and helps the Sugars answer two painful letters from women who are struggling to disentangle themselves from their abusive partners. This episode was originally released on August 4th, 2018.</p>",
             "duration": "00:48:08",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR7027724743.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20Emotional%20Abuse"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2020-03-27-episodes-we-love-emotional-abuse"
         },
         {
             "title": "Dear Sugars Presents: A 'Kind World' For Troubled Times",
@@ -289,7 +319,8 @@
             "description": "<p>Take a listen to our sister podcast, Kind World. </p>",
             "duration": "00:12:44",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR4337540420.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Dear%20Sugars%20Presents%3A%20A%20'Kind%20World'%20For%20Troubled%20Times"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2020-03-20-dear-sugars-presents-a-kind-world-for-troubled-times"
         },
         {
             "title": "Dear Sugars Presents: Family Ghosts",
@@ -298,7 +329,8 @@
             "description": "<p>Dear Sugars wants to tell you about another great podcast: Family Ghosts, a show where people tell stories about experiences that transform their understanding of familial legacy.</p>\r\n\r\n<p>On this recent episode, a storyteller named David Crabb took a unique approach to that concept, telling the story of three dogs in his life and how they've shaped his perception of what it means to start a family and be a part of one.</p>",
             "duration": "00:49:28",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR7313165612.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Dear%20Sugars%20Presents%3A%20Family%20Ghosts"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2020-03-13-dear-sugars-presents-family-ghosts"
         },
         {
             "title": "Dear Sugars Presents: WorkLife With Adam Grant",
@@ -307,7 +339,8 @@
             "description": "<p>Dear Sugars wants to tell you about another great podcast:  WorkLife with Adam Grant from TED.</p>\r\n\r\n<p>In the episode, Adam Grant speaks with Cheryl Strayed about getting and giving advice about our work lives. Season 3 launches next week, so get ready for ideas about how to procrastinate less, fight burnout, fix broken job interviews, and negotiate better.</p>",
             "duration": "00:33:30",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR1005936188.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Dear%20Sugars%20Presents%3A%20WorkLife%20With%20Adam%20Grant"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2020-03-06-dear-sugars-presents-worklife-with-adam-grant"
         },
         {
             "title": "Episodes We Love: Moving On, Part Two",
@@ -316,7 +349,8 @@
             "description": "<p>In this second part of our series on moving on, the Sugars discuss how we can release ourselves from our past mistakes. Dr. Harriet Lerner drops in to answer a letter from a woman who calls herself a \"serial codependent,\" as well as a woman who is haunted by her abortion. This episode was originally published on August 25th, 2018.</p>",
             "duration": "00:43:26",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR9532926715.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20Moving%20On%2C%20Part%20Two"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2020-02-28-episodes-we-love-moving-on-part-two"
         },
         {
             "title": "Episodes We Love: Moving On, Part 1",
@@ -325,7 +359,8 @@
             "description": "<p>The Sugars have been thinking about what it means to say goodbye and let go. In this first episode of their two-part series on moving on, the Sugars and Claire Bidwell Smith answer two letters from people struggling to move past their grief after the death of their loved ones. This episode was originally released on August 18th, 2018.</p>",
             "duration": "00:46:53",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR4454338992.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20Moving%20On%2C%20Part%201"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2020-02-21-episodes-we-love-moving-on-part-1"
         },
         {
             "title": "Episodes We Love: A Night Of Bad Stories",
@@ -334,7 +369,8 @@
             "description": "<p>Dear Sugars returns to Portland, Oregon, for another raucous and uplifting live show. The Sugars get a surprising update from a letter writer from their past; discuss a new letter with a special guest, Omar El Akkad; and ask the audience, “What’s the ‘bad story’ you tell yourself?” “Bad Stories,” the title of Steve Almond’s new book, are the false narratives we tell ourselves that undermine our happiness. “You’ve got to revise those narratives,” encourages Cheryl Strayed. “You have the capacity for change and transformation.” This episode was originally published on April 12th, 2018.</p>",
             "duration": "00:41:34",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR9420550722.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20A%20Night%20Of%20Bad%20Stories"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2020-02-14-episodes-we-love-a-night-of-bad-stories"
         },
         {
             "title": "Episodes We Love: The Long Goodbye",
@@ -343,7 +379,8 @@
             "description": "<p>After four years of ministering to the lost, lonely and heartsick, the Sugars say farewell on this final episode of the podcast. We take a look back at some of our most powerful advice, hear from former guests, and talk to listeners about how the show has affected their lives. This episode was originally released on September 1st, 2018.</p>",
             "duration": "00:28:37",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR1495436289.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20The%20Long%20Goodbye"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2020-02-07-episodes-we-love-the-long-goodbye"
         },
         {
             "title": "Dear Sugars Presents: As Me",
@@ -352,7 +389,8 @@
             "description": "<p>Dear Sugars wants to tell you about another great podcast: As Me with Sinead Burke.</p>\r\n\r\n<p>What’s the first step towards becoming more empathetic? Listening. Academic, TED alum, fashion enthusiast, and advocate Sinéad Burke leads candid conversations with diverse, notable guests who explain what it’s like to be them. They challenge us to confront our biases, deepen our humanity, and feel empowered to impact and change the world around us.</p>",
             "duration": "00:49:23",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR4297252399.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Dear%20Sugars%20Presents%3A%20As%20Me"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2020-01-31-dear-sugars-presents-as-me"
         },
         {
             "title": "Episodes We Love: Young & Isolated",
@@ -361,7 +399,8 @@
             "description": "<p>Feeling like an outsider is one of the hallmarks of adolescence. But in today’s episode, we hear from two 16-year-olds who have cause to feel especially isolated. One girl is home-schooled and suffers from social anxiety. Another feels disconnected from her best friend, who has suddenly become popular at school. Both letter writers wonder if they’ll ever feel comfortable in their own skin. Shirley Manson, the lead singer of the alternative rock band Garbage, joins the Sugars to discuss her own journey as an outsider. This episode was originally published on July 14th, 2018.</p>",
             "duration": "00:44:37",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR7104833855.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20Young%20%26%20Isolated"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2020-01-24-episodes-we-love-young-isolated"
         },
         {
             "title": "Episodes We Love: Love & Money",
@@ -370,7 +409,8 @@
             "description": "<p>When it comes to love, money is supposed to be no object. But there’s no disentangling love from anything in our lives, and income is no exception. So how do you assess the role money should play in a relationship, and what happens when your desires and means change over time? The Sugars take on 5 letters in this rapid-fire episode. This episode was originally released on July 21st, 2018.</p>",
             "duration": "00:44:30",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR9137030553.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20Love%20%26%20Money"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2020-01-17-episodes-we-love-love-money"
         },
         {
             "title": "Episodes We Love: Talking About Privilege",
@@ -379,7 +419,8 @@
             "description": "<p>Privilege comes in many forms: socio-economic privilege, gender privilege, heterosexual privilege, to name a few. In this episode, the Sugars reply to two letter writers who are facing different forms of privilege. They discuss with Catrice M. Jackson, a leading voice for racial justice. This episode was originally published on August 11th, 2018.</p>",
             "duration": "00:28:37",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR6019694796.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20Talking%20About%20Privilege"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2020-01-10-episodes-we-love-talking-about-privilege"
         },
         {
             "title": "Dear Sugars Presents: Food, We Need To Talk",
@@ -388,7 +429,8 @@
             "description": "<p>one woman's quest to end her war with food. Hosts Juna Gjata and Dr. Eddie Phillips wield solid science, medical knowledge, common sense and an endless supply of dad jokes to teach us how to eat better and feel better about it. Hint: it's not dieting. A new podcast from WBUR.</p>\r\n\r\n<p>To subscribe: http://hyperurl.co/mj567n</p>",
             "duration": "00:22:42",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR6393583483.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Dear%20Sugars%20Presents%3A%20Food%2C%20We%20Need%20To%20Talk"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2020-01-03-dear-sugars-presents-food-we-need-to-talk"
         },
         {
             "title": "Episodes We Love: There's Just One Thing",
@@ -397,7 +439,8 @@
             "description": "<p>In this \"rapid fire\" episode, the Sugars read letters from four women who each have one not-so-tiny reservation about the men they’re dating. A black woman is dating a white man who is unwilling to talk about race issues, claiming that she’s “too sensitive.” Another woman’s boyfriend, a Christian, is having second thoughts about dating her because she’s an atheist. The Sugars tackle these issues and more, and weigh in on which can be ironed out and which should be deal breakers. This episode was originally released on May 26th, 2018.</p>",
             "duration": "00:40:51",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR1759771607.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20There's%20Just%20One%20Thing"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2019-12-27-episodes-we-love-theres-just-one-thing"
         },
         {
             "title": "Episodes We Love: Who's Your Daddy?",
@@ -406,7 +449,8 @@
             "description": "<p>When Steve Lickteig turned 18, he learned that his mother and father, who he thought were his adoptive parents, are in fact his biological grandparents. With the advent of affordable DNA testing and companies like 23andMe, more and more people are having revelations like Mr. Lickteig’s. For some, these revelations can be a welcome and exciting discovery process. For others, they’re shocking and unwanted. In today’s episode, Mr. Lickteig shares his story and helps the Sugars advise letter writers who are still reeling from their genetic discoveries. This episode was originally released on June 16th, 2018.</p>",
             "duration": "00:40:41",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR9489987939.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20Who's%20Your%20Daddy%3F"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2019-12-20-episodes-we-love-whos-your-daddy"
         },
         {
             "title": "Episodes We Love: Emotional Labor",
@@ -415,7 +459,8 @@
             "description": "<p>Remembering the grocery list, coordinating with the babysitter, making food for the potluck, scheduling a get-together with the in-laws: These are some of the invisible tasks that (most) women exclusively do in their romantic relationships — and the list goes on and on. The Sugars commiserate with Gemma Hartley, the writer who set off a national conversation about emotional labor with her viral article in Harper’s Bazaar, “Women Aren’t Nags — We’re Just Fed Up.” This episode was originally published on May 5th, 2018.</p>",
             "duration": "00:44:16",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR6954697790.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20Emotional%20Labor"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2019-12-13-episodes-we-love-emotional-labor"
         },
         {
             "title": "Dear Sugars Presents: Free To Be Childfree",
@@ -424,7 +469,8 @@
             "description": "<p>From our partners at WBUR, Endless Thread is a podcast featuring amazing stories found on Reddit. This story is about a growing movement that hits close to home. It's about the hundreds of thousands of people who are choosing to be childfree -- to never have kids. This choice is becoming more common, yet it's still questioned ferociously. </p>",
             "duration": "00:42:59",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR9675544746.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Dear%20Sugars%20Presents%3A%20Free%20To%20Be%20Childfree"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2019-12-06-dear-sugars-presents-free-to-be-childfree"
         },
         {
             "title": "Episodes We Love: Trust Your Body",
@@ -433,7 +479,8 @@
             "description": "<p>“It’s only when my pants are nearly impossible to button that I force myself to lose weight,” writes the letter-writer who calls herself Body Negative. “And then the pattern starts all over again.” Hilary Kinavey, M.S., L.P.C., and Dana Sturtevant, M.S., R.D., the co-owners of Be Nourished, join the Sugars on today’s episode to offer Body Negative and women like her some hope. This episode was originally released on June 11th, 2018.</p>",
             "duration": "00:42:01",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR2692247097.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20Trust%20Your%20Body"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2019-11-27-episodes-we-love-trust-your-body"
         },
         {
             "title": "Episodes We Love: Sex & Aging",
@@ -442,7 +489,8 @@
             "description": "<p>The erotic lives of senior citizens are typically made invisible by our culture, which can lead to confusion and misinformation. Dr. Pepper Schwartz, the love and relationship columnist for AARP, joins the Sugars to dispel certain myths about sex and aging: Do libidos change after menopause? How does the aging body affect the way we feel about sex? Should medical interventions be considered for a declining sex drive? This episode was originally released on May 25th, 2018.</p>",
             "duration": "00:36:39",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR1145894371.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20Sex%20%26%20Aging"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2019-11-22-episodes-we-love-sex-aging"
         },
         {
             "title": "Episodes We Love: Just Say It",
@@ -451,7 +499,8 @@
             "description": "<p>Words can be wielded like weapons. On today’s episode, the Sugars hear from people who have something to confess but are afraid to hurt others with the power of their words. This episode was originally released on December 9th, 2017.</p>",
             "duration": "00:28:36",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR8965079811.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20Just%20Say%20It"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2019-11-15-episodes-we-love-just-say-it"
         },
         {
             "title": "Dear Sugars Presents: Hot And Bothered",
@@ -460,7 +509,8 @@
             "description": "<p>In this special episode of Dear Sugars, Steve Almond is a featured guest on the Spoke Media podcast \"Hot and Bothered.\" </p>",
             "duration": "00:33:41",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR4671011979.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Dear%20Sugars%20Presents%3A%20Hot%20And%20Bothered"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2019-11-08-dear-sugars-presents-hot-and-bothered"
         },
         {
             "title": "Dear Sugars Presents: A Place Of Respite",
@@ -469,7 +519,8 @@
             "description": "<p>Dear Sugars' sister podcast, Kind World, recently produced a special series featuring stories of kindness and compassion at the U.S.-Mexico border. It's called \"Lifelines\" and tells stories of ordinary people who've stepped up in extraordinary ways during an ongoing humanitarian crisis. This story is called, \"A Place Of Respite.\"</p>",
             "duration": "00:14:52",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR7054618116.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Dear%20Sugars%20Presents%3A%20A%20Place%20Of%20Respite"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2019-11-01-dear-sugars-presents-a-place-of-respite"
         },
         {
             "title": "Episodes We Love: I'm In Love With My Abuser",
@@ -478,7 +529,8 @@
             "description": "<p>The Sugars answer a voicemail message from the Dear Sugars hotline. The message comes from a woman who reunited with her ex-boyfriend, who once assaulted her. Wracked with shame, she wonders if reconciling with him is acceptable and if it’s possible he’ll change. Esta Soler, president and founder of Futures Without Violence, joins the Sugars to help answer the question: Is it O.K. to love someone who abused you? This episode was originally released on April 21st, 2018.</p>",
             "duration": "00:26:27",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR2249046739.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20I'm%20In%20Love%20With%20My%20Abuser"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2019-10-25-episodes-we-love-im-in-love-with-my-abuser"
         },
         {
             "title": "Episodes We Love: Rage Is A Red Lesson",
@@ -487,7 +539,8 @@
             "description": "<p>Shortly after the birth of her first child, a letter-writer who calls herself “Tantrum Daughter” lost her mother to suicide. Now, with a second child on the way, Tantrum Daughter is overcome with pain and anger. After reading Morgan Jerkins’s essay “How I Overcame My Anger as a Black Writer Online,” the Sugars enlist her help to answer Tantrum Daughter’s letter. This episode was originally released on May 12th, 2018.</p>",
             "duration": "00:40:45",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR1782417429.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20Rage%20Is%20A%20Red%20Lesson"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2019-10-18-episodes-we-love-rage-is-a-red-lesson"
         },
         {
             "title": "Episodes We Love: A Spy In The House Of Love",
@@ -496,7 +549,8 @@
             "description": "<p>Snooping on your spouse is generally ill-advised, but what if he or she has an addiction and is constantly lying about it? The Sugars answer this question with the help of writer Ariel Levy. This episode was originally released on December 2nd, 2017</p>",
             "duration": "00:33:22",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR6792000953.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20A%20Spy%20In%20The%20House%20Of%20Love"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2019-10-11-episodes-we-love-a-spy-in-the-house-of-love"
         },
         {
             "title": "Dear Sugars Presents: How To! With Charles Duhigg",
@@ -505,7 +559,8 @@
             "description": "<p>In this special episode of Dear Sugars, Cheryl Strayed is a featured guest on the Slate podcast How To! with Charles Duhigg. We hear from Megan who is 35 years old, a lawyer, happily married — and suddenly not sure if she wants to be a mom. She always figured one day the maternal urge would kick in, but so far she’s only felt ambivalence. Does that mean that she shouldn’t have a baby? Cheryl tells us how she juggled this question when there is no going back, and how regret — regardless of what we choose — is always part of the equation.</p>\r\n\r\n<p>Subscribe to How To! with Charles Duhigg at https://podcasts.apple.com/us/podcast/how-to-with-charles-duhigg/id1469631127</p>",
             "duration": "00:28:56",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR8503274630.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Dear%20Sugars%20Presents%3A%20How%20To!%20With%20Charles%20Duhigg"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2019-10-04-dear-sugars-presents-how-to-with-charles-duhigg"
         },
         {
             "title": "Episodes We Love: Cutting The Financial Cord",
@@ -514,7 +569,8 @@
             "description": "<p>At age 18, we are granted the rights and responsibilities of adulthood in the eyes of the law. But for parents of young adults, it’s not so clear cut. When is the right time to wean your children off the family payroll? The Sugars tackle this question with the help of Dr. Kate Gale. This episode was originally released on December 23rd, 2017.</p>",
             "duration": "00:30:29",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR3368309977.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20Cutting%20The%20Financial%20Cord"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2019-09-30-episodes-we-love-cutting-the-financial-cord"
         },
         {
             "title": "Episodes We Love: The Ugly Truth",
@@ -523,7 +579,8 @@
             "description": "<p>Most of us have days when we don’t feel attractive. But in this episode, the Sugars read letters from people whose faces are at odds with conventional ideas of beauty. The writer Ariel Henley joins the Sugars to talk about her own facial differences. Henley was born with Crouzon Syndrome. As a child, she underwent dozens of surgeries that permanently changed the shape of her face. This episode was originally released December 16th, 2017.</p>",
             "duration": "00:34:57",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR7640899421.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20The%20Ugly%20Truth"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2019-09-21-episodes-we-love-the-ugly-truth"
         },
         {
             "title": "Episodes We Love: Lovers & Friends",
@@ -532,7 +589,8 @@
             "description": "<p>It’s healthy to cultivate friendships outside of your romantic relationships. But sometimes, they can be the source of jealousy and resentment. So when is jealousy actually justified? In this rapid-fire episode, the Sugars weigh in on this question and offer ways to confront and neutralize feelings of jealousy. This episode was originally released on March 31st, 2018.</p>",
             "duration": "00:42:44",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR7638162592.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20Lovers%20%26%20Friends"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2019-09-16-episodes-we-love-lovers-friends"
         },
         {
             "title": "Episodes We Love: The Double Bind Of Female Ambition",
@@ -541,7 +599,8 @@
             "description": "<p>The Sugars are joined by Hillary Clinton to answer a letter about female ambition. This episode was originally released on November 18th, 2017.</p>",
             "duration": "00:23:22",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR1435492926.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20The%20Double%20Bind%20Of%20Female%20Ambition"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2019-09-06-episodes-we-love-the-double-bind-of-female-ambition"
         },
         {
             "title": "Episodes We Love: The Stepchild's Dilemma",
@@ -550,7 +609,8 @@
             "description": "<p>Whether you’re 5, 15, or 50 years old, it can be difficult to usher a stepparent in and out of the family unit. In today’s episode, the Sugars answer letters from stepchildren who have fraught relationships with their stepparents. What is a stepparent’s responsibility to a stepchild after divorce? And what can be done if you don’t like the person your parent chooses to marry? This episode was originally released on April 28th, 2018.</p>",
             "duration": "00:45:30",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR7077371995.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20The%20Stepchild's%20Dilemma"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2019-08-30-episodes-we-love-the-stepchilds-dilemma"
         },
         {
             "title": "Episodes We Love: Consent Part Three",
@@ -559,7 +619,8 @@
             "description": "<p>The #MeToo movement deluged the Dear Sugars inbox with letters about sexual harassment in the workplace. In the final episode in our series on sexual consent, the Sugars read some of these letters and discuss what happens when non-consensual sexual attention moves from the private to the public realm. This episode was originally published on March 24th, 2018. </p>\r\n\r\n<p></p>",
             "duration": "00:40:51",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR8286315848.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20Consent%20Part%20Three"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2019-08-26-episodes-we-love-consent-part-three"
         },
         {
             "title": "Episodes We Love: Consent Part Two",
@@ -568,7 +629,8 @@
             "description": "<p>Some sexual encounters are obviously consensual, while others are obviously not. But what about those that are neither black nor white? In the second episode in our series on sexual consent, the Sugars plunge deeper into the gray area. This episode was originally published on March 17th, 2018.</p>\r\n\r\n<p></p>",
             "duration": "00:33:10",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR3631122293.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20Consent%20Part%20Two"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2019-08-16-episodes-we-love-consent-part-two"
         },
         {
             "title": "Episodes We Love: Consent Part One",
@@ -577,7 +639,8 @@
             "description": "<p>In the midst of the #MeToo Movement, women and men all over the country are re-examining sexual encounters from their past. Over the course of a three-part series on consent, the Sugars answer letters from some of these women and explore the complexity and nuance of sexual consent. This episode was originally published on March 10th, 2018.</p>\r\n\r\n<p></p>",
             "duration": "00:39:16",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR6985625520.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20Consent%20Part%20One"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2019-08-09-episodes-we-love-consent-part-one"
         },
         {
             "title": "Episodes We Love: Buyer's Remorse",
@@ -586,7 +649,8 @@
             "description": "<p>Buzz Bissinger owns more than 100 pairs of leather pants and over 200 pairs of leather gloves, having spent more than $600,000 on leather goods in the span of three years. Mr. Bissinger has a spending addiction, and he joins the Sugars to offer guidance to a letter-writer whose therapist and family don’t take her spending seriously. </p>\r\n\r\n<p>This episode was originally published on April 14th, 2018.</p>",
             "duration": "00:24:53",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR4335106041.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20Buyer's%20Remorse"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2019-08-03-episodes-we-love-buyers-remorse"
         },
         {
             "title": "Episodes We Love: Family By Proxy",
@@ -595,7 +659,8 @@
             "description": "<p>When a family experiences loss, familial roles are often redefined. In this episode, the Sugars answer letters from people who are unexpectedly charged with caring for new family members. This episode was originally released on February 10th, 2018.</p>",
             "duration": "00:32:43",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR4121044738.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20Family%20By%20Proxy"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2019-07-26-episodes-we-love-family-by-proxy"
         },
         {
             "title": "Episodes We Love: Dark Fantasies Part 2",
@@ -604,7 +669,8 @@
             "description": "<p> In part two of our Dark Fantasies series, Dr. Ian Kerner returns to help the Sugars answer questions about where our central ideas about sex and eroticism come from, and delve deeper into the world of sexual fantasy. This episode was originally published on January 20th, 2018.</p>\r\n\r\n<p></p>",
             "duration": "00:29:05",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR2326594419.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20Dark%20Fantasies%20Part%202"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2019-07-19-episodes-we-love-dark-fantasies-part-2"
         },
         {
             "title": "Episodes We Love: Dark Fantasies, Part 1",
@@ -613,7 +679,8 @@
             "description": "<p>Orgies. Sex in public. Incest. These are the things that some of us think about in the dark. Taboo fantasies can be exciting, but they can also be the source of our deepest shame. In the first chapter of this two-part series on sexual fantasies, the Sugars read letters from people who want to turn off the thoughts that turn them on. This episode was originally released on January 13th, 2018.</p>",
             "duration": "00:32:32",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR2208772653.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20Dark%20Fantasies%2C%20Part%201"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2019-07-12-episodes-we-love-dark-fantasies-part-1"
         },
         {
             "title": "Episodes We Love: The Empty Chair, Part 2",
@@ -622,7 +689,8 @@
             "description": "<p>The Sugars conclude a two-part series on early childhood death. In Part 2, they read letters from parents who worry that their grief may overshadow their surviving children. They are joined by the writer Emily Rapp Black, who decided to have another child after learning that her son had a fatal congenital disorder. This episode was originally published on November 11th, 2017.</p>",
             "duration": "00:33:32",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR6584609261.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20The%20Empty%20Chair%2C%20Part%202"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2019-07-08-episodes-we-love-the-empty-chair-part-2"
         },
         {
             "title": "Episodes We Love: The Empty Chair, Part 1",
@@ -631,7 +699,8 @@
             "description": "<p>In the Empty Chair series, the Sugars discuss early childhood death, an absence that can be ever-present. In Part 1, they read letters from siblings who live in the the shadow of their parents’ grief. This episode was originally released on November 4th, 2017.</p>",
             "duration": "00:33:42",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR1153259072.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20The%20Empty%20Chair%2C%20Part%201"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2019-06-29-episodes-we-love-the-empty-chair-part-1"
         },
         {
             "title": "Episodes We Love: The Other Half Of Sexless Relationships",
@@ -640,7 +709,8 @@
             "description": "<p>Sex-starved, meet sex-hounded. In today’s episode, we hear from a letter writer who feels pressured by her partner to have sex. This episode was originally released on October 28th, 2017.</p>",
             "duration": "00:24:25",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR4051830256.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20The%20Other%20Half%20Of%20Sexless%20Relationships"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2019-06-21-episodes-we-love-the-other-half-of-sexless-relationships"
         },
         {
             "title": "Episodes We Love: You Must Change Your Life",
@@ -649,7 +719,8 @@
             "description": "<p>“I remember them finding the drugs and holding them up in the sky. And I was like, 'Oh man, I’m going to prison.'” This week’s guest, the writer Mitchell S. Jackson, started selling drugs when he was 14 years old, then went to prison for drug possession years later. When his mother tried to buy drugs from him, he knew he couldn’t run away from his bad decisions. This episode was originally released on October 21st, 2017.</p>",
             "duration": "00:38:24",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR7730375047.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20You%20Must%20Change%20Your%20Life"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2019-06-13-episodes-we-love-you-must-change-your-life"
         },
         {
             "title": "Episodes We Love: Sexless Relationships, Part 2",
@@ -658,7 +729,8 @@
             "description": "<p>The Sugars are joined by the therapist Esther Perel to discuss a letter from a husband who is in a sexless marriage and is looking for a way to help his wife heal from trauma. This episode was originally released on September 16th, 2017.</p>",
             "duration": "00:26:11",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR8666262146.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20Sexless%20Relationships%2C%20Part%202"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2019-06-07-episodes-we-love-sexless-relationships-part-2"
         },
         {
             "title": "Episodes We Love: Sexless Relationships, Part 1",
@@ -667,7 +739,8 @@
             "description": "<p>A sexless relationship is often a symptom of deeper dysfunction. The Sugars, along with couples therapist Esther Perel, advise a letter writer whose loving partner is erotically absent. This episode was originally released on September 9th, 2017.</p>",
             "duration": "00:32:42",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR4311771259.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20Sexless%20Relationships%2C%20Part%201"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2019-05-31-episodes-we-love-sexless-relationships-part-1"
         },
         {
             "title": "Episodes We Love: In The Shadow Of Damaged Parents",
@@ -676,7 +749,8 @@
             "description": "<p>A damaged parent can cast a dark shadow over our lives, especially when we inherit some of that damage. Steve’s father, the psychoanalyst Dr. Richard Almond, joins the Sugars to answer letters and offer a way out. This episode was originally released on September 2nd, 2017.</p>",
             "duration": "00:33:36",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR1492549741.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20In%20The%20Shadow%20Of%20Damaged%20Parents"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2019-05-26-episodes-we-love-in-the-shadow-of-damaged-parents"
         },
         {
             "title": "Episodes We Love: Dear Dad, It's Over",
@@ -685,7 +759,8 @@
             "description": "<p>We can't choose our parents, but we can choose whether or not to have a relationship with them. This week, the Sugars discuss parental estrangement with the help of Stephen Elliott -- founding editor of The Rumpus and author of the books “The Adderall Diaries” and “Happy Baby” -- who estranged himself from his abusive father. This episode was originally released on April 20th, 2017.</p>",
             "duration": "00:40:22",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR9408659697.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20Dear%20Dad%2C%20It's%20Over"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2019-05-17-episodes-we-love-dear-dad-its-over"
         },
         {
             "title": "Episodes We Love: Career Vs. Love",
@@ -694,7 +769,8 @@
             "description": "<p>You love your partner, you love your career... but they're pulling you in different directions. What do you do? The Sugars have help from psychotherapist and sociologist Leslie Bell, author of Hard to Get: 20-Something Women and the Paradox of Sexual Freedom. This episode was originally released on April 13th, 2017.</p>",
             "duration": "00:33:59",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR9485337205.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20Career%20Vs.%20Love"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2019-05-10-episodes-we-love-career-vs-love"
         },
         {
             "title": "Episodes We Love: Inbox Outliers",
@@ -703,7 +779,8 @@
             "description": "<p>Infidelity. In-Laws. Friendship. These are just a few of the categories that help keep the Dear Sugar inbox organized. But every once in a while, we get a letter that doesn't fit neatly into any category. This week, the Sugars discuss a handful of those letters in rapid-fire fashion -- from a woman whose mother-in-law might be faking an allergy to her cat, to a woman whose identity was stolen...by her own sister. This episode was originally published on April 25th, 2017.</p>",
             "duration": "00:39:42",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR8161394882.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20Inbox%20Outliers"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2019-05-03-episodes-we-love-inbox-outliers"
         },
         {
             "title": "Episodes We Love: Baby Or Bust",
@@ -712,7 +789,8 @@
             "description": "<p>You wants kids; your partner doesn't. Or your partner wants kids, and you don't. Whatever the scenario, few subjects are as emotionally charged and potentially deal-breaking in a relationship as a disagreement over the decision to become parents. The Sugars take on this tricky topic with the help of the writer Danielle Herzog, who's written in the past about ending her own marriage to become a mother. This episode was originally published on March 22nd, 2017.</p>",
             "duration": "00:35:20",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR6357040712.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20Baby%20Or%20Bust"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2019-04-26-episodes-we-love-baby-or-bust"
         },
         {
             "title": "Dear Sugars Presents: Kind World",
@@ -721,7 +799,8 @@
             "description": "<p>Dear Sugars wants to tell you about another great show: Kind World. Subscribe today!</p>\r\n\r\n<p>https://podcasts.apple.com/us/podcast/kind-world/id963244879</p>",
             "duration": "00:11:33",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR2876709935.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Dear%20Sugars%20Presents%3A%20Kind%20World"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2019-04-22-dear-sugars-presents-kind-world"
         },
         {
             "title": "Episodes We Love: Pet Dilemmas",
@@ -730,7 +809,8 @@
             "description": "<p>This week, adventures in animal ownership! The Sugars, along with Julie Barton -- author of the memoir \"Dog Medicine: How My Dog Saved Me From Myself\" -- answer letters about pet dilemmas and the ways these creatures affect human relationships. This episode was originally published on August 26th, 2017.</p>",
             "duration": "00:46:34",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR2443513619.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20Pet%20Dilemmas"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2019-04-19-episodes-we-love-pet-dilemmas"
         },
         {
             "title": "Episodes We Love: Body Weight And Romance",
@@ -739,7 +819,8 @@
             "description": "<p>It’s never easy to talk to our romantic partners about their bodies, especially when it’s about weight. The Sugars, along with the writer Ashley C. Ford, answer letters from people questioning their relationships because of major changes in their partners’ bodies. This episode was originally published on August 19th, 2017.</p>",
             "duration": "00:34:22",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR8714972019.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20Body%20Weight%20And%20Romance"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2019-04-12-episodes-we-love-body-weight-and-romance"
         },
         {
             "title": "Episodes We Love: Should I Intervene?",
@@ -748,7 +829,8 @@
             "description": "<p>When we decide to meddle, it can often backfire. The Sugars, along with the writer Meghan Daum, answer letters from people who see loved ones heading down the wrong path, but worry intervention might be the wrong move. This episode was originally published on August 12th, 2017.</p>",
             "duration": "00:41:00",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR2929885553.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20Should%20I%20Intervene%3F"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2019-04-05-episodes-we-love-should-i-intervene"
         },
         {
             "title": "Episodes We Love: Haunted By Ghosting",
@@ -757,7 +839,8 @@
             "description": "<p>The term \"ghosting\" may be relatively new, but the concept -- someone suddenly and inexplicably disappearing from your life -- is not. In the past, a total halt to communication with a friend might leave you feeling concerned that something bad happened to him/her. But in a time where our devices have made us more accessible than ever, it can leave the person who's been ghosted feeling rejected or unworthy. This episode was originally published on March 16th, 2017.</p>",
             "duration": "00:37:02",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR1802939263.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20Haunted%20By%20Ghosting"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2019-03-29-episodes-we-love-haunted-by-ghosting"
         },
         {
             "title": "Episodes We Love: Location, Location, Location",
@@ -766,7 +849,8 @@
             "description": "<p>Location, location, location. It makes all the difference in real estate, and it can make all the difference to one's happiness. But finding a place that really feels like home can be tricky. This episode was originally published on March 9th, 2017.</p>\r\n\r\n<p></p>",
             "duration": "00:36:04",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR8216958152.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20Location%2C%20Location%2C%20Location"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2019-03-22-episodes-we-love-location-location-location"
         },
         {
             "title": "Episodes We Love: Sexual Fluidity",
@@ -775,7 +859,8 @@
             "description": "<p>\"Whatever\" -- that's how the actress Maria Bello describes her sexual orientation. Her \"love who you love\" attitude toward sexuality, regardless of gender, is often referred to as fluidity. Maria joins the Sugars this week to discuss a couple of letters having to do with the confusion and complications that can accompany a shift in one's sexual preferences and partnerships. This episode was originally published on February 28th, 2017.</p>",
             "duration": "00:42:35",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR5563281143.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20Sexual%20Fluidity"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2019-03-18-episodes-we-love-sexual-fluidity"
         },
         {
             "title": "Episodes We Love: Happy Two Years Of Sugar, Part 2",
@@ -784,7 +869,8 @@
             "description": "<p>It's part 2 of \"the year in Sugar,\" where Steve and Cheryl reflect on some of the most memorable letters and episodes of 2016. This episode was originally published on February 9th, 2017.</p>",
             "duration": "00:37:43",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR8697381261.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20Happy%20Two%20Years%20Of%20Sugar%2C%20Part%202"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2019-03-08-episodes-we-love-happy-two-years-of-sugar-part-2"
         },
         {
             "title": "Episodes We Love: Happy Two Years Of Sugar, Part 1",
@@ -793,7 +879,8 @@
             "description": "<p>The Sugars look back on some of the most memorable letters and episodes of 2016. There are so many that they'll be doing this in two parts. This episode was originally released on January 27th, 2017.</p>",
             "duration": "00:46:48",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR5245286003.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20Happy%20Two%20Years%20Of%20Sugar%2C%20Part%201"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2019-03-01-episodes-we-love-happy-two-years-of-sugar-part-1"
         },
         {
             "title": "Episodes We Love: The Writers Resist, Part 2",
@@ -802,7 +889,8 @@
             "description": "<p>Part two of Dear Sugar Radio: The Writers Resist at The Aladdin Theater in Portland, Oregon. This episode was originally released on January 27th, 2017.</p>",
             "duration": "00:29:34",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR1553638087.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20The%20Writers%20Resist%2C%20Part%202"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2019-02-22-episodes-we-love-the-writers-resist-part-2"
         },
         {
             "title": "Dear Sugars Presents: Dear Hank and John",
@@ -811,7 +899,8 @@
             "description": "<p>Dear Sugars wants to tell you about another great advice show: Dear Hank & John.</p>",
             "duration": "00:45:19",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR1803305283.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Dear%20Sugars%20Presents%3A%20Dear%20Hank%20and%20John"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2019-02-19-dear-sugars-presents-dear-hank-and-john"
         },
         {
             "title": "Episodes We Love: The Writers Resist, Part 1",
@@ -820,7 +909,8 @@
             "description": "<p>On November 9th, 2016 -- the day after Donald Trump became America's President-elect -- the Dear Sugar inbox was flooded with emails asking some version of the question, \"How do we move forward as a nation from here?\" The Sugars bring that question before an audience at The Aladdin Theater in Portland, Oregon. This episode was originally published on January 20th, 2017.</p>",
             "duration": "00:37:14",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR7037983252.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20The%20Writers%20Resist%2C%20Part%201"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2019-02-15-episodes-we-love-the-writers-resist-part-1"
         },
         {
             "title": "Episodes We Love: Love In Doubt",
@@ -829,7 +919,8 @@
             "description": "<p>How many times have you heard this: \"I love him, we're great together, but...\"? There's always room for doubt, even in the happiest of relationships. So this week, the Sugars take on some of those doubts in rapid-fire fashion. This episode was originally published on January 5th, 2017.</p>",
             "duration": "00:41:55",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR3313175677.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20Love%20In%20Doubt"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2019-02-08-episodes-we-love-love-in-doubt"
         },
         {
             "title": "Episodes We Love: The Dark Side Of Porn",
@@ -838,7 +929,8 @@
             "description": "<p>The Sugars continue their series on porn with a letter from a woman whose fiancé is \"addicted\" to porn. This episode was originally released on December 16th, 2016.</p>",
             "duration": "00:39:14",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR9506090344.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20The%20Dark%20Side%20Of%20Porn"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2019-02-01-episodes-we-love-the-dark-side-of-porn"
         },
         {
             "title": "Dear Sugars Presents: Endless Thread",
@@ -847,7 +939,8 @@
             "description": "<p>From our partners at WBUR, Endless Thread is a podcast featuring amazing stories found on Reddit. In this story, they talk to a happily married couple who has recently decided to experiment with consensual non-monogamy.</p>",
             "duration": "00:31:50",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR6991891086.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Dear%20Sugars%20Presents%3A%20Endless%20Thread"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2019-01-28-dear-sugars-presents-endless-thread"
         },
         {
             "title": "Episodes We Love: Is Porn Wrong?",
@@ -856,7 +949,8 @@
             "description": "<p>Pornography is more abundant and accessible than ever before. So it probably isn't surprising that it appears to be having a greater impact on romantic relationships. Part one of a two-part series focuses on some basic questions about porn -- is it wrong to use it? Why do people turn to porn? Is there such a thing as \"healthy\" porn use in a relationship? This episode was originally published on December 1st, 2016.</p>",
             "duration": "00:35:27",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR5870239084.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20Is%20Porn%20Wrong%3F"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2019-01-25-episodes-we-love-is-porn-wrong"
         },
         {
             "title": "Episodes We Love: What About The Stepchildren?",
@@ -865,7 +959,8 @@
             "description": "<p>When the Sugars answered a letter from a woman who felt trapped in the role of \"wicked stepmother,\" dozens of listeners wrote in asking the same question: what about the stepchildren, who have no control over the restructuring of their family? This week, the Sugars respond with an episode devoted to the other side of the story. This episode was originally released November 17th, 2016.</p>",
             "duration": "00:40:03",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR4241082209.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20What%20About%20The%20Stepchildren%3F"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2019-01-18-episodes-we-love-what-about-the-stepchildren"
         },
         {
             "title": "Episodes We Love: When Your Loved Ones Just Don't 'Get It'",
@@ -874,7 +969,8 @@
             "description": "<p>Our loved ones are the people who are supposed to understand us. But what if they just...can't? Where do we turn then, and how do we fight the feelings of resentment that this lack of understanding can stir up? This episode was originally released November 11th, 2016.</p>",
             "duration": "00:31:54",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR9591501223.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20When%20Your%20Loved%20Ones%20Just%20Don't%20'Get%20It'"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2019-01-11-episodes-we-love-when-your-loved-ones-just-dont-get-it"
         },
         {
             "title": "Episodes We Love: Friendships, Part 2",
@@ -883,7 +979,8 @@
             "description": "<p>The Sugars have another conversation on friendship, this time with a handful of letters concerning male-female friendships. Is there such a thing as a platonic relationship between a heterosexual man and woman? Can male-female friendships be as emotionally satisfying as same-gender relationships? What do you do when a friend crosses a romantic line? The Sugars discuss it all in rapid-fire fashion. This episode was originally released November 4th, 2016.</p>",
             "duration": "00:31:49",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR9554622913.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20Friendships%2C%20Part%202"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2019-01-07-episodes-we-love-friendships-part-2"
         },
         {
             "title": "Introducing Safe for Work",
@@ -892,7 +989,8 @@
             "description": "<p>Safe For Work is an advice show that reminds you that while your office may be crazy, you don’t have to be. Office MVPs and corporate veterans Liz Dolan (ex-CMO, Nike, NatGeo, Oprah Winfrey Network) and Rico Gagliano (audio host, producer, print reporter and author) will help you make the big decisions, sort through the small stuff, and get more fulfillment from your work life.</p>",
             "duration": "00:03:25",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR4279046720.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Introducing%20Safe%20for%20Work"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2018-12-19-introducing-safe-for-work"
         },
         {
             "title": "Episodes We Love: The Price Of Our Dreams",
@@ -901,7 +999,8 @@
             "description": "<p>The Sugars, along with fiction writer George Saunders, field letters from people who are chasing their creative dreams but frightened by the practical and financial risks that come with that pursuit. This episode was originally released on August 5th, 2017.</p>",
             "duration": "00:34:42",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR1065622326.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20The%20Price%20Of%20Our%20Dreams"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2018-12-08-episodes-we-love-the-price-of-our-dreams"
         },
         {
             "title": "Episodes We Love: Rapid Fire Letters",
@@ -910,7 +1009,8 @@
             "description": "<p>In a heated moment, a mother reveals a dark chapter from her childhood to her daughter, then immediately regrets it. What now? In this week’s episode, the Sugars tackle this and several other questions, including how to handle a brother-in-law who treats your vacation as his own free childcare; what to do when your best friend’s husband asks you to lie; and why we sometimes recoil at very public displays of grief. This episode was originally released July 29th, 2017.</p>",
             "duration": "00:32:42",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR5143724124.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20Rapid%20Fire%20Letters"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2018-12-01-episodes-we-love-rapid-fire-letters"
         },
         {
             "title": "Episodes We Love: The Power Of No, Part 2",
@@ -919,7 +1019,8 @@
             "description": "<p>\"What do I want?\" This is the question Oprah Winfrey finally asked herself, after years of struggling to say \"no\" to people in her life. In the second of this two-part series, the Sugars continue their conversation with Oprah Winfrey on when, why and how to say \"no.\" </p>",
             "duration": "00:25:09",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR1799808242.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20The%20Power%20Of%20No%2C%20Part%202"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2018-11-17-episodes-we-love-the-power-of-no-part-2"
         },
         {
             "title": "Episodes We Love: The Power Of No, Part 1",
@@ -928,7 +1029,8 @@
             "description": "<p>There’s incredible power in saying “yes.” It opens up avenues and allows us to be brave. In Cheryl's case, it’s what led to her becoming Sugar. But saying yes to life's opportunities can also have its risks. The Sugars are joined by Oprah Winfrey to discuss when to say no, how to say no, and what happens in the wake of that. This episode was originally released July 15th, 2017.</p>",
             "duration": "00:35:05",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR9477099934.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20The%20Power%20Of%20No%2C%20Part%201"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2018-11-10-episodes-we-love-the-power-of-no-part-1"
         },
         {
             "title": "Episodes We Love: Friendship, Part 1",
@@ -937,7 +1039,8 @@
             "description": "<p>Everyone has had a friendship quandary of some sort in the past, right? This week, the Sugars take on frequently asked questions in \"rapid fire\" fashion – from hating your best friend's significant other, to hating her politics. This episode was originally released October 28th, 2016.</p>",
             "duration": "00:41:19",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR2906583552.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20Friendship%2C%20Part%201"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2018-11-03-episodes-we-love-friendship-part-1"
         },
         {
             "title": "Episodes We Love: May-December Romances",
@@ -946,7 +1049,8 @@
             "description": "<p>Age is just a number in many contexts, but when it comes to finding long-lasting love, an age gap between partners can greatly impact the course of the relationship — both in positive and challenging ways. The Sugars discuss those so-called \"May-December\" romances with the help of Lucinda Franks, a Pulitzer Prize-winning journalist and author of the memoir Timeless: Love, Morgenthau, and Me, which tells the story of her marriage to New York District Attorney Robert Morgenthau, who's 27 years her senior. This episode was originally released October 20th, 2016.</p>",
             "duration": "00:30:40",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR1917484616.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20May-December%20Romances"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2018-10-27-episodes-we-love-may-december-romances"
         },
         {
             "title": "Episodes We Love: I Divorced My Spouse, And My Child Divorced Me",
@@ -955,7 +1059,8 @@
             "description": "<p>Divorce is always a painful process, but it's especially so when there are children in the middle. This week, the Sugars discuss situations of parental alienation caused by divorce. They answer letters from a mother and a father whose daughters have cut off all communication with them after taking the other parent's side. This episode was originally released October 14th, 2016,</p>",
             "duration": "00:30:46",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR7481565552.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20I%20Divorced%20My%20Spouse%2C%20And%20My%20Child%20Divorced%20Me"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2018-10-20-episodes-we-love-i-divorced-my-spouse-and-my-child-divorced-me"
         },
         {
             "title": "Episodes We Love: Make The Call",
@@ -964,7 +1069,8 @@
             "description": "<p>The Sugars bring you another \"rapid fire\" episode, where they give brief answers to a handful of letters. This time, they challenge each other to make the call — one way or the other — on the questions they're discussing, rather than offer open-ended guidance. This episode was originally released September 30th, 2016,</p>",
             "duration": "00:39:29",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR2225676160.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20Make%20The%20Call"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2018-10-13-episodes-we-love-make-the-call"
         },
         {
             "title": "Episodes We Love: How Do I Find The Courage To Be My Own Guide?",
@@ -973,7 +1079,8 @@
             "description": "<p>The Sugars often discuss letters dealing with very specific problems or struggles. This week, they take on a broader, more existential question -- how to follow your heart. The Sugars discuss with the GRAMMY-winning singer/songwriter India Arie, who shares how she learned to be her own guide. This episode was originally released September 23rd, 2016.</p>",
             "duration": "00:26:37",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR1017860863.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20How%20Do%20I%20Find%20The%20Courage%20To%20Be%20My%20Own%20Guide%3F"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2018-09-29-episodes-we-love-how-do-i-find-the-courage-to-be-my-own-guide"
         },
         {
             "title": "Episodes We Love: I'm A Transgender Man, Seeking Acceptance",
@@ -982,7 +1089,8 @@
             "description": "<p>The Sugars read the letters of two transgender men who are struggling to find love and acceptance. They discuss with Cooper Lee Bombardier, a visual artist, writer and transgender man. </p>",
             "duration": "00:38:01",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR4445495491.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20I'm%20A%20Transgender%20Man%2C%20Seeking%20Acceptance"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2018-09-22-episodes-we-love-im-a-transgender-man-seeking-acceptance"
         },
         {
             "title": "Dear Sugars Presents: Last Seen",
@@ -991,7 +1099,8 @@
             "description": "<p>From our partners at WBUR, a new podcast that looks into the greatest unsolved art heist in history: the theft of half a billion dollars worth of art from the Isabella Stewart Gardner museum in Boston. </p>",
             "duration": "00:36:22",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR2577559668.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Dear%20Sugars%20Presents%3A%20Last%20Seen"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2018-09-18-dear-sugars-presents-last-seen"
         },
         {
             "title": "Episodes We Love: Can A Sexual Assault Survivor Love A Rapist?",
@@ -1000,7 +1109,8 @@
             "description": "<p>The Sugars discuss a letter from a survivor of sexual assault who has just been told by her long-time partner that he raped someone when he was in high school. The writer wonders how she, as a survivor and self-proclaimed feminist, can justify loving a rapist. </p>",
             "duration": "00:29:27",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR5964042344.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Episodes%20We%20Love%3A%20Can%20A%20Sexual%20Assault%20Survivor%20Love%20A%20Rapist%3F"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2018-09-15-episodes-we-love-can-a-sexual-assault-survivor-love-a-rapist"
         },
         {
             "title": "The Long Goodbye",
@@ -1009,7 +1119,8 @@
             "description": "<p>After four years of ministering to the lost, lonely and heartsick, the Sugars say farewell on this final episode of the podcast. We take a look back at some of our most powerful advice, hear from former guests, and talk to listeners about how the show has affected their lives.</p>",
             "duration": "01:13:57",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR6340980337.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=The%20Long%20Goodbye"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2018-09-01-the-long-goodbye"
         },
         {
             "title": "Moving On, Part 2 — With Dr. Harriet Lerner",
@@ -1018,7 +1129,8 @@
             "description": "<p>In this second part of our series on moving on, the Sugars discuss how we can release ourselves from our past mistakes. Dr. Harriet Lerner drops in to answer a letter from a woman who calls herself a \"serial codependent,\" as well as a woman who is haunted by her abortion.</p>",
             "duration": "00:43:17",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR4486257116.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Moving%20On%2C%20Part%202%20%E2%80%94%20With%20Dr.%20Harriet%20Lerner"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2018-08-25-moving-on-part-2-with-dr-harriet-lerner"
         },
         {
             "title": "Moving On, Part 1 — With Claire Bidwell Smith",
@@ -1027,7 +1139,8 @@
             "description": "<p>As our final season draws to a close, the Sugars have been thinking about what it means to say goodbye and let go. In this first episode of our two-part series on moving on, the Sugars and Claire Bidwell Smith answer two letters from people struggling to move past their grief after the death of their loved ones.</p>",
             "duration": "00:46:45",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR4965791494.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Moving%20On%2C%20Part%201%20%E2%80%94%20With%20Claire%20Bidwell%20Smith"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2018-08-08-moving-on-part-1-with-claire-bidwell-smith"
         },
         {
             "title": "Talking About Privilege — With Catrice M. Jackson",
@@ -1036,7 +1149,8 @@
             "description": "<p>Privilege comes in many forms: socio-economic privilege, gender privilege, heterosexual privilege, to name a few. In this episode, the Sugars reply to two letter writers who are facing different forms of privilege. They discuss with Catrice M. Jackson, a leading voice for racial justice. </p>",
             "duration": "00:51:33",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR3916092988.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Talking%20About%20Privilege%20%E2%80%94%20With%20Catrice%20M.%20Jackson"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2018-08-11-talking-about-privilege-with-catrice-m-jackson"
         },
         {
             "title": "Emotional Abuse — With Reema Zaman",
@@ -1045,7 +1159,8 @@
             "description": "<p>He removed her makeup when he thought she was wearing too much. He refused to put her name on the leases for their car and their house. He told her that she had a green card only because he chose to marry her. Reema Zaman, our guest in this week’s episode, was in an emotionally abusive marriage. She helps the Sugars answer two painful letters from women who are struggling to disentangle themselves from their abusive partners. </p>",
             "duration": "00:47:57",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR7868311564.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Emotional%20Abuse%20%E2%80%94%20With%20Reema%20Zaman"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2018-08-04-emotional-abuse-with-reema-zaman"
         },
         {
             "title": "Dear Sugars Live: The Great Reckoning",
@@ -1054,7 +1169,8 @@
             "description": "<p>Dear Sugars returns to Portland, Oregon, for another epic live show. Special guests Mitchell S. Jackson and Rebecca Skloot share the stage with the Sugars to tell stories of personal reckoning, and to answer letters dealing with transgressions of love, friendship, the self, and so much more.</p>",
             "duration": "00:51:32",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR7549483279.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Dear%20Sugars%20Live%3A%20The%20Great%20Reckoning"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2018-07-28-dear-sugars-live-the-great-reckoning"
         },
         {
             "title": "Rapid Fire: Love & Money",
@@ -1063,7 +1179,8 @@
             "description": "<p>When it comes to love, money is supposed to be no object. But there’s no disentangling love from anything in our lives, and income is no exception. So how do you assess the role money should play in a relationship, and what happens when your desires and means change over time? The Sugars take on 5 letters in this rapid-fire episode. </p>",
             "duration": "00:44:20",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR8076833869.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Rapid%20Fire%3A%20Love%20%26%20Money"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2018-07-21-rapid-fire-love-money"
         },
         {
             "title": "Young & Isolated — With Shirley Manson",
@@ -1072,7 +1189,8 @@
             "description": "<p>Feeling like an outsider is one of the hallmarks of adolescence. But in today’s episode, we hear from two 16-year-olds who have cause to feel especially isolated. One girl is home-schooled and suffers from social anxiety. Another feels disconnected from her best friend, who has suddenly become popular at school. Both letter writers wonder if they’ll ever feel comfortable in their own skin. Shirley Manson, the lead singer of the alternative rock band Garbage, joins the Sugars to discuss her own journey as an outsider. </p>",
             "duration": "00:44:29",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR3272139321.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Young%20%26%20Isolated%20%E2%80%94%20With%20Shirley%20Manson"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2018-07-14-young-isolated-with-shirley-manson"
         },
         {
             "title": "Who's Your Daddy? — With Steve Lickteig",
@@ -1081,7 +1199,8 @@
             "description": "<p>When Steve Lickteig turned 18, he learned that his mother and father, who he thought were his adoptive parents, are in fact his biological grandparents. With the advent of affordable DNA testing and companies like 23andMe, more and more people are having revelations like Mr. Lickteig’s. For some, these revelations can be a welcome and exciting discovery process. For others, they’re shocking and unwanted. In today’s episode, Mr. Lickteig shares his story and helps the Sugars advise letter writers who are still reeling from their genetic discoveries.</p>",
             "duration": "00:40:37",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR4567384637.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Who's%20Your%20Daddy%3F%20%E2%80%94%20With%20Steve%20Lickteig"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2018-06-16-whos-your-daddy-with-steve-lickteig"
         },
         {
             "title": "Trust Your Body — With Hilary Kinavey & Dana Sturtevant",
@@ -1090,7 +1209,8 @@
             "description": "<p>“It’s only when my pants are nearly impossible to button that I force myself to lose weight,” writes the letter-writer who calls herself Body Negative. “And then the pattern starts all over again.” Hilary Kinavey, M.S., L.P.C., and Dana Sturtevant, M.S., R.D., the co-owners of Be Nourished, join the Sugars on today’s episode to offer Body Negative and women like her some hope. </p>",
             "duration": "00:41:51",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR2790099275.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Trust%20Your%20Body%20%E2%80%94%20With%20Hilary%20Kinavey%20%26%20Dana%20Sturtevant"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2018-06-09-trust-your-body-with-hilary-kinavey-dana-sturtevant"
         },
         {
             "title": "Rapid Fire: There's Just One Thing",
@@ -1099,7 +1219,8 @@
             "description": "<p>In this \"rapid fire\" episode, the Sugars read letters from four women who each have one not-so-tiny reservation about the men they’re dating. A black woman is dating a white man who is unwilling to talk about race issues, claiming that she’s “too sensitive.” Another woman’s boyfriend, a Christian, is having second thoughts about dating her because she’s an atheist. The Sugars tackle these issues and more, and weigh in on which can be ironed out and which should be deal breakers.</p>",
             "duration": "00:40:42",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR4927162606.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Rapid%20Fire%3A%20There's%20Just%20One%20Thing"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2018-05-26-rapid-fire-theres-just-one-thing"
         },
         {
             "title": "Sex & Aging — With Dr. Pepper Schwartz",
@@ -1108,7 +1229,8 @@
             "description": "<p>The erotic lives of senior citizens are typically made invisible by our culture, which can lead to confusion and misinformation. Dr. Pepper Schwartz, the love and relationship columnist for AARP, joins the Sugars to dispel certain myths about sex and aging: Do libidos change after menopause? How does the aging body affect the way we feel about sex? Should medical interventions be considered for a declining sex drive?</p>",
             "duration": "00:36:31",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR8870606945.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Sex%20%26%20Aging%20%E2%80%94%20With%20Dr.%20Pepper%20Schwartz"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2018-05-19-sex-aging-with-dr-pepper-schwartz"
         },
         {
             "title": "Rage Is A Red Lesson",
@@ -1117,7 +1239,8 @@
             "description": "<p>Shortly after the birth of her first child, a letter-writer who calls herself “Tantrum Daughter” lost her mother to suicide. Now, with a second child on the way, Tantrum Daughter is overcome with pain and anger. After reading Morgan Jerkins’s essay “How I Overcame My Anger as a Black Writer Online,” the Sugars enlist her help to answer Tantrum Daughter’s letter. Ms. Jerkins frequently taps her own anger in her essays on police brutality. The Sugars and Ms. Jerkins discuss the connection between trauma and rage, and …</p>",
             "duration": "00:40:35",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR2644616772.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Rage%20Is%20A%20Red%20Lesson"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2018-05-12-rage-is-a-red-lesson"
         },
         {
             "title": "Emotional Labor: The Invisible Work (Most) Women Do",
@@ -1126,7 +1249,8 @@
             "description": "<p>Remembering the grocery list, coordinating with the babysitter, making food for the potluck, scheduling a get-together with the in-laws: These are some of the invisible tasks that (most) women exclusively do in their romantic relationships — and the list goes on and on. Women from across the country wrote in to the Dear Sugars inbox echoing identical inequalities in their relationships with their husbands and boyfriends. The Sugars commiserate with this aggrieved chorus, along with Gemma Hartley, the writer who set off a national conversation about emotional labor with her …</p>",
             "duration": "00:44:08",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR3081663606.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Emotional%20Labor%3A%20The%20Invisible%20Work%20(Most)%20Women%20Do"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2018-05-05-emotional-labor-the-invisible-work-most-women-do"
         },
         {
             "title": "The Stepchild's Dilemma — With Theo Pauline Nestor",
@@ -1135,7 +1259,8 @@
             "description": "<p>Whether you’re 5, 15, or 50 years old, it can be difficult to usher a stepparent in and out of the family unit. In today’s episode, the Sugars answer letters from stepchildren who have fraught relationships with their stepparents. What is a stepparent’s responsibility to a stepchild after divorce? And what can be done if you don’t like the person your parent chooses to marry?</p>",
             "duration": "00:45:19",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR4487385254.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=The%20Stepchild's%20Dilemma%20%E2%80%94%20With%20Theo%20Pauline%20Nestor"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2018-04-28-the-stepchilds-dilemma-with-theo-pauline-nestor"
         },
         {
             "title": "I'm In Love With My Abuser — With Esta Soler",
@@ -1144,7 +1269,8 @@
             "description": "<p>For the first time on the podcast, the Sugars answer a voice mail message from the Dear Sugars hotline. The message comes from a woman who reunited with her ex-boyfriend, who once assaulted her. Wracked with shame, she wonders if reconciling with him is acceptable and if it’s possible he’ll change. Esta Soler, president and founder of Futures Without Violence, joins the Sugars to help answer the question: Is it O.K. to love someone who abused you?</p>",
             "duration": "00:26:17",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR8807652723.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=I'm%20In%20Love%20With%20My%20Abuser%20%E2%80%94%20With%20Esta%20Soler"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2018-04-21-im-in-love-with-my-abuser-with-esta-soler"
         },
         {
             "title": "Buyer's Remorse — With Buzz Bissinger",
@@ -1153,7 +1279,8 @@
             "description": "<p>Buzz Bissinger owns more than 100 pairs of leather pants and over 200 pairs of leather gloves, having spent more than $600,000 on leather goods in the span of three years. Mr. Bissinger has a spending addiction, but when he published his confessional in GQ magazine he was labeled an “obsessive,” a “fancy man,” and a “shopaholic.” Only when he was admitted into rehab did many people understand that he was struggling with a debilitating behavioral addiction. Mr. Bissinger joins the Sugars to offer guidance to a letter-writer whose therapist and family …</p>",
             "duration": "00:23:59",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR8800428209.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Buyer's%20Remorse%20%E2%80%94%20With%20Buzz%20Bissinger"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2018-04-14-buyers-remorse-with-buzz-bissinger"
         },
         {
             "title": "Dear Sugars Live: A Night Of Bad Stories",
@@ -1162,7 +1289,8 @@
             "description": "<p>Dear Sugars returns to Portland, Oregon, for another raucous and uplifting live show. The Sugars get a surprising update from a letter writer from their past; discuss a new letter with a special guest, Omar El Akkad; and ask the audience, “What’s the ‘bad story’ you tell yourself?” “Bad Stories,” the title of Steve Almond’s new book, are the false narratives we tell ourselves that undermine our happiness. “You’ve got to revise those narratives,” encourages Cheryl Strayed. “You have the capacity for change and transformation.”</p>",
             "duration": "00:41:28",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR5943489325.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Dear%20Sugars%20Live%3A%20A%20Night%20Of%20Bad%20Stories"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2018-04-07-dear-sugars-live-a-night-of-bad-stories"
         },
         {
             "title": "Rapid Fire: Lovers & Friends",
@@ -1171,7 +1299,8 @@
             "description": "<p>In this rapid-fire episode, the Sugars weigh in on jealousy -- when is it justified, and how can it be confronted or neutralized?</p>",
             "duration": "00:42:34",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR1335882191.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Rapid%20Fire%3A%20Lovers%20%26%20Friends"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2018-03-31-rapid-fire-lovers-friends"
         },
         {
             "title": "Consent, Part 3: Working In The Gray",
@@ -1180,7 +1309,8 @@
             "description": "<p>In the final episode in our series on sexual consent, the Sugars discuss what happens when non-consensual sexual attention moves from the private to the public realm.</p>",
             "duration": "00:40:46",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR5095157558.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Consent%2C%20Part%203%3A%20Working%20In%20The%20Gray"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2018-03-24-consent-part-3-working-in-the-gray"
         },
         {
             "title": "Consent, Part 2: Stuck In The Gray",
@@ -1189,7 +1319,8 @@
             "description": "<p>In the second episode in our series on sexual consent, the Sugars dive deeper into encounters that are neither clearly consensual nor non-consensual. </p>",
             "duration": "00:32:59",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR3751178185.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Consent%2C%20Part%202%3A%20Stuck%20In%20The%20Gray"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2018-03-17-consent-part-2-stuck-in-the-gray"
         },
         {
             "title": "Consent Part 1: Into The Gray — With Jaclyn Friedman",
@@ -1198,7 +1329,8 @@
             "description": "<p>In the midst of the #MeToo Movement, women and men all over the country are re-examining sexual encounters from their past. Over the course of a three-part series on consent, the Sugars answer letters from some of these women and explore the complexity and nuance of sexual consent.</p>",
             "duration": "00:39:17",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR5840119255.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Consent%20Part%201%3A%20Into%20The%20Gray%20%E2%80%94%20With%20Jaclyn%20Friedman"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2018-03-10-consent-part-1-into-the-gray-with-jaclyn-friedman"
         },
         {
             "title": "Family By Proxy — With Jessie Glenn",
@@ -1207,7 +1339,8 @@
             "description": "<p>When a family experiences loss, familial roles are often redefined. In this episode, the Sugars answer letters from people who are unexpectedly charged with caring for new family members.</p>",
             "duration": "00:33:48",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR3847158242.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Family%20By%20Proxy%20%E2%80%94%20With%20Jessie%20Glenn"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2018-02-10-family-by-proxy-with-jessie-glenn"
         },
         {
             "title": "Updates Part 2: Step Into Your Spotlight",
@@ -1216,7 +1349,8 @@
             "description": "<p>In part two of our updates series, we find out what happened to two letter writers who let self-image sabotage their love lives. The Sugars find out if “Scared to Choose Wrong” married her fiancé, and they give “Aspiring Warrior for Love” a call to see how he’s changed since hearing the Sugars’ advice more than a year ago.</p>",
             "duration": "00:36:42",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR3982708129.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Updates%20Part%202%3A%20Step%20Into%20Your%20Spotlight"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2018-02-04-updates-part-2-step-into-your-spotlight"
         },
         {
             "title": "Updates Part 1: Change Is A Work In Progress",
@@ -1225,7 +1359,8 @@
             "description": "<p>In today’s update episode, we check in with some of our most memorable letter writers from previous episodes. The Sugars find out if “Struggling” was kicked out of his mother’s house, and they give “Bad Mom” a call to see if and how her views of motherhood have changed since hearing the Sugars’ advice more than two years ago.</p>",
             "duration": "00:35:18",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR4679580731.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Updates%20Part%201%3A%20Change%20Is%20A%20Work%20In%20Progress"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2018-01-27-updates-part-1-change-is-a-work-in-progress"
         },
         {
             "title": "Dark Fantasies Part 2 — With Dr. Ian Kerner",
@@ -1234,7 +1369,8 @@
             "description": "<p> In part two of our Dark Fantasies series, Dr. Ian Kerner returns to help the Sugars answer questions about where our central ideas about sex and eroticism come from, and delve deeper into the world of sexual fantasy.</p>",
             "duration": "00:28:57",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR5945209777.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Dark%20Fantasies%20Part%202%20%E2%80%94%20With%20Dr.%20Ian%20Kerner"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2018-01-20-dark-fantasies-part-2-with-dr-ian-kerner"
         },
         {
             "title": "Dark Fantasies, Part 1 — With Dr. Ian Kerner",
@@ -1243,7 +1379,8 @@
             "description": "<p>Orgies. Sex in public. Incest. These are the things that some of us think about in the dark. Taboo fantasies can be exciting, but they can also be the source of our deepest shame. In this two-part series on sexual fantasies, the Sugars read letters from people who want to turn off the thoughts that turn them on.</p>",
             "duration": "00:32:22",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR2829885184.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Dark%20Fantasies%2C%20Part%201%20%E2%80%94%20With%20Dr.%20Ian%20Kerner"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2018-01-13-dark-fantasies-part-1-with-dr-ian-kerner"
         },
         {
             "title": "Cutting The Financial Cord — With Dr. Kate Gale",
@@ -1252,7 +1389,8 @@
             "description": "<p>At age 18, we are granted the rights and responsibilities of adulthood in the eyes of the law. But for parents of young adults, it’s not so clear cut. When is the right time to wean your children off the family payroll? The Sugars tackle this question with the help of Dr. Kate Gale. </p>",
             "duration": "00:30:23",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR7763761125.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Cutting%20The%20Financial%20Cord%20%E2%80%94%20With%20Dr.%20Kate%20Gale"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2017-12-23-cutting-the-financial-cord-with-dr-kate-gale"
         },
         {
             "title": "The Ugly Truth",
@@ -1261,7 +1399,8 @@
             "description": "<p>Most of us have days when we don’t feel attractive. But in this episode, the Sugars read letters from people whose faces are at odds with conventional ideas of beauty. The writer Ariel Henley joins the Sugars to talk about her own facial differences. Henley was born with Crouzon Syndrome. As a child, she underwent dozens of surgeries that permanently changed the shape of her face. </p>",
             "duration": "00:34:48",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR8193874260.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=The%20Ugly%20Truth"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2017-12-16-the-ugly-truth"
         },
         {
             "title": "Just Say It",
@@ -1270,7 +1409,8 @@
             "description": "<p>Words can be wielded like weapons. On today’s episode, the Sugars hear from people who have something to confess but are afraid to hurt others with the power of their words. </p>",
             "duration": "00:28:30",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR2072899252.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Just%20Say%20It"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2017-12-09-just-say-it"
         },
         {
             "title": "A Spy In The House Of Love — With Ariel Levy",
@@ -1279,7 +1419,8 @@
             "description": "<p>Snooping on your spouse is generally ill-advised, but what if he or she has an addiction and is constantly lying about it? The Sugars and writer Ariel Levy answer this question on today’s episode.</p>",
             "duration": "00:33:13",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR5349607935.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=A%20Spy%20In%20The%20House%20Of%20Love%20%E2%80%94%20With%20Ariel%20Levy"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2017-12-02-a-spy-in-the-house-of-love-with-ariel-levy"
         },
         {
             "title": "The Double Bind of Female Ambition — With Hillary Clinton",
@@ -1288,7 +1429,8 @@
             "description": "<p>The Sugars are joined by Hillary Clinton to answer a letter about female ambition.</p>",
             "duration": "00:23:12",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR3027083778.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=The%20Double%20Bind%20of%20Female%20Ambition%20%E2%80%94%20With%20Hillary%20Clinton"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2017-11-18-the-double-bind-of-female-ambition-with-hillary-clinton"
         },
         {
             "title": "The Empty Chair: Part 2 — With Emily Rapp Black",
@@ -1297,7 +1439,8 @@
             "description": "<p>The Sugars conclude a two-part series on early childhood death. In Part 2, they read letters from parents who worry that their grief may overshadow their surviving children. They are joined by the writer Emily Rapp Black, who decided to have another child after learning that her son had a fatal congenital disorder. </p>",
             "duration": "00:33:21",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR5793325991.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=The%20Empty%20Chair%3A%20Part%202%20%E2%80%94%20With%20Emily%20Rapp%20Black"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2017-11-11-the-empty-chair-part-2-with-emily-rapp-black"
         },
         {
             "title": "The Empty Chair: Part 1 — With Jessica Handler",
@@ -1306,7 +1449,8 @@
             "description": "<p>The Sugars begin a two-part series on early childhood death. In Part 1, they read letters from siblings who live in the the shadow of their parents’ grief. They're joined by the writer Jessica Handler, whose two sisters died from different blood disorders. “I grew up knowing that I would be the only one left,” says Handler, “and I very often feel the need to live for three people.”</p>",
             "duration": "00:33:32",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR8357264234.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=The%20Empty%20Chair%3A%20Part%201%20%E2%80%94%20With%20Jessica%20Handler"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2017-11-04-the-empty-chair-part-1-with-jessica-handler"
         },
         {
             "title": "The Other Half Of Sexless Relationships",
@@ -1315,7 +1459,8 @@
             "description": "<p>In this episode, the Sugars answer letters from letter writers who want to have sex less frequently than their partners do.</p>",
             "duration": "00:24:14",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR6727670380.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=The%20Other%20Half%20Of%20Sexless%20Relationships"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2017-10-28-the-other-half-of-sexless-relationships"
         },
         {
             "title": "You Must Change Your Life — With Mitchell S. Jackson",
@@ -1324,7 +1469,8 @@
             "description": "<p>In this episode, the Sugars talk to writer Mitchell S. Jackson, who started selling drugs when he was 14 years old and went to prison for drug possession years later. “There was no way for me to escape what I was doing,” he tells the Sugars. Jackson helps the Sugars answer letters from people who also feel stuck and aimless. One writes: “Here we are two abortions, two failed college attempts, a list of dead end jobs later, I’m stuck in a job I despise and I go home …</p>",
             "duration": "00:38:17",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR9559719416.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=You%20Must%20Change%20Your%20Life%20%E2%80%94%20With%20Mitchell%20S.%20Jackson"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2017-10-21-you-must-change-your-life-with-mitchell-s-jackson"
         },
         {
             "title": "When Friendship Ends",
@@ -1333,7 +1479,8 @@
             "description": "<p>Friendships are different from any other type of relationship in our lives. They are purely voluntary, which can make them feel more tenuous. In this episode, the Sugars take questions from two letter-writers who both feel exhausted by a friendship and want out. They discuss with the writer Emily Chenoweth.</p>",
             "duration": "00:33:21",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR5132856595.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=When%20Friendship%20Ends"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2017-09-30-when-friendship-ends"
         },
         {
             "title": "Rapid Fire: Should I Stay Or Go?",
@@ -1342,7 +1489,8 @@
             "description": "<p>The Sugars bring you another \"Rapid Fire\" episode, where they give brief answers to a handful of letters that are all centered around a theme. The theme for this episode is \"stay or go\" -- people who have a voice in their head telling them to leave their relationship, but who aren't sure it's the right move.</p>",
             "duration": "00:34:53",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR7879702324.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Rapid%20Fire%3A%20Should%20I%20Stay%20Or%20Go%3F"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2017-09-25-rapid-fire-should-i-stay-or-go"
         },
         {
             "title": "Sexless Relationships, Part 2: Esther Perel",
@@ -1351,7 +1499,8 @@
             "description": "<p>The Sugars are joined by the therapist Esther Perel to discuss a letter from a husband who is in a sexless marriage and is looking for a way to help his wife heal from trauma. </p>",
             "duration": "00:26:00",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR1270630271.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Sexless%20Relationships%2C%20Part%202%3A%20Esther%20Perel"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2017-09-16-sexless-relationships-part-2-esther-perel"
         },
         {
             "title": "Sexless Relationships, Part 1: Esther Perel",
@@ -1360,7 +1509,8 @@
             "description": "<p>A sexless relationship is often a symptom of deeper dysfunction. The Sugars, along with couples therapist Esther Perel, advise a letter writer whose loving partner is erotically absent.</p>",
             "duration": "00:33:15",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR1964039374.mp3",
-            "slug": "WBUR%253ADear%2520Sugars?episode=Sexless%20Relationships%2C%20Part%201%3A%20Esther%20Perel"
+            "podcast": "wbur-dear-sugars",
+            "slug": "wbur-dear-sugars?episode=2017-09-09-sexless-relationships-part-1-esther-perel"
         }
     ]
 }

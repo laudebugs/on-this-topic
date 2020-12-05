@@ -9,7 +9,7 @@
         "Society & Culture"
     ],
     "image": "https://media.npr.org/assets/img/2018/08/03/npr_invisibilia_podcasttile_sq-1c4d3c46584f71f04dc5b913c3cb8c08c0209f66.jpg?s=1400",
-    "slug": "%3AInvisibilia",
+    "slug": "invisibilia",
     "lastUpdate": "Sat, 13 Jun 2020 15:00:55 -0400",
     "episodes": [
         {
@@ -21,7 +21,8 @@
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/invsb/2020/06/20200613_invsb_trustfall_final-054e4ce6-f061-453c-9b75-998d819c10d7.mp3?awCollectionId=510307&awEpisodeId=868001948&orgId=1&d=2859&p=510307&story=868001948&t=podcast&e=868001948&size=45655055&ft=pod&f=510307",
             "snNo": "6",
             "epNo": "7",
-            "slug": "%253AInvisibilia?episode=Trust%20Fall"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2020-06-13-trust-fall"
         },
         {
             "title": "Two Heartbeats A Minute",
@@ -32,7 +33,8 @@
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-mp3/npr/invsb/2020/03/20200306_invsb_inviss6_2heartbeatsamin_finalmixnewad.mp3?awCollectionId=510307&awEpisodeId=809336135&orgId=1&d=4109&p=510307&story=809336135&t=podcast&e=809336135&size=65603274&ft=pod&f=510307",
             "snNo": "6",
             "epNo": "1",
-            "slug": "%253AInvisibilia?episode=Two%20Heartbeats%20A%20Minute"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2020-04-10-two-heartbeats-a-minute"
         },
         {
             "title": "White v. White?",
@@ -43,7 +45,8 @@
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/invsb/2020/03/20200327_invsb_200326_wvw_final_bounce_melanin_fix-d7fe339c-3066-481f-9a37-d1f650c4928b.mp3?awCollectionId=510307&awEpisodeId=821450882&orgId=1&d=3751&p=510307&story=821450882&t=podcast&e=821450882&size=59886163&ft=pod&f=510307",
             "snNo": "6",
             "epNo": "4",
-            "slug": "%253AInvisibilia?episode=White%20v.%20White%3F"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2020-04-03-white-v-white"
         },
         {
             "title": "An Unlikely Superpower",
@@ -54,7 +57,8 @@
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/invsb/2020/03/20200320_invsb_final_futurepresent_withads-9d387f2a-55b2-426a-9777-5bd5dfd43839.mp3?awCollectionId=510307&awEpisodeId=817977005&orgId=1&d=3122&p=510307&story=817977005&t=podcast&e=817977005&size=49853111&ft=pod&f=510307",
             "snNo": "6",
             "epNo": "3",
-            "slug": "%253AInvisibilia?episode=An%20Unlikely%20Superpower"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2020-03-27-an-unlikely-superpower"
         },
         {
             "title": "The Confrontation",
@@ -65,7 +69,8 @@
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/invsb/2020/03/20200313_invsb_ep2_confrontation_finalmixwithads-e2983646-9372-4516-86bf-004d7678655f.mp3?awCollectionId=510307&awEpisodeId=814733124&orgId=1&d=3223&p=510307&story=814733124&t=podcast&e=814733124&size=51451472&ft=pod&f=510307",
             "snNo": "6",
             "epNo": "2",
-            "slug": "%253AInvisibilia?episode=The%20Confrontation"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2020-03-22-the-confrontation"
         },
         {
             "title": "The Reluctant Immortalist",
@@ -76,7 +81,8 @@
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-mp3/npr/invsb/2020/04/20200403_invsb_hydraimmortality_finalmix.mp3?awCollectionId=510307&awEpisodeId=821647042&orgId=1&d=2735&p=510307&story=821647042&t=podcast&e=821647042&size=43675329&ft=pod&f=510307",
             "snNo": "6",
             "epNo": "5",
-            "slug": "%253AInvisibilia?episode=The%20Reluctant%20Immortalist"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2020-03-16-the-reluctant-immortalist"
         },
         {
             "title": "The Last Sound ",
@@ -87,7 +93,8 @@
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-mp3/npr/invsb/2020/04/20200410_invsb_the_last_sound_final_episode_newend.mp3?awCollectionId=510307&awEpisodeId=821648089&orgId=1&d=2752&p=510307&story=821648089&t=podcast&e=821648089&size=43939707&ft=pod&f=510307",
             "snNo": "6",
             "epNo": "6",
-            "slug": "%253AInvisibilia?episode=The%20Last%20Sound%20"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2020-03-08-the-last-sound"
         },
         {
             "title": "Season 6 Trailer",
@@ -97,7 +104,8 @@
             "duration": "99",
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-mp3/npr/invsb/2020/03/20200302_invsb_invis_s6_trailer_finalmix.mp3?awCollectionId=510307&awEpisodeId=809762934&orgId=1&d=99&p=510307&story=809762934&t=podcast&e=809762934&size=1574175&ft=pod&f=510307",
             "snNo": "6",
-            "slug": "%253AInvisibilia?episode=Season%206%20Trailer"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2020-03-02-season-6-trailer"
         },
         {
             "title": "VIDEO: The (Future) Friendship Machine",
@@ -109,7 +117,8 @@
             "sourceUrl": "https://play.podtrac.com/npr-510307/ondemand.npr.org/npr-mp4/npr/nprvid/2019/12/20191219_nprvid_invisibilia.mp4?orgId=1&topicId=1007&d=499&p=510307&story=785523942&t=podcast&e=785523942&ft=pod&f=510307",
             "snNo": "5",
             "epNo": "12",
-            "slug": "%253AInvisibilia?episode=VIDEO%3A%20The%20(Future)%20Friendship%20Machine"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2019-12-20-video-the-future-friendship-machine"
         },
         {
             "title": "Raising Devendra ",
@@ -120,7 +129,8 @@
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/invsb/2020/01/20200129_invsb_raising-dfe671dc-6e60-43ae-b022-19fe6ce205dd.mp3?awCollectionId=510307&awEpisodeId=787876476&orgId=1&d=1815&p=510307&story=787876476&t=podcast&e=787876476&size=26754092&ft=pod&f=510307",
             "snNo": "5",
             "epNo": "11",
-            "slug": "%253AInvisibilia?episode=Raising%20Devendra%20"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2019-12-17-raising-devendra"
         },
         {
             "title": "Love and Lapses",
@@ -131,7 +141,8 @@
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/invsb/2019/11/20191118_invsb_love-41a0c9bf-02cd-401b-b5e7-ec183181785f.mp3?awCollectionId=510307&awEpisodeId=781160467&orgId=1&d=1000&p=510307&story=781160467&t=podcast&e=781160467&size=15979646&ft=pod&f=510307",
             "snNo": "5",
             "epNo": "10",
-            "slug": "%253AInvisibilia?episode=Love%20and%20Lapses"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2019-11-22-love-and-lapses"
         },
         {
             "title": "Back When I Was Older",
@@ -140,7 +151,8 @@
             "description": "As a parent, what do you do when your four-year-old starts telling you about memories that can't possibly be his? Memories that he says are from a past life? ",
             "duration": "1223",
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/invsb/2019/10/20191024_invsb_reincarnationkids-cf20ac24-4cf2-4c9f-bd32-061dc4810f5e.mp3?awCollectionId=510307&awEpisodeId=773097960&orgId=1&d=1223&p=510307&story=773097960&t=podcast&e=773097960&size=19536324&ft=pod&f=510307",
-            "slug": "%253AInvisibilia?episode=Back%20When%20I%20Was%20Older"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2019-10-25-back-when-i-was-older"
         },
         {
             "title": "Rough Translation: Liberté, Égalité and French Fries",
@@ -149,7 +161,8 @@
             "description": "Alix presents a new episode from NPR's Rough Translation about residents of an immigrant neighborhood in Marseille, France who considered their local McDonalds to be a home of sorts, so when the owner tries to sell it, they take extreme measures to try and save it. ",
             "duration": "2765",
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-mp3/npr/invsb/2019/10/20191018_invsb_mcdonaldstranslation.mp3?awCollectionId=510307&awEpisodeId=771319514&orgId=1&d=2765&p=510307&story=771319514&t=podcast&e=771319514&size=44149041&ft=pod&f=510307",
-            "slug": "%253AInvisibilia?episode=Rough%20Translation%3A%20Libert%C3%A9%2C%20%C3%89galit%C3%A9%20and%20French%20Fries"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2019-10-18-rough-translation-liberte-egalite-and-french-fries"
         },
         {
             "title": "The Profile",
@@ -160,7 +173,8 @@
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/invsb/2019/10/20191009_invsb_profile_additions-00b8a821-a32c-4796-b3dd-8b3a23a69066.mp3?awCollectionId=510307&awEpisodeId=761360169&orgId=1&d=1400&p=510307&story=761360169&t=podcast&e=761360169&size=23705822&ft=pod&f=510307",
             "snNo": "5",
             "epNo": "8",
-            "slug": "%253AInvisibilia?episode=The%20Profile"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2019-09-20-the-profile"
         },
         {
             "title": "Kraftland",
@@ -171,7 +185,8 @@
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/invsb/2019/08/20190823_invsb_kraftland_rev-3548a700-1a42-4082-b72c-346eda331cdd.mp3?awCollectionId=510307&awEpisodeId=753114415&orgId=1&d=1623&p=510307&story=753114415&t=podcast&e=753114415&size=25468481&ft=pod&f=510307",
             "snNo": "5",
             "epNo": "7",
-            "slug": "%253AInvisibilia?episode=Kraftland"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2019-08-23-kraftland"
         },
         {
             "title": "The End of Empathy",
@@ -182,7 +197,8 @@
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/invsb/2019/04/20190411_invsb_empathyincels-62d34a13-9740-4dcd-bceb-a6694526ba71.mp3?awCollectionId=510307&awEpisodeId=712276022&orgId=1&d=3133&p=510307&story=712276022&t=podcast&e=712276022&size=50116687&ft=pod&f=510307",
             "snNo": "5",
             "epNo": "6",
-            "slug": "%253AInvisibilia?episode=The%20End%20of%20Empathy"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2019-04-12-the-end-of-empathy"
         },
         {
             "title": "A Very Offensive Rom-Com",
@@ -193,7 +209,8 @@
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/invsb/2019/04/20190404_invsb_attraction-745221f3-d99f-485e-ada6-2a1086cf4e8c.mp3?awCollectionId=510307&awEpisodeId=709948132&orgId=1&d=3660&p=510307&story=709948132&t=podcast&e=709948132&size=58463776&ft=pod&f=510307",
             "snNo": "5",
             "epNo": "5",
-            "slug": "%253AInvisibilia?episode=A%20Very%20Offensive%20Rom-Com"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2019-04-05-a-very-offensive-rom-com"
         },
         {
             "title": "The Remote Control Brain",
@@ -204,7 +221,8 @@
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/invsb/2019/03/20190328_invsb_mood-knob-de4838f3-6143-4066-9dfb-45bd0701a2a9.mp3?awCollectionId=510307&awEpisodeId=707639854&orgId=1&d=2810&p=510307&story=707639854&t=podcast&e=707639854&size=44873746&ft=pod&f=510307",
             "snNo": "5",
             "epNo": "4",
-            "slug": "%253AInvisibilia?episode=The%20Remote%20Control%20Brain"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2019-03-29-the-remote-control-brain"
         },
         {
             "title": "The Weatherman",
@@ -215,7 +233,8 @@
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/invsb/2019/03/20190321_invsb_trust-weather-df89b53b-aa1d-496a-b95e-5b8a7aaa8729.mp3?awCollectionId=510307&awEpisodeId=705468535&orgId=1&d=2591&p=510307&story=705468535&t=podcast&e=705468535&size=41371780&ft=pod&f=510307",
             "snNo": "5",
             "epNo": "3",
-            "slug": "%253AInvisibilia?episode=The%20Weatherman"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2019-03-22-the-weatherman"
         },
         {
             "title": "Post, Shoot",
@@ -226,7 +245,8 @@
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/invsb/2019/03/20190314_invsb_post-shoot-4ddaa2c7-079a-4a68-b32c-449d59480f5b.mp3?awCollectionId=510307&awEpisodeId=700738025&orgId=1&d=3122&p=510307&story=700738025&t=podcast&e=700738025&size=49846022&ft=pod&f=510307",
             "snNo": "5",
             "epNo": "2",
-            "slug": "%253AInvisibilia?episode=Post%2C%20Shoot"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2019-03-15-post-shoot"
         },
         {
             "title": "The Fifth Vital Sign",
@@ -237,7 +257,8 @@
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/invsb/2019/03/20190307_invsb_fifth-vital-sign-4d8921a5-d5a5-4b28-a3be-3222b58af8d3.mp3?awCollectionId=510307&awEpisodeId=700743108&orgId=1&d=3645&p=510307&story=700743108&t=podcast&e=700743108&size=58188524&ft=pod&f=510307",
             "snNo": "5",
             "epNo": "1",
-            "slug": "%253AInvisibilia?episode=The%20Fifth%20Vital%20Sign"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2019-03-08-the-fifth-vital-sign"
         },
         {
             "title": "Season 5 Trailer",
@@ -247,7 +268,8 @@
             "duration": "81",
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-mp3/npr/invsb/2019/03/20190301_invsb_inviss5trailerrevised.mp3?awCollectionId=510307&awEpisodeId=698899891&orgId=1&d=81&p=510307&story=698899891&t=podcast&e=698899891&size=0&ft=pod&f=510307",
             "snNo": "5",
-            "slug": "%253AInvisibilia?episode=Season%205%20Trailer"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2019-03-04-season-5-trailer"
         },
         {
             "title": "BONUS: Youth Radio Girl Mystery",
@@ -258,7 +280,8 @@
             "duration": "1966",
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/invsb/2018/12/20181220_invsb_youth-radio-girl-d512491e-d514-4d56-901c-e9766c91f2fd.mp3?awCollectionId=510307&awEpisodeId=667158241&orgId=1&d=1966&p=510307&story=667158241&t=podcast&e=667158241&size=0&ft=pod&f=510307",
             "snNo": "4",
-            "slug": "%253AInvisibilia?episode=BONUS%3A%20Youth%20Radio%20Girl%20Mystery"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2018-12-21-bonus-youth-radio-girl-mystery"
         },
         {
             "title": "BONUS: The Prayer",
@@ -269,7 +292,8 @@
             "duration": "884",
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/invsb/2018/12/20181205_invsb_prayer2-41cbe697-14e8-4631-82b6-27e11c20016d.mp3?awCollectionId=510307&awEpisodeId=672251065&orgId=1&d=884&p=510307&story=672251065&t=podcast&e=672251065&size=0&ft=pod&f=510307",
             "snNo": "4",
-            "slug": "%253AInvisibilia?episode=BONUS%3A%20The%20Prayer"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2018-12-07-bonus-the-prayer"
         },
         {
             "title": "BONUS: Who Do You Let In?",
@@ -280,7 +304,8 @@
             "duration": "1476",
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/invsb/2018/10/20181016_invsb_johndoc-23eae3af-11ad-48af-8105-b692e537c800.mp3?awCollectionId=510307&awEpisodeId=656555415&orgId=1&d=1476&p=510307&story=656555415&t=podcast&e=656555415&size=0&ft=pod&f=510307",
             "snNo": "4",
-            "slug": "%253AInvisibilia?episode=BONUS%3A%20Who%20Do%20You%20Let%20In%3F"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2018-10-16-bonus-who-do-you-let-in"
         },
         {
             "title": "BONUS: Leave A Message",
@@ -291,7 +316,8 @@
             "duration": "695",
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/invsb/2018/09/20180913_invsb_voicemail3-dc05078b-ccf3-42af-893d-1be9551af19f.mp3?awCollectionId=510307&awEpisodeId=647113096&orgId=1&d=695&p=510307&story=647113096&t=podcast&e=647113096&size=0&ft=pod&f=510307",
             "snNo": "4",
-            "slug": "%253AInvisibilia?episode=BONUS%3A%20Leave%20A%20Message"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2018-09-14-bonus-leave-a-message"
         },
         {
             "title": "BONUS: Invisibilia Live with Story District",
@@ -302,7 +328,8 @@
             "duration": "2866",
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/invsb/2018/06/20180614_invsb_remixuploadtwo-114e80b5-684b-4caa-9105-abeb89e09627.mp3?awCollectionId=510307&awEpisodeId=619533154&orgId=1&d=2866&p=510307&story=619533154&t=podcast&e=619533154&size=0&ft=pod&f=510307",
             "snNo": "4",
-            "slug": "%253AInvisibilia?episode=BONUS%3A%20Invisibilia%20Live%20with%20Story%20District"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2018-06-14-bonus-invisibilia-live-with-story-district"
         },
         {
             "title": "The Callout",
@@ -314,7 +341,8 @@
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/invsb/2018/07/20180703_invsb_newcredits-f85aca18-dda8-4ee4-a368-f095834adf7a.mp3?awCollectionId=510307&awEpisodeId=601972135&orgId=1&d=3303&p=510307&story=601972135&t=podcast&e=601972135&size=0&ft=pod&f=510307",
             "snNo": "4",
             "epNo": "6",
-            "slug": "%253AInvisibilia?episode=The%20Callout"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2018-04-13-the-callout"
         },
         {
             "title": "Everything Good",
@@ -326,7 +354,8 @@
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/invsb/2018/04/20180406_invsb_between-90ef0ab3-77d9-466c-97e5-35fc4eb802d3.mp3?awCollectionId=510307&awEpisodeId=599848283&orgId=1&d=2924&p=510307&story=599848283&t=podcast&e=599848283&size=0&ft=pod&f=510307",
             "snNo": "4",
             "epNo": "5",
-            "slug": "%253AInvisibilia?episode=Everything%20Good"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2018-04-06-everything-good"
         },
         {
             "title": "The Pattern Problem",
@@ -338,7 +367,8 @@
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/invsb/2018/03/20180329_invsb_fragile-dfd84e77-1536-493c-8ac5-e9102455a061.mp3?awCollectionId=510307&awEpisodeId=597775378&orgId=1&d=3468&p=510307&story=597775378&t=podcast&e=597775378&size=0&ft=pod&f=510307",
             "snNo": "4",
             "epNo": "4",
-            "slug": "%253AInvisibilia?episode=The%20Pattern%20Problem"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2018-03-30-the-pattern-problem"
         },
         {
             "title": "What Was Not Said",
@@ -350,7 +380,8 @@
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/invsb/2018/05/20180510_invsb_not_said-6ae9391d-e2c6-4af9-8dba-e60f67a1ca12.mp3?awCollectionId=510307&awEpisodeId=595572984&orgId=1&d=2884&p=510307&story=595572984&t=podcast&e=595572984&size=0&ft=pod&f=510307",
             "snNo": "4",
             "epNo": "3",
-            "slug": "%253AInvisibilia?episode=What%20Was%20Not%20Said"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2018-03-22-what-was-not-said"
         },
         {
             "title": "The Other Real World",
@@ -362,7 +393,8 @@
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/invsb/2018/05/20180510_invsb_roopa-db2ae19f-028e-4756-8b44-1dc84ac77868.mp3?awCollectionId=510307&awEpisodeId=593159468&orgId=1&d=3023&p=510307&story=593159468&t=podcast&e=593159468&size=0&ft=pod&f=510307",
             "snNo": "4",
             "epNo": "2",
-            "slug": "%253AInvisibilia?episode=The%20Other%20Real%20World"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2018-03-16-the-other-real-world"
         },
         {
             "title": "I, I, I. Him",
@@ -374,7 +406,8 @@
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/invsb/2018/05/20180510_invsb_i_him-aaaf312c-d5b6-4655-b69d-0cc29dabe42f.mp3?awCollectionId=510307&awEpisodeId=592080033&orgId=1&d=2450&p=510307&story=592080033&t=podcast&e=592080033&size=0&ft=pod&f=510307",
             "snNo": "4",
             "epNo": "1",
-            "slug": "%253AInvisibilia?episode=I%2C%20I%2C%20I.%20Him"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2018-03-09-i-i-i-him"
         },
         {
             "title": "Season 4 Trailer",
@@ -384,7 +417,8 @@
             "duration": "132",
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-mp3/npr/invsb/2018/02/20180222_invsb_trailer.mp3?awCollectionId=510307&awEpisodeId=588078070&orgId=1&d=132&p=510307&story=588078070&t=podcast&e=588078070&size=0&ft=pod&f=510307",
             "snNo": "4",
-            "slug": "%253AInvisibilia?episode=Season%204%20Trailer"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2018-02-23-season-4-trailer"
         },
         {
             "title": "BONUS: Catch-Up with Max Hawkins",
@@ -395,7 +429,8 @@
             "duration": "748",
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-mp3/npr/invsb/2017/12/20171222_invsb_catchup.mp3?awCollectionId=510307&awEpisodeId=572696073&orgId=1&d=748&p=510307&story=572696073&t=podcast&e=572696073&size=0&ft=pod&f=510307",
             "snNo": "3",
-            "slug": "%253AInvisibilia?episode=BONUS%3A%20Catch-Up%20with%20Max%20Hawkins"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2017-12-22-bonus-catch-up-with-max-hawkins"
         },
         {
             "title": "BONUS: Catch-Up with Bill Millar",
@@ -405,7 +440,8 @@
             "duration": "644",
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-mp3/npr/invsb/2017/09/20170921_invsb_millar_check_in_andy_cara_notfd.mp3?awCollectionId=510307&awEpisodeId=550423533&orgId=1&d=644&p=510307&story=550423533&t=podcast&e=550423533&size=0&ft=pod&f=510307",
             "snNo": "3",
-            "slug": "%253AInvisibilia?episode=BONUS%3A%20Catch-Up%20with%20Bill%20Millar"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2017-09-12-bonus-catch-up-with-bill-millar"
         },
         {
             "title": "Emotions",
@@ -417,7 +453,8 @@
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/invsb/2017/06/20170620_invsb_emotions2-b3149874-6ff4-4302-a453-d3756657b487.mp3?awCollectionId=510307&awEpisodeId=530726335&orgId=1&d=3348&p=510307&story=530726335&t=podcast&e=530726335&size=0&ft=pod&f=510307",
             "snNo": "3",
             "epNo": "1",
-            "slug": "%253AInvisibilia?episode=Emotions"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2017-06-22-emotions"
         },
         {
             "title": "High Voltage (Emotions Part 2)",
@@ -429,7 +466,8 @@
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/invsb/2017/05/20170531_invsb_emotions2-4b8321a0-eed0-472f-8122-c09a6fb3d0ab.mp3?awCollectionId=510307&awEpisodeId=530727323&orgId=1&d=2220&p=510307&story=530727323&t=podcast&e=530727323&size=0&ft=pod&f=510307",
             "snNo": "3",
             "epNo": "2",
-            "slug": "%253AInvisibilia?episode=High%20Voltage%20(Emotions%20Part%202)"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2017-06-22-high-voltage-emotions-part-2"
         },
         {
             "title": "Reality",
@@ -441,7 +479,8 @@
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/invsb/2017/06/20170607_invsb_reality1-57a9f1a8-e143-481f-ae17-a7e091088b6a.mp3?awCollectionId=510307&awEpisodeId=531920897&orgId=1&d=2641&p=510307&story=531920897&t=podcast&e=531920897&size=0&ft=pod&f=510307",
             "snNo": "3",
             "epNo": "3",
-            "slug": "%253AInvisibilia?episode=Reality"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2017-06-15-reality"
         },
         {
             "title": "Bubble-Hopping (Reality Part 2)",
@@ -453,7 +492,8 @@
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/invsb/2017/06/20170607_invsb_bubble-b8075a2d-431f-4afb-b01d-8691a2e49ddd.mp3?awCollectionId=510307&awEpisodeId=531921221&orgId=1&d=1792&p=510307&story=531921221&t=podcast&e=531921221&size=0&ft=pod&f=510307",
             "snNo": "3",
             "epNo": "4",
-            "slug": "%253AInvisibilia?episode=Bubble-Hopping%20(Reality%20Part%202)"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2017-06-15-bubble-hopping-reality-part-2"
         },
         {
             "title": "The Culture Inside",
@@ -465,7 +505,8 @@
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/invsb/2017/06/20170616_invsb_bias-53492293-acd1-4b35-8ee5-90d855ee32fb.mp3?awCollectionId=510307&awEpisodeId=532955665&orgId=1&d=3382&p=510307&story=532955665&t=podcast&e=532955665&size=0&ft=pod&f=510307",
             "snNo": "3",
             "epNo": "5",
-            "slug": "%253AInvisibilia?episode=The%20Culture%20Inside"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2017-06-08-the-culture-inside"
         },
         {
             "title": "Future Self",
@@ -477,7 +518,8 @@
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/invsb/2017/06/20170624_invsb_futureself-bee389da-312d-403f-8725-4fff5916d128.mp3?awCollectionId=510307&awEpisodeId=533655568&orgId=1&d=2775&p=510307&story=533655568&t=podcast&e=533655568&size=0&ft=pod&f=510307",
             "snNo": "3",
             "epNo": "6",
-            "slug": "%253AInvisibilia?episode=Future%20Self"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2017-06-01-future-self"
         },
         {
             "title": "True You",
@@ -489,7 +531,8 @@
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/invsb/2017/06/20170623_invsb_trueyou-e33f771c-e9d7-42fd-b13b-a332f70dff9e-bbf9efd0-c8c5-4fe8-b7d9-1e5946852916.mp3?awCollectionId=510307&awEpisodeId=533946601&orgId=1&d=2159&p=510307&story=533946601&t=podcast&e=533946601&size=0&ft=pod&f=510307",
             "snNo": "3",
             "epNo": "7",
-            "slug": "%253AInvisibilia?episode=True%20You"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2017-06-01-true-you"
         },
         {
             "title": "Rules for Road Tripping",
@@ -499,7 +542,8 @@
             "duration": "248",
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-mp3/npr/invsb/2017/07/20170728_invsb_roadtrip.mp3?awCollectionId=510307&awEpisodeId=540068229&orgId=1&d=248&p=510307&story=540068229&t=podcast&e=540068229&size=0&ft=pod&f=510307",
             "snNo": "3",
-            "slug": "%253AInvisibilia?episode=Rules%20for%20Road%20Tripping"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2017-05-30-rules-for-road-tripping"
         },
         {
             "title": "Season 3 Trailer",
@@ -509,7 +553,8 @@
             "duration": "150",
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-mp3/npr/invsb/2017/05/20170517_invsb_trailer.mp3?awCollectionId=510307&awEpisodeId=528800361&orgId=1&d=150&p=510307&story=528800361&t=podcast&e=528800361&size=0&ft=pod&f=510307",
             "snNo": "3",
-            "slug": "%253AInvisibilia?episode=Season%203%20Trailer"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2017-05-18-season-3-trailer"
         },
         {
             "title": "Outside In",
@@ -521,7 +566,8 @@
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/invsb/2016/07/20160728_invsb_outsidein-a933549f-4f2e-4550-8a34-067713f5a5c5.mp3?awCollectionId=510307&awEpisodeId=485603348&orgId=1&d=3866&p=510307&story=485603348&t=podcast&e=485603348&size=0&ft=pod&f=510307",
             "snNo": "2",
             "epNo": "7",
-            "slug": "%253AInvisibilia?episode=Outside%20In"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2016-07-29-outside-in"
         },
         {
             "title": "The Secret Emotional Life of Clothes",
@@ -533,7 +579,8 @@
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/invsb/2016/07/20160721_invsb_clothing-fdb6d3a6-9e57-4d86-aac0-de9631eaac38.mp3?awCollectionId=510307&awEpisodeId=485602971&orgId=1&d=3672&p=510307&story=485602971&t=podcast&e=485602971&size=0&ft=pod&f=510307",
             "snNo": "2",
             "epNo": "6",
-            "slug": "%253AInvisibilia?episode=The%20Secret%20Emotional%20Life%20of%20Clothes"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2016-07-22-the-secret-emotional-life-of-clothes"
         },
         {
             "title": "Flip the Script",
@@ -545,7 +592,8 @@
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-mp3/npr/invsb/2016/07/20160714_invsb_flip.mp3?awCollectionId=510307&awEpisodeId=485602601&orgId=1&d=3619&p=510307&story=485602601&t=podcast&e=485602601&size=0&ft=pod&f=510307",
             "snNo": "2",
             "epNo": "5",
-            "slug": "%253AInvisibilia?episode=Flip%20the%20Script"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2016-07-15-flip-the-script"
         },
         {
             "title": "Frame of Reference",
@@ -557,7 +605,8 @@
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-mp3/npr/invsb/2016/07/20160707_invsb_frame.mp3?awCollectionId=510307&awEpisodeId=484997893&orgId=1&d=3567&p=510307&story=484997893&t=podcast&e=484997893&size=0&ft=pod&f=510307",
             "snNo": "2",
             "epNo": "4",
-            "slug": "%253AInvisibilia?episode=Frame%20of%20Reference"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2016-07-08-frame-of-reference"
         },
         {
             "title": "Bonus: Mr. Kitt",
@@ -567,7 +616,8 @@
             "duration": "762",
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-mp3/npr/invsb/2018/01/20180117_invsb_kitt.mp3?awCollectionId=510307&awEpisodeId=482309205&orgId=1&d=762&p=510307&story=482309205&t=podcast&e=482309205&size=0&ft=pod&f=510307",
             "snNo": "2",
-            "slug": "%253AInvisibilia?episode=Bonus%3A%20Mr.%20Kitt"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2016-07-05-bonus-mr-kitt"
         },
         {
             "title": "The Problem with the Solution",
@@ -579,7 +629,8 @@
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-mp3/npr/invsb/2016/06/20160622_invsb_solutions.mp3?awCollectionId=510307&awEpisodeId=482311381&orgId=1&d=3570&p=510307&story=482311381&t=podcast&e=482311381&size=0&ft=pod&f=510307",
             "snNo": "2",
             "epNo": "3",
-            "slug": "%253AInvisibilia?episode=The%20Problem%20with%20the%20Solution"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2016-07-01-the-problem-with-the-solution"
         },
         {
             "title": "Bonus: Four-Minute Mile",
@@ -589,7 +640,8 @@
             "duration": "366",
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-mp3/npr/invsb/2016/06/20160622_invsb_4minmile2.mp3?awCollectionId=510307&awEpisodeId=482308519&orgId=1&d=366&p=510307&story=482308519&t=podcast&e=482308519&size=0&ft=pod&f=510307",
             "snNo": "2",
-            "slug": "%253AInvisibilia?episode=Bonus%3A%20Four-Minute%20Mile"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2016-06-28-bonus-four-minute-mile"
         },
         {
             "title": "The Personality Myth",
@@ -601,7 +653,8 @@
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-mp3/npr/invsb/2016/06/20160623_invsb_personality.mp3?awCollectionId=510307&awEpisodeId=482311030&orgId=1&d=3448&p=510307&story=482311030&t=podcast&e=482311030&size=0&ft=pod&f=510307",
             "snNo": "2",
             "epNo": "2",
-            "slug": "%253AInvisibilia?episode=The%20Personality%20Myth"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2016-06-24-the-personality-myth"
         },
         {
             "title": "The New Norm",
@@ -613,7 +666,8 @@
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-mp3/npr/invsb/2016/06/20160615_invsb_norms.mp3?awCollectionId=510307&awEpisodeId=481899908&orgId=1&d=3690&p=510307&story=481899908&t=podcast&e=481899908&size=0&ft=pod&f=510307",
             "snNo": "2",
             "epNo": "1",
-            "slug": "%253AInvisibilia?episode=The%20New%20Norm"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2016-06-17-the-new-norm"
         },
         {
             "title": "Season 2 Trailer",
@@ -623,7 +677,8 @@
             "duration": "216",
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-mp3/npr/specials/2016/05/20160519_specials_invisibilia2trailer.mp3?awCollectionId=510307&awEpisodeId=478445810&orgId=1&d=216&p=510307&story=478445810&t=podcast&e=478445810&size=0&ft=pod&f=510307",
             "snNo": "2",
-            "slug": "%253AInvisibilia?episode=Season%202%20Trailer"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2016-05-20-season-2-trailer"
         },
         {
             "title": "BONUS: Inside Out!",
@@ -632,7 +687,8 @@
             "duration": "293",
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-podcasts/podcast/1/510307/385298035/npr_385298035.mp3?awCollectionId=510307&awEpisodeId=385298035&orgId=1&d=293&p=510307&story=385298035&t=podcast&e=385298035&size=0&ft=pod&f=510307",
             "snNo": "1",
-            "slug": "%253AInvisibilia?episode=BONUS%3A%20Inside%20Out!"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2015-02-14-bonus-inside-out"
         },
         {
             "title": "Our Computers, Ourselves",
@@ -643,7 +699,8 @@
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/invsb/2018/03/20180321_invsb_computers-13568183-c04c-4c61-80f6-f77e75beb1f3.mp3?awCollectionId=510307&awEpisodeId=385895405&orgId=1&d=3470&p=510307&story=385895405&t=podcast&e=385895405&size=0&ft=pod&f=510307",
             "snNo": "1",
             "epNo": "5",
-            "slug": "%253AInvisibilia?episode=Our%20Computers%2C%20Ourselves"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2015-02-13-our-computers-ourselves"
         },
         {
             "title": "The Power Of Categories",
@@ -653,7 +710,8 @@
             "duration": "3390",
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/invsb/2018/03/20180313_invsb_categories-f16f5e5e-390f-4de8-a5bf-f30133c9f397.mp3?awCollectionId=510307&awEpisodeId=384188764&orgId=1&d=3390&p=510307&story=384188764&t=podcast&e=384188764&size=0&ft=pod&f=510307",
             "snNo": "1",
-            "slug": "%253AInvisibilia?episode=The%20Power%20Of%20Categories"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2015-02-06-the-power-of-categories"
         },
         {
             "title": "Entanglement",
@@ -664,7 +722,8 @@
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/invsb/2018/03/20180321_invsb_entanglement-b9e27830-953e-41de-84fa-d5269edcddb6.mp3?awCollectionId=510307&awEpisodeId=382517111&orgId=1&d=3467&p=510307&story=382517111&t=podcast&e=382517111&size=0&ft=pod&f=510307",
             "snNo": "1",
             "epNo": "4",
-            "slug": "%253AInvisibilia?episode=Entanglement"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2015-01-30-entanglement"
         },
         {
             "title": "BONUS: Falling Off a Cliff",
@@ -672,7 +731,8 @@
             "description": "A podcast BONUS for you today. We didn't have enough room in our Batman show for this lovely story about Julee-anne Bell, one of the many people who have learned Daniel Kish's echolocation technique. Enjoy!",
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-podcasts/podcast/510307/379361842/npr_379361842.mp3?awCollectionId=510307&awEpisodeId=379361842&orgId=1&p=510307&story=379361842&t=podcast&e=379361842&size=0&ft=pod&f=510307",
             "snNo": "1",
-            "slug": "%253AInvisibilia?episode=BONUS%3A%20Falling%20Off%20a%20Cliff"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2015-01-23-bonus-falling-off-a-cliff"
         },
         {
             "title": "How to Become Batman",
@@ -683,7 +743,8 @@
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/invsb/2018/03/20180321_invsb_batman-6ffe9008-dae0-42bd-b268-77d43210d010.mp3?awCollectionId=510307&awEpisodeId=379237713&orgId=1&d=3464&p=510307&story=379237713&t=podcast&e=379237713&size=0&ft=pod&f=510307",
             "snNo": "1",
             "epNo": "3",
-            "slug": "%253AInvisibilia?episode=How%20to%20Become%20Batman"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2015-01-23-how-to-become-batman"
         },
         {
             "title": "Fearless",
@@ -694,7 +755,8 @@
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/invsb/2018/06/20180628_invsb_fearlion-4b36d166-3326-4e72-a02f-467227554a2e.mp3?awCollectionId=510307&awEpisodeId=377601935&orgId=1&d=3505&p=510307&story=377601935&t=podcast&e=377601935&size=0&ft=pod&f=510307",
             "snNo": "1",
             "epNo": "2",
-            "slug": "%253AInvisibilia?episode=Fearless"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2015-01-16-fearless"
         },
         {
             "title": "The Secret History of Thoughts",
@@ -706,7 +768,8 @@
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/invsb/2018/02/20180221_invsb_thoughts-fc9742fe-e422-45a0-87ac-b38db14603b0.mp3?awCollectionId=510307&awEpisodeId=375981020&orgId=1&d=3446&p=510307&story=375981020&t=podcast&e=375981020&size=0&ft=pod&f=510307",
             "snNo": "1",
             "epNo": "1",
-            "slug": "%253AInvisibilia?episode=The%20Secret%20History%20of%20Thoughts"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2015-01-09-the-secret-history-of-thoughts"
         },
         {
             "title": "Invisibilia Preview",
@@ -715,7 +778,8 @@
             "description": "Starting January 9th, NPR brings you Invisibilia, a six episode series about the invisible forces that shape human behavior – ideas, beliefs, assumptions and thoughts. Invisibilia interweaves personal stories with scientific research that will ultimately make you see your own life differently. Your co-hosts Lulu Miller and Alix Spiegel give you a sneak preview of their first show: The Secret History of Thoughts.",
             "sourceUrl": "https://play.podtrac.com/npr-510307/edge1.pod.npr.org/anon.npr-podcasts/podcast/510307/371712236/npr_371712236.mp3?awCollectionId=510307&awEpisodeId=371712236&orgId=1&p=510307&story=371712236&t=podcast&e=371712236&size=0&ft=pod&f=510307",
             "snNo": "1",
-            "slug": "%253AInvisibilia?episode=Invisibilia%20Preview"
+            "podcast": "invisibilia",
+            "slug": "invisibilia?episode=2014-12-18-invisibilia-preview"
         }
     ]
 }

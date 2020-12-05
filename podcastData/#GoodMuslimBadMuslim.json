@@ -8,7 +8,7 @@
         "Society & Culture"
     ],
     "image": "https://images.theabcdn.com/i/28013999.jpg",
-    "slug": "Audioboom%3A%23GoodMuslimBadMuslim",
+    "slug": "audioboom-goodmuslimbadmuslim",
     "episodes": [
         {
             "title": "061 - Khodafez LIVE Finale",
@@ -17,7 +17,8 @@
             "description": "The one where Taz and Zahra say goodbye.",
             "duration": "4004",
             "sourceUrl": "https://audioboom.com/posts/7503169.mp3?modified=1581544668&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=061%20-%20Khodafez%20LIVE%20Finale"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2020-02-12-061-khodafez-live-finale"
         },
         {
             "title": "060 - The Christmas Jinn feat. Back to the Silk Road",
@@ -26,7 +27,8 @@
             "description": "The one where Taz writes a rom-com and Zahra writes a time travel adventure.",
             "duration": "2005",
             "sourceUrl": "https://audioboom.com/posts/7461998.mp3?modified=1577123124&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=060%20-%20The%20Christmas%20Jinn%20feat.%20Back%20to%20the%20Silk%20Road"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2019-12-23-060-the-christmas-jinn-feat-back-to-the-silk-road"
         },
         {
             "title": "059 - Diaspora, Eating Little Bangladesh, and Homeostasis",
@@ -35,7 +37,8 @@
             "description": "The one where Taz eats her way through Little Bangladesh and Zahra searches for home and stability in diaspora. Featuring special guests: Fahmida Azim, Hannah Moushabeck, and Michel Moushabeck.",
             "duration": "3385",
             "sourceUrl": "https://audioboom.com/posts/7438030.mp3?modified=1575091340&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=059%20-%20Diaspora%2C%20Eating%20Little%20Bangladesh%2C%20and%20Homeostasis"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2019-11-30-059-diaspora-eating-little-bangladesh-and-homeostasis"
         },
         {
             "title": "058 - Live Every Day Like It's Halloween (with special guest Ayesha Siddiqi)",
@@ -44,7 +47,8 @@
             "description": "The one where Taz rethinks clothing swaps and Zahra defends candy corn. They also unveil a special announcement. With special guest Ayesha Siddiqi.",
             "duration": "3613",
             "sourceUrl": "https://audioboom.com/posts/7409944.mp3?modified=1574405708&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=058%20-%20Live%20Every%20Day%20Like%20It's%20Halloween%20(with%20special%20guest%20Ayesha%20Siddiqi)"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2019-10-30-058-live-every-day-like-its-halloween-with-special-guest-ayesha-siddiqi"
         },
         {
             "title": "057 - Hot Girl Summer Ends, A New Regime Begins",
@@ -53,7 +57,8 @@
             "description": "The one where Zahra learns to do handstands and Taz designs lungis with Scottish Muslim tartans.",
             "duration": "2831",
             "sourceUrl": "https://audioboom.com/posts/7378838.mp3?modified=1574720878&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=057%20-%20Hot%20Girl%20Summer%20Ends%2C%20A%20New%20Regime%20Begins"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2019-09-25-057-hot-girl-summer-ends-a-new-regime-begins"
         },
         {
             "title": "056 - Are You Done Venting? Don't Embarrass Yourself.",
@@ -62,7 +67,8 @@
             "description": "The one where Zahra admires a famous rotator cuff and Taz goes friendship shopping at Target.",
             "duration": "2618",
             "sourceUrl": "https://audioboom.com/posts/7353515.mp3?modified=1574772459&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=056%20-%20Are%20You%20Done%20Venting%3F%20Don't%20Embarrass%20Yourself."
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2019-08-28-056-are-you-done-venting-dont-embarrass-yourself"
         },
         {
             "title": "055 - Intermittent Fasting is Just Off-Season Ramadan",
@@ -71,7 +77,8 @@
             "description": "The one where Taz celebrates her birthday and Zahra learns how to pee outside.",
             "duration": "2891",
             "sourceUrl": "https://audioboom.com/posts/7324809.mp3?modified=1574786090&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=055%20-%20Intermittent%20Fasting%20is%20Just%20Off-Season%20Ramadan"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2019-07-24-055-intermittent-fasting-is-just-off-season-ramadan"
         },
         {
             "title": "054 - Stop Parking on our Property (feat. Randa Jarrar)",
@@ -80,7 +87,8 @@
             "description": "The one where Taz plays passive-aggressive auntie games and Zahra is away working on her show On Behalf of All Muslims. Featuring special guest Randa Jarrar.",
             "duration": "3577",
             "sourceUrl": "https://audioboom.com/posts/7300197.mp3?modified=1574793639&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=054%20-%20Stop%20Parking%20on%20our%20Property%20(feat.%20Randa%20Jarrar)"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2019-06-26-054-stop-parking-on-our-property-feat-randa-jarrar"
         },
         {
             "title": "053 - Forgive Yourself and Power Through",
@@ -89,7 +97,8 @@
             "description": "The one where Taz refuses to answer a question and Zahra reveals her crush on cartoon Jafar.",
             "duration": "2951",
             "sourceUrl": "https://audioboom.com/posts/7274312.mp3?modified=1574979132&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=053%20-%20Forgive%20Yourself%20and%20Power%20Through"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2019-05-29-053-forgive-yourself-and-power-through"
         },
         {
             "title": "052 - LIVE from Toronto ",
@@ -99,7 +108,8 @@
             "description": "The one where Taz and Zahra list role models at the Aga Khan Museum in Toronto.",
             "duration": "3112",
             "sourceUrl": "https://audioboom.com/posts/7241524.mp3?modified=1574998418&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=052%20-%20LIVE%20from%20Toronto%20"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2019-04-23-052-live-from-toronto"
         },
         {
             "title": "051 - LIVE from Yale",
@@ -109,7 +119,8 @@
             "description": "The one where Taz capitalizes on Khichuri and Zahra tires of Russian dolls.",
             "duration": "2817",
             "sourceUrl": "https://audioboom.com/posts/7210813.mp3?modified=1575017154&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=051%20-%20LIVE%20from%20Yale"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2019-03-25-051-live-from-yale"
         },
         {
             "title": "050 - See You in the Future",
@@ -119,7 +130,8 @@
             "description": "The one where Taz and Zahra time travel.",
             "duration": "2994",
             "sourceUrl": "https://audioboom.com/posts/7184530.mp3?modified=1575033878&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=050%20-%20See%20You%20in%20the%20Future"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2019-02-25-050-see-you-in-the-future"
         },
         {
             "title": "049 - Never Put Your Tacos in the Toaster Oven",
@@ -129,7 +141,8 @@
             "description": "The one where Taz wants to become the next Supreme brand and Zahra becomes Spider-Woman.",
             "duration": "3005",
             "sourceUrl": "https://audioboom.com/posts/7158350.mp3?modified=1575041790&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=049%20-%20Never%20Put%20Your%20Tacos%20in%20the%20Toaster%20Oven"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2019-01-30-049-never-put-your-tacos-in-the-toaster-oven"
         },
         {
             "title": "048 - Muslim Joy to the World",
@@ -139,7 +152,8 @@
             "description": "The one where Zahra finds holiday solace with Oscar the Grouch and Taz learns where to buy all the different immigrant chocolates.",
             "duration": "2887",
             "sourceUrl": "https://audioboom.com/posts/7127688.mp3?modified=1575043475&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=048%20-%20Muslim%20Joy%20to%20the%20World"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2018-12-27-048-muslim-joy-to-the-world"
         },
         {
             "title": "047 - Diaspora and Jinns",
@@ -149,7 +163,8 @@
             "description": "The one where Zahra visits her cousin and Taz visits New Orleans.",
             "duration": "2368",
             "sourceUrl": "https://audioboom.com/posts/7083625.mp3?modified=1575059419&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=047%20-%20Diaspora%20and%20Jinns"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2018-11-27-047-diaspora-and-jinns"
         },
         {
             "title": "046 - LIVE from the de Young Museum",
@@ -159,7 +174,8 @@
             "description": "The one where Zahra heists a remote as Scrooge McDuck and Taz plans to hide a billion-dollar fortune from her dad.",
             "duration": "2933",
             "sourceUrl": "https://audioboom.com/posts/7063907.mp3?modified=1575047893&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=046%20-%20LIVE%20from%20the%20de%20Young%20Museum"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2018-10-29-046-live-from-the-de-young-museum"
         },
         {
             "title": "045 - She the People",
@@ -169,7 +185,8 @@
             "description": "The one where Taz goes to She the People.",
             "duration": "2540",
             "sourceUrl": "https://audioboom.com/posts/7023866.mp3?modified=1575065999&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=045%20-%20She%20the%20People"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2018-09-27-045-she-the-people"
         },
         {
             "title": "044 - The Best of Eid",
@@ -179,7 +196,8 @@
             "description": "The one where we look back at past Eid conversations.",
             "duration": "1007",
             "sourceUrl": "https://audioboom.com/posts/6988075.mp3?modified=1575673051&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=044%20-%20The%20Best%20of%20Eid"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2018-08-29-044-the-best-of-eid"
         },
         {
             "title": "043 - Self Made Women",
@@ -189,7 +207,8 @@
             "description": "The one where Taz wonders if her makeup is halal and Zahra discovers the secret to finding housing.",
             "duration": "2426",
             "sourceUrl": "https://audioboom.com/posts/6946006.mp3?modified=1575723427&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=043%20-%20Self%20Made%20Women"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2018-07-25-043-self-made-women"
         },
         {
             "title": "042 - World Cup Thirst (with guest Sahar Pirzada)",
@@ -199,7 +218,8 @@
             "description": "The one where Zahra discusses her Christmas privilege and Taz turns into the anti-Snapchat auntie. Featuring special guest Sahar Pirzada!",
             "duration": "3634",
             "sourceUrl": "https://audioboom.com/posts/6912587.mp3?modified=1575762728&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=042%20-%20World%20Cup%20Thirst%20(with%20guest%20Sahar%20Pirzada)"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2018-06-27-042-world-cup-thirst-with-guest-sahar-pirzada"
         },
         {
             "title": "041 - Ramadan Brain",
@@ -209,7 +229,8 @@
             "description": "The one where Taz and Zahra hit the red carpet.",
             "duration": "2933",
             "sourceUrl": "https://audioboom.com/posts/6868037.mp3?modified=1575074527&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=041%20-%20Ramadan%20Brain"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2018-05-23-041-ramadan-brain"
         },
         {
             "title": "040 - You Are Responsible For Your Own Luggage",
@@ -219,7 +240,8 @@
             "description": "The one where Zahra is getting antihistamine nightmares and Taz is still writing her rom-com. This episode brought to you by kale curry.",
             "duration": "2632",
             "sourceUrl": "https://audioboom.com/posts/6828898.mp3?modified=1575057067&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=040%20-%20You%20Are%20Responsible%20For%20Your%20Own%20Luggage"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2018-04-26-040-you-are-responsible-for-your-own-luggage"
         },
         {
             "title": "039 - Jetset Problems",
@@ -229,7 +251,8 @@
             "description": "The one where Taz pranks some thieves and Zahra discovers surf rock.",
             "duration": "2684",
             "sourceUrl": "https://audioboom.com/posts/6760899.mp3?modified=1575066074&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=039%20-%20Jetset%20Problems"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2018-03-29-039-jetset-problems"
         },
         {
             "title": "038 - Muslim Puppy",
@@ -239,7 +262,8 @@
             "description": "The one where Zahra searches for a good mommy forum and Taz reminds everyone to follow Chrissy Teigen's advice.",
             "duration": "2436",
             "sourceUrl": "https://audioboom.com/posts/6685379.mp3?modified=1575073150&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=038%20-%20Muslim%20Puppy"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2018-02-21-038-muslim-puppy"
         },
         {
             "title": "037 - Bathtub Erotica",
@@ -249,7 +273,8 @@
             "description": "The one where Zahra explains why she can't read in the bath and Taz returns to Magic Mike Live.",
             "duration": "2761",
             "sourceUrl": "https://audioboom.com/posts/6616421.mp3?modified=1576135199&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=037%20-%20Bathtub%20Erotica"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2018-01-24-037-bathtub-erotica"
         },
         {
             "title": "036 - Saving What We Love",
@@ -259,7 +284,8 @@
             "description": "The one where Taz describes how hard it is to leave her apartment and Zahra connects the Rebel Alliance to Allah.",
             "duration": "2507",
             "sourceUrl": "https://audioboom.com/posts/6573099.mp3?modified=1575073309&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=036%20-%20Saving%20What%20We%20Love"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2017-12-30-036-saving-what-we-love"
         },
         {
             "title": "035 - It's Really Muslim to be Poly",
@@ -269,7 +295,8 @@
             "description": "The one where Taz ponders the origins of patchouli and Zahra imagines what a true Jihad Barbie looks like.",
             "duration": "2608",
             "sourceUrl": "https://audioboom.com/posts/6520456.mp3?modified=1575075245&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=035%20-%20It's%20Really%20Muslim%20to%20be%20Poly"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2017-11-28-035-its-really-muslim-to-be-poly"
         },
         {
             "title": "034 - Ghostly, Ghastly, and Ghoulish",
@@ -279,7 +306,8 @@
             "description": "The one where Zahra falls asleep on Jaws, Taz defends Glinda the Good Witch, and they discover the connection between Valhalla and Allah.",
             "duration": "3179",
             "sourceUrl": "https://audioboom.com/posts/6436686.mp3?modified=1575069687&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=034%20-%20Ghostly%2C%20Ghastly%2C%20and%20Ghoulish"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2017-10-28-034-ghostly-ghastly-and-ghoulish"
         },
         {
             "title": "033 - Not a News Source",
@@ -289,7 +317,8 @@
             "description": "The one where Taz offers to do makeup reviews and Zahra reminisces about Hawaiian cockroaches.",
             "duration": "2741",
             "sourceUrl": "https://audioboom.com/posts/6346471.mp3?modified=1575043613&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=033%20-%20Not%20a%20News%20Source"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2017-09-29-033-not-a-news-source"
         },
         {
             "title": "032 - LIVE from Shangri La in Honolulu",
@@ -299,7 +328,8 @@
             "description": "The one where Taz flirts over plastic grapes and Zahra meets her own hot doctor.",
             "duration": "2384",
             "sourceUrl": "https://audioboom.com/posts/6252517.mp3?modified=1576473022&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=032%20-%20LIVE%20from%20Shangri%20La%20in%20Honolulu"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2017-08-30-032-live-from-shangri-la-in-honolulu"
         },
         {
             "title": "031 - Let's Talk About Sex...Manuals",
@@ -309,7 +339,8 @@
             "description": "The one where Zahra buys a designer diaper bag and Taz prepares for a billionaire pre-nup.",
             "duration": "2441",
             "sourceUrl": "https://audioboom.com/posts/6157505.mp3?modified=1576545044&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=031%20-%20Let's%20Talk%20About%20Sex...Manuals"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2017-07-31-031-lets-talk-about-sexmanuals"
         },
         {
             "title": "030 - Over It",
@@ -319,7 +350,8 @@
             "description": "The one where Zahra describes food in detail to a fasting Taz and Taz pitches a Muslim Bridesmaids movie.",
             "duration": "3064",
             "sourceUrl": "https://audioboom.com/posts/6061223.mp3?modified=1576627896&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=030%20-%20Over%20It"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2017-06-29-030-over-it"
         },
         {
             "title": "029 - Manzanar Pilgrimage",
@@ -329,7 +361,8 @@
             "description": "The one where Taz and Zahra visit Manzanar.",
             "duration": "2398",
             "sourceUrl": "https://audioboom.com/posts/5961729.mp3?modified=1576723324&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=029%20-%20Manzanar%20Pilgrimage"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2017-05-27-029-manzanar-pilgrimage"
         },
         {
             "title": "028 - Apocalypse Ennui",
@@ -339,7 +372,8 @@
             "description": "The one where Zahra explains leather daddies and Taz plans her passive-aggressive plane moves.",
             "duration": "2563",
             "sourceUrl": "https://audioboom.com/posts/5869872.mp3?modified=1576799734&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=028%20-%20Apocalypse%20Ennui"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2017-04-30-028-apocalypse-ennui"
         },
         {
             "title": "027 - LIVE from Minneapolis",
@@ -349,7 +383,8 @@
             "description": "The one where Taz teaches the world the miracles of the \"twig brush\", Zahra declares the Irish prime minister Muslim, and they both plan a trip to Hawaii with the hot dudes of Kurdish Gents Club.",
             "duration": "2852",
             "sourceUrl": "https://audioboom.com/posts/5760838.mp3?modified=1576889561&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=027%20-%20LIVE%20from%20Minneapolis"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2017-03-29-027-live-from-minneapolis"
         },
         {
             "title": "026 - LIVE from Wharton",
@@ -359,7 +394,8 @@
             "description": "The one where Taz wins big money from an Aladdin slot machine, Zahra makes her husband test a Japanese toilet, and both pitch their business ideas to the business students of Wharton.",
             "duration": "2470",
             "sourceUrl": "https://audioboom.com/posts/5656976.mp3?modified=1575075754&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=026%20-%20LIVE%20from%20Wharton"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2017-02-28-026-live-from-wharton"
         },
         {
             "title": "025 - Large Groups of Angry People",
@@ -369,7 +405,8 @@
             "description": "The one where Zahra self-cares with popcorn and cheese and Taz explains that bacon is not Kryptonite.",
             "duration": "2192",
             "sourceUrl": "https://audioboom.com/posts/5555958.mp3?modified=1575070542&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=025%20-%20Large%20Groups%20of%20Angry%20People"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2017-01-31-025-large-groups-of-angry-people"
         },
         {
             "title": "024 - Jingle Jihad",
@@ -379,7 +416,8 @@
             "description": "The one where we declare Christmas Fatwas to all. ",
             "duration": "2756",
             "sourceUrl": "https://audioboom.com/posts/5431818.mp3?modified=1575071107&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=024%20-%20Jingle%20Jihad"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2016-12-25-024-jingle-jihad"
         },
         {
             "title": "023 - Pins and Polls",
@@ -389,7 +427,8 @@
             "description": "The one after election day, where Taz wonders if Glenn Beck is now woke and Zahra almost finds a new husband at a meat market. Also, if you must wear a safety pin, buy ours.\n\nThis is a special longer episode featuring Taz and Zahra's post-election reflections.",
             "duration": "3860",
             "sourceUrl": "https://audioboom.com/posts/5338850.mp3?modified=1577226264&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=023%20-%20Pins%20and%20Polls"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2016-11-29-023-pins-and-polls"
         },
         {
             "title": "022 - Election Watch and Other Scary Things",
@@ -399,7 +438,8 @@
             "description": "The one where Taz is on the front lines of being a nasty woman and Zahra asks why she can't have a lightsaber. Both want you to go vote!",
             "duration": "2501",
             "sourceUrl": "https://audioboom.com/posts/5219124.mp3?modified=1577302880&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=022%20-%20Election%20Watch%20and%20Other%20Scary%20Things"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2016-10-28-022-election-watch-and-other-scary-things"
         },
         {
             "title": "021 - Muslim Garb-ish",
@@ -409,7 +449,8 @@
             "description": "The one where Taz “reaches out” to NFL quarterbacks to convert them to social activism and Zahra makes Golden Retrievers cry. Both realize they forgot to wear their Muslim Garb. Also, Taz is single. ",
             "duration": "2684",
             "sourceUrl": "https://audioboom.com/posts/5111949.mp3?modified=1577375140&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=021%20-%20Muslim%20Garb-ish"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2016-09-30-021-muslim-garb-ish"
         },
         {
             "title": "020 - Muslim Muslims at The Comedy Comedy Festival",
@@ -419,7 +460,8 @@
             "description": "The one where Taz never learns to swim because she didn't have a burqini and Zahra discovers racism in an easter egg. Both share their Muslim Appreciation month gift registries.",
             "duration": "2364",
             "sourceUrl": "https://audioboom.com/posts/4992421.mp3?modified=1577462692&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=020%20-%20Muslim%20Muslims%20at%20The%20Comedy%20Comedy%20Festival"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2016-08-30-020-muslim-muslims-at-the-comedy-comedy-festival"
         },
         {
             "title": "019 - Secrets & Safety",
@@ -429,7 +471,8 @@
             "description": "The one where Zahra discovers the true meaning of Fatwa, Taz gets the Hiba-jabis for being late, and both decide the world needs more gay pride.",
             "duration": "3465",
             "sourceUrl": "https://audioboom.com/posts/4861341.mp3?modified=1577554922&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=019%20-%20Secrets%20%26%20Safety"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2016-07-26-019-secrets-safety"
         },
         {
             "title": "018 - LIVE from Oakland's Islamic Cultural Center",
@@ -439,7 +482,8 @@
             "description": "The one where Zahra creates a Sharia ring tone and Taz shares her phobia of secret passages.",
             "duration": "2964",
             "sourceUrl": "https://audioboom.com/posts/4722437.mp3?modified=1577646622&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=018%20-%20LIVE%20from%20Oakland's%20Islamic%20Cultural%20Center"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2016-06-20-018-live-from-oaklands-islamic-cultural-center"
         },
         {
             "title": "017 - LIVE from the White House",
@@ -449,7 +493,8 @@
             "description": "The one where Taz receives a Champion of Change in Art and Storytelling from the White House  and brings Zahra with her to creep sharia, LIVE from the White House.  \r\n\r\nBonus: We spoke with Muslim staffers in the White House about what it's like to work in the White House and we also got a chance to interviewed fellow Champion of Change in Art and Storytelling awardees Fawzia Mirza and Kayhan Irani.",
             "duration": "2567",
             "sourceUrl": "https://audioboom.com/posts/4639102.mp3?modified=1577713160&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=017%20-%20LIVE%20from%20the%20White%20House"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2016-06-01-017-live-from-the-white-house"
         },
         {
             "title": "#GMBM LIVE from the White House - Teaser",
@@ -459,7 +504,8 @@
             "description": "#GoodMuslimBadMuslim's May episode was recorded LIVE at the White House! It'll be coming to you soon but we wanted to share a quick teaser.",
             "duration": "54",
             "sourceUrl": "https://audioboom.com/posts/4585157.mp3?modified=1577755183&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=%23GMBM%20LIVE%20from%20the%20White%20House%20-%20Teaser"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2016-05-19-gmbm-live-from-the-white-house-teaser"
         },
         {
             "title": "016 - Wudu On, Wax Off",
@@ -469,7 +515,8 @@
             "description": "The one where Zahra's mother waxes and oils Zahra's husband at their first meeting, while Taz wonders how Zayn Malik manscapes.",
             "duration": "3371",
             "sourceUrl": "https://audioboom.com/posts/4477053.mp3?modified=1577825039&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=016%20-%20Wudu%20On%2C%20Wax%20Off"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2016-04-25-016-wudu-on-wax-off"
         },
         {
             "title": "015 - GMBM x SXSW Live",
@@ -479,7 +526,8 @@
             "description": "The one where Taz rebels against patriarchy with subtle physical deconstruction, Zahra finally answers the question of \"Where's the Rumi,\" and both of them get into a fierce competition with an Auntie Staredown.\r\n\r\nSpecial thanks to Dropbox for inviting us to record at the South by Southwest Dropbox Podcast Studio as well as a special mashallah to Amanda Quraishi for guest judging the Auntie Stare Down. ",
             "duration": "3188",
             "sourceUrl": "https://audioboom.com/posts/4356769.mp3?modified=1577913786&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=015%20-%20GMBM%20x%20SXSW%20Live"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2016-03-28-015-gmbm-x-sxsw-live"
         },
         {
             "title": "014 - Let's Talk About Sex...with Jinns",
@@ -489,7 +537,8 @@
             "description": "The one where Taz is scarred from learning about Jinns in a man's urethra, Zahra eats her way through an edible burka, and both get into a Hijarbie vs Jihottie pillow fight.",
             "duration": "2194",
             "sourceUrl": "https://audioboom.com/posts/4224446.mp3?modified=1578010029&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=014%20-%20Let's%20Talk%20About%20Sex...with%20Jinns"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2016-02-24-014-lets-talk-about-sexwith-jinns"
         },
         {
             "title": "013 - LIVE from University of Michigan",
@@ -499,7 +548,8 @@
             "description": "The one where Zahra & Taz celebrate their anniversary in Michigan. Zahra discovers Sharia creeping into the GOP and Taz uncovers the Muslimification of her exes.",
             "duration": "3418",
             "sourceUrl": "https://audioboom.com/posts/4115365.mp3?modified=1578083753&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=013%20-%20LIVE%20from%20University%20of%20Michigan"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2016-01-28-013-live-from-university-of-michigan"
         },
         {
             "title": "012 - Muslim Christmas",
@@ -509,7 +559,8 @@
             "description": "The one where Zahra asks Santa Khomeini for presents, Taz explains the origins of the evil Empire, and they cast Muslim Star Wars.",
             "duration": "2702",
             "sourceUrl": "https://audioboom.com/posts/3965254.mp3?modified=1578207443&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=012%20-%20Muslim%20Christmas"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2015-12-17-012-muslim-christmas"
         },
         {
             "title": "011 - Condemning Condemnation",
@@ -519,7 +570,8 @@
             "description": "The one where Zahra uses her telepathic powers and Taz finds out the Statue of Liberty is Muslim.",
             "duration": "3261",
             "sourceUrl": "https://audioboom.com/posts/3854690.mp3?modified=1578270504&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=011%20-%20Condemning%20Condemnation"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2015-11-25-011-condemning-condemnation"
         },
         {
             "title": "010 - Muslim-ish",
@@ -529,7 +581,8 @@
             "description": "The one where Taz tries dating a White guy and Dartmouth's Millennial Muslims dare Zahra to prove her pepperoni-eating habits. Both women decide that they are smarter than neurosurgeon Ben Carson.",
             "duration": "2622",
             "sourceUrl": "https://audioboom.com/posts/3709777.mp3?modified=1578383584&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=010%20-%20Muslim-ish"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2015-10-19-010-muslim-ish"
         },
         {
             "title": "009 - Detox",
@@ -539,7 +592,8 @@
             "description": "The one where Zahra goes \"off the grid\" while Taz wants the hot men out of her life.",
             "duration": "2652",
             "sourceUrl": "https://audioboom.com/posts/3607010.mp3?modified=1578463596&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=009%20-%20Detox"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2015-09-23-009-detox"
         },
         {
             "title": "008 - Let's Talk About Sex...Ed",
@@ -549,7 +603,8 @@
             "description": "The one where Taz gets her sex education through Barbie dolls and Zahra sends an angry letter full of #MuslimRage & #MuslimCrazy to the internet.",
             "duration": "3039",
             "sourceUrl": "https://audioboom.com/posts/3521500.mp3?modified=1578528849&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=008%20-%20Let's%20Talk%20About%20Sex...Ed"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2015-08-31-008-lets-talk-about-sexed"
         },
         {
             "title": "007 - Zahra and Taz Take On New York - LIVE",
@@ -559,7 +614,8 @@
             "description": "The one where Taz and Zahra meet up in the Big Apple: Zahra becomes an Iranian foreign policy expert because of a joke and Taz declares war on bacon flavored seaweed.",
             "duration": "2551",
             "sourceUrl": "https://audioboom.com/posts/3447791.mp3?modified=1578587014&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=007%20-%20Zahra%20and%20Taz%20Take%20On%20New%20York%20-%20LIVE"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2015-08-07-007-zahra-and-taz-take-on-new-york-live"
         },
         {
             "title": "We Tell Everything to John Fugelsang",
@@ -569,7 +625,8 @@
             "description": "Back in May, Zahra and Taz had an awesome time getting interviewed by John Fugelsang and Frank Conniff for the SirusXM show Tell Me Everything. We weren't able to share the link - so instead, we're going to share the audio directly! Listen to the audio from the show right here - and thanks to the Tell Me Everything team for inviting us on! \n",
             "duration": "1995",
             "sourceUrl": "https://audioboom.com/posts/3388031.mp3?modified=1578627759&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=We%20Tell%20Everything%20to%20John%20Fugelsang"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2015-07-20-we-tell-everything-to-john-fugelsang"
         },
         {
             "title": "006 - Ramadan of Stank Breath (with guest Saqib Keval)",
@@ -579,7 +636,8 @@
             "description": "The one where Taz is mistaken for a Reality TV Star, Zahra refuses to claim she's pregnant, and special guest Saqib gets free KFC. They all skip PE. Ramadan Mubarak!\n\n\t\n\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\t\n\n\t\t\n\t\n\t\n\n\n",
             "duration": "1970",
             "sourceUrl": "https://audioboom.com/posts/3331279.mp3?modified=1578669830&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=006%20-%20Ramadan%20of%20Stank%20Breath%20(with%20guest%20Saqib%20Keval)"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2015-06-30-006-ramadan-of-stank-breath-with-guest-saqib-keval"
         },
         {
             "title": "005 - Shame On You",
@@ -589,7 +647,8 @@
             "description": "The one where Taz gets shamed by association while Zahra's entire family gets propositioned (by handshake) in Dubai.\n\n\t\n\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\t\n\n\t\t\n\t\n\t\n\n\n",
             "duration": "2475",
             "sourceUrl": "https://audioboom.com/posts/3265318.mp3?modified=1578718383&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=005%20-%20Shame%20On%20You"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2015-05-28-005-shame-on-you"
         },
         {
             "title": "Code Switching Muslim w/ Arun Rath",
@@ -599,7 +658,8 @@
             "description": "Wow, what an incredible month - we are super excited to have been invited \nto the All Things Considered Weekend Edition with Arun Rath. We had a great \nconversation which you can listen to at the audio below and be sure to read \nthe article too (excerpt below!). \n",
             "duration": "351",
             "sourceUrl": "https://audioboom.com/posts/3265320.mp3?modified=1578718372&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=Code%20Switching%20Muslim%20w%2F%20Arun%20Rath"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2015-05-22-code-switching-muslim-w-arun-rath"
         },
         {
             "title": "004 - LIVE From Pomona College",
@@ -609,7 +669,8 @@
             "description": "The one where Zahra's sexy jokes get her uninvited from a country and Taz is hit on by thirsty guy--or maybe he was just literally thirsty.\n\n\t\n\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\t\n\n\t\t\n\t\n\t\n\n\n",
             "duration": "2124",
             "sourceUrl": "https://audioboom.com/posts/3265324.mp3?modified=1578718386&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=004%20-%20LIVE%20From%20Pomona%20College"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2015-04-24-004-live-from-pomona-college"
         },
         {
             "title": "003 - No Muslim is Safe",
@@ -619,7 +680,8 @@
             "description": "The one where Taz gets hit on by a pickup artist and Zahra self-diagnoses as Muslim Crazy.\n\n\t\n\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\t\n\n\t\t\n\t\n\t\n\n\n",
             "duration": "2447",
             "sourceUrl": "https://audioboom.com/posts/3439972.mp3?modified=1575046478&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=003%20-%20No%20Muslim%20is%20Safe"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2015-03-25-003-no-muslim-is-safe"
         },
         {
             "title": "002 - Valentine's Day is Haram",
@@ -629,7 +691,8 @@
             "description": "The one where Zahra gets proposed to while Taz is in the bathroom.\n\n\t\n\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\t\n\n\t\t\n\t\n\t\n\n\n",
             "duration": "1947",
             "sourceUrl": "https://audioboom.com/posts/3439974.mp3?modified=1575043107&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=002%20-%20Valentine's%20Day%20is%20Haram"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2015-02-10-002-valentines-day-is-haram"
         },
         {
             "title": "001 - How Muslim Are You?",
@@ -639,7 +702,8 @@
             "description": "The one where Taz and Zahra discuss who is the good Muslim and who is the bad Muslim. \n\n\t\n\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\t\n\n\t\t\n\t\n\t\n\n\n",
             "duration": "2066",
             "sourceUrl": "https://audioboom.com/posts/3439975.mp3?modified=1575075605&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=001%20-%20How%20Muslim%20Are%20You%3F"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2015-01-12-001-how-muslim-are-you"
         },
         {
             "title": "Preview!",
@@ -649,7 +713,8 @@
             "description": "What will the #GoodMuslimBadMuslim podcast entail? Check out this preview, and then catch the first episode on Monday, January 12!\n\n\n",
             "duration": "136",
             "sourceUrl": "https://audioboom.com/posts/3439976.mp3?modified=1578581236&source=rss&stitched=1",
-            "slug": "Audioboom%253A%2523GoodMuslimBadMuslim?episode=Preview!"
+            "podcast": "audioboom-goodmuslimbadmuslim",
+            "slug": "audioboom-goodmuslimbadmuslim?episode=2015-01-08-preview"
         }
     ]
 }

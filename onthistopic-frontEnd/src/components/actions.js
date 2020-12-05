@@ -48,9 +48,9 @@ export const loadEpisodeInProgress = () => ({
 });
 
 export const LOAD_EPISODE_SUCCESS = "LOAD_EPISODE_SUCCESS";
-export const loadEpisodeSuccess = (podcasts) => ({
+export const loadEpisodeSuccess = (episode) => ({
   type: LOAD_EPISODE_SUCCESS,
-  payload: { podcasts },
+  payload: { episode },
 });
 
 export const LOAD_EPISODE_FAILURE = "LOAD_EPISODE_FAILURE";

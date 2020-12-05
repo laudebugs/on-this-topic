@@ -10,16 +10,26 @@
         "Society & Culture"
     ],
     "image": "https://media.npr.org/assets/img/2018/08/03/npr_freshair_podcasttile_sq-bb34139df91f7a48120ddce9865817ea11baaf32.jpg?s=1400",
-    "slug": "NPR%3AFresh%20Air",
-    "lastUpdate": "Fri, 04 Dec 2020 16:30:05 -0500",
+    "slug": "npr-fresh-air",
+    "lastUpdate": "Sat, 05 Dec 2020 00:01:47 -0500",
     "episodes": [
+        {
+            "title": "Best Of: Hugh Grant / The Sanitation Crisis In Rural Alabama",
+            "datePublished": "Sat, 05 Dec 2020 00:01:47 -0500",
+            "description": "Hugh Grant co-stars in the HBO miniseries 'The Undoing' as a charming doctor suspected of brutally murdering his lover. We talk with Grant about the \"blessed relief\" of taking on darker roles.<br/><br/>Film critic Justin Chang reviews 'Ammonite,' starring Kate Winslet and Saoirse Ronan. <br/><br/>MacArthur fellow Catherine Coleman Flowers grew up in rural Alabama and has spent 20 years calling attention to the problem of people living with inadequate sanitation systems, resulting in human waste collecting in their yards and sometimes seeping into their homes. Her new book is 'Waste: One Woman's Fight Against America's Dirty Secret.'    ",
+            "duration": "3081",
+            "sourceUrl": "https://play.podtrac.com/npr-381444908/edge1.pod.npr.org/anon.npr-mp3/npr/fa/2020/12/20201205_fa_fawpod1205.mp3?awCollectionId=381444908&awEpisodeId=942237548&orgId=1&d=3081&p=381444908&story=942237548&t=podcast&e=942237548&size=49189320&ft=pod&f=381444908",
+            "podcast": "npr-fresh-air",
+            "slug": "npr-fresh-air?episode=2020-12-05-best-of-hugh-grant-the-sanitation-crisis-in-rural-alabama"
+        },
         {
             "title": "Celebrating Jazz Great Dave Brubeck / Best Books Of 2020",
             "datePublished": "Fri, 04 Dec 2020 16:30:05 -0500",
             "description": "We celebrate the life and music of influential jazz pianist and composer Dave Brubeck, who was born 100 years ago. Brubeck's album 'Time Out,' released in 1959, was the first jazz album to sell a million copies. He spoke with Terry Gross in 1999. <br/><br/>Also, book critic Maureen Corrigan shares her top 10 books of the year, and David Bianculli reviews Showtime's series 'Your Honor' starring Bryan Cranston. ",
             "duration": "2979",
             "sourceUrl": "https://play.podtrac.com/npr-381444908/edge1.pod.npr.org/anon.npr-mp3/npr/fa/2020/12/20201203_fa_fapodfri1204_1.mp3?awCollectionId=381444908&awEpisodeId=942237217&orgId=1&d=2979&p=381444908&story=942237217&t=podcast&e=942237217&size=47563437&ft=pod&f=381444908",
-            "slug": "NPR%253AFresh%2520Air?episode=Celebrating%20Jazz%20Great%20Dave%20Brubeck%20%2F%20Best%20Books%20Of%202020"
+            "podcast": "npr-fresh-air",
+            "slug": "npr-fresh-air?episode=2020-12-04-celebrating-jazz-great-dave-brubeck-best-books-of-2020"
         },
         {
             "title": "National Security & The Final Weeks Of The Trump Administration",
@@ -27,7 +37,8 @@
             "description": "President Trump has ousted his secretary of defense and the head of the Pentagon's Defeat Isis Task Force. Trump has also considered striking Iran, and is expected to pull troops from Afghanistan. We talk with 'New York Times' reporter Eric Schmitt about what this may mean for American national security.",
             "duration": "2993",
             "sourceUrl": "https://play.podtrac.com/npr-381444908/edge1.pod.npr.org/anon.npr-mp3/npr/fa/2020/12/20201203_fa_fapodthurs.mp3?awCollectionId=381444908&awEpisodeId=942217890&orgId=1&d=2993&p=381444908&story=942217890&t=podcast&e=942217890&size=47789034&ft=pod&f=381444908",
-            "slug": "NPR%253AFresh%2520Air?episode=National%20Security%20%26%20The%20Final%20Weeks%20Of%20The%20Trump%20Administration"
+            "podcast": "npr-fresh-air",
+            "slug": "npr-fresh-air?episode=2020-12-03-national-security-the-final-weeks-of-the-trump-administration"
         },
         {
             "title": "Loudon Wainwright III & Vince Giordano Play From The Great American Songbook",
@@ -35,7 +46,8 @@
             "description": "Singer-songwriter Loudon Wainwright III and Nighthawks bandleader Vince Giordano collaborated on the 1920s and '30s style music for the series 'Boardwalk Empire' and the film 'The Aviator.' Now they've gotten together again on the new album, 'I'd Rather Lead a Band,' a collection of songs from the Great American Songbook. They talk with Terry Gross about their new record and the music of the era. ",
             "duration": "2927",
             "sourceUrl": "https://play.podtrac.com/npr-381444908/edge1.pod.npr.org/anon.npr-mp3/npr/fa/2020/12/20201202_fa_fapodweds.mp3?awCollectionId=381444908&awEpisodeId=941311981&orgId=1&d=2927&p=381444908&story=941311981&t=podcast&e=941311981&size=46736526&ft=pod&f=381444908",
-            "slug": "NPR%253AFresh%2520Air?episode=Loudon%20Wainwright%20III%20%26%20Vince%20Giordano%20Play%20From%20The%20Great%20American%20Songbook"
+            "podcast": "npr-fresh-air",
+            "slug": "npr-fresh-air?episode=2020-12-02-loudon-wainwright-iii-vince-giordano-play-from-the-great-american-songbook"
         },
         {
             "title": "Hugh Grant",
@@ -43,7 +55,8 @@
             "description": "Grant co-stars in the HBO miniseries 'The Undoing' as a charming doctor suspected of brutally murdering his lover. We talk with Grant about the \"blessed relief\" of taking a break from playing nice guys, his activism about tabloid privacy, and how 'Four Weddings and a Funeral' changed his life. ​",
             "duration": "3026",
             "sourceUrl": "https://play.podtrac.com/npr-381444908/edge1.pod.npr.org/anon.npr-mp3/npr/fa/2020/12/20201201_fa_fapodtues_adjusted.mp3?awCollectionId=381444908&awEpisodeId=940644975&orgId=1&d=3026&p=381444908&story=940644975&t=podcast&e=940644975&size=48307782&ft=pod&f=381444908",
-            "slug": "NPR%253AFresh%2520Air?episode=Hugh%20Grant"
+            "podcast": "npr-fresh-air",
+            "slug": "npr-fresh-air?episode=2020-12-01-hugh-grant"
         },
         {
             "title": "Sen. Ted Kennedy & American Liberalism",
@@ -51,7 +64,8 @@
             "description": "A liberal voice in the U.S. Senate for decades, Senator Ted Kennedy led a life marked by tragedy and scandal. Historian Neal Gabler says Kennedy's career shaped the course of American liberalism. His book is 'Catching the Wind.'<br/><br/>Film critic Justin Chang reviews 'Happiest Season.' It stars Kristen Stewart and Mackenzie Davis as a lesbian couple trying to keep their relationship a secret during a Christmas family gathering. ",
             "duration": "2870",
             "sourceUrl": "https://play.podtrac.com/npr-381444908/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/fa/2020/11/20201130_fa_fapodmon_adjusted-a6874f3e-9cb3-4f85-a39c-4c5ba6a83b5e.mp3?awCollectionId=381444908&awEpisodeId=940118493&orgId=1&d=2870&p=381444908&story=940118493&t=podcast&e=940118493&size=45824753&ft=pod&f=381444908",
-            "slug": "NPR%253AFresh%2520Air?episode=Sen.%20Ted%20Kennedy%20%26%20American%20Liberalism"
+            "podcast": "npr-fresh-air",
+            "slug": "npr-fresh-air?episode=2020-11-30-sen-ted-kennedy-american-liberalism"
         },
         {
             "title": "Best Of: Chef David Chang / Actor Gillian Anderson",
@@ -59,7 +73,8 @@
             "description": "Momofuku chef David Chang talks about his new memoir, 'Eat a Peach,' which details his struggle with bipolar disorder and how cooking saved his life. He also hosts the series 'Ugly Delicious' on Netflix. <br/><br/>John Powers reviews the gripping Romanian documentary 'Collective,' about journalists uncovering a corruption scandal. <br/><br/>'X-Files' and 'Sex Education' actor Gillian Anderson talks about playing Margaret Thatcher in the new season of 'The Crown,' and then coaches Terry Gross on how to imitate the former prime minster's voice. ",
             "duration": "3036",
             "sourceUrl": "https://play.podtrac.com/npr-381444908/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/fa/2020/11/20201128_fa_fawpod1128_1-50e2d60f-8b6b-48c1-b3c2-b0544cedf225.mp3?awCollectionId=381444908&awEpisodeId=938927562&orgId=1&d=3036&p=381444908&story=938927562&t=podcast&e=938927562&size=48468533&ft=pod&f=381444908",
-            "slug": "NPR%253AFresh%2520Air?episode=Best%20Of%3A%20Chef%20David%20Chang%20%2F%20Actor%20Gillian%20Anderson"
+            "podcast": "npr-fresh-air",
+            "slug": "npr-fresh-air?episode=2020-11-28-best-of-chef-david-chang-actor-gillian-anderson"
         },
         {
             "title": "Carol Burnett",
@@ -67,7 +82,8 @@
             "description": "The celebrated variety and sketch comedy series, 'The Carol Burnett Show' aired from 1967-1978 and won more than 20 Emmy Awards. The series is going to streaming services for the first time. Burnett talked to Terry Gross in 2003 and our TV critic David Bianculli interviewed her this year about her signature ear pull, why she didn't do topical humor, and why the show stands the test of time.",
             "duration": "2951",
             "sourceUrl": "https://play.podtrac.com/npr-381444908/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/fa/2020/11/20201127_fa_fapodfri1127-52cd5633-834f-42e7-aa28-702ad6e1ca66.mp3?awCollectionId=381444908&awEpisodeId=938906100&orgId=1&d=2951&p=381444908&story=938906100&t=podcast&e=938906100&size=47115368&ft=pod&f=381444908",
-            "slug": "NPR%253AFresh%2520Air?episode=Carol%20Burnett"
+            "podcast": "npr-fresh-air",
+            "slug": "npr-fresh-air?episode=2020-11-27-carol-burnett"
         },
         {
             "title": "Conan O'Brien",
@@ -75,7 +91,8 @@
             "description": "After 28 years of hosting late-night shows, O'Brien will be starting something new at HBO. He spoke to Terry Gross in 2019 about his early days as a comic and how late-night TV has changed over the years. <br/><br/>Also, jazz critic Kevin Whitehead reviews a newly discovered live recording by Sonny Rollins. ",
             "duration": "2992",
             "sourceUrl": "https://play.podtrac.com/npr-381444908/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/fa/2020/11/20201126_fa_fapodthurs-0b9e8207-918b-4e8a-9c1d-cd0f3c973669.mp3?awCollectionId=381444908&awEpisodeId=938905401&orgId=1&d=2992&p=381444908&story=938905401&t=podcast&e=938905401&size=47767556&ft=pod&f=381444908",
-            "slug": "NPR%253AFresh%2520Air?episode=Conan%20O'Brien"
+            "podcast": "npr-fresh-air",
+            "slug": "npr-fresh-air?episode=2020-11-26-conan-obrien"
         },
         {
             "title": "Chef David Chang",
@@ -83,7 +100,8 @@
             "description": "Momofuku chef and 'Ugly Delicious' host David Chang talks about fatherhood, mixing culinary traditions, and how depression led him to take his biggest career risks. \"Momofuku was an exercise in combating depression,\" he says. \"Otherwise, a 26 year-old with very little experience should never open a restaurant — and that's what happened.\" His new memoir is 'Eat a Peach.'<br/><br/>Also, we remember travel writer and memoirist Jan Morris. She died last week at 94.",
             "duration": "2921",
             "sourceUrl": "https://play.podtrac.com/npr-381444908/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/fa/2020/11/20201125_fa_fapodweds_adjusted-326b37b8-acc8-436f-a762-e40a67d56ead.mp3?awCollectionId=381444908&awEpisodeId=938904650&orgId=1&d=2921&p=381444908&story=938904650&t=podcast&e=938904650&size=46631648&ft=pod&f=381444908",
-            "slug": "NPR%253AFresh%2520Air?episode=Chef%20David%20Chang"
+            "podcast": "npr-fresh-air",
+            "slug": "npr-fresh-air?episode=2020-11-25-chef-david-chang"
         },
         {
             "title": "Vaccine Expert On COVID & The Year Ahead",
@@ -91,7 +109,8 @@
             "description": "Dr. Peter Hotez is part of a team working to develop a low-cost COVID vaccine that could be distributed globally. \"Vaccines are coming,\" he says. \"We have to get everybody through to the other side.\" Hotez talks about vaccine development, the anti-vax movement, and what the year ahead might look like. ",
             "duration": "2914",
             "sourceUrl": "https://play.podtrac.com/npr-381444908/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/fa/2020/11/20201124_fa_fapodtues-2f13d170-2d46-4b00-b281-92ade559e209.mp3?awCollectionId=381444908&awEpisodeId=938544213&orgId=1&d=2914&p=381444908&story=938544213&t=podcast&e=938544213&size=46533236&ft=pod&f=381444908",
-            "slug": "NPR%253AFresh%2520Air?episode=Vaccine%20Expert%20On%20COVID%20%26%20The%20Year%20Ahead"
+            "podcast": "npr-fresh-air",
+            "slug": "npr-fresh-air?episode=2020-11-24-vaccine-expert-on-covid-the-year-ahead"
         },
         {
             "title": "The Sanitation Crisis In Rural America",
@@ -99,7 +118,8 @@
             "description": "In a 2017 study of a rural area of Alabama, more than one in three people tested showed traces of hookworm, an intestinal parasite spread by contact with human feces, previously thought to be eradicated in the U.S. Catherine Coleman Flowers grew up in Alabama, and has spent 20 years calling attention to the problem of people living with no sanitary means of human waste disposal, so it collects in their yards, and sometimes seeps into their homes. Earlier this year, she was awarded a MacArthur fellowship to support her work. Her new book is 'Waste: One Woman's Fight Against America's Dirty Secret.' <br/><br/>Also, John Powers reviews the documentary 'Collective,' about a team of  journalists investigating the aftermath of a 2015 Bucharest nightclub fire that killed 64 people",
             "duration": "2941",
             "sourceUrl": "https://play.podtrac.com/npr-381444908/edge1.pod.npr.org/anon.npr-mp3/npr/fa/2020/11/20201123_fa_fapodmon.mp3?awCollectionId=381444908&awEpisodeId=937996807&orgId=1&d=2941&p=381444908&story=937996807&t=podcast&e=937996807&size=46961706&ft=pod&f=381444908",
-            "slug": "NPR%253AFresh%2520Air?episode=The%20Sanitation%20Crisis%20In%20Rural%20America"
+            "podcast": "npr-fresh-air",
+            "slug": "npr-fresh-air?episode=2020-11-23-the-sanitation-crisis-in-rural-america"
         },
         {
             "title": "Best Of: President Obama / The Chicago 7",
@@ -107,7 +127,8 @@
             "description": "President Barack Obama talks about birtherism and fake news, and reflects on what he misses most about being president — and why he still has faith in democracy. The first volume of his memoir about his presidency is 'A Promised Land.'<br/><br/>Also, Justin Chang reviews 'Small Axe,' a series of five films by Steve McQueen. <br/><br/>The Chicago 7 were anti-war activists who were charged with conspiracy to incite a riot at the 1968 Democratic National Convention. The trial is the subject of a new movie written and directed by Aaron Sorkin. We talk with author Jon Wiener about his book, 'Conspiracy in the Streets.'",
             "duration": "3022",
             "sourceUrl": "https://play.podtrac.com/npr-381444908/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/fa/2020/11/20201121_fa_fawpod1121-36ca673d-8525-4a10-89e8-f27d1159bb9a.mp3?awCollectionId=381444908&awEpisodeId=937010863&orgId=1&d=3022&p=381444908&story=937010863&t=podcast&e=937010863&size=48250612&ft=pod&f=381444908",
-            "slug": "NPR%253AFresh%2520Air?episode=Best%20Of%3A%20President%20Obama%20%2F%20The%20Chicago%207"
+            "podcast": "npr-fresh-air",
+            "slug": "npr-fresh-air?episode=2020-11-21-best-of-president-obama-the-chicago-7"
         },
         {
             "title": "The CIA's Secret Mind Control Experiments",
@@ -115,7 +136,8 @@
             "description": "Stephen Kinzer's book, 'Poisoner in Chief,' exposes how CIA scientist Sidney Gottlieb worked in the 1950s and early '60s to develop mind control drugs and deadly toxins that could be used against enemies of the U.S. government. Gottlieb believed the key to mind control was LSD, and is credited with bringing the drug to the U.S. He also experimented on unwitting people in prisons and detention centers in Japan, Germany, and the Philippines. (Originally broadcast Sept. 2019) <br/><br/>Also, Justin Chang reviews, 'Small Axe,' Steve McQueen's new collection of five films set in London's West Indian community.",
             "duration": "2920",
             "sourceUrl": "https://play.podtrac.com/npr-381444908/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/fa/2020/11/20201120_fa_fapodfri1120-618ba06b-e1ef-44f6-93eb-02aaf1e296de.mp3?awCollectionId=381444908&awEpisodeId=937010023&orgId=1&d=2920&p=381444908&story=937010023&t=podcast&e=937010023&size=46614721&ft=pod&f=381444908",
-            "slug": "NPR%253AFresh%2520Air?episode=The%20CIA's%20Secret%20Mind%20Control%20Experiments"
+            "podcast": "npr-fresh-air",
+            "slug": "npr-fresh-air?episode=2020-11-20-the-cias-secret-mind-control-experiments"
         },
         {
             "title": "President Barack Obama",
@@ -123,7 +145,8 @@
             "description": "In his first interview with Terry Gross, President Barack Obama talks about birtherism and fake news, and reflects on what he misses most about being president — and why he still has faith in democracy. The first volume of his memoir about his presidency is 'A Promised Land.' ",
             "duration": "2891",
             "sourceUrl": "https://play.podtrac.com/npr-381444908/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/fa/2020/11/20201119_fa_fapodthurs_1-f21967bd-4b3a-4ad4-96bd-bb34df6fd3bd.mp3?awCollectionId=381444908&awEpisodeId=936643487&orgId=1&d=2891&p=381444908&story=936643487&t=podcast&e=936643487&size=46153017&ft=pod&f=381444908",
-            "slug": "NPR%253AFresh%2520Air?episode=President%20Barack%20Obama"
+            "podcast": "npr-fresh-air",
+            "slug": "npr-fresh-air?episode=2020-11-19-president-barack-obama"
         },
         {
             "title": "The Extraordinary 'Chicago 7' Trial / 'Alex Rider' Author Anthony Horowitz",
@@ -131,7 +154,8 @@
             "description": "The Chicago 7 were anti-war activists who were charged with conspiracy to incite a riot at the 1968 Democratic National Convention. The trial is the subject of a new movie written and directed by Aaron Sorkin. We talk with author Jon Wiener about his book, 'Conspiracy in the Streets.'<br/><br/>Anthony Horowitz's novels about Alex Rider, a reluctant teen spy, have been adapted into a TV series for Amazon. Horowitz is also the author of 'Moonflower Murders,' a mystery for adults. He spoke with producer Sam Briger. ",
             "duration": "2898",
             "sourceUrl": "https://play.podtrac.com/npr-381444908/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/fa/2020/11/20201118_fa_fapodweds_1_adjusted-ca857921-277a-4757-bad5-87a3dfbab60a.mp3?awCollectionId=381444908&awEpisodeId=936261286&orgId=1&d=2898&p=381444908&story=936261286&t=podcast&e=936261286&size=46267692&ft=pod&f=381444908",
-            "slug": "NPR%253AFresh%2520Air?episode=The%20Extraordinary%20'Chicago%207'%20Trial%20%2F%20'Alex%20Rider'%20Author%20Anthony%20Horowitz"
+            "podcast": "npr-fresh-air",
+            "slug": "npr-fresh-air?episode=2020-11-18-the-extraordinary-chicago-7-trial-alex-rider-author-anthony-horowitz"
         },
         {
             "title": "The GOP Identity Crisis Post-Trump",
@@ -139,7 +163,8 @@
             "description": "Donald Trump was scorned by party leaders when he ran in the 2016 primaries. But after nearly four years in office, he's so popular among Republican voters that few Republican officials dare to cross him. We talk with 'New Yorker' staff writer Nicholas Lemann about what influence Trump might have on the party going forward once he leaves the White House, and how the GOP will deal with the changes Trump has made to the party's identity and ideology. <br/><br/>Also, Maureen Corrigan reviews 'The Book Collectors: A Band of Syrian Rebels and the Stories That Carried Them Through a War' by Delphine Minoui. ",
             "duration": "2881",
             "sourceUrl": "https://play.podtrac.com/npr-381444908/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/fa/2020/11/20201117_fa_fapodtues_adjusted-fe528dbe-b534-48cc-9246-a8e22190babf.mp3?awCollectionId=381444908&awEpisodeId=935795264&orgId=1&d=2881&p=381444908&story=935795264&t=podcast&e=935795264&size=45992889&ft=pod&f=381444908",
-            "slug": "NPR%253AFresh%2520Air?episode=The%20GOP%20Identity%20Crisis%20Post-Trump"
+            "podcast": "npr-fresh-air",
+            "slug": "npr-fresh-air?episode=2020-11-17-the-gop-identity-crisis-post-trump"
         },
         {
             "title": "Gillian Anderson On 'The Crown' & 'The X-Files'",
@@ -147,7 +172,8 @@
             "description": "Anderson talks about playing Margaret Thatcher in the new season of 'The Crown,' and then coaches Terry Gross on how to do the former prime minster's voice. We'll also talk about Anderson's role as a sex therapist in 'Sex Education,' and her ongoing fight for equal pay for her co-starring role in 'The X-Files.' <br/><br/>Also, Ken Tucker reviews the album 'The Otherside' from country singer-songwriter Cam.  ",
             "duration": "2848",
             "sourceUrl": "https://play.podtrac.com/npr-381444908/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/fa/2020/11/20201116_fa_fapodmon_adjusted-23305c5f-ef96-4e53-9bc5-d56b4a61215b.mp3?awCollectionId=381444908&awEpisodeId=935398297&orgId=1&d=2848&p=381444908&story=935398297&t=podcast&e=935398297&size=45478728&ft=pod&f=381444908",
-            "slug": "NPR%253AFresh%2520Air?episode=Gillian%20Anderson%20On%20'The%20Crown'%20%26%20'The%20X-Files'"
+            "podcast": "npr-fresh-air",
+            "slug": "npr-fresh-air?episode=2020-11-16-gillian-anderson-on-the-crown-the-x-files"
         },
         {
             "title": "Best Of: Megan Rapinoe / The Science Of Smell",
@@ -155,7 +181,8 @@
             "description": "USWNT soccer star Megan Rapinoe speaks with Terry Gross about her World Cup wins, the ongoing fight for pay equality in women's sports, and being an LGBTQ activist. Her new memoir about her life on and off the field is 'One Life.'<br/><br/>Book critic Maureen Corrigan reviews 'We Keep the Dead Close,' by Becky Cooper, a true crime story about the murder of a Harvard student in 1969 that went unsolved until two years ago.<br/><br/>Harold McGee is best-known for his books about food science. In his new book, 'Nose Dive,' he writes about why things smell the way they do — and the ways different chemicals combine to create surprising (and sometimes distasteful) odors. ",
             "duration": "3040",
             "sourceUrl": "https://play.podtrac.com/npr-381444908/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/fa/2020/11/20201114_fa_fawpod1114-0808aeab-f85c-4ecf-afff-f704a89c7181.mp3?awCollectionId=381444908&awEpisodeId=934541822&orgId=1&d=3040&p=381444908&story=934541822&t=podcast&e=934541822&size=48537508&ft=pod&f=381444908",
-            "slug": "NPR%253AFresh%2520Air?episode=Best%20Of%3A%20Megan%20Rapinoe%20%2F%20The%20Science%20Of%20Smell"
+            "podcast": "npr-fresh-air",
+            "slug": "npr-fresh-air?episode=2020-11-14-best-of-megan-rapinoe-the-science-of-smell"
         },
         {
             "title": "Jazz Pianist Keith Jarrett",
@@ -163,7 +190,8 @@
             "description": "Jarrett is one of the most celebrated pianists in jazz — a musician acclaimed for his emotionally intense and physically energetic improvised performances. He was a prodigy who started playing piano at the age of 3. Now he has a new album, 'Budapest,' which was recorded during his last European concert tour. Jarrett recently revealed he had two strokes in 2018 and now he's partially paralyzed and unable to perform. Critic Kevin Whitehead reviews the album and we listen back to our 2000 interview with Jarrett.<br/><br/>Also, Justin Chang reviews the new film 'Ammonite,' starring Kate Winslet and Saoirse Ronan. ",
             "duration": "2921",
             "sourceUrl": "https://play.podtrac.com/npr-381444908/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/fa/2020/11/20201113_fa_fapodfri1113-28919dff-7ca5-410f-b243-31855d1cfeb2.mp3?awCollectionId=381444908&awEpisodeId=934540003&orgId=1&d=2921&p=381444908&story=934540003&t=podcast&e=934540003&size=46641409&ft=pod&f=381444908",
-            "slug": "NPR%253AFresh%2520Air?episode=Jazz%20Pianist%20Keith%20Jarrett"
+            "podcast": "npr-fresh-air",
+            "slug": "npr-fresh-air?episode=2020-11-13-jazz-pianist-keith-jarrett"
         },
         {
             "title": "What Trump Might Do With His Remaining Weeks In Office",
@@ -171,7 +199,8 @@
             "description": "'Politico' journalist Garrett Graff says presidents typically reserve their most controversial decisions for their last weeks in office. In a new article, Graff lays out some of the norm-busting actions President Trump may take in the days remaining in his presidency. Trump is already blocking president-elect Biden's access to classified information — and some worry he might destroy White House records and begin issuing pardons. ",
             "duration": "2905",
             "sourceUrl": "https://play.podtrac.com/npr-381444908/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/fa/2020/11/20201112_fa_fapodthurs_adjusted-6a9fd5fd-8c84-42fe-b522-213c467ac36b.mp3?awCollectionId=381444908&awEpisodeId=934178537&orgId=1&d=2905&p=381444908&story=934178537&t=podcast&e=934178537&size=46376529&ft=pod&f=381444908",
-            "slug": "NPR%253AFresh%2520Air?episode=What%20Trump%20Might%20Do%20With%20His%20Remaining%20Weeks%20In%20Office"
+            "podcast": "npr-fresh-air",
+            "slug": "npr-fresh-air?episode=2020-11-12-what-trump-might-do-with-his-remaining-weeks-in-office"
         },
         {
             "title": "A 'Nose Dive' Into The Science Of Smell",
@@ -179,7 +208,8 @@
             "description": "Harold McGee is best-known for his books about food science. In his new book, 'Nose Dive,' he writes about why things smell the way they do — and the ways different chemicals combine to create surprising (and sometimes distasteful) odors. We talk about stinky cheese, cat pee, mask breath and why cooking releases smells. <br/><br/>Also, John Powers reviews season 4 of 'The Crown,' in which Princess Diana is introduced. ",
             "duration": "2881",
             "sourceUrl": "https://play.podtrac.com/npr-381444908/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/fa/2020/11/20201111_fa_fapodweds-0160d0e7-91b3-4dd9-8845-5557484e33b0.mp3?awCollectionId=381444908&awEpisodeId=933847587&orgId=1&d=2881&p=381444908&story=933847587&t=podcast&e=933847587&size=46004063&ft=pod&f=381444908",
-            "slug": "NPR%253AFresh%2520Air?episode=A%20'Nose%20Dive'%20Into%20The%20Science%20Of%20Smell"
+            "podcast": "npr-fresh-air",
+            "slug": "npr-fresh-air?episode=2020-11-11-a-nose-dive-into-the-science-of-smell"
         },
         {
             "title": "Embracing Life With A Heart Condition",
@@ -187,7 +217,8 @@
             "description": "Writer Katherine Standefer tells us about long QT syndrome — and the implanted cardiac defibrillator that helps regulate her heart. In her new memoir, 'Lightning Flowers,' she writes about how the device changed her life, and about trying to get medical care with little income 11 years ago — just as Congress was trying to establish the Affordable Care Act. \"One of the greatest gifts is to feel alive while you are alive,\" Standefer says.<br/><br/>Jazz critic Kevin Whitehead reviews the new album from Susan Alcorn, a pedal steel guitarist who played in country and western bar bands. And book critic Maureen Corrigan reviews 'We Keep the Dead Close' by Becky Cooper, a true crime story about the murder of a Harvard student in 1969 that went unsolved until two years ago. ",
             "duration": "2923",
             "sourceUrl": "https://play.podtrac.com/npr-381444908/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/fa/2020/11/20201110_fa_fapodtues-4d633779-2d7f-4783-a22d-d9e096cf36a6.mp3?awCollectionId=381444908&awEpisodeId=933459943&orgId=1&d=2923&p=381444908&story=933459943&t=podcast&e=933459943&size=46674599&ft=pod&f=381444908",
-            "slug": "NPR%253AFresh%2520Air?episode=Embracing%20Life%20With%20A%20Heart%20Condition"
+            "podcast": "npr-fresh-air",
+            "slug": "npr-fresh-air?episode=2020-11-10-embracing-life-with-a-heart-condition"
         },
         {
             "title": "Megan Rapinoe / Remembering Alex Trebek",
@@ -195,7 +226,8 @@
             "description": "The USWNT soccer star and activist spoke with Terry Gross about her World Cup wins, the ongoing fight for pay equality in women's sports, and taking a knee in solidarity with Black Lives Matter. Her new memoir about her life on and off the field is 'One Life.' <br/><br/>Also, we remember longtime 'Jeopardy!' host Alex Trebek. He died Nov. 8. ",
             "duration": "2927",
             "sourceUrl": "https://play.podtrac.com/npr-381444908/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/fa/2020/11/20201109_fa_fapodnib_adjusted-6a35801b-1fc5-4b33-8dc1-9b9caef6f4a0.mp3?awCollectionId=381444908&awEpisodeId=933084679&orgId=1&d=2927&p=381444908&story=933084679&t=podcast&e=933084679&size=46737566&ft=pod&f=381444908",
-            "slug": "NPR%253AFresh%2520Air?episode=Megan%20Rapinoe%20%2F%20Remembering%20Alex%20Trebek"
+            "podcast": "npr-fresh-air",
+            "slug": "npr-fresh-air?episode=2020-11-09-megan-rapinoe-remembering-alex-trebek"
         },
         {
             "title": "Best Of: Writer Jerald Walker / The Enduring Impact Of COVID-19",
@@ -203,7 +235,8 @@
             "description": "Author Jerald Walker talks about growing up on Chicago's South Side, raising his two sons in a predominantly white suburb and preventing his essays from turning into clichés about the Black experience. His new collection of essays is 'How to Make a Slave.' The title is a reference to Frederick Douglass' line, \"You've seen how a man was made a slave; you shall see how a slave was made a man.\"<br/><br/>Also, jazz critic Kevin Whitehead reviews a new album by cornet player Ron Miles.<br/><br/>Nicholas Christakis is a doctor and a sociologist who has studied the science of infectious diseases and how plagues of the past have altered societies. \"Everywhere you see the spread of germs, for the last few thousand years, you see right behind it the spread of lies,\" he says. \"Denial and lies ... [are] almost an intrinsic part of an epidemic.\" Christakis' book is 'Apollo's Arrow: The Profound and Enduring Impact of Coronavirus on the Way We Live.' ",
             "duration": "3049",
             "sourceUrl": "https://play.podtrac.com/npr-381444908/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/fa/2020/11/20201107_fa_fawpod1107-b3d51943-8ed2-41ec-96cf-f595cc189865.mp3?awCollectionId=381444908&awEpisodeId=932076402&orgId=1&d=3049&p=381444908&story=932076402&t=podcast&e=932076402&size=48685458&ft=pod&f=381444908",
-            "slug": "NPR%253AFresh%2520Air?episode=Best%20Of%3A%20Writer%20Jerald%20Walker%20%2F%20The%20Enduring%20Impact%20Of%20COVID-19"
+            "podcast": "npr-fresh-air",
+            "slug": "npr-fresh-air?episode=2020-11-07-best-of-writer-jerald-walker-the-enduring-impact-of-covid-19"
         },
         {
             "title": "Jazz Singer Cécile McLorin Salvant ",
@@ -211,7 +244,8 @@
             "description": "McLorin Salvant's repertoire includes jazz standards and forgotten early songs, show tunes, and originals. ​She'​s one of this year's MacArthur fellows​. We'll also listen back to our 2001 interview with dancer and choreographer Marge Champion, who died Oct. 21.  ",
             "duration": "2957",
             "sourceUrl": "https://play.podtrac.com/npr-381444908/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/fa/2020/11/20201106_fa_fapodfri1106-b2c8cf77-6a43-47bc-b4bb-f4872411df2a.mp3?awCollectionId=381444908&awEpisodeId=932074685&orgId=1&d=2957&p=381444908&story=932074685&t=podcast&e=932074685&size=47217618&ft=pod&f=381444908",
-            "slug": "NPR%253AFresh%2520Air?episode=Jazz%20Singer%20C%C3%A9cile%20McLorin%20Salvant%20"
+            "podcast": "npr-fresh-air",
+            "slug": "npr-fresh-air?episode=2020-11-06-jazz-singer-cecile-mclorin-salvant"
         },
         {
             "title": "Reconstructing The Presidency 'After Trump'",
@@ -219,7 +253,8 @@
             "description": "Jack Goldsmith, former legal counsel to George W. Bush's White House, says no matter when Trump leaves office, his successor will face tough questions about how to reconstruct the battered presidency. In his book, 'After Trump,' Goldsmith and his co-author Bob Bauer write that Trump has exposed the presidency's vulnerability to excesses of authority and weaknesses in accountability. The book details the norms Trump has violated, and recommends reforms that would hold future presidents more accountable. (Note: This interview was recorded the morning of Nov. 5) ",
             "duration": "2897",
             "sourceUrl": "https://play.podtrac.com/npr-381444908/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/fa/2020/11/20201105_fa_fapodthurs_adjusted-b131ac29-2b89-402f-b9c8-4f77ddfc5ee7.mp3?awCollectionId=381444908&awEpisodeId=930381440&orgId=1&d=2897&p=381444908&story=930381440&t=podcast&e=930381440&size=46261020&ft=pod&f=381444908",
-            "slug": "NPR%253AFresh%2520Air?episode=Reconstructing%20The%20Presidency%20'After%20Trump'"
+            "podcast": "npr-fresh-air",
+            "slug": "npr-fresh-air?episode=2020-11-05-reconstructing-the-presidency-after-trump"
         },
         {
             "title": "How The 2020 Election Is A 'Stress Test' Of American Democracy",
@@ -227,7 +262,8 @@
             "description": "'Atlantic' writer Barton Gellman returns to discuss what this election has revealed about our system's strengths and weaknesses, and what he's learned about the legal strategies the Trump and Biden campaigns are considering if the election is contested. Trump claimed victory on Election Night, and said he'd petition the Supreme Court to halt the vote counting. Gellman's latest articles are titled \"The Election That Could Break America,\" and \"How Trump Could Attempt a Coup.\" (Note: This interview was recorded on the morning of Nov. 4) ",
             "duration": "2925",
             "sourceUrl": "https://play.podtrac.com/npr-381444908/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/fa/2020/11/20201104_fa_fapodweds-c23bf531-56ee-42d2-bafd-f5addab00263.mp3?awCollectionId=381444908&awEpisodeId=930381314&orgId=1&d=2925&p=381444908&story=930381314&t=podcast&e=930381314&size=46702174&ft=pod&f=381444908",
-            "slug": "NPR%253AFresh%2520Air?episode=How%20The%202020%20Election%20Is%20A%20'Stress%20Test'%20Of%20American%20Democracy"
+            "podcast": "npr-fresh-air",
+            "slug": "npr-fresh-air?episode=2020-11-04-how-the-2020-election-is-a-stress-test-of-american-democracy"
         },
         {
             "title": "Writer Jerald Walker On 'How To Make A Slave'",
@@ -235,7 +271,8 @@
             "description": "Walker talks about growing up on Chicago's South Side, raising his two sons in a predominantly white suburb and preventing his essays from turning into clichés about the Black experience. His new collection of essays is 'How to Make a Slave.' The title is a reference to Frederick Douglass' line, \"You've seen how a man was made a slave; you shall see how a slave was made a man.\" ",
             "duration": "2882",
             "sourceUrl": "https://play.podtrac.com/npr-381444908/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/fa/2020/11/20201103_fa_fapodtues_adjusted-decadcdc-47d0-4d9c-8ade-d5cabbfe3ade.mp3?awCollectionId=381444908&awEpisodeId=930381157&orgId=1&d=2882&p=381444908&story=930381157&t=podcast&e=930381157&size=46009537&ft=pod&f=381444908",
-            "slug": "NPR%253AFresh%2520Air?episode=Writer%20Jerald%20Walker%20On%20'How%20To%20Make%20A%20Slave'"
+            "podcast": "npr-fresh-air",
+            "slug": "npr-fresh-air?episode=2020-11-03-writer-jerald-walker-on-how-to-make-a-slave"
         },
         {
             "title": "Aaron Sorkin On 'The Trial Of The Chicago 7'",
@@ -243,7 +280,8 @@
             "description": "In 1968, several prominent anti-war activists were accused of conspiring to start a riot at the Democratic National Convention in Chicago. Aaron Sorkin, writer of 'The West Wing,' and 'The Social Network,' has a new film that follows the trial of the so-called Chicago Seven. He spoke with new 'Fresh Air' contributor Sam Sanders about parallels between the summer of '68 and 2020, and if the past year has changed his idealistic style of writing. <br/><br/>Also, Ken Tucker reviews three new songs by Stevie Wonder, The Pretenders and Bruce Springsteen.",
             "duration": "2897",
             "sourceUrl": "https://play.podtrac.com/npr-381444908/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/fa/2020/11/20201102_fa_fapodmon_adjusted-6a00b3c4-abde-4acb-a8d9-36ae4d108260.mp3?awCollectionId=381444908&awEpisodeId=930380786&orgId=1&d=2897&p=381444908&story=930380786&t=podcast&e=930380786&size=46253450&ft=pod&f=381444908",
-            "slug": "NPR%253AFresh%2520Air?episode=Aaron%20Sorkin%20On%20'The%20Trial%20Of%20The%20Chicago%207'"
+            "podcast": "npr-fresh-air",
+            "slug": "npr-fresh-air?episode=2020-11-02-aaron-sorkin-on-the-trial-of-the-chicago-7"
         },
         {
             "title": "Best Of: Inside A Pro-Trump Militia / Chef Marcus Samuelsson",
@@ -251,7 +289,8 @@
             "description": "'Atlantic' writer Mike Giglio profiles the Oath Keepers, a pro-Trump militia group, in a new article. They have recruited thousands of police, soldiers and veterans. We talk about what they might do on Election Day and after. <br/><br/>Ken Tucker reviews three songs by The Pretenders, Bruce Springsteen, and Stevie Wonder.<br/><br/>Harlem chef Marcus Samuelsson talks about his new book, 'The Rise.' It's a celebration of Black excellence in the culinary world — and the many Black cooks who have influenced American food, often without credit.",
             "duration": "3027",
             "sourceUrl": "https://play.podtrac.com/npr-381444908/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/fa/2020/10/20201031_fa_fawpod1031-162e456a-1e84-494a-a460-d392f9727244.mp3?awCollectionId=381444908&awEpisodeId=927797963&orgId=1&d=3027&p=381444908&story=927797963&t=podcast&e=927797963&size=48331510&ft=pod&f=381444908",
-            "slug": "NPR%253AFresh%2520Air?episode=Best%20Of%3A%20Inside%20A%20Pro-Trump%20Militia%20%2F%20Chef%20Marcus%20Samuelsson"
+            "podcast": "npr-fresh-air",
+            "slug": "npr-fresh-air?episode=2020-10-31-best-of-inside-a-pro-trump-militia-chef-marcus-samuelsson"
         },
         {
             "title": "Remembering Country Songwriter Billy Joe Shaver",
@@ -259,7 +298,8 @@
             "description": "We remember the songwriter that Johnny Cash described as his favorite writer: Billy Joe Shaver. His songs have been performed by Cash, Kris Kristofferson, Waylon Jennings, Willie Nelson, Bob Dylan and Elvis Presley. Shaver first became known as the songwriter for the country music outlaws of the '70s. He died this week at the age of 81. We'll listen back to two of his interviews with Terry Gross.<br/><br/>Justin Chang reviews 'City Hall,' a riveting documentary about local government by filmmaker Frederick Wiseman. ",
             "duration": "2946",
             "sourceUrl": "https://play.podtrac.com/npr-381444908/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/fa/2020/10/20201030_fa_fapodfri1030-0a973da7-9219-42be-8196-79230889f123-b0695633-eb39-48d2-8fb9-7ef5727a197a.mp3?awCollectionId=381444908&awEpisodeId=927796963&orgId=1&d=2946&p=381444908&story=927796963&t=podcast&e=927796963&size=47042980&ft=pod&f=381444908",
-            "slug": "NPR%253AFresh%2520Air?episode=Remembering%20Country%20Songwriter%20Billy%20Joe%20Shaver"
+            "podcast": "npr-fresh-air",
+            "slug": "npr-fresh-air?episode=2020-10-30-remembering-country-songwriter-billy-joe-shaver"
         },
         {
             "title": "The Enduring Impact Of COVID-19",
@@ -267,7 +307,8 @@
             "description": "Nicholas Christakis is a doctor and a sociologist who has studied the science of infectious diseases and how plagues of the past have altered societies. \"Everywhere you see the spread of germs, for the last few thousand years, you see right behind it the spread of lies,\" he says. \"Denial and lies ... [are] almost an intrinsic part of an epidemic.\" Christakis's book is 'Apollo's Arrow: The Profound and Enduring Impact of Coronavirus on the Way We Live.'<br/><br/>Also, Maureen Corrigan reviews Jess Walter's new novel 'The Cold Millions.' ",
             "duration": "2859",
             "sourceUrl": "https://play.podtrac.com/npr-381444908/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/fa/2020/10/20201029_fa_fapodthurs_adjusted-590d2a35-61f6-45dd-a769-cb7391f59869-6a5f99ef-edf9-4bd6-8b28-0f84c3adaa05.mp3?awCollectionId=381444908&awEpisodeId=927796954&orgId=1&d=2859&p=381444908&story=927796954&t=podcast&e=927796954&size=45649783&ft=pod&f=381444908",
-            "slug": "NPR%253AFresh%2520Air?episode=The%20Enduring%20Impact%20Of%20COVID-19"
+            "podcast": "npr-fresh-air",
+            "slug": "npr-fresh-air?episode=2020-10-29-the-enduring-impact-of-covid-19"
         },
         {
             "title": "Pro-Trump Militias: Election Day & Beyond ",
@@ -275,7 +316,8 @@
             "description": "'Atlantic' writer Mike Giglio profiles the Oath Keepers, a pro-Trump militia group, in a new article. They have recruited thousands of police, soldiers and veterans. We talk about what they might do on Election Day and after. \"We, as Americans, are so comfortable with the idea of sending people out into foreign wars. And now [these militia groups are] starting to look at America itself as a part of that battle space.\" Giglio also shares insights from covering civil wars overseas. ",
             "duration": "2881",
             "sourceUrl": "https://play.podtrac.com/npr-381444908/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/fa/2020/10/20201028_fa_fapodweds_adjusted-a78690bb-9fe4-4356-97a3-120ffe7085b4-09155b4b-31c3-4f9f-84d9-21380979b6e8.mp3?awCollectionId=381444908&awEpisodeId=927796915&orgId=1&d=2881&p=381444908&story=927796915&t=podcast&e=927796915&size=46006735&ft=pod&f=381444908",
-            "slug": "NPR%253AFresh%2520Air?episode=Pro-Trump%20Militias%3A%20Election%20Day%20%26%20Beyond%20"
+            "podcast": "npr-fresh-air",
+            "slug": "npr-fresh-air?episode=2020-10-28-pro-trump-militias-election-day-beyond"
         },
         {
             "title": "The Personal Scars & Political Mistakes That Shaped Joe Biden",
@@ -283,7 +325,8 @@
             "description": "We talk with journalist Evan Osnos about the former vice president's long career in the Senate, how personal tragedy changed him, and some of the political missteps he made along the way. Osnos' new biography is 'Joe Biden: The Life, the Run, and What Matters Now.'",
             "duration": "2920",
             "sourceUrl": "https://play.podtrac.com/npr-381444908/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/fa/2020/10/20201027_fa_fapodtuesd_adjusted-15ed575c-3d33-46c4-8444-6153f8299ed7-fd355a59-8854-412e-bf1c-5892c79a4849.mp3?awCollectionId=381444908&awEpisodeId=927796909&orgId=1&d=2920&p=381444908&story=927796909&t=podcast&e=927796909&size=46623061&ft=pod&f=381444908",
-            "slug": "NPR%253AFresh%2520Air?episode=The%20Personal%20Scars%20%26%20Political%20Mistakes%20That%20Shaped%20Joe%20Biden"
+            "podcast": "npr-fresh-air",
+            "slug": "npr-fresh-air?episode=2020-10-27-the-personal-scars-political-mistakes-that-shaped-joe-biden"
         },
         {
             "title": "Chef Marcus Samuelsson Writes Black People Into U.S. Food History",
@@ -291,7 +334,8 @@
             "description": "Samuelsson's new book, 'The Rise,' is a celebration of Black excellence in the culinary world — and the many Black cooks who have influenced American food, often without credit. He also talks about converting his Harlem restaurant Red Rooster into a community kitchen during the pandemic, and his roots in both Ethiopia and Sweden. <br/><br/>Also, film critic Justin Chang reviews 'The Witches,' an adaptation of Roald Dahl's classic children's book. ",
             "duration": "2940",
             "sourceUrl": "https://play.podtrac.com/npr-381444908/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/fa/2020/10/20201026_fa_fapodmon_adjusted-c7cf5a72-76c2-4a98-b406-aa7908638f75-49aa2e91-559c-4614-95ad-9aefc82d79f6.mp3?awCollectionId=381444908&awEpisodeId=927796886&orgId=1&d=2940&p=381444908&story=927796886&t=podcast&e=927796886&size=46947487&ft=pod&f=381444908",
-            "slug": "NPR%253AFresh%2520Air?episode=Chef%20Marcus%20Samuelsson%20Writes%20Black%20People%20Into%20U.S.%20Food%20History"
+            "podcast": "npr-fresh-air",
+            "slug": "npr-fresh-air?episode=2020-10-26-chef-marcus-samuelsson-writes-black-people-into-us-food-history"
         },
         {
             "title": "Father Of The Psychedelic Movement, Timothy Leary",
@@ -299,7 +343,8 @@
             "description": "Psychologist Timothy Leary, who died in 1996, was the father of the psychedelic movement of the 1960s and its experiments with mind-altering drugs. In 1960, Leary joined the faculty of Harvard at the Center for Personality Research, where he analyzed the effects of psychedelics and personality. As part of his research, he introduced L.S.D. and other psychedelic drugs to many, and also used them himself. Leary was eventually asked to leave the university, and later served time in jail on drug charges. We listen back to Terry Gross' 1983 interview with Leary as well as our 1990 interview with spiritual leader Ram Dass, who joined Leary in some of his psychedelic experiments. And we'll hear from journalist Michael Pollan whose 2018 book 'How to Change Your Mind' explored the therapeutic benefits of psychedelics. <br/><br/>Also, TV critic David Bianculli reviews HBO's 'The Undoing,' starring Hugh Grant and Nicole Kidman. ",
             "duration": "2923",
             "sourceUrl": "https://play.podtrac.com/npr-381444908/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/fa/2020/10/20201023_fa_fafri1023pod-d61ec67c-8eb6-40af-8db0-ee713d9bd19b-cedbb918-97ab-4527-bb56-b11e73490fa7.mp3?awCollectionId=381444908&awEpisodeId=926181349&orgId=1&d=2923&p=381444908&story=926181349&t=podcast&e=926181349&size=46664761&ft=pod&f=381444908",
-            "slug": "NPR%253AFresh%2520Air?episode=Father%20Of%20The%20Psychedelic%20Movement%2C%20Timothy%20Leary"
+            "podcast": "npr-fresh-air",
+            "slug": "npr-fresh-air?episode=2020-10-23-father-of-the-psychedelic-movement-timothy-leary"
         },
         {
             "title": "Best Of: Novelist Rumaan Alam / 'My Octopus Teacher' Filmmaker",
@@ -307,7 +352,8 @@
             "description": "Rumaan Alam's novel, 'Leave the World Behind,' centers on two families — one Black and one white — who are sharing a vacation home during a mysterious disaster. It explores issues of race and class, fear, and how we respond to crisis.<br/><br/>Ken Tucker reviews a new deluxe edition of Prince's masterpiece 'Sign O' The Times.' <br/><br/>Craig Foster spent a year diving — without oxygen or a wetsuit — into the frigid sea near Cape Town, South Africa. One octopus began coming out of her den to hunt or explore while Foster watched. He documents their unlikely friendship in 'My Octopus Teacher,' now on Netflix.",
             "duration": "3021",
             "sourceUrl": "https://play.podtrac.com/npr-381444908/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/fa/2020/10/20201024_fa_fawpod1024-45ba0c8d-5144-4ff8-a6e6-65c96ca7b165-5f27216a-6a09-42b0-8e3f-442bee828996.mp3?awCollectionId=381444908&awEpisodeId=926183213&orgId=1&d=3021&p=381444908&story=926183213&t=podcast&e=926183213&size=48227677&ft=pod&f=381444908",
-            "slug": "NPR%253AFresh%2520Air?episode=Best%20Of%3A%20Novelist%20Rumaan%20Alam%20%2F%20'My%20Octopus%20Teacher'%20Filmmaker"
+            "podcast": "npr-fresh-air",
+            "slug": "npr-fresh-air?episode=2020-10-23-best-of-novelist-rumaan-alam-my-octopus-teacher-filmmaker"
         },
         {
             "title": "SCOTUS Correspondent Nina Totenberg",
@@ -315,7 +361,8 @@
             "description": "Nina Totenberg is widely regarded as the dean of legal journalists. She started covering the Supreme court in 1971 and became NPR's legal correspondent in 1975. We talk about breaking the Anita Hill story, her friendship with the late Justice Ruth Bader Ginsburg, and her early career as a pioneer for women in journalism. This conversation was recorded from a live Zoom event for WHYY.",
             "duration": "2889",
             "sourceUrl": "https://play.podtrac.com/npr-381444908/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/fa/2020/10/20201022_fa_fapodthurs-dc7477f2-ef6b-4c4d-a3d2-6f1465054487-b4140903-a5a7-408b-82cf-257bd7683570.mp3?awCollectionId=381444908&awEpisodeId=926173837&orgId=1&d=2889&p=381444908&story=926173837&t=podcast&e=926173837&size=46132252&ft=pod&f=381444908",
-            "slug": "NPR%253AFresh%2520Air?episode=SCOTUS%20Correspondent%20Nina%20Totenberg"
+            "podcast": "npr-fresh-air",
+            "slug": "npr-fresh-air?episode=2020-10-22-scotus-correspondent-nina-totenberg"
         },
         {
             "title": "Novelist Sigrid Nunez",
@@ -323,7 +370,8 @@
             "description": "Nunez's new novel, 'What Are You Going Through,' is about facing mortality and the relationship between a writer dying of cancer and the friend she asks to stay with her. <br/><br/>Lloyd Schwartz reviews a collection of performances by Leontyne Price, the first Black soprano to have a major career at the Metropolitan Opera. And John Powers reviews the Netflix miniseries 'The Queen's Gambit.' ",
             "duration": "2871",
             "sourceUrl": "https://play.podtrac.com/npr-381444908/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/fa/2020/10/20201021_fa_fapodweds_adjusted-96227064-31f4-4115-82f3-6ebb67114b20-f9678aef-76cf-4018-9d3b-96455ed869b1.mp3?awCollectionId=381444908&awEpisodeId=926173488&orgId=1&d=2871&p=381444908&story=926173488&t=podcast&e=926173488&size=45843688&ft=pod&f=381444908",
-            "slug": "NPR%253AFresh%2520Air?episode=Novelist%20Sigrid%20Nunez"
+            "podcast": "npr-fresh-air",
+            "slug": "npr-fresh-air?episode=2020-10-21-novelist-sigrid-nunez"
         },
         {
             "title": "Free Speech In The Age Of Disinformation",
@@ -331,7 +379,8 @@
             "description": "'New York Times Magazine' writer Emily Bazelon talks about how the lies and conspiracy theories sweeping through American media are leading some scholars to question our faith in free speech and in minimal government regulation of speech. Bazelon says false content moves through the Internet unchecked — undermining the political process along the way.<br/><br/>Also, jazz critic Kevin Whitehead reviews 'El Duelo.'",
             "duration": "2904",
             "sourceUrl": "https://play.podtrac.com/npr-381444908/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/fa/2020/10/20201020_fa_fapodtues_adjusted-cba8dbcf-bcb5-4b3c-a7dc-070a1372d212-894af652-6df4-42ec-b873-a86c3382e8ff.mp3?awCollectionId=381444908&awEpisodeId=925869066&orgId=1&d=2904&p=381444908&story=925869066&t=podcast&e=925869066&size=46363270&ft=pod&f=381444908",
-            "slug": "NPR%253AFresh%2520Air?episode=Free%20Speech%20In%20The%20Age%20Of%20Disinformation"
+            "podcast": "npr-fresh-air",
+            "slug": "npr-fresh-air?episode=2020-10-20-free-speech-in-the-age-of-disinformation"
         },
         {
             "title": "John Brown, Abraham Lincoln & The Fight To End Slavery",
@@ -339,7 +388,8 @@
             "description": "Historian H.W. Brands' new book, 'The Zealot and the Emancipator' looks at two very different 19th century leaders, John Brown and Abraham Lincoln. Brown was a militant abolitionist who embraced violence and was hanged after he tried to spark an insurrection at Harpers Ferry, Virginia. President Lincoln resisted conflict as long as possible, hoping laws and reason would keep Southern states in the Union, and eventually bring an end to human bondage. <br/><br/>Also, film critic Justin Chang reviews 'Martin Eden,' an adaptation of the Jack London novel. ",
             "duration": "2912",
             "sourceUrl": "https://play.podtrac.com/npr-381444908/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/fa/2020/10/20201019_fa_fapodmon-299ec670-cc3d-43be-8081-c085c7e9b7b6-e52c7a38-083b-4e0f-8cef-094db8295902.mp3?awCollectionId=381444908&awEpisodeId=925379303&orgId=1&d=2912&p=381444908&story=925379303&t=podcast&e=925379303&size=46486285&ft=pod&f=381444908",
-            "slug": "NPR%253AFresh%2520Air?episode=John%20Brown%2C%20Abraham%20Lincoln%20%26%20The%20Fight%20To%20End%20Slavery"
+            "podcast": "npr-fresh-air",
+            "slug": "npr-fresh-air?episode=2020-10-19-john-brown-abraham-lincoln-the-fight-to-end-slavery"
         },
         {
             "title": "Best Of: Broadway Stars Danny Burstein & Rebecca Luker / 'Nice White Parents' Creator",
@@ -347,7 +397,8 @@
             "description": "Married Broadway stars Danny Burstein and Rebecca Luker both contracted COVID in the spring, just as theaters went dark. Burstein was starring in 'Moulin Rouge' at the time. Burstein's case was severe and he nearly died. Luker's case was mild, but it came soon after she had been diagnosed with ALS. They talk with Terry Gross about how their illnesses have changed their lives and careers, and their hopes for the future.<br/><br/>Also, John Powers reviews 'David Byrne's American Utopia' on HBO, directed by Spike Lee.<br/><br/>'This American Life' producer Chana Joffe-Walt says progressive white parents may say they want their kids to go to diverse schools — but the reality tells a different story. \"I think white parents are pretty savvy at evading the explicit conversation around race, although it's clearly shaping our thoughts about schools.\" She examines the complicated history of gentrification in a Brooklyn school in her new podcast, 'Nice White Parents.' It's a production of 'Serial' and 'The New York Times.'",
             "duration": "3041",
             "sourceUrl": "https://play.podtrac.com/npr-381444908/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/fa/2020/10/20201017_fa_fawpod1017-398805cd-cf5b-4028-b560-817fa487c5a9-b3bb29cc-003a-4d20-b587-8dc1268f0c68.mp3?awCollectionId=381444908&awEpisodeId=924456450&orgId=1&d=3041&p=381444908&story=924456450&t=podcast&e=924456450&size=48558358&ft=pod&f=381444908",
-            "slug": "NPR%253AFresh%2520Air?episode=Best%20Of%3A%20Broadway%20Stars%20Danny%20Burstein%20%26%20Rebecca%20Luker%20%2F%20'Nice%20White%20Parents'%20Creator"
+            "podcast": "npr-fresh-air",
+            "slug": "npr-fresh-air?episode=2020-10-17-best-of-broadway-stars-danny-burstein-rebecca-luker-nice-white-parents-creator"
         },
         {
             "title": "How Women Have Been Left Out Of The Constitution / Remembering MLB's Joe Morgan",
@@ -355,7 +406,8 @@
             "description": "As a teen, Heidi Schreck debated the Constitution in competitions. Later she realized it had failed to protect four generations of women in her family. \"I believed it was perfect. I believed it was a tool of justice. I did not realize as a 15-year-old girl how profoundly I had been left out of it. I didn't realize that it didn't protect me,\" Schreck says. Her award-winning Broadway play, 'What the Constitution Means to Me,' is now streaming on Amazon. <br/><br/>Also, we remember Joe Morgan, one of the few second-basemen to make it into baseball's Hall of Fame. He died Oct. 11 at the age of 77. He spoke with Terry Gross in 1993. ",
             "duration": "2958",
             "sourceUrl": "https://play.podtrac.com/npr-381444908/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/fa/2020/10/20201016_fa_fapodfri1016-bf2593c3-bf86-4c4d-a50e-40ae06d5b1e2-4545e1a6-e296-4e26-a969-976849fefa13.mp3?awCollectionId=381444908&awEpisodeId=924456271&orgId=1&d=2958&p=381444908&story=924456271&t=podcast&e=924456271&size=47225626&ft=pod&f=381444908",
-            "slug": "NPR%253AFresh%2520Air?episode=How%20Women%20Have%20Been%20Left%20Out%20Of%20The%20Constitution%20%2F%20Remembering%20MLB's%20Joe%20Morgan"
+            "podcast": "npr-fresh-air",
+            "slug": "npr-fresh-air?episode=2020-10-16-how-women-have-been-left-out-of-the-constitution-remembering-mlbs-joe-morgan"
         },
         {
             "title": "'My Octopus Teacher' Filmmaker",
@@ -363,7 +415,8 @@
             "description": "Craig Foster spent a year diving — without oxygen or a wetsuit — into the frigid sea near Cape Town, South Africa. One octopus began coming out of her den to hunt or explore while Foster watched. He documents their unlikely friendship in 'My Octopus Teacher,' now on Netflix. <br/><br/>Also, TV critic David Bianculli reviews  the Netflix film, 'The Trial of the Chicago 7,' written by Aaron Sorkin.",
             "duration": "2889",
             "sourceUrl": "https://play.podtrac.com/npr-381444908/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/fa/2020/10/20201015_fa_fapodthurs-f2217e3c-1e74-4844-8b89-5833fdd2f57a-e0da1afb-49be-4fca-9704-f68f45c44ef0.mp3?awCollectionId=381444908&awEpisodeId=924011974&orgId=1&d=2889&p=381444908&story=924011974&t=podcast&e=924011974&size=46132252&ft=pod&f=381444908",
-            "slug": "NPR%253AFresh%2520Air?episode='My%20Octopus%20Teacher'%20Filmmaker"
+            "podcast": "npr-fresh-air",
+            "slug": "npr-fresh-air?episode=2020-10-15-my-octopus-teacher-filmmaker"
         },
         {
             "title": "2 Broadway Stars Grapple With Illness And Uncertainty",
@@ -371,7 +424,8 @@
             "description": "Married Broadway stars Danny Burstein and Rebecca Luker both contracted COVID in the spring, just as theaters went dark. Burstein was starring in 'Moulin Rouge' at the time. Burstein's case was severe and he nearly died. Luker's case was mild, but it came soon after she had been diagnosed with ALS. They talk with Terry Gross about how their illnesses have changed their lives and careers, and their hopes for the future.",
             "duration": "2941",
             "sourceUrl": "https://play.podtrac.com/npr-381444908/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/fa/2020/10/20201014_fa_fapodweds_adjusted-4b68c321-ecd0-4d8f-84f7-79d28c558734-a5f8ce67-0b35-478e-bd16-6998441f7f5d.mp3?awCollectionId=381444908&awEpisodeId=923655388&orgId=1&d=2941&p=381444908&story=923655388&t=podcast&e=923655388&size=46952074&ft=pod&f=381444908",
-            "slug": "NPR%253AFresh%2520Air?episode=2%20Broadway%20Stars%20Grapple%20With%20Illness%20And%20Uncertainty"
+            "podcast": "npr-fresh-air",
+            "slug": "npr-fresh-air?episode=2020-10-14-2-broadway-stars-grapple-with-illness-and-uncertainty"
         },
         {
             "title": "Lessons For A Post-Pandemic World",
@@ -379,7 +433,8 @@
             "description": "CNN host and 'Washington Post' columnist Fareed Zakaria says COVID-19 presents a chance to make positive changes: \"We could well look back on these times 10 or 20 years from now and say, 'This was the turning point.'\" His new book, 'Ten Lessons for a Post-Pandemic World' examines the way COVID-19 will change everything from our trust in government to our relationship with technology. <br/><br/>Also, John Powers reviews 'David Byrne's American Utopia' on HBO, directed by Spike Lee. ",
             "duration": "2941",
             "sourceUrl": "https://play.podtrac.com/npr-381444908/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/fa/2020/10/20201013_fa_fapodtues_adjusted-5501f053-1cbe-4fc7-bd80-04adb0460380-271f6cb7-93ff-4ad6-80c4-0e0373bb5a94.mp3?awCollectionId=381444908&awEpisodeId=923269858&orgId=1&d=2941&p=381444908&story=923269858&t=podcast&e=923269858&size=46958746&ft=pod&f=381444908",
-            "slug": "NPR%253AFresh%2520Air?episode=Lessons%20For%20A%20Post-Pandemic%20World"
+            "podcast": "npr-fresh-air",
+            "slug": "npr-fresh-air?episode=2020-10-13-lessons-for-a-post-pandemic-world"
         },
         {
             "title": "How 'Nice White Parents' Can Undermine School Integration",
@@ -387,7 +442,8 @@
             "description": "'This American Life' producer Chana Joffe-Walt says progressive white parents may say they want their kids to go to diverse schools — but the reality tells a different story. \"I think white parents are pretty savvy at evading the explicit conversation around race, although it's clearly shaping our thoughts about schools.\" She examines the complicated history of gentrification in a Brooklyn school in her new podcast, 'Nice White Parents.' It's a production of 'Serial' and 'The New York Times.' <br/> <br/>Also, Ken Tucker reviews the album 'Private Lives' from Philly band Low Cut Connie.",
             "duration": "2896",
             "sourceUrl": "https://play.podtrac.com/npr-381444908/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/fa/2020/10/20201012_fa_fapodmon_adjusted-b08fb8da-9e16-4669-913a-c848e5005ca9-50945163-2a65-4b6a-946b-1641c44c878a.mp3?awCollectionId=381444908&awEpisodeId=923027134&orgId=1&d=2896&p=381444908&story=923027134&t=podcast&e=923027134&size=46234834&ft=pod&f=381444908",
-            "slug": "NPR%253AFresh%2520Air?episode=How%20'Nice%20White%20Parents'%20Can%20Undermine%20School%20Integration"
+            "podcast": "npr-fresh-air",
+            "slug": "npr-fresh-air?episode=2020-10-12-how-nice-white-parents-can-undermine-school-integration"
         },
         {
             "title": "Best Of: Ethan Hawke / Lenny Kravitz",
@@ -395,7 +451,8 @@
             "description": "Ethan Hawke plays 19th-century abolitionist John Brown in the seven-part Showtime series, 'The Good Lord Bird.' He says Brown's story feels particularly relevant today, as America confronts systemic racism and the legacy of slavery. Also, Justin Chang reviews the film 'The Forty-Year-Old Version.' Lenny Kravitz talks about growing up the son of a Jewish father and Black mother. His new memoir about his life up until his breakout album is 'Let Love Rule.'",
             "duration": "3047",
             "sourceUrl": "https://play.podtrac.com/npr-381444908/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/fa/2020/10/20201010_fa_fawpod1010-9c73480a-041b-4c34-9c43-4a15bc896e95-b2159c17-13df-488e-81f0-7144ae6ea1b1.mp3?awCollectionId=381444908&awEpisodeId=922206415&orgId=1&d=3047&p=381444908&story=922206415&t=podcast&e=922206415&size=48647596&ft=pod&f=381444908",
-            "slug": "NPR%253AFresh%2520Air?episode=Best%20Of%3A%20Ethan%20Hawke%20%2F%20Lenny%20Kravitz"
+            "podcast": "npr-fresh-air",
+            "slug": "npr-fresh-air?episode=2020-10-10-best-of-ethan-hawke-lenny-kravitz"
         },
         {
             "title": "Remembering MLB Pitcher Bob Gibson",
@@ -403,15 +460,8 @@
             "description": "We remember Bob Gibson, one of baseball's most intimidating pitchers. He dominated hitters from the mound for the St. Louis Cardinals in the 1960s and '70s and he holds the record for most strikeouts  — 17 — in a World Series game. Gibson died last week at the age of 84. First we'll listen back to Terry's 1994 interview with Gibson when he had just published his memoir. Then, in our 2009 interview with Gibson and Hall of Fame slugger Reggie Jackson, we hear him talk about the classic confrontation between the player at the plate and one on the mound. <br/><br/>Justin Chang reviews two new documentaries, 'Totally Under Control' and 'Time.' The former is about the Trump administration's handling of the pandemic; the latter chronicles the impact of long-term incarceration on one family. ",
             "duration": "2922",
             "sourceUrl": "https://play.podtrac.com/npr-381444908/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/fa/2020/10/20201009_fa_fafripod1009-3e8c6c63-a6c2-47bb-8e3d-37286a09d4e9-6e3119dd-a36d-47bf-a4c5-833cf6b7ca1d.mp3?awCollectionId=381444908&awEpisodeId=922200225&orgId=1&d=2922&p=381444908&story=922200225&t=podcast&e=922200225&size=46655587&ft=pod&f=381444908",
-            "slug": "NPR%253AFresh%2520Air?episode=Remembering%20MLB%20Pitcher%20Bob%20Gibson"
-        },
-        {
-            "title": "The State Of The Affordable Care Act",
-            "datePublished": "Thu, 08 Oct 2020 16:30:24 -0400",
-            "description": "As President Trump recovers from COVID-19 and candidates debate the issue of insurance for people with pre-existing conditions, we take stock of the nation's health care system. We talk with the 'New York Times' health policy reporter Sarah Kliff about the state of the Affordable Care Act, after 10 years of legal assaults and attempts in Congress to repeal the law. \"Republicans have been trying to drive a stake into the heart of Obamacare pretty much since it was passed,\" Kliff says.<br/><br/>Jazz critic Kevin Whitehead reviews the album 'General Semantics,' by the trio Geof Bradfield, Ben Goldberg and Dana Hall. ",
-            "duration": "2848",
-            "sourceUrl": "https://play.podtrac.com/npr-381444908/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/fa/2020/10/20201008_fa_fapodthurs-289a0d0f-6b20-4cbd-962f-566f9d7f5bdb-52780ba7-38e7-462d-a62f-e5e5e7950626.mp3?awCollectionId=381444908&awEpisodeId=921667795&orgId=1&d=2848&p=381444908&story=921667795&t=podcast&e=921667795&size=45464635&ft=pod&f=381444908",
-            "slug": "NPR%253AFresh%2520Air?episode=The%20State%20Of%20The%20Affordable%20Care%20Act"
+            "podcast": "npr-fresh-air",
+            "slug": "npr-fresh-air?episode=2020-10-09-remembering-mlb-pitcher-bob-gibson"
         }
     ]
 }

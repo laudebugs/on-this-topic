@@ -11,7 +11,7 @@
         "Education"
     ],
     "image": "https://images.megaphone.fm/9MLOjtItehJJal545BJVdGw8TPenTH9YO5sS1aP9EUE/plain/s3://megaphone-prod/podcasts/dd65f90e-de0e-11e9-8b0b-87cd49a18ce9/image/uploads_2F1591157332097-51up5bqfe9i-37ee0fad7c1732d1ca403ad27c3228b1_2FGimlet-WhereShouldWeBegin-KeyArt.jpg",
-    "slug": "%3AWhere%20Should%20We%20Begin%3F%20with%20Esther%20Perel",
+    "slug": "where-should-we-begin-with-esther-perel",
     "episodes": [
         {
             "title": "On Again/Off Again",
@@ -22,7 +22,8 @@
             "sourceUrl": "https://traffic.megaphone.fm/GLT4869691493.mp3",
             "snNo": "4",
             "epNo": "10",
-            "slug": "%253AWhere%2520Should%2520We%2520Begin%253F%2520with%2520Esther%2520Perel?episode=On%20Again%2FOff%20Again"
+            "podcast": "where-should-we-begin-with-esther-perel",
+            "slug": "where-should-we-begin-with-esther-perel?episode=2020-09-10-on-againoff-again"
         },
         {
             "title": "Trapped in Their Own Story",
@@ -33,7 +34,8 @@
             "sourceUrl": "https://traffic.megaphone.fm/GLT9319400618.mp3?updated=1598369020",
             "snNo": "4",
             "epNo": "9",
-            "slug": "%253AWhere%2520Should%2520We%2520Begin%253F%2520with%2520Esther%2520Perel?episode=Trapped%20in%20Their%20Own%20Story"
+            "podcast": "where-should-we-begin-with-esther-perel",
+            "slug": "where-should-we-begin-with-esther-perel?episode=2020-09-03-trapped-in-their-own-story"
         },
         {
             "title": "Burdens of the Family",
@@ -44,7 +46,8 @@
             "sourceUrl": "https://traffic.megaphone.fm/GLT4590120485.mp3",
             "snNo": "4",
             "epNo": "8",
-            "slug": "%253AWhere%2520Should%2520We%2520Begin%253F%2520with%2520Esther%2520Perel?episode=Burdens%20of%20the%20Family"
+            "podcast": "where-should-we-begin-with-esther-perel",
+            "slug": "where-should-we-begin-with-esther-perel?episode=2020-08-27-burdens-of-the-family"
         },
         {
             "title": "He Loves Her, His Family Rejects Her",
@@ -55,7 +58,8 @@
             "sourceUrl": "https://traffic.megaphone.fm/GLT3178523904.mp3?updated=1597269177",
             "snNo": "4",
             "epNo": "7",
-            "slug": "%253AWhere%2520Should%2520We%2520Begin%253F%2520with%2520Esther%2520Perel?episode=He%20Loves%20Her%2C%20His%20Family%20Rejects%20Her"
+            "podcast": "where-should-we-begin-with-esther-perel",
+            "slug": "where-should-we-begin-with-esther-perel?episode=2020-08-20-he-loves-her-his-family-rejects-her"
         },
         {
             "title": "When I'm Manic I Cheat",
@@ -66,7 +70,8 @@
             "sourceUrl": "https://traffic.megaphone.fm/GLT9523218799.mp3",
             "snNo": "4",
             "epNo": "6",
-            "slug": "%253AWhere%2520Should%2520We%2520Begin%253F%2520with%2520Esther%2520Perel?episode=When%20I'm%20Manic%20I%20Cheat"
+            "podcast": "where-should-we-begin-with-esther-perel",
+            "slug": "where-should-we-begin-with-esther-perel?episode=2020-08-13-when-im-manic-i-cheat"
         },
         {
             "title": "It's Very Hard to Live with a Saint ",
@@ -77,7 +82,8 @@
             "sourceUrl": "https://traffic.megaphone.fm/GLT7214444922.mp3",
             "snNo": "4",
             "epNo": "5",
-            "slug": "%253AWhere%2520Should%2520We%2520Begin%253F%2520with%2520Esther%2520Perel?episode=It's%20Very%20Hard%20to%20Live%20with%20a%20Saint%20"
+            "podcast": "where-should-we-begin-with-esther-perel",
+            "slug": "where-should-we-begin-with-esther-perel?episode=2020-08-06-its-very-hard-to-live-with-a-saint"
         },
         {
             "title": "In This Relationship What Is \"I\" and What Is \"We\"? ",
@@ -88,7 +94,8 @@
             "sourceUrl": "https://traffic.megaphone.fm/GLT7412373695.mp3?updated=1594876676",
             "snNo": "4",
             "epNo": "4",
-            "slug": "%253AWhere%2520Should%2520We%2520Begin%253F%2520with%2520Esther%2520Perel?episode=In%20This%20Relationship%20What%20Is%20%22I%22%20and%20What%20Is%20%22We%22%3F%20"
+            "podcast": "where-should-we-begin-with-esther-perel",
+            "slug": "where-should-we-begin-with-esther-perel?episode=2020-07-23-in-this-relationship-what-is-i-and-what-is-we"
         },
         {
             "title": "The Chronic Philanderer",
@@ -99,7 +106,8 @@
             "sourceUrl": "https://traffic.megaphone.fm/GLT7601885385.mp3",
             "snNo": "4",
             "epNo": "3",
-            "slug": "%253AWhere%2520Should%2520We%2520Begin%253F%2520with%2520Esther%2520Perel?episode=The%20Chronic%20Philanderer"
+            "podcast": "where-should-we-begin-with-esther-perel",
+            "slug": "where-should-we-begin-with-esther-perel?episode=2020-07-16-the-chronic-philanderer"
         },
         {
             "title": "What Would It Take For You to Come Out? ",
@@ -110,7 +118,8 @@
             "sourceUrl": "https://traffic.megaphone.fm/GLT6111968541.mp3?updated=1593635941",
             "snNo": "4",
             "epNo": "2",
-            "slug": "%253AWhere%2520Should%2520We%2520Begin%253F%2520with%2520Esther%2520Perel?episode=What%20Would%20It%20Take%20For%20You%20to%20Come%20Out%3F%20"
+            "podcast": "where-should-we-begin-with-esther-perel",
+            "slug": "where-should-we-begin-with-esther-perel?episode=2020-07-09-what-would-it-take-for-you-to-come-out"
         },
         {
             "title": "You Want Me To Watch The Kids While You Go Out With Another Guy?",
@@ -121,7 +130,8 @@
             "sourceUrl": "https://traffic.megaphone.fm/GLT4484276400.mp3",
             "snNo": "4",
             "epNo": "1",
-            "slug": "%253AWhere%2520Should%2520We%2520Begin%253F%2520with%2520Esther%2520Perel?episode=You%20Want%20Me%20To%20Watch%20The%20Kids%20While%20You%20Go%20Out%20With%20Another%20Guy%3F"
+            "podcast": "where-should-we-begin-with-esther-perel",
+            "slug": "where-should-we-begin-with-esther-perel?episode=2020-07-09-you-want-me-to-watch-the-kids-while-you-go-out-with-another-guy"
         },
         {
             "title": "Season Four Trailer",
@@ -131,7 +141,8 @@
             "duration": "147",
             "sourceUrl": "https://traffic.megaphone.fm/GLT8059730659.mp3",
             "snNo": "4",
-            "slug": "%253AWhere%2520Should%2520We%2520Begin%253F%2520with%2520Esther%2520Perel?episode=Season%20Four%20Trailer"
+            "podcast": "where-should-we-begin-with-esther-perel",
+            "slug": "where-should-we-begin-with-esther-perel?episode=2020-06-18-season-four-trailer"
         },
         {
             "title": "Couples Under Lockdown: Lagos, Nigeria",
@@ -142,7 +153,8 @@
             "sourceUrl": "https://traffic.megaphone.fm/GLT2086555164.mp3",
             "snNo": "3",
             "epNo": "11",
-            "slug": "%253AWhere%2520Should%2520We%2520Begin%253F%2520with%2520Esther%2520Perel?episode=Couples%20Under%20Lockdown%3A%20Lagos%2C%20Nigeria"
+            "podcast": "where-should-we-begin-with-esther-perel",
+            "slug": "where-should-we-begin-with-esther-perel?episode=2020-05-14-couples-under-lockdown-lagos-nigeria"
         },
         {
             "title": "Couples Under Lockdown: New York, New York",
@@ -153,7 +165,8 @@
             "sourceUrl": "https://traffic.megaphone.fm/GLT1039266624.mp3",
             "snNo": "3",
             "epNo": "10",
-            "slug": "%253AWhere%2520Should%2520We%2520Begin%253F%2520with%2520Esther%2520Perel?episode=Couples%20Under%20Lockdown%3A%20New%20York%2C%20New%20York"
+            "podcast": "where-should-we-begin-with-esther-perel",
+            "slug": "where-should-we-begin-with-esther-perel?episode=2020-04-16-couples-under-lockdown-new-york-new-york"
         },
         {
             "title": "Couples Under Lockdown: Bavaria, Germany",
@@ -164,7 +177,8 @@
             "sourceUrl": "https://traffic.megaphone.fm/GLT3414445338.mp3?updated=1586208828",
             "snNo": "3",
             "epNo": "9",
-            "slug": "%253AWhere%2520Should%2520We%2520Begin%253F%2520with%2520Esther%2520Perel?episode=Couples%20Under%20Lockdown%3A%20Bavaria%2C%20Germany"
+            "podcast": "where-should-we-begin-with-esther-perel",
+            "slug": "where-should-we-begin-with-esther-perel?episode=2020-04-02-couples-under-lockdown-bavaria-germany"
         },
         {
             "title": "Couples Under Lockdown: Sicily, Italy",
@@ -175,7 +189,8 @@
             "sourceUrl": "https://traffic.megaphone.fm/GLT1148856655.mp3",
             "snNo": "3",
             "epNo": "8",
-            "slug": "%253AWhere%2520Should%2520We%2520Begin%253F%2520with%2520Esther%2520Perel?episode=Couples%20Under%20Lockdown%3A%20Sicily%2C%20Italy"
+            "podcast": "where-should-we-begin-with-esther-perel",
+            "slug": "where-should-we-begin-with-esther-perel?episode=2020-03-24-couples-under-lockdown-sicily-italy"
         },
         {
             "title": "Esther Perel's New Show: How's Work?",
@@ -186,7 +201,8 @@
             "sourceUrl": "https://traffic.megaphone.fm/GLT5882234605.mp3",
             "snNo": "3",
             "epNo": "7",
-            "slug": "%253AWhere%2520Should%2520We%2520Begin%253F%2520with%2520Esther%2520Perel?episode=Esther%20Perel's%20New%20Show%3A%20How's%20Work%3F"
+            "podcast": "where-should-we-begin-with-esther-perel",
+            "slug": "where-should-we-begin-with-esther-perel?episode=2020-02-26-esther-perels-new-show-hows-work"
         },
         {
             "title": "Happily Divorced",
@@ -197,7 +213,8 @@
             "sourceUrl": "https://traffic.megaphone.fm/GLT5692987216.mp3",
             "snNo": "3",
             "epNo": "6",
-            "slug": "%253AWhere%2520Should%2520We%2520Begin%253F%2520with%2520Esther%2520Perel?episode=Happily%20Divorced"
+            "podcast": "where-should-we-begin-with-esther-perel",
+            "slug": "where-should-we-begin-with-esther-perel?episode=2019-11-21-happily-divorced"
         },
         {
             "title": "Mom and Monique",
@@ -208,7 +225,8 @@
             "sourceUrl": "https://traffic.megaphone.fm/GLT4151139995.mp3",
             "snNo": "3",
             "epNo": "5",
-            "slug": "%253AWhere%2520Should%2520We%2520Begin%253F%2520with%2520Esther%2520Perel?episode=Mom%20and%20Monique"
+            "podcast": "where-should-we-begin-with-esther-perel",
+            "slug": "where-should-we-begin-with-esther-perel?episode=2019-11-14-mom-and-monique"
         },
         {
             "title": "A Romantic Revival",
@@ -219,7 +237,8 @@
             "sourceUrl": "https://traffic.megaphone.fm/GLT9032194393.mp3",
             "snNo": "3",
             "epNo": "4",
-            "slug": "%253AWhere%2520Should%2520We%2520Begin%253F%2520with%2520Esther%2520Perel?episode=A%20Romantic%20Revival"
+            "podcast": "where-should-we-begin-with-esther-perel",
+            "slug": "where-should-we-begin-with-esther-perel?episode=2019-11-07-a-romantic-revival"
         },
         {
             "title": "The Other Woman",
@@ -230,7 +249,8 @@
             "sourceUrl": "https://traffic.megaphone.fm/GLT1543707323.mp3",
             "snNo": "3",
             "epNo": "3",
-            "slug": "%253AWhere%2520Should%2520We%2520Begin%253F%2520with%2520Esther%2520Perel?episode=The%20Other%20Woman"
+            "podcast": "where-should-we-begin-with-esther-perel",
+            "slug": "where-should-we-begin-with-esther-perel?episode=2019-10-31-the-other-woman"
         },
         {
             "title": "A Small Town Affair",
@@ -241,7 +261,8 @@
             "sourceUrl": "https://traffic.megaphone.fm/GLT9331285755.mp3",
             "snNo": "3",
             "epNo": "2",
-            "slug": "%253AWhere%2520Should%2520We%2520Begin%253F%2520with%2520Esther%2520Perel?episode=A%20Small%20Town%20Affair"
+            "podcast": "where-should-we-begin-with-esther-perel",
+            "slug": "where-should-we-begin-with-esther-perel?episode=2019-10-24-a-small-town-affair"
         },
         {
             "title": "Young Love",
@@ -252,7 +273,8 @@
             "sourceUrl": "https://traffic.megaphone.fm/GLT4591433287.mp3",
             "snNo": "3",
             "epNo": "1",
-            "slug": "%253AWhere%2520Should%2520We%2520Begin%253F%2520with%2520Esther%2520Perel?episode=Young%20Love"
+            "podcast": "where-should-we-begin-with-esther-perel",
+            "slug": "where-should-we-begin-with-esther-perel?episode=2019-10-17-young-love"
         },
         {
             "title": "Season Three Trailer",
@@ -262,7 +284,8 @@
             "duration": "160",
             "sourceUrl": "https://traffic.megaphone.fm/GLT4253862670.mp3?updated=1569284795",
             "snNo": "3",
-            "slug": "%253AWhere%2520Should%2520We%2520Begin%253F%2520with%2520Esther%2520Perel?episode=Season%20Three%20Trailer"
+            "podcast": "where-should-we-begin-with-esther-perel",
+            "slug": "where-should-we-begin-with-esther-perel?episode=2019-03-08-season-three-trailer"
         },
         {
             "title": "I Don't Want to Be Your Caregiver, I Want to Be Your Wife ",
@@ -274,7 +297,8 @@
             "sourceUrl": "https://traffic.megaphone.fm/GLT2819007547.mp3?updated=1569284949",
             "snNo": "2",
             "epNo": "8",
-            "slug": "%253AWhere%2520Should%2520We%2520Begin%253F%2520with%2520Esther%2520Perel?episode=I%20Don't%20Want%20to%20Be%20Your%20Caregiver%2C%20I%20Want%20to%20Be%20Your%20Wife%20"
+            "podcast": "where-should-we-begin-with-esther-perel",
+            "slug": "where-should-we-begin-with-esther-perel?episode=2018-04-27-i-dont-want-to-be-your-caregiver-i-want-to-be-your-wife"
         },
         {
             "title": "I've Had 100 Conversations with You in My Head",
@@ -286,7 +310,8 @@
             "sourceUrl": "https://traffic.megaphone.fm/GLT6344233463.mp3?updated=1569284361",
             "snNo": "2",
             "epNo": "7",
-            "slug": "%253AWhere%2520Should%2520We%2520Begin%253F%2520with%2520Esther%2520Perel?episode=I've%20Had%20100%20Conversations%20with%20You%20in%20My%20Head"
+            "podcast": "where-should-we-begin-with-esther-perel",
+            "slug": "where-should-we-begin-with-esther-perel?episode=2018-04-20-ive-had-100-conversations-with-you-in-my-head"
         },
         {
             "title": "You Can Be Right or You Can Be Married",
@@ -298,7 +323,8 @@
             "sourceUrl": "https://traffic.megaphone.fm/GLT1750894854.mp3?updated=1569284214",
             "snNo": "2",
             "epNo": "6",
-            "slug": "%253AWhere%2520Should%2520We%2520Begin%253F%2520with%2520Esther%2520Perel?episode=You%20Can%20Be%20Right%20or%20You%20Can%20Be%20Married"
+            "podcast": "where-should-we-begin-with-esther-perel",
+            "slug": "where-should-we-begin-with-esther-perel?episode=2018-04-13-you-can-be-right-or-you-can-be-married"
         },
         {
             "title": "Questions You Aren't Allowed to Ask",
@@ -310,7 +336,8 @@
             "sourceUrl": "https://traffic.megaphone.fm/GLT6171580765.mp3?updated=1569283696",
             "snNo": "2",
             "epNo": "5",
-            "slug": "%253AWhere%2520Should%2520We%2520Begin%253F%2520with%2520Esther%2520Perel?episode=Questions%20You%20Aren't%20Allowed%20to%20Ask"
+            "podcast": "where-should-we-begin-with-esther-perel",
+            "slug": "where-should-we-begin-with-esther-perel?episode=2018-04-06-questions-you-arent-allowed-to-ask"
         },
         {
             "title": "Leaving the Shame Behind",
@@ -322,7 +349,8 @@
             "sourceUrl": "https://traffic.megaphone.fm/GLT4011519427.mp3?updated=1569283127",
             "snNo": "2",
             "epNo": "4",
-            "slug": "%253AWhere%2520Should%2520We%2520Begin%253F%2520with%2520Esther%2520Perel?episode=Leaving%20the%20Shame%20Behind"
+            "podcast": "where-should-we-begin-with-esther-perel",
+            "slug": "where-should-we-begin-with-esther-perel?episode=2018-03-30-leaving-the-shame-behind"
         },
         {
             "title": "Ms. Entitlement and Mr. Sacrifice Out On a Date",
@@ -334,7 +362,8 @@
             "sourceUrl": "https://traffic.megaphone.fm/GLT7447102327.mp3?updated=1569282946",
             "snNo": "2",
             "epNo": "3",
-            "slug": "%253AWhere%2520Should%2520We%2520Begin%253F%2520with%2520Esther%2520Perel?episode=Ms.%20Entitlement%20and%20Mr.%20Sacrifice%20Out%20On%20a%20Date"
+            "podcast": "where-should-we-begin-with-esther-perel",
+            "slug": "where-should-we-begin-with-esther-perel?episode=2018-03-23-ms-entitlement-and-mr-sacrifice-out-on-a-date"
         },
         {
             "title": "I Want to Feel Wanted",
@@ -346,7 +375,8 @@
             "sourceUrl": "https://traffic.megaphone.fm/GLT3601794075.mp3?updated=1569282346",
             "snNo": "2",
             "epNo": "2",
-            "slug": "%253AWhere%2520Should%2520We%2520Begin%253F%2520with%2520Esther%2520Perel?episode=I%20Want%20to%20Feel%20Wanted"
+            "podcast": "where-should-we-begin-with-esther-perel",
+            "slug": "where-should-we-begin-with-esther-perel?episode=2018-03-16-i-want-to-feel-wanted"
         },
         {
             "title": "You Need Help to Help Her ",
@@ -358,7 +388,8 @@
             "sourceUrl": "https://traffic.megaphone.fm/GLT6358852725.mp3?updated=1569282091",
             "snNo": "2",
             "epNo": "1",
-            "slug": "%253AWhere%2520Should%2520We%2520Begin%253F%2520with%2520Esther%2520Perel?episode=You%20Need%20Help%20to%20Help%20Her%20"
+            "podcast": "where-should-we-begin-with-esther-perel",
+            "slug": "where-should-we-begin-with-esther-perel?episode=2018-03-09-you-need-help-to-help-her"
         },
         {
             "title": "I Can’t Give You a Child",
@@ -370,7 +401,8 @@
             "sourceUrl": "https://traffic.megaphone.fm/GLT2219314696.mp3?updated=1569281932",
             "snNo": "1",
             "epNo": "10",
-            "slug": "%253AWhere%2520Should%2520We%2520Begin%253F%2520with%2520Esther%2520Perel?episode=I%20Can%E2%80%99t%20Give%20You%20a%20Child"
+            "podcast": "where-should-we-begin-with-esther-perel",
+            "slug": "where-should-we-begin-with-esther-perel?episode=2017-12-01-i-cant-give-you-a-child"
         },
         {
             "title": "Trauma Doesn’t Like to be Touched",
@@ -382,7 +414,8 @@
             "sourceUrl": "https://traffic.megaphone.fm/GLT6159900143.mp3?updated=1569281727",
             "snNo": "1",
             "epNo": "9",
-            "slug": "%253AWhere%2520Should%2520We%2520Begin%253F%2520with%2520Esther%2520Perel?episode=Trauma%20Doesn%E2%80%99t%20Like%20to%20be%20Touched"
+            "podcast": "where-should-we-begin-with-esther-perel",
+            "slug": "where-should-we-begin-with-esther-perel?episode=2017-11-24-trauma-doesnt-like-to-be-touched"
         },
         {
             "title": "Sexlessness",
@@ -394,7 +427,8 @@
             "sourceUrl": "https://traffic.megaphone.fm/GLT5966472142.mp3?updated=1569281520",
             "snNo": "1",
             "epNo": "8",
-            "slug": "%253AWhere%2520Should%2520We%2520Begin%253F%2520with%2520Esther%2520Perel?episode=Sexlessness"
+            "podcast": "where-should-we-begin-with-esther-perel",
+            "slug": "where-should-we-begin-with-esther-perel?episode=2017-11-17-sexlessness"
         },
         {
             "title": "Tell Me I'm Not Alone ",
@@ -406,7 +440,8 @@
             "sourceUrl": "https://traffic.megaphone.fm/GLT2389171278.mp3?updated=1569281309",
             "snNo": "1",
             "epNo": "7",
-            "slug": "%253AWhere%2520Should%2520We%2520Begin%253F%2520with%2520Esther%2520Perel?episode=Tell%20Me%20I'm%20Not%20Alone%20"
+            "podcast": "where-should-we-begin-with-esther-perel",
+            "slug": "where-should-we-begin-with-esther-perel?episode=2017-11-10-tell-me-im-not-alone"
         },
         {
             "title": "There's You There's Me and There's Us",
@@ -418,7 +453,8 @@
             "sourceUrl": "https://traffic.megaphone.fm/GLT3820335967.mp3?updated=1569281197",
             "snNo": "1",
             "epNo": "6",
-            "slug": "%253AWhere%2520Should%2520We%2520Begin%253F%2520with%2520Esther%2520Perel?episode=There's%20You%20There's%20Me%20and%20There's%20Us"
+            "podcast": "where-should-we-begin-with-esther-perel",
+            "slug": "where-should-we-begin-with-esther-perel?episode=2017-11-03-theres-you-theres-me-and-theres-us"
         },
         {
             "title": "Impotent Is No Way to Define a Man",
@@ -430,7 +466,8 @@
             "sourceUrl": "https://traffic.megaphone.fm/GLT7176094209.mp3?updated=1571169304",
             "snNo": "1",
             "epNo": "5",
-            "slug": "%253AWhere%2520Should%2520We%2520Begin%253F%2520with%2520Esther%2520Perel?episode=Impotent%20Is%20No%20Way%20to%20Define%20a%20Man"
+            "podcast": "where-should-we-begin-with-esther-perel",
+            "slug": "where-should-we-begin-with-esther-perel?episode=2017-10-27-impotent-is-no-way-to-define-a-man"
         },
         {
             "title": "The Addict ",
@@ -442,7 +479,8 @@
             "sourceUrl": "https://traffic.megaphone.fm/GLT4254901501.mp3?updated=1569280349",
             "snNo": "1",
             "epNo": "4",
-            "slug": "%253AWhere%2520Should%2520We%2520Begin%253F%2520with%2520Esther%2520Perel?episode=The%20Addict%20"
+            "podcast": "where-should-we-begin-with-esther-perel",
+            "slug": "where-should-we-begin-with-esther-perel?episode=2017-10-20-the-addict"
         },
         {
             "title": "Speak to Me in French ",
@@ -454,7 +492,8 @@
             "sourceUrl": "https://traffic.megaphone.fm/GLT1320575665.mp3?updated=1571169143",
             "snNo": "1",
             "epNo": "3",
-            "slug": "%253AWhere%2520Should%2520We%2520Begin%253F%2520with%2520Esther%2520Perel?episode=Speak%20to%20Me%20in%20French%20"
+            "podcast": "where-should-we-begin-with-esther-perel",
+            "slug": "where-should-we-begin-with-esther-perel?episode=2017-10-08-speak-to-me-in-french"
         },
         {
             "title": "Motherless Women ",
@@ -466,7 +505,8 @@
             "sourceUrl": "https://traffic.megaphone.fm/GLT2831696914.mp3?updated=1571169063",
             "snNo": "1",
             "epNo": "2",
-            "slug": "%253AWhere%2520Should%2520We%2520Begin%253F%2520with%2520Esther%2520Perel?episode=Motherless%20Women%20"
+            "podcast": "where-should-we-begin-with-esther-perel",
+            "slug": "where-should-we-begin-with-esther-perel?episode=2017-10-08-motherless-women"
         },
         {
             "title": "I've Had Better",
@@ -478,7 +518,8 @@
             "sourceUrl": "https://traffic.megaphone.fm/GLT2798833900.mp3?updated=1569279735",
             "snNo": "1",
             "epNo": "1",
-            "slug": "%253AWhere%2520Should%2520We%2520Begin%253F%2520with%2520Esther%2520Perel?episode=I've%20Had%20Better"
+            "podcast": "where-should-we-begin-with-esther-perel",
+            "slug": "where-should-we-begin-with-esther-perel?episode=2017-10-08-ive-had-better"
         },
         {
             "title": "Prologue",
@@ -488,7 +529,8 @@
             "description": "Step into iconic relationship therapist Esther Perel’s office and listen as 10 anonymous couples in search of insight bare the raw, intimate, and profound details of their story. From infidelity to sexlessness to loss, it’s a space for people to be heard and understood. It’s also a place for us to listen and feel empowered in our own relationships. So…where should we begin?",
             "duration": "136",
             "sourceUrl": "https://traffic.megaphone.fm/GLT6844489744.mp3?updated=1569279273",
-            "slug": "%253AWhere%2520Should%2520We%2520Begin%253F%2520with%2520Esther%2520Perel?episode=Prologue"
+            "podcast": "where-should-we-begin-with-esther-perel",
+            "slug": "where-should-we-begin-with-esther-perel?episode=2017-05-17-prologue"
         }
     ]
 }

@@ -7,14 +7,14 @@ import { connect } from "react-redux";
 import { loadEpisode } from "../components/thunks";
 
 import Header from "../components/Header";
-import PodEpisodes from "../components/PodEpisodes";
 import { getEpisode, getIsLoadingEpisode } from "../components/selectors";
 
 const Episode = ({ episode, isLoadingEpisode, startLoadingEpisode }) => {
   const params = QueryString.parse(window.location.search);
-  console.log(params.episode);
   let { slug } = useParams();
+
   useEffect(() => {
+    console.log(episode);
     startLoadingEpisode(
       `${slug}?episode=${encodeURIComponent(params.episode)}`
     );
@@ -32,16 +32,16 @@ const Episode = ({ episode, isLoadingEpisode, startLoadingEpisode }) => {
   const PodPage = (
     <div>
       <Header />
-      {/* <div className="podInfo">
-        <div>
-          <img src={episode.image} alt={episode.title} />
-        </div>
+      <div className="podInfo">
+        {/* <div>
+          <img src={episotde.image} alt={episode.title} />
+        </div> */}
 
         <div className="description">
           <h2>{episode.title}</h2>
           <div id="target">{parsethisHtml(episode.description)}</div>
         </div>
-      </div> */}
+      </div>
     </div>
   );
   return isLoadingEpisode ? loadingMessage : PodPage;
@@ -49,7 +49,7 @@ const Episode = ({ episode, isLoadingEpisode, startLoadingEpisode }) => {
 
 const mapStateToProps = (state) => ({
   // Find a way to filter this podcast from others that have been loaded
-  podcast: getEpisode(state),
+  episode: getEpisode(state),
   isLoadingPod: getIsLoadingEpisode(state),
 });
 

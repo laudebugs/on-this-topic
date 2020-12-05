@@ -10,7 +10,7 @@
         "Education"
     ],
     "image": "https://ssl-static.libsyn.com/p/assets/3/e/c/4/3ec4a2f6085fbbf7/Stoop-Color-with-text-1400x1400.png",
-    "slug": "The%20Stoop%3AThe%20Stoop",
+    "slug": "the-stoop-the-stoop",
     "lastUpdate": "Thu, 03 Dec 2020 18:41:25 +0000",
     "episodes": [
         {
@@ -23,7 +23,8 @@
             "sourceUrl": "https://traffic.libsyn.com/secure/thestoop/STOOP_BLM_Africa_FINAL.mp3?dest-id=527357",
             "snNo": "4",
             "epNo": "41",
-            "slug": "The%2520Stoop%253AThe%2520Stoop?episode=Ep%2041%3A%20Connecting%20Black%20"
+            "podcast": "the-stoop-the-stoop",
+            "slug": "the-stoop-the-stoop?episode=2020-09-07-ep-41-connecting-black"
         },
         {
             "title": "Ep 40: From the Queen: Black is King",
@@ -35,7 +36,8 @@
             "sourceUrl": "https://traffic.libsyn.com/secure/thestoop/STOOP_BlackIsKing_FINAL.mp3?dest-id=527357",
             "snNo": "4",
             "epNo": "40",
-            "slug": "The%2520Stoop%253AThe%2520Stoop?episode=Ep%2040%3A%20From%20the%20Queen%3A%20Black%20is%20King"
+            "podcast": "the-stoop-the-stoop",
+            "slug": "the-stoop-the-stoop?episode=2020-08-09-ep-40-from-the-queen-black-is-king"
         },
         {
             "title": "Ep 39: For Ima",
@@ -47,7 +49,8 @@
             "sourceUrl": "https://traffic.libsyn.com/secure/thestoop/STOOP_PauseAgain_DeJaVous_FINAL.mp3?dest-id=527357",
             "snNo": "4",
             "epNo": "39",
-            "slug": "The%2520Stoop%253AThe%2520Stoop?episode=Ep%2039%3A%20For%20Ima"
+            "podcast": "the-stoop-the-stoop",
+            "slug": "the-stoop-the-stoop?episode=2020-06-11-ep-39-for-ima"
         },
         {
             "title": "Ep 38: That Black Tax",
@@ -59,7 +62,8 @@
             "sourceUrl": "https://traffic.libsyn.com/secure/thestoop/DRAFT4.Final.Black_Tax.mp3?dest-id=527357",
             "snNo": "4",
             "epNo": "38",
-            "slug": "The%2520Stoop%253AThe%2520Stoop?episode=Ep%2038%3A%20That%20Black%20Tax"
+            "podcast": "the-stoop-the-stoop",
+            "slug": "the-stoop-the-stoop?episode=2020-05-21-ep-38-that-black-tax"
         },
         {
             "title": "Ep 37: Together and apart",
@@ -71,7 +75,8 @@
             "sourceUrl": "https://traffic.libsyn.com/secure/thestoop/Final.CoronaD4.mp3?dest-id=527357",
             "snNo": "4",
             "epNo": "37",
-            "slug": "The%2520Stoop%253AThe%2520Stoop?episode=Ep%2037%3A%20Together%20and%20apart"
+            "podcast": "the-stoop-the-stoop",
+            "slug": "the-stoop-the-stoop?episode=2020-04-01-ep-37-together-and-apart"
         },
         {
             "title": "Ep 36: Black on air",
@@ -83,7 +88,8 @@
             "sourceUrl": "https://traffic.libsyn.com/secure/thestoop/STOOP_MicCheck_FINAL_041820.mp3?dest-id=527357",
             "snNo": "2",
             "epNo": "36",
-            "slug": "The%2520Stoop%253AThe%2520Stoop?episode=Ep%2036%3A%20Black%20on%20air"
+            "podcast": "the-stoop-the-stoop",
+            "slug": "the-stoop-the-stoop?episode=2020-02-28-ep-36-black-on-air"
         },
         {
             "title": "Ep 35: Je suis noir",
@@ -95,7 +101,8 @@
             "sourceUrl": "https://traffic.libsyn.com/secure/thestoop/STOOP.JeSuisNoir_20200207.mp3?dest-id=527357",
             "snNo": "4",
             "epNo": "35",
-            "slug": "The%2520Stoop%253AThe%2520Stoop?episode=Ep%2035%3A%20Je%20suis%20noir"
+            "podcast": "the-stoop-the-stoop",
+            "slug": "the-stoop-the-stoop?episode=2020-02-07-ep-35-je-suis-noir"
         },
         {
             "title": "Ep. 34: The Black Introverts",
@@ -105,7 +112,8 @@
             "description": "<p>Why might things be different for a Black introvert? When writer Sequoia Holmes broke it down in her essay \"Black Women aren't allowed to be Introverted\"  we wanted to stoop this out some more. So we sent our introverted producer Jessica Jupiter out to find answers. In this episode we're digging  into how it can be different to be an introvert while Black. We also hear from nonprofit organizer and educator <em>Kelly Wickham Hurst</em> who has focused on correcting the ways we treat introverted Black students.</p>",
             "duration": "25:21",
             "sourceUrl": "https://traffic.libsyn.com/secure/thestoop/BlackIntrovert.Fina.2.8.mp3?dest-id=527357",
-            "slug": "The%2520Stoop%253AThe%2520Stoop?episode=Ep.%2034%3A%20The%20Black%20Introverts"
+            "podcast": "the-stoop-the-stoop",
+            "slug": "the-stoop-the-stoop?episode=2020-01-09-ep-34-the-black-introverts"
         },
         {
             "title": "Ep 33: All Black Everything? ",
@@ -117,7 +125,8 @@
             "sourceUrl": "https://traffic.libsyn.com/secure/thestoop/DRAFT4_-_All_Black_Everything.mp3?dest-id=527357",
             "snNo": "4",
             "epNo": "33",
-            "slug": "The%2520Stoop%253AThe%2520Stoop?episode=Ep%2033%3A%20All%20Black%20Everything%3F%20"
+            "podcast": "the-stoop-the-stoop",
+            "slug": "the-stoop-the-stoop?episode=2019-12-19-ep-33-all-black-everything"
         },
         {
             "title": "EP. 32: In Deep Waters ",
@@ -129,7 +138,8 @@
             "sourceUrl": "https://traffic.libsyn.com/secure/thestoop/Final.12.4.Black_Swimming.mp3?dest-id=527357",
             "snNo": "4",
             "epNo": "32",
-            "slug": "The%2520Stoop%253AThe%2520Stoop?episode=EP.%2032%3A%20In%20Deep%20Waters%20"
+            "podcast": "the-stoop-the-stoop",
+            "slug": "the-stoop-the-stoop?episode=2019-12-04-ep-32-in-deep-waters"
         },
         {
             "title": "Ep. 31 The Unexpected Family",
@@ -141,7 +151,8 @@
             "sourceUrl": "https://traffic.libsyn.com/secure/thestoop/Unexpectedtopub.mp3?dest-id=527357",
             "snNo": "3",
             "epNo": "31",
-            "slug": "The%2520Stoop%253AThe%2520Stoop?episode=Ep.%2031%20The%20Unexpected%20Family"
+            "podcast": "the-stoop-the-stoop",
+            "slug": "the-stoop-the-stoop?episode=2019-06-27-ep-31-the-unexpected-family"
         },
         {
             "title": "Ep. 30: Black Enough",
@@ -153,7 +164,8 @@
             "sourceUrl": "https://traffic.libsyn.com/secure/thestoop/kamau_final.mp3?dest-id=527357",
             "snNo": "3",
             "epNo": "30",
-            "slug": "The%2520Stoop%253AThe%2520Stoop?episode=Ep.%2030%3A%20Black%20Enough"
+            "podcast": "the-stoop-the-stoop",
+            "slug": "the-stoop-the-stoop?episode=2019-06-05-ep-30-black-enough"
         },
         {
             "title": "Ep 29: Sounds from a Well Read Black Girl ",
@@ -165,7 +177,8 @@
             "sourceUrl": "https://traffic.libsyn.com/secure/thestoop/STOOP.LiveShow_FINAL.mp3?dest-id=527357",
             "snNo": "3",
             "epNo": "29",
-            "slug": "The%2520Stoop%253AThe%2520Stoop?episode=Ep%2029%3A%20Sounds%20from%20a%20Well%20Read%20Black%20Girl%20"
+            "podcast": "the-stoop-the-stoop",
+            "slug": "the-stoop-the-stoop?episode=2019-05-09-ep-29-sounds-from-a-well-read-black-girl"
         },
         {
             "title": "Episode 28: Killer Mike calls it like it is",
@@ -175,7 +188,8 @@
             "description": "<p dir=\"ltr\">Killer Mike is a rapper, activist and father who once tried to live 3 days buying only from black businesses -- and wasn’t happy with what he found. We sit down and stoop out what it means to buy Black; how to do love, not just say it; and why Mike doesn’t like to say “n-word” when he could straight-up say “n***er.”</p> <p dir=\"ltr\"> </p> <p dir=\"ltr\">We're trying new things! Check out this interview style Stoop Talk!</p>",
             "duration": "27:41",
             "sourceUrl": "https://traffic.libsyn.com/secure/thestoop/thestoop_killermike_1.mp3?dest-id=527357",
-            "slug": "The%2520Stoop%253AThe%2520Stoop?episode=Episode%2028%3A%20Killer%20Mike%20calls%20it%20like%20it%20is"
+            "podcast": "the-stoop-the-stoop",
+            "slug": "the-stoop-the-stoop?episode=2019-04-24-episode-28-killer-mike-calls-it-like-it-is"
         },
         {
             "title": "Episode 27: Assalam Alaykum, BMW",
@@ -187,7 +201,8 @@
             "sourceUrl": "https://traffic.libsyn.com/secure/thestoop/STOOP.BlackMuslimWoman.mp3?dest-id=527357",
             "snNo": "3",
             "epNo": "27",
-            "slug": "The%2520Stoop%253AThe%2520Stoop?episode=Episode%2027%3A%20Assalam%20Alaykum%2C%20BMW"
+            "podcast": "the-stoop-the-stoop",
+            "slug": "the-stoop-the-stoop?episode=2019-04-11-episode-27-assalam-alaykum-bmw"
         },
         {
             "title": "Episode 26: Mad Hotep",
@@ -199,7 +214,8 @@
             "sourceUrl": "https://traffic.libsyn.com/secure/thestoop/STOOP.Hotep_FINALv2.mp3?dest-id=527357",
             "snNo": "3",
             "epNo": "25",
-            "slug": "The%2520Stoop%253AThe%2520Stoop?episode=Episode%2026%3A%20Mad%20Hotep"
+            "podcast": "the-stoop-the-stoop",
+            "slug": "the-stoop-the-stoop?episode=2019-03-27-episode-26-mad-hotep"
         },
         {
             "title": "Episode 25: You may not get it, but I love you",
@@ -211,7 +227,8 @@
             "sourceUrl": "https://traffic.libsyn.com/secure/thestoop/stoop.interraciallove.final.Hana.mp3?dest-id=527357",
             "snNo": "3",
             "epNo": "25",
-            "slug": "The%2520Stoop%253AThe%2520Stoop?episode=Episode%2025%3A%20You%20may%20not%20get%20it%2C%20but%20I%20love%20you"
+            "podcast": "the-stoop-the-stoop",
+            "slug": "the-stoop-the-stoop?episode=2019-03-07-episode-25-you-may-not-get-it-but-i-love-you"
         },
         {
             "title": "Episode 24: What's in your blood? ",
@@ -223,7 +240,8 @@
             "sourceUrl": "https://traffic.libsyn.com/secure/thestoop/final_bloodfull.mp3?dest-id=527357",
             "snNo": "3",
             "epNo": "23",
-            "slug": "The%2520Stoop%253AThe%2520Stoop?episode=Episode%2024%3A%20What's%20in%20your%20blood%3F%20"
+            "podcast": "the-stoop-the-stoop",
+            "slug": "the-stoop-the-stoop?episode=2019-02-20-episode-24-whats-in-your-blood"
         },
         {
             "title": "Episode 23: The Nod",
@@ -233,7 +251,8 @@
             "description": "<p>It's that silent acknowledgement. That \"I see you,\" moment. But not everyone is a nodder. We send producers on the streets to see if the nod is still going strong, and hear from one hesitant nodder who breaks down why it's not always been her thing.</p>",
             "duration": "32:04",
             "sourceUrl": "https://traffic.libsyn.com/secure/thestoop/Nod.mp3?dest-id=527357",
-            "slug": "The%2520Stoop%253AThe%2520Stoop?episode=Episode%2023%3A%20The%20Nod"
+            "podcast": "the-stoop-the-stoop",
+            "slug": "the-stoop-the-stoop?episode=2019-02-07-episode-23-the-nod"
         },
         {
             "title": "Episode 22: Gullah Geechee",
@@ -245,7 +264,8 @@
             "sourceUrl": "https://traffic.libsyn.com/secure/thestoop/gullah.tolibsyn.mp3?dest-id=527357",
             "snNo": "3",
             "epNo": "22",
-            "slug": "The%2520Stoop%253AThe%2520Stoop?episode=Episode%2022%3A%20Gullah%20Geechee"
+            "podcast": "the-stoop-the-stoop",
+            "slug": "the-stoop-the-stoop?episode=2019-01-24-episode-22-gullah-geechee"
         },
         {
             "title": "Episode 21: Rhythm & Spirit",
@@ -257,7 +277,8 @@
             "sourceUrl": "https://traffic.libsyn.com/secure/thestoop/spiritial.music.FINAL.mp3?dest-id=527357",
             "snNo": "2",
             "epNo": "21",
-            "slug": "The%2520Stoop%253AThe%2520Stoop?episode=Episode%2021%3A%20Rhythm%20%26%20Spirit"
+            "podcast": "the-stoop-the-stoop",
+            "slug": "the-stoop-the-stoop?episode=2018-09-06-episode-21-rhythm-spirit"
         },
         {
             "title": "Episode 20: My child's hair ",
@@ -269,7 +290,8 @@
             "sourceUrl": "https://traffic.libsyn.com/secure/thestoop/Childhair2.mp3?dest-id=527357",
             "snNo": "2",
             "epNo": "20",
-            "slug": "The%2520Stoop%253AThe%2520Stoop?episode=Episode%2020%3A%20My%20child's%20hair%20"
+            "podcast": "the-stoop-the-stoop",
+            "slug": "the-stoop-the-stoop?episode=2018-08-14-episode-20-my-childs-hair"
         },
         {
             "title": "Episode 19: Summer Series- Buffalo Soldier",
@@ -281,7 +303,8 @@
             "sourceUrl": "https://traffic.libsyn.com/secure/thestoop/Stoop.SummerBuffallo.mp3?dest-id=527357",
             "snNo": "2",
             "epNo": "19",
-            "slug": "The%2520Stoop%253AThe%2520Stoop?episode=Episode%2019%3A%20Summer%20Series-%20Buffalo%20Soldier"
+            "podcast": "the-stoop-the-stoop",
+            "slug": "the-stoop-the-stoop?episode=2018-08-01-episode-19-summer-series-buffalo-soldier"
         },
         {
             "title": "Episode 18: Afro-vegan stirrin' the pot",
@@ -293,7 +316,8 @@
             "sourceUrl": "https://traffic.libsyn.com/secure/thestoop/INTERVIEW_Bryant_Terry_1.L_1.mp3?dest-id=527357",
             "snNo": "2",
             "epNo": "18",
-            "slug": "The%2520Stoop%253AThe%2520Stoop?episode=Episode%2018%3A%20Afro-vegan%20stirrin'%20the%20pot"
+            "podcast": "the-stoop-the-stoop",
+            "slug": "the-stoop-the-stoop?episode=2018-07-12-episode-18-afro-vegan-stirrin-the-pot"
         },
         {
             "title": "Episode 17: Black, Queer and Free",
@@ -305,7 +329,8 @@
             "sourceUrl": "https://traffic.libsyn.com/secure/thestoop/queer.6.20final.mp3?dest-id=527357",
             "snNo": "2",
             "epNo": "17",
-            "slug": "The%2520Stoop%253AThe%2520Stoop?episode=Episode%2017%3A%20Black%2C%20Queer%20and%20Free"
+            "podcast": "the-stoop-the-stoop",
+            "slug": "the-stoop-the-stoop?episode=2018-06-21-episode-17-black-queer-and-free"
         },
         {
             "title": "Ep. 16: Black Kiwi, thick skin",
@@ -317,7 +342,8 @@
             "sourceUrl": "https://traffic.libsyn.com/secure/thestoop/Final.Only.Shit.Jean.mp3?dest-id=527357",
             "snNo": "2",
             "epNo": "16",
-            "slug": "The%2520Stoop%253AThe%2520Stoop?episode=Ep.%2016%3A%20Black%20Kiwi%2C%20thick%20skin"
+            "podcast": "the-stoop-the-stoop",
+            "slug": "the-stoop-the-stoop?episode=2018-06-06-ep-16-black-kiwi-thick-skin"
         },
         {
             "title": "Ep. 15: The African Writer's Dilemma",
@@ -329,7 +355,8 @@
             "sourceUrl": "https://traffic.libsyn.com/secure/thestoop/DRAFT3.FINAL_-_Afrolit.mp3?dest-id=527357",
             "snNo": "2",
             "epNo": "15",
-            "slug": "The%2520Stoop%253AThe%2520Stoop?episode=Ep.%2015%3A%20The%20African%20Writer's%20Dilemma"
+            "podcast": "the-stoop-the-stoop",
+            "slug": "the-stoop-the-stoop?episode=2018-05-16-ep-15-the-african-writers-dilemma"
         },
         {
             "title": "Episode 14: The birth of Solomon",
@@ -341,7 +368,8 @@
             "sourceUrl": "https://traffic.libsyn.com/secure/thestoop/DRAFT.FINAL5.BIRTHING.mp3?dest-id=527357",
             "snNo": "2",
             "epNo": "14",
-            "slug": "The%2520Stoop%253AThe%2520Stoop?episode=Episode%2014%3A%20The%20birth%20of%20Solomon"
+            "podcast": "the-stoop-the-stoop",
+            "slug": "the-stoop-the-stoop?episode=2018-05-02-episode-14-the-birth-of-solomon"
         },
         {
             "title": "Episode 13: Are you a 4C? ",
@@ -353,7 +381,8 @@
             "sourceUrl": "https://traffic.libsyn.com/secure/thestoop/The_Stoop_Hair_FINAL_FOREAL_1.mp3?dest-id=527357",
             "snNo": "2",
             "epNo": "13",
-            "slug": "The%2520Stoop%253AThe%2520Stoop?episode=Episode%2013%3A%20Are%20you%20a%204C%3F%20"
+            "podcast": "the-stoop-the-stoop",
+            "slug": "the-stoop-the-stoop?episode=2018-04-17-episode-13-are-you-a-4c"
         },
         {
             "title": "Episode 12: Breaking the line ",
@@ -365,7 +394,8 @@
             "sourceUrl": "https://traffic.libsyn.com/secure/thestoop/DRAFT3_-_Ballet.mp3?dest-id=527357",
             "snNo": "2",
             "epNo": "12",
-            "slug": "The%2520Stoop%253AThe%2520Stoop?episode=Episode%2012%3A%20Breaking%20the%20line%20"
+            "podcast": "the-stoop-the-stoop",
+            "slug": "the-stoop-the-stoop?episode=2018-04-04-episode-12-breaking-the-line"
         },
         {
             "title": "Episode 11: Pretty for a dark-skinned girl",
@@ -377,7 +407,8 @@
             "sourceUrl": "https://traffic.libsyn.com/secure/thestoop/DRAFT4.FINAL._Paper_Bag_Test.mp3?dest-id=527357",
             "snNo": "2",
             "epNo": "11",
-            "slug": "The%2520Stoop%253AThe%2520Stoop?episode=Episode%2011%3A%20Pretty%20for%20a%20dark-skinned%20girl"
+            "podcast": "the-stoop-the-stoop",
+            "slug": "the-stoop-the-stoop?episode=2018-03-21-episode-11-pretty-for-a-dark-skinned-girl"
         },
         {
             "title": "Season 2 Preview ",
@@ -389,7 +420,8 @@
             "sourceUrl": "https://traffic.libsyn.com/secure/thestoop/Trailer.final.season2.mp3?dest-id=527357",
             "snNo": "2",
             "epNo": "11",
-            "slug": "The%2520Stoop%253AThe%2520Stoop?episode=Season%202%20Preview%20"
+            "podcast": "the-stoop-the-stoop",
+            "slug": "the-stoop-the-stoop?episode=2018-03-12-season-2-preview"
         },
         {
             "title": "Stoop Bonus: Black women are something else",
@@ -401,7 +433,8 @@
             "sourceUrl": "https://traffic.libsyn.com/secure/thestoop/Stacia.topublish.mp3?dest-id=527357",
             "snNo": "1",
             "epNo": "11",
-            "slug": "The%2520Stoop%253AThe%2520Stoop?episode=Stoop%20Bonus%3A%20Black%20women%20are%20something%20else"
+            "podcast": "the-stoop-the-stoop",
+            "slug": "the-stoop-the-stoop?episode=2017-12-14-stoop-bonus-black-women-are-something-else"
         },
         {
             "title": "Episode 10: Stoop on the couch",
@@ -413,7 +446,8 @@
             "sourceUrl": "https://traffic.libsyn.com/secure/thestoop/final0.exravaganza.flowers_3.mp3?dest-id=527357",
             "snNo": "1",
             "epNo": "10",
-            "slug": "The%2520Stoop%253AThe%2520Stoop?episode=Episode%2010%3A%20Stoop%20on%20the%20couch"
+            "podcast": "the-stoop-the-stoop",
+            "slug": "the-stoop-the-stoop?episode=2017-11-23-episode-10-stoop-on-the-couch"
         },
         {
             "title": "Episode 9: Back to Africa",
@@ -425,7 +459,8 @@
             "sourceUrl": "https://traffic.libsyn.com/secure/thestoop/01_STOOP.BackToAfrica.Draft3.mp3?dest-id=527357",
             "snNo": "1",
             "epNo": "9",
-            "slug": "The%2520Stoop%253AThe%2520Stoop?episode=Episode%209%3A%20Back%20to%20Africa"
+            "podcast": "the-stoop-the-stoop",
+            "slug": "the-stoop-the-stoop?episode=2017-11-08-episode-9-back-to-africa"
         },
         {
             "title": "Episode 8: Angry black woman ",
@@ -437,7 +472,8 @@
             "sourceUrl": "https://traffic.libsyn.com/secure/thestoop/final.ABW.10.25.DRAFT3.mp3?dest-id=527357",
             "snNo": "1",
             "epNo": "8",
-            "slug": "The%2520Stoop%253AThe%2520Stoop?episode=Episode%208%3A%20Angry%20black%20woman%20"
+            "podcast": "the-stoop-the-stoop",
+            "slug": "the-stoop-the-stoop?episode=2017-10-25-episode-8-angry-black-woman"
         },
         {
             "title": "Episode 7: Coming to America",
@@ -449,7 +485,8 @@
             "sourceUrl": "https://traffic.libsyn.com/secure/thestoop/DRAFT3.STOOP.ComingToAmerica.mp3?dest-id=527357",
             "snNo": "1",
             "epNo": "7",
-            "slug": "The%2520Stoop%253AThe%2520Stoop?episode=Episode%207%3A%20Coming%20to%20America"
+            "podcast": "the-stoop-the-stoop",
+            "slug": "the-stoop-the-stoop?episode=2017-10-11-episode-7-coming-to-america"
         },
         {
             "title": "Episode 6: Music from the hyphen-line",
@@ -461,7 +498,8 @@
             "sourceUrl": "https://traffic.libsyn.com/secure/thestoop/HYPHEN.12.FINAL_2.mp3?dest-id=527357",
             "snNo": "1",
             "epNo": "6",
-            "slug": "The%2520Stoop%253AThe%2520Stoop?episode=Episode%206%3A%20Music%20from%20the%20hyphen-line"
+            "podcast": "the-stoop-the-stoop",
+            "slug": "the-stoop-the-stoop?episode=2017-09-27-episode-6-music-from-the-hyphen-line"
         },
         {
             "title": "Episode 5 : You called me African what? ",
@@ -472,7 +510,8 @@
             "duration": "27:42",
             "sourceUrl": "https://traffic.libsyn.com/secure/thestoop/Booty.Scratcher.Lybsyn.mp3?dest-id=527357",
             "snNo": "1",
-            "slug": "The%2520Stoop%253AThe%2520Stoop?episode=Episode%205%20%3A%20You%20called%20me%20African%20what%3F%20"
+            "podcast": "the-stoop-the-stoop",
+            "slug": "the-stoop-the-stoop?episode=2017-09-13-episode-5-you-called-me-african-what"
         },
         {
             "title": "Episode 4: The problem with \"sounding white\"  ",
@@ -484,7 +523,8 @@
             "sourceUrl": "https://traffic.libsyn.com/secure/thestoop/Stoop104SoundingWhiteFinal.mp3?dest-id=527357",
             "snNo": "1",
             "epNo": "4",
-            "slug": "The%2520Stoop%253AThe%2520Stoop?episode=Episode%204%3A%20The%20problem%20with%20%22sounding%20white%22%20%20"
+            "podcast": "the-stoop-the-stoop",
+            "slug": "the-stoop-the-stoop?episode=2017-08-30-episode-4-the-problem-with-sounding-white"
         },
         {
             "title": "Episode 3: PAUSE",
@@ -496,7 +536,8 @@
             "sourceUrl": "https://traffic.libsyn.com/secure/thestoop/Pause10.mp3?dest-id=527357",
             "snNo": "1",
             "epNo": "3",
-            "slug": "The%2520Stoop%253AThe%2520Stoop?episode=Episode%203%3A%20PAUSE"
+            "podcast": "the-stoop-the-stoop",
+            "slug": "the-stoop-the-stoop?episode=2017-08-15-episode-3-pause"
         },
         {
             "title": "Episode 2: Why is it so hard for some black folks to say I love you?",
@@ -508,7 +549,8 @@
             "sourceUrl": "https://traffic.libsyn.com/secure/thestoop/Iloveyou.7.31.mp3?dest-id=527357",
             "snNo": "1",
             "epNo": "2",
-            "slug": "The%2520Stoop%253AThe%2520Stoop?episode=Episode%202%3A%20Why%20is%20it%20so%20hard%20for%20some%20black%20folks%20to%20say%20I%20love%20you%3F"
+            "podcast": "the-stoop-the-stoop",
+            "slug": "the-stoop-the-stoop?episode=2017-07-27-episode-2-why-is-it-so-hard-for-some-black-folks-to-say-i-love-you"
         },
         {
             "title": "Episode 1: Nice tribal wear. Now take it off.",
@@ -518,7 +560,8 @@
             "description": "<p>Episode 1: An exploration into the controversy over appropriation of African cultures by African Americans. Are African Americans appropriating when they wear a dashiki, tribal markings, or a head wrap? Hosts Leila Day and Hana Baba stoop this out in the debut episode of The Stoop podcast, their first stop, Afropunk.</p> <p>For more info, videos, photos, illustrations and audio shorts, go to our website <a href= \"http://www.thestoop.org\">www.thestoop.org</a> and follow us on Facebook, Twitter, and Instagram.</p> <p> </p>",
             "duration": "21:00",
             "sourceUrl": "https://traffic.libsyn.com/secure/thestoop/Stoop_Ep1_Tribal.mp3?dest-id=527357",
-            "slug": "The%2520Stoop%253AThe%2520Stoop?episode=Episode%201%3A%20Nice%20tribal%20wear.%20Now%20take%20it%20off."
+            "podcast": "the-stoop-the-stoop",
+            "slug": "the-stoop-the-stoop?episode=2017-07-19-episode-1-nice-tribal-wear-now-take-it-off"
         },
         {
             "title": "Preview The Stoop",
@@ -528,7 +571,8 @@
             "description": "<p>Preview Season 1 of The Stoop to hear the funk and flavor of the stories to come in Season 1, starting Summer 2017.  Subscribe now to make sure you don't miss an episode. We'll be dialoging about the diaspora all season long.</p> <p>The Stoop podcast digs into stories that are not always shared out in the open. Hosts Leila Day and Hana Baba start conversations and provide sound-rich stories about what it means to be black, and how we talk about blackness.</p> <p>Find out more and see The Stoop extras like videos, animations, and blog posts on <a href= \"http://www.thestoop.org\">www.thestoop.org</a>. And follow us on social media, too - we'd love to hear from you.</p> <p><a href=\"https://www.facebook.com/stooppodcast/\" target= \"_blank\">Facebook</a> - facebook.com/stooppodcast/</p> <p>Twitter/Instagram - @theStoopPodcast</p> <p> </p>",
             "duration": "01:30",
             "sourceUrl": "https://traffic.libsyn.com/secure/thestoop/TheStoop_PreviewS01.mp3?dest-id=527357",
-            "slug": "The%2520Stoop%253AThe%2520Stoop?episode=Preview%20The%20Stoop"
+            "podcast": "the-stoop-the-stoop",
+            "slug": "the-stoop-the-stoop?episode=2017-07-03-preview-the-stoop"
         }
     ]
 }

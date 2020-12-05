@@ -8,8 +8,8 @@
         "News & Politics"
     ],
     "image": "https://s.rfi.fr/media/display/7e0461a8-f447-11ea-be81-005056a98db9/w:1400/p:1x1/archives-dafrique.png",
-    "slug": "France%20M%C3%A9dias%20Monde%3AArchives%20d'Afrique",
-    "lastUpdate": "Sat, 05 Dec 2020 05:38:54 +0100",
+    "slug": "france-medias-monde-archives-dafrique",
+    "lastUpdate": "Sat, 05 Dec 2020 07:27:09 +0100",
     "episodes": [
         {
             "title": "Archives d'Afrique - Moktar Ould Daddah et le Sahara occidental, les raisons d’un putsch (5&6)",
@@ -18,7 +18,8 @@
             "description": "\nTout comme le Sénégalais Léopold Sédar Senghor, le Camerounais Ahmadou Ahidjo ou encore Félix Houphouët-Boigny pour la Côte d'Ivoire, Moktar Ould Daddah (1924-2003) appartient à la génération des leaders politiques issus de la décolonisation en Afrique. Il a eu un rôle déterminant dans la naissance de la République de Mauritanie qu'il va diriger pendant 17 ans, de 1961 à 1978.\n",
             "duration": "00:49:00",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/aod-rfi.akamaized.net/rfi/francais/audio/magazines/r250/archives_d_afrique_20201128.mp3",
-            "slug": "France%2520M%25C3%25A9dias%2520Monde%253AArchives%2520d'Afrique?episode=Archives%20d'Afrique%20-%20Moktar%20Ould%20Daddah%20et%20le%20Sahara%20occidental%2C%20les%20raisons%20d%E2%80%99un%20putsch%20(5%266)"
+            "podcast": "france-medias-monde-archives-dafrique",
+            "slug": "france-medias-monde-archives-dafrique?episode=2020-11-23-archives-dafrique-moktar-ould-daddah-et-le-sahara-occidental-les-raisons-dun-putsch-56"
         },
         {
             "title": "Archives d'Afrique - Moktar Ould Daddah, la difficile unité nationale (3&4)",
@@ -27,7 +28,8 @@
             "description": "\nTout comme le Sénégalais Léopold Sédar Senghor, le Camerounais Ahmadou Ahidjo ou encore Félix Houphouët-Boigny pour la Côte d'Ivoire, Moktar Ould Daddah (1924-2003) appartient à la génération des leaders politiques issus de la décolonisation en Afrique. Il a eu un rôle déterminant dans la naissance de la République de Mauritanie qu'il va diriger pendant 17 ans, de 1961 à 1978.\n",
             "duration": "00:49:00",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/aod-rfi.akamaized.net/rfi/francais/audio/magazines/r250/archives_d_afrique_20201121.mp3",
-            "slug": "France%2520M%25C3%25A9dias%2520Monde%253AArchives%2520d'Afrique?episode=Archives%20d'Afrique%20-%20Moktar%20Ould%20Daddah%2C%20la%20difficile%20unit%C3%A9%20nationale%20(3%264)"
+            "podcast": "france-medias-monde-archives-dafrique",
+            "slug": "france-medias-monde-archives-dafrique?episode=2020-11-19-archives-dafrique-moktar-ould-daddah-la-difficile-unite-nationale-34"
         },
         {
             "title": "Archives d'Afrique - Moktar Ould Daddah, la naissance de l'État mauritanien (1&2)",
@@ -36,7 +38,8 @@
             "description": "\nTout comme le Sénégalais Léopold Sédar Senghor, le Camerounais Ahmadou Ahidjo ou encore Félix Houphouët-Boigny pour la Côte d'Ivoire, Moktar Ould Daddah (1924-2003) appartient à la génération des leaders politiques issus de la décolonisation en Afrique. Il a eu un rôle déterminant dans la naissance de la République de Mauritanie qu'il va diriger pendant 17 ans, de 1961 à 1978.\n",
             "duration": "00:49:00",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/aod-rfi.akamaized.net/rfi/francais/audio/magazines/r250/archives_d_afrique_20201114.mp3",
-            "slug": "France%2520M%25C3%25A9dias%2520Monde%253AArchives%2520d'Afrique?episode=Archives%20d'Afrique%20-%20Moktar%20Ould%20Daddah%2C%20la%20naissance%20de%20l'%C3%89tat%20mauritanien%20(1%262)"
+            "podcast": "france-medias-monde-archives-dafrique",
+            "slug": "france-medias-monde-archives-dafrique?episode=2020-11-10-archives-dafrique-moktar-ould-daddah-la-naissance-de-letat-mauritanien-12"
         },
         {
             "title": "Archives d'Afrique - Ali Saïbou à l'épreuve de la conférence nationale souveraine (5&6)",
@@ -45,7 +48,8 @@
             "description": "\nSuccesseur du président Seyni Kountché, cet ancien homme d'État nigérien fut surnommé «L'homme de la décrispation». \n",
             "duration": "00:49:00",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/aod-rfi.akamaized.net/rfi/francais/audio/magazines/r250/archives_d_afrique_20201107.mp3",
-            "slug": "France%2520M%25C3%25A9dias%2520Monde%253AArchives%2520d'Afrique?episode=Archives%20d'Afrique%20-%20Ali%20Sa%C3%AFbou%20%C3%A0%20l'%C3%A9preuve%20de%20la%20conf%C3%A9rence%20nationale%20souveraine%20(5%266)"
+            "podcast": "france-medias-monde-archives-dafrique",
+            "slug": "france-medias-monde-archives-dafrique?episode=2020-11-06-archives-dafrique-ali-saibou-a-lepreuve-de-la-conference-nationale-souveraine-56"
         },
         {
             "title": "Archives d'Afrique - Ali Saïbou, la décrispation (3&4)",
@@ -54,7 +58,8 @@
             "description": "\nSurnommé «l’homme de la décrispation», Ali Saïbou a succédé au président nigérien Seyni Kountché en novembre 1987. Les raisons de ce surnom ? Dès sa prise de fonction, il déclare l'amnistie générale des condamnés politiques, y compris pour Hamani Diori, premier président de la République nigérienne en 1960. \n",
             "duration": "00:49:00",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/aod-rfi.akamaized.net/rfi/francais/audio/magazines/r249/archives_d_afrique_20201031.mp3",
-            "slug": "France%2520M%25C3%25A9dias%2520Monde%253AArchives%2520d'Afrique?episode=Archives%20d'Afrique%20-%20Ali%20Sa%C3%AFbou%2C%20la%20d%C3%A9crispation%20(3%264)"
+            "podcast": "france-medias-monde-archives-dafrique",
+            "slug": "france-medias-monde-archives-dafrique?episode=2020-10-29-archives-dafrique-ali-saibou-la-decrispation-34"
         },
         {
             "title": "Archives d'Afrique - Au Niger, la prise de pouvoir d'Ali Saïbou (1&2)",
@@ -63,7 +68,8 @@
             "description": "\nSurnommé «l’homme de la décrispation», Ali Saïbou a succédé au président nigérien Seyni Kountché en novembre 1987. Les raisons de ce surnom ? Dès sa prise de fonction, il déclare l'amnistie générale des condamnés politiques, y compris pour Hamani Diori, premier président de la République nigérienne en 1960. \n",
             "duration": "00:49:00",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/aod-rfi.akamaized.net/rfi/francais/audio/magazines/r249/archives_d_afrique_20201024.mp3",
-            "slug": "France%2520M%25C3%25A9dias%2520Monde%253AArchives%2520d'Afrique?episode=Archives%20d'Afrique%20-%20Au%20Niger%2C%20la%20prise%20de%20pouvoir%20d'Ali%20Sa%C3%AFbou%20(1%262)"
+            "podcast": "france-medias-monde-archives-dafrique",
+            "slug": "france-medias-monde-archives-dafrique?episode=2020-10-23-archives-dafrique-au-niger-la-prise-de-pouvoir-dali-saibou-12"
         },
         {
             "title": "Archives d'Afrique - Les tirailleurs sénégalais",
@@ -72,7 +78,8 @@
             "description": "\nIls sont nombreux les soldats de l'armée coloniale à avoir donné leur vie pour défendre les couleurs du drapeau français. Et il aura fallu bien trop longtemps pour que la République reconnaisse leur sacrifice. Retour sur le rôle primordial joué par les tirailleurs sénégalais, en particulier, lors des deux guerres mondiales.\n \n \n\n \n",
             "duration": "00:49:00",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/aod-rfi.akamaized.net/rfi/francais/audio/magazines/r249/archives_d_afrique_20201017.mp3",
-            "slug": "France%2520M%25C3%25A9dias%2520Monde%253AArchives%2520d'Afrique?episode=Archives%20d'Afrique%20-%20Les%20tirailleurs%20s%C3%A9n%C3%A9galais"
+            "podcast": "france-medias-monde-archives-dafrique",
+            "slug": "france-medias-monde-archives-dafrique?episode=2020-10-14-archives-dafrique-les-tirailleurs-senegalais"
         },
         {
             "title": "Archives d'Afrique - La chute d'André Kolingba (5&6)",
@@ -81,7 +88,8 @@
             "description": "\nSouvent présenté comme un homme discret, André Kolingba prend la tête en 1981 de la République Centrafricaine, suite à ce que la presse d'alors appelle «un pseudo coup d'État» qui renverse le président David Dacko.\n",
             "duration": "00:49:00",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/aod-rfi.akamaized.net/rfi/francais/audio/magazines/r249/archives_d_afrique_20201010.mp3",
-            "slug": "France%2520M%25C3%25A9dias%2520Monde%253AArchives%2520d'Afrique?episode=Archives%20d'Afrique%20-%20La%20chute%20d'Andr%C3%A9%20Kolingba%20(5%266)"
+            "podcast": "france-medias-monde-archives-dafrique",
+            "slug": "france-medias-monde-archives-dafrique?episode=2020-10-07-archives-dafrique-la-chute-dandre-kolingba-56"
         },
         {
             "title": "Archives d'Afrique - André Kolingba face à Bokassa (3&4)",
@@ -90,7 +98,8 @@
             "description": "\nSouvent présenté comme un homme discret, André Kolingba prend la tête en 1981 de la République Centrafricaine, suite à ce que la presse d'alors appelle «un pseudo coup d'État» qui renverse le président David Dacko.\n",
             "duration": "00:49:00",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/aod-rfi.akamaized.net/rfi/francais/audio/magazines/r249/archives_d_afrique_20201003.mp3",
-            "slug": "France%2520M%25C3%25A9dias%2520Monde%253AArchives%2520d'Afrique?episode=Archives%20d'Afrique%20-%20Andr%C3%A9%20Kolingba%20face%20%C3%A0%20Bokassa%20(3%264)"
+            "podcast": "france-medias-monde-archives-dafrique",
+            "slug": "france-medias-monde-archives-dafrique?episode=2020-09-30-archives-dafrique-andre-kolingba-face-a-bokassa-34"
         },
         {
             "title": "Archives d'Afrique - André Kolingba, le simulacre d'un putsch (1&2)",
@@ -99,7 +108,8 @@
             "description": "\nSouvent présenté comme un homme discret, André Kolingba prend la tête en 1981 de la République Centrafricaine, suite à ce que la presse d'alors appelle «un pseudo coup d'État» qui renverse le président David Dacko.\n",
             "duration": "00:49:00",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/aod-rfi.akamaized.net/rfi/francais/audio/magazines/r248/archives_d_afrique_20200926.mp3",
-            "slug": "France%2520M%25C3%25A9dias%2520Monde%253AArchives%2520d'Afrique?episode=Archives%20d'Afrique%20-%20Andr%C3%A9%20Kolingba%2C%20le%20simulacre%20d'un%20putsch%20(1%262)"
+            "podcast": "france-medias-monde-archives-dafrique",
+            "slug": "france-medias-monde-archives-dafrique?episode=2020-09-23-archives-dafrique-andre-kolingba-le-simulacre-dun-putsch-12"
         },
         {
             "title": "Archives d'Afrique - Décès d’Omar Bongo Ondimba, pilier de la Françafrique (17&18) ",
@@ -108,7 +118,8 @@
             "description": "\nC’est l’histoire d’un chef bantou qui, du haut de son mètre 51, menaçait tout simplement de faire sauter la Ve République française.\n \nC’est l’histoire d’un homme de réseau qui est parvenu à installer sur la carte du monde en gras un petit territoire de 267 000 km² situé en plein cœur de la forêt équatoriale qui compte à peine plus d’un million d’habitants. C’est l’histoire d’Omar Bongo Ondimba du Gabon.\n",
             "duration": "00:49:00",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/aod-rfi.akamaized.net/rfi/francais/audio/magazines/r248/archives_d_afrique_20200919.mp3",
-            "slug": "France%2520M%25C3%25A9dias%2520Monde%253AArchives%2520d'Afrique?episode=Archives%20d'Afrique%20-%20D%C3%A9c%C3%A8s%20d%E2%80%99Omar%20Bongo%20Ondimba%2C%20pilier%20de%20la%20Fran%C3%A7afrique%20(17%2618)%20"
+            "podcast": "france-medias-monde-archives-dafrique",
+            "slug": "france-medias-monde-archives-dafrique?episode=2020-09-15-archives-dafrique-deces-domar-bongo-ondimba-pilier-de-la-francafrique-1718"
         },
         {
             "title": "Archives d'Afrique - Omar Bongo et l’Affaire Elf (15&16) ",
@@ -117,7 +128,8 @@
             "description": "\nC’est l’histoire d’un chef bantou qui, du haut de son mètre 51, menaçait tout simplement de faire sauter la Ve République française.\n \nC’est l’histoire d’un homme de réseau qui est parvenu à installer sur la carte du monde en gras un petit territoire de 267 000 km² situé en plein cœur de la forêt équatoriale qui compte à peine plus d’un million d’habitants. C’est l’histoire d’Omar Bongo Ondimba du Gabon.\n",
             "duration": "00:49:00",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/aod-rfi.akamaized.net/rfi/francais/audio/magazines/r248/archives_d_afrique_20200912.mp3",
-            "slug": "France%2520M%25C3%25A9dias%2520Monde%253AArchives%2520d'Afrique?episode=Archives%20d'Afrique%20-%20Omar%20Bongo%20et%20l%E2%80%99Affaire%20Elf%20(15%2616)%20"
+            "podcast": "france-medias-monde-archives-dafrique",
+            "slug": "france-medias-monde-archives-dafrique?episode=2020-09-08-archives-dafrique-omar-bongo-et-laffaire-elf-1516"
         },
         {
             "title": "Archives d'Afrique - Au Gabon, Omar Bongo tout-puissant? (13&14)",
@@ -126,7 +138,8 @@
             "description": "\nC’est l’histoire d’un chef bantou qui, du haut de son mètre 51, menaçait tout simplement de faire sauter la Ve République française.\n \nC’est l’histoire d’un homme de réseau qui est parvenu à installer sur la carte du monde en gras un petit territoire de 267 000 km² situé en plein cœur de la forêt équatoriale qui compte à peine plus d’un million d’habitants. C’est l’histoire d’Omar Bongo Ondimba du Gabon.\n",
             "duration": "00:49:00",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/aod-rfi.akamaized.net/rfi/francais/audio/magazines/r248/archives_d_afrique_20200905.mp3",
-            "slug": "France%2520M%25C3%25A9dias%2520Monde%253AArchives%2520d'Afrique?episode=Archives%20d'Afrique%20-%20Au%20Gabon%2C%20Omar%20Bongo%20tout-puissant%3F%20(13%2614)"
+            "podcast": "france-medias-monde-archives-dafrique",
+            "slug": "france-medias-monde-archives-dafrique?episode=2020-09-01-archives-dafrique-au-gabon-omar-bongo-tout-puissant-1314"
         },
         {
             "title": "Archives d'Afrique - Omar Bongo, président d'un Gabon en zone de turbulence (11&12)",
@@ -135,7 +148,8 @@
             "description": "\nC’est l’histoire d’un chef bantou qui, du haut de son mètre 51, menaçait tout simplement de faire sauter la Ve République française.\n \nC’est l’histoire d’un homme de réseau qui est parvenu à installer sur la carte du monde en gras un petit territoire de 267 000 km² situé en plein cœur de la forêt équatoriale qui compte à peine plus d’un million d’habitants. C’est l’histoire d’Omar Bongo Ondimba du Gabon.\n",
             "duration": "00:49:00",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/aod-rfi.akamaized.net/rfi/francais/audio/magazines/r247/archives_d_afrique_20200829.mp3",
-            "slug": "France%2520M%25C3%25A9dias%2520Monde%253AArchives%2520d'Afrique?episode=Archives%20d'Afrique%20-%20Omar%20Bongo%2C%20pr%C3%A9sident%20d'un%20Gabon%20en%20zone%20de%20turbulence%20(11%2612)"
+            "podcast": "france-medias-monde-archives-dafrique",
+            "slug": "france-medias-monde-archives-dafrique?episode=2020-08-24-archives-dafrique-omar-bongo-president-dun-gabon-en-zone-de-turbulence-1112"
         },
         {
             "title": "Archives d'Afrique - Omar Bongo face au vent de la démocratie (9&10)",
@@ -144,7 +158,8 @@
             "description": "\nC’est l’histoire d’un chef bantou qui, du haut de son mètre 51, menaçait tout simplement de faire sauter la Ve République française.\n \nC’est l’histoire d’un homme de réseau qui est parvenu à installer sur la carte du monde en gras un petit territoire de 267 000 km² situé en plein cœur de la forêt équatoriale qui compte à peine plus d’un million d’habitants. C’est l’histoire d’Omar Bongo Ondimba du Gabon.\n",
             "duration": "00:49:00",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/aod-rfi.akamaized.net/rfi/francais/audio/magazines/r247/archives_d_afrique_20200822.mp3",
-            "slug": "France%2520M%25C3%25A9dias%2520Monde%253AArchives%2520d'Afrique?episode=Archives%20d'Afrique%20-%20Omar%20Bongo%20face%20au%20vent%20de%20la%20d%C3%A9mocratie%20(9%2610)"
+            "podcast": "france-medias-monde-archives-dafrique",
+            "slug": "france-medias-monde-archives-dafrique?episode=2020-08-21-archives-dafrique-omar-bongo-face-au-vent-de-la-democratie-910"
         },
         {
             "title": "Archives d'Afrique - Omar Bongo, «l'argentier» de la Françafrique (7&8)",
@@ -153,7 +168,8 @@
             "description": "\nC’est l’histoire d’un chef bantou qui, du haut de son mètre 51, menaçait tout simplement de faire sauter la Ve République française. C’est l’histoire d’un homme de réseau qui est parvenu à installer sur la carte du monde en gras un petit territoire de 267 000 km² situé en plein cœur de la forêt équatoriale qui compte à peine plus d’un million d’habitants. C’est l’histoire d’Omar Bongo Ondimba du Gabon.\n",
             "duration": "00:49:00",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/aod-rfi.akamaized.net/rfi/francais/audio/magazines/r247/archives_d_afrique_20200815.mp3",
-            "slug": "France%2520M%25C3%25A9dias%2520Monde%253AArchives%2520d'Afrique?episode=Archives%20d'Afrique%20-%20Omar%20Bongo%2C%20%C2%ABl'argentier%C2%BB%20de%20la%20Fran%C3%A7afrique%20(7%268)"
+            "podcast": "france-medias-monde-archives-dafrique",
+            "slug": "france-medias-monde-archives-dafrique?episode=2020-08-14-archives-dafrique-omar-bongo-largentier-de-la-francafrique-78"
         },
         {
             "title": "Archives d'Afrique - Omar Bongo, pilier de l'Afrique (5&6)",
@@ -162,7 +178,8 @@
             "description": "\nC’est l’histoire d’un chef bantou qui, du haut de son mètre 51, menaçait tout simplement de faire sauter la Ve République française. C’est l’histoire d’un homme de réseau qui est parvenu à installer sur la carte du monde, en gras, un petit territoire de 267 000 km², situé en plein cœur de la forêt équatoriale qui compte à peine plus d’un million d’habitants. C’est l’histoire d’Omar Bongo Ondimba du Gabon.\n",
             "duration": "00:49:00",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/aod-rfi.akamaized.net/rfi/francais/audio/magazines/r247/archives_d_afrique_20200808.mp3",
-            "slug": "France%2520M%25C3%25A9dias%2520Monde%253AArchives%2520d'Afrique?episode=Archives%20d'Afrique%20-%20Omar%20Bongo%2C%20pilier%20de%20l'Afrique%20(5%266)"
+            "podcast": "france-medias-monde-archives-dafrique",
+            "slug": "france-medias-monde-archives-dafrique?episode=2020-08-07-archives-dafrique-omar-bongo-pilier-de-lafrique-56"
         },
         {
             "title": "Archives d'Afrique - L'émancipation d'Omar Bongo (3&4)",
@@ -171,7 +188,8 @@
             "description": "\nC’est l’histoire d’un chef bantou qui, du haut de son mètre 51, menaçait tout simplement de faire sauter la Ve République française. C’est l’histoire d’un homme de réseau qui est parvenu à installer sur la carte du monde en gras un petit territoire de 267 000 km² situé en plein cœur de la forêt équatoriale qui compte à peine plus d’un million d’habitants. C’est l’histoire d’Omar Bongo Ondimba du Gabon.\n",
             "duration": "00:49:00",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/aod-rfi.akamaized.net/rfi/francais/audio/magazines/r247/archives_d_afrique_20200801.mp3",
-            "slug": "France%2520M%25C3%25A9dias%2520Monde%253AArchives%2520d'Afrique?episode=Archives%20d'Afrique%20-%20L'%C3%A9mancipation%20d'Omar%20Bongo%20(3%264)"
+            "podcast": "france-medias-monde-archives-dafrique",
+            "slug": "france-medias-monde-archives-dafrique?episode=2020-07-31-archives-dafrique-lemancipation-domar-bongo-34"
         },
         {
             "title": "Archives d'Afrique - L’entrée en politique d’Albert-Bernard Bongo (1&2) ",
@@ -180,7 +198,8 @@
             "description": "\nC’est l’histoire d’un chef bantou qui, du haut de son mètre 51, menaçait tout simplement de faire sauter la Ve République française. C’est l’histoire d’un homme de réseau qui est parvenu à installer sur la carte du monde en gras un petit territoire de 267 000 km² situé en plein cœur de la forêt équatoriale qui compte à peine plus d’un million d’habitants. C’est l’histoire d’Omar Bongo Ondimba du Gabon.\n",
             "duration": "00:49:00",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/aod-rfi.akamaized.net/rfi/francais/audio/magazines/r246/archives_d_afrique_20200725.mp3",
-            "slug": "France%2520M%25C3%25A9dias%2520Monde%253AArchives%2520d'Afrique?episode=Archives%20d'Afrique%20-%20L%E2%80%99entr%C3%A9e%20en%20politique%20d%E2%80%99Albert-Bernard%20Bongo%20(1%262)%20"
+            "podcast": "france-medias-monde-archives-dafrique",
+            "slug": "france-medias-monde-archives-dafrique?episode=2020-07-15-archives-dafrique-lentree-en-politique-dalbert-bernard-bongo-12"
         },
         {
             "title": "Archives d'Afrique - Alphonse Massamba-Débat: la réhabilitation (7&8)",
@@ -189,7 +208,8 @@
             "description": "\nPersonnalité incontournable du paysage congolais, Alphonse Massamba-Débat a marqué l'histoire de l'indépendance de son pays. Appelé aux plus hautes fonctions suite à la démission forcée de Fulbert Youlou en 1963, il sera lui-même contraint de quitter son poste, cinq ans plus tard, à la faveur de Marien Ngouabi. Alphonse Massamba-Débat sera rendu responsable de l'assassinat de ce dernier, condamné et exécuté le 25 mars 1977.\n",
             "duration": "00:49:00",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/aod-rfi.akamaized.net/rfi/francais/audio/magazines/r246/archives_d_afrique_20200718.mp3",
-            "slug": "France%2520M%25C3%25A9dias%2520Monde%253AArchives%2520d'Afrique?episode=Archives%20d'Afrique%20-%20Alphonse%20Massamba-D%C3%A9bat%3A%20la%20r%C3%A9habilitation%20(7%268)"
+            "podcast": "france-medias-monde-archives-dafrique",
+            "slug": "france-medias-monde-archives-dafrique?episode=2020-07-13-archives-dafrique-alphonse-massamba-debat-la-rehabilitation-78"
         },
         {
             "title": "Archives d'Afrique - La chute d'Alphonse Massamba-Débat (5&6)",
@@ -198,7 +218,8 @@
             "description": "\nPersonnalité incontournable du paysage congolais, Alphonse Massamba-Débat a marqué l'histoire de l'indépendance de son pays. Appelé aux plus hautes fonctions suite à la démission forcée de Fulbert Youlou en 1963, il sera lui-même contraint de quitter son poste cinq ans plus tard à la faveur de Marien Ngouabi. Alphonse Massamba-Débat sera rendu responsable de l'assassinat de ce dernier, condamné et exécuté le 25 mars 1977.\n",
             "duration": "00:49:00",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/aod-rfi.akamaized.net/rfi/francais/audio/magazines/r246/archives_d_afrique_20200711.mp3",
-            "slug": "France%2520M%25C3%25A9dias%2520Monde%253AArchives%2520d'Afrique?episode=Archives%20d'Afrique%20-%20La%20chute%20d'Alphonse%20Massamba-D%C3%A9bat%20(5%266)"
+            "podcast": "france-medias-monde-archives-dafrique",
+            "slug": "france-medias-monde-archives-dafrique?episode=2020-07-08-archives-dafrique-la-chute-dalphonse-massamba-debat-56"
         },
         {
             "title": "Archives d'Afrique - Le virage à gauche d'Alphonse Massamba-Débat (3&4)",
@@ -207,7 +228,8 @@
             "description": "\nPersonnalité incontournable du paysage congolais, Alphonse Massamba-Débat a marqué l'histoire de l'indépendance de son pays. Appelé aux plus hautes fonctions suite à la démission forcée de Fulbert Youlou en 1963, il sera lui-même contraint de quitter son poste cinq ans plus tard à la faveur de Marien Ngouabi. Alphonse Massamba-Débat sera rendu responsable de l'assassinat de ce dernier, condamné et exécuté le 25 mars 1977.\n",
             "duration": "00:39:00",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/aod-rfi.akamaized.net/rfi/francais/audio/modules/actu/202007/ARCHIVES_AFRIQUE_04072020_OK.mp3",
-            "slug": "France%2520M%25C3%25A9dias%2520Monde%253AArchives%2520d'Afrique?episode=Archives%20d'Afrique%20-%20Le%20virage%20%C3%A0%20gauche%20d'Alphonse%20Massamba-D%C3%A9bat%20(3%264)"
+            "podcast": "france-medias-monde-archives-dafrique",
+            "slug": "france-medias-monde-archives-dafrique?episode=2020-07-01-archives-dafrique-le-virage-a-gauche-dalphonse-massamba-debat-34"
         },
         {
             "title": "Archives d'Afrique - Alphonse Massamba-Débat et la révolution dite des «Trois Glorieuses» (1&2)",
@@ -216,7 +238,8 @@
             "description": "\nPersonnalité incontournable du paysage congolais, Alphonse Massamba-Débat a marqué l'histoire de l'indépendance de son pays. Appelé aux plus hautes fonctions suite à la démission forcée de Fulbert Youlou en 1963, il sera lui-même contraint de quitter son poste, cinq ans plus tard à la faveur de Marien Ngouabi. Alphonse Massamba-Débat sera rendu responsable de l'assassinat de ce dernier, condamné et exécuté le 25 mars 1977.\n",
             "duration": "00:49:00",
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/aod-rfi.akamaized.net/rfi/francais/audio/magazines/r245/archives_d_afrique_20200627.mp3",
-            "slug": "France%2520M%25C3%25A9dias%2520Monde%253AArchives%2520d'Afrique?episode=Archives%20d'Afrique%20-%20Alphonse%20Massamba-D%C3%A9bat%20et%20la%20r%C3%A9volution%20dite%20des%20%C2%ABTrois%20Glorieuses%C2%BB%20(1%262)"
+            "podcast": "france-medias-monde-archives-dafrique",
+            "slug": "france-medias-monde-archives-dafrique?episode=2020-06-25-archives-dafrique-alphonse-massamba-debat-et-la-revolution-dite-des-trois-glorieuses-12"
         }
     ]
 }

@@ -9,7 +9,7 @@
         "Society & Culture"
     ],
     "image": "https://images.megaphone.fm/YeQsRPRSoxTaowy6A_L6KXBq2i-OlvZKfpJJb8NpDso/plain/s3://megaphone-prod/podcasts/71eb829e-2590-11e8-b097-dfa015e362fe/image/uploads_2F1520816284048-cd0rmow3p7w-adabf4a947ed00248fb4a2c2d38d72fd_2FHSW_SOL_1600x1600.jpg",
-    "slug": "iHeartRadio%20%26%20HowStuffWorks%3AThe%20Stuff%20of%20Life",
+    "slug": "iheartradio-howstuffworks-the-stuff-of-life",
     "episodes": [
         {
             "title": "Wired: As Above, So Below",
@@ -20,7 +20,8 @@
             "sourceUrl": "https://www.podtrac.com/pts/redirect.mp3/chtbl.com/track/5899E/traffic.megaphone.fm/HSW2753687634.mp3",
             "snNo": "2",
             "epNo": "11",
-            "slug": "iHeartRadio%2520%2526%2520HowStuffWorks%253AThe%2520Stuff%2520of%2520Life?episode=Wired%3A%20As%20Above%2C%20So%20Below"
+            "podcast": "iheartradio-howstuffworks-the-stuff-of-life",
+            "slug": "iheartradio-howstuffworks-the-stuff-of-life?episode=2017-05-19-wired-as-above-so-below"
         },
         {
             "title": "Haunted",
@@ -31,7 +32,8 @@
             "sourceUrl": "https://www.podtrac.com/pts/redirect.mp3/chtbl.com/track/5899E/traffic.megaphone.fm/HSW1551574700.mp3",
             "snNo": "2",
             "epNo": "10",
-            "slug": "iHeartRadio%2520%2526%2520HowStuffWorks%253AThe%2520Stuff%2520of%2520Life?episode=Haunted"
+            "podcast": "iheartradio-howstuffworks-the-stuff-of-life",
+            "slug": "iheartradio-howstuffworks-the-stuff-of-life?episode=2017-05-12-haunted"
         },
         {
             "title": "Studies in Desperation",
@@ -42,7 +44,8 @@
             "sourceUrl": "https://www.podtrac.com/pts/redirect.mp3/chtbl.com/track/5899E/traffic.megaphone.fm/HSW3670271712.mp3",
             "snNo": "2",
             "epNo": "9",
-            "slug": "iHeartRadio%2520%2526%2520HowStuffWorks%253AThe%2520Stuff%2520of%2520Life?episode=Studies%20in%20Desperation"
+            "podcast": "iheartradio-howstuffworks-the-stuff-of-life",
+            "slug": "iheartradio-howstuffworks-the-stuff-of-life?episode=2017-05-05-studies-in-desperation"
         },
         {
             "title": "The Nostalgia Factory",
@@ -53,7 +56,8 @@
             "sourceUrl": "https://www.podtrac.com/pts/redirect.mp3/chtbl.com/track/5899E/traffic.megaphone.fm/HSW3282307948.mp3",
             "snNo": "2",
             "epNo": "8",
-            "slug": "iHeartRadio%2520%2526%2520HowStuffWorks%253AThe%2520Stuff%2520of%2520Life?episode=The%20Nostalgia%20Factory"
+            "podcast": "iheartradio-howstuffworks-the-stuff-of-life",
+            "slug": "iheartradio-howstuffworks-the-stuff-of-life?episode=2017-04-28-the-nostalgia-factory"
         },
         {
             "title": "Teen Dream",
@@ -64,7 +68,8 @@
             "sourceUrl": "https://www.podtrac.com/pts/redirect.mp3/chtbl.com/track/5899E/traffic.megaphone.fm/HSW5969540969.mp3",
             "snNo": "2",
             "epNo": "7",
-            "slug": "iHeartRadio%2520%2526%2520HowStuffWorks%253AThe%2520Stuff%2520of%2520Life?episode=Teen%20Dream"
+            "podcast": "iheartradio-howstuffworks-the-stuff-of-life",
+            "slug": "iheartradio-howstuffworks-the-stuff-of-life?episode=2017-04-21-teen-dream"
         },
         {
             "title": "Special Announcement: It's All Odin's Fault",
@@ -75,7 +80,8 @@
             "sourceUrl": "https://www.podtrac.com/pts/redirect.mp3/chtbl.com/track/5899E/traffic.megaphone.fm/HSW5006991189.mp3",
             "snNo": "2",
             "epNo": "6",
-            "slug": "iHeartRadio%2520%2526%2520HowStuffWorks%253AThe%2520Stuff%2520of%2520Life?episode=Special%20Announcement%3A%20It's%20All%20Odin's%20Fault"
+            "podcast": "iheartradio-howstuffworks-the-stuff-of-life",
+            "slug": "iheartradio-howstuffworks-the-stuff-of-life?episode=2017-04-19-special-announcement-its-all-odins-fault"
         },
         {
             "title": "Men Dancing",
@@ -86,7 +92,8 @@
             "sourceUrl": "https://www.podtrac.com/pts/redirect.mp3/chtbl.com/track/5899E/traffic.megaphone.fm/HSW9338816551.mp3",
             "snNo": "2",
             "epNo": "5",
-            "slug": "iHeartRadio%2520%2526%2520HowStuffWorks%253AThe%2520Stuff%2520of%2520Life?episode=Men%20Dancing"
+            "podcast": "iheartradio-howstuffworks-the-stuff-of-life",
+            "slug": "iheartradio-howstuffworks-the-stuff-of-life?episode=2017-04-12-men-dancing"
         },
         {
             "title": "The Empathy Wall",
@@ -97,7 +104,8 @@
             "sourceUrl": "https://www.podtrac.com/pts/redirect.mp3/chtbl.com/track/5899E/traffic.megaphone.fm/HSW6686463626.mp3",
             "snNo": "2",
             "epNo": "4",
-            "slug": "iHeartRadio%2520%2526%2520HowStuffWorks%253AThe%2520Stuff%2520of%2520Life?episode=The%20Empathy%20Wall"
+            "podcast": "iheartradio-howstuffworks-the-stuff-of-life",
+            "slug": "iheartradio-howstuffworks-the-stuff-of-life?episode=2017-04-05-the-empathy-wall"
         },
         {
             "title": "The Great Escape",
@@ -108,7 +116,8 @@
             "sourceUrl": "https://www.podtrac.com/pts/redirect.mp3/chtbl.com/track/5899E/traffic.megaphone.fm/HSW1775144293.mp3",
             "snNo": "2",
             "epNo": "3",
-            "slug": "iHeartRadio%2520%2526%2520HowStuffWorks%253AThe%2520Stuff%2520of%2520Life?episode=The%20Great%20Escape"
+            "podcast": "iheartradio-howstuffworks-the-stuff-of-life",
+            "slug": "iheartradio-howstuffworks-the-stuff-of-life?episode=2017-03-29-the-great-escape"
         },
         {
             "title": "The Big Hurt: Hate & Anger",
@@ -119,7 +128,8 @@
             "sourceUrl": "https://www.podtrac.com/pts/redirect.mp3/chtbl.com/track/5899E/traffic.megaphone.fm/HSW5687419287.mp3",
             "snNo": "2",
             "epNo": "2",
-            "slug": "iHeartRadio%2520%2526%2520HowStuffWorks%253AThe%2520Stuff%2520of%2520Life?episode=The%20Big%20Hurt%3A%20Hate%20%26%20Anger"
+            "podcast": "iheartradio-howstuffworks-the-stuff-of-life",
+            "slug": "iheartradio-howstuffworks-the-stuff-of-life?episode=2017-03-22-the-big-hurt-hate-anger"
         },
         {
             "title": "Broken",
@@ -130,7 +140,8 @@
             "sourceUrl": "https://www.podtrac.com/pts/redirect.mp3/chtbl.com/track/5899E/traffic.megaphone.fm/HSW2146415484.mp3",
             "snNo": "2",
             "epNo": "1",
-            "slug": "iHeartRadio%2520%2526%2520HowStuffWorks%253AThe%2520Stuff%2520of%2520Life?episode=Broken"
+            "podcast": "iheartradio-howstuffworks-the-stuff-of-life",
+            "slug": "iheartradio-howstuffworks-the-stuff-of-life?episode=2017-03-15-broken"
         },
         {
             "title": "Life the Game",
@@ -141,7 +152,8 @@
             "sourceUrl": "https://www.podtrac.com/pts/redirect.mp3/chtbl.com/track/5899E/traffic.megaphone.fm/HSW4646971317.mp3",
             "snNo": "1",
             "epNo": "10",
-            "slug": "iHeartRadio%2520%2526%2520HowStuffWorks%253AThe%2520Stuff%2520of%2520Life?episode=Life%20the%20Game"
+            "podcast": "iheartradio-howstuffworks-the-stuff-of-life",
+            "slug": "iheartradio-howstuffworks-the-stuff-of-life?episode=2016-03-30-life-the-game"
         },
         {
             "title": "The First Songs",
@@ -152,7 +164,8 @@
             "sourceUrl": "https://www.podtrac.com/pts/redirect.mp3/chtbl.com/track/5899E/traffic.megaphone.fm/HSW4063277603.mp3",
             "snNo": "1",
             "epNo": "9",
-            "slug": "iHeartRadio%2520%2526%2520HowStuffWorks%253AThe%2520Stuff%2520of%2520Life?episode=The%20First%20Songs"
+            "podcast": "iheartradio-howstuffworks-the-stuff-of-life",
+            "slug": "iheartradio-howstuffworks-the-stuff-of-life?episode=2016-03-23-the-first-songs"
         },
         {
             "title": "Under the Weather",
@@ -163,7 +176,8 @@
             "sourceUrl": "https://www.podtrac.com/pts/redirect.mp3/chtbl.com/track/5899E/traffic.megaphone.fm/HSW2041003259.mp3",
             "snNo": "1",
             "epNo": "8",
-            "slug": "iHeartRadio%2520%2526%2520HowStuffWorks%253AThe%2520Stuff%2520of%2520Life?episode=Under%20the%20Weather"
+            "podcast": "iheartradio-howstuffworks-the-stuff-of-life",
+            "slug": "iheartradio-howstuffworks-the-stuff-of-life?episode=2016-03-16-under-the-weather"
         },
         {
             "title": "Map of Self",
@@ -174,7 +188,8 @@
             "sourceUrl": "https://www.podtrac.com/pts/redirect.mp3/chtbl.com/track/5899E/traffic.megaphone.fm/HSW3755696255.mp3",
             "snNo": "1",
             "epNo": "7",
-            "slug": "iHeartRadio%2520%2526%2520HowStuffWorks%253AThe%2520Stuff%2520of%2520Life?episode=Map%20of%20Self"
+            "podcast": "iheartradio-howstuffworks-the-stuff-of-life",
+            "slug": "iheartradio-howstuffworks-the-stuff-of-life?episode=2016-03-09-map-of-self"
         },
         {
             "title": "Mourner for Hire",
@@ -185,7 +200,8 @@
             "sourceUrl": "https://www.podtrac.com/pts/redirect.mp3/chtbl.com/track/5899E/traffic.megaphone.fm/HSW2356734990.mp3",
             "snNo": "1",
             "epNo": "6",
-            "slug": "iHeartRadio%2520%2526%2520HowStuffWorks%253AThe%2520Stuff%2520of%2520Life?episode=Mourner%20for%20Hire"
+            "podcast": "iheartradio-howstuffworks-the-stuff-of-life",
+            "slug": "iheartradio-howstuffworks-the-stuff-of-life?episode=2016-03-02-mourner-for-hire"
         },
         {
             "title": "Life at the Death Café",
@@ -196,7 +212,8 @@
             "sourceUrl": "https://www.podtrac.com/pts/redirect.mp3/chtbl.com/track/5899E/traffic.megaphone.fm/HSW5640893536.mp3",
             "snNo": "1",
             "epNo": "5",
-            "slug": "iHeartRadio%2520%2526%2520HowStuffWorks%253AThe%2520Stuff%2520of%2520Life?episode=Life%20at%20the%20Death%20Caf%C3%A9"
+            "podcast": "iheartradio-howstuffworks-the-stuff-of-life",
+            "slug": "iheartradio-howstuffworks-the-stuff-of-life?episode=2016-02-25-life-at-the-death-cafe"
         },
         {
             "title": "An Object Lesson",
@@ -207,7 +224,8 @@
             "sourceUrl": "https://www.podtrac.com/pts/redirect.mp3/chtbl.com/track/5899E/traffic.megaphone.fm/HSW7927097473.mp3",
             "snNo": "1",
             "epNo": "4",
-            "slug": "iHeartRadio%2520%2526%2520HowStuffWorks%253AThe%2520Stuff%2520of%2520Life?episode=An%20Object%20Lesson"
+            "podcast": "iheartradio-howstuffworks-the-stuff-of-life",
+            "slug": "iheartradio-howstuffworks-the-stuff-of-life?episode=2016-02-17-an-object-lesson"
         },
         {
             "title": "Building Eternity",
@@ -218,7 +236,8 @@
             "sourceUrl": "https://www.podtrac.com/pts/redirect.mp3/chtbl.com/track/5899E/traffic.megaphone.fm/HSW8922136877.mp3",
             "snNo": "1",
             "epNo": "3",
-            "slug": "iHeartRadio%2520%2526%2520HowStuffWorks%253AThe%2520Stuff%2520of%2520Life?episode=Building%20Eternity"
+            "podcast": "iheartradio-howstuffworks-the-stuff-of-life",
+            "slug": "iheartradio-howstuffworks-the-stuff-of-life?episode=2016-02-10-building-eternity"
         },
         {
             "title": "Glossophobia: The Fear of Public Speaking",
@@ -229,7 +248,8 @@
             "sourceUrl": "https://www.podtrac.com/pts/redirect.mp3/chtbl.com/track/5899E/traffic.megaphone.fm/HSW5880391328.mp3",
             "snNo": "1",
             "epNo": "2",
-            "slug": "iHeartRadio%2520%2526%2520HowStuffWorks%253AThe%2520Stuff%2520of%2520Life?episode=Glossophobia%3A%20The%20Fear%20of%20Public%20Speaking"
+            "podcast": "iheartradio-howstuffworks-the-stuff-of-life",
+            "slug": "iheartradio-howstuffworks-the-stuff-of-life?episode=2016-02-03-glossophobia-the-fear-of-public-speaking"
         },
         {
             "title": "The Power of Fear",
@@ -240,7 +260,8 @@
             "sourceUrl": "https://www.podtrac.com/pts/redirect.mp3/chtbl.com/track/5899E/traffic.megaphone.fm/HSW1982405413.mp3",
             "snNo": "1",
             "epNo": "1",
-            "slug": "iHeartRadio%2520%2526%2520HowStuffWorks%253AThe%2520Stuff%2520of%2520Life?episode=The%20Power%20of%20Fear"
+            "podcast": "iheartradio-howstuffworks-the-stuff-of-life",
+            "slug": "iheartradio-howstuffworks-the-stuff-of-life?episode=2016-01-27-the-power-of-fear"
         },
         {
             "title": "The Stuff of Life: Episode Zero",
@@ -250,7 +271,8 @@
             "duration": "263",
             "sourceUrl": "https://www.podtrac.com/pts/redirect.mp3/chtbl.com/track/5899E/traffic.megaphone.fm/HSW8230928034.mp3",
             "snNo": "1",
-            "slug": "iHeartRadio%2520%2526%2520HowStuffWorks%253AThe%2520Stuff%2520of%2520Life?episode=The%20Stuff%20of%20Life%3A%20Episode%20Zero"
+            "podcast": "iheartradio-howstuffworks-the-stuff-of-life",
+            "slug": "iheartradio-howstuffworks-the-stuff-of-life?episode=2016-01-25-the-stuff-of-life-episode-zero"
         },
         {
             "title": "The Stuff of Life: Trailer",
@@ -259,7 +281,8 @@
             "description": "The Stuff of Life podcast teases apart the tales we tell — because when we crack open a story and look inside, we see the seeds of what make our world so maddening, so strange and so achingly beautiful.\n Learn more about your ad-choices at https://news.iheart.com/podcast-advertisers",
             "duration": "181",
             "sourceUrl": "https://www.podtrac.com/pts/redirect.mp3/chtbl.com/track/5899E/traffic.megaphone.fm/HSW9096122810.mp3",
-            "slug": "iHeartRadio%2520%2526%2520HowStuffWorks%253AThe%2520Stuff%2520of%2520Life?episode=The%20Stuff%20of%20Life%3A%20Trailer"
+            "podcast": "iheartradio-howstuffworks-the-stuff-of-life",
+            "slug": "iheartradio-howstuffworks-the-stuff-of-life?episode=2016-01-14-the-stuff-of-life-trailer"
         }
     ]
 }
