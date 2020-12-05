@@ -5,6 +5,9 @@ import {
   loadPodcastEpisodesInProgress,
   loadPodcastEpisodesSuccess,
   loadPodcastEpisodesFailure,
+  loadEpisodeInProgress,
+  loadEpisodeSuccess,
+  loadEpisodeFailure,
   playInProgress,
   playSuccess,
   playFailure,
@@ -40,6 +43,19 @@ export const loadPodcastEpisodes = (slug) => async (dispatch, getState) => {
   } catch (error) {
     console.log(error);
     dispatch(loadPodcastEpisodesFailure());
+  }
+};
+export const loadEpisode = (slug) => async (dispatch, getState) => {
+  try {
+    dispatch(loadEpisodeInProgress(slug));
+
+    const result = await fetch(`/podcast/episode/${slug}`);
+    const podcast = await result.json();
+
+    dispatch(loadEpisodeSuccess(podcast));
+  } catch (error) {
+    console.log(error);
+    dispatch(loadEpisodeFailure());
   }
 };
 

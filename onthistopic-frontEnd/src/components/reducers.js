@@ -10,6 +10,9 @@ import {
   LOAD_PODCAST_EPISODES_IN_PROGRESS,
   LOAD_PODCAST_EPISODES_SUCCESS,
   LOAD_PODCAST_EPISODES_FAILURE,
+  LOAD_EPISODE_IN_PROGRESS,
+  LOAD_EPISODE_SUCCESS,
+  LOAD_EPISODE_FAILURE,
   PLAY_IN_PROGRESS,
   PLAY_SUCCESS,
   PLAY_FAILURE,
@@ -21,6 +24,7 @@ import {
 const initialState = {
   isLoading: false,
   isLoadingPod: false,
+  isLoadingEpisode: false,
   podcasts: [],
   podcast: [],
   player: {
@@ -30,6 +34,7 @@ const initialState = {
     switching: false,
     volume: 1,
   },
+  episode: {},
   user: { loggedIn: false, statusUpdated: true },
 };
 
@@ -83,7 +88,30 @@ export const podcasts = (state = initialState, action) => {
       return { ...state };
   }
 };
-
+export const episode = (state = initialState, action) => {
+  const { type, payload } = action;
+  switch (type) {
+    case LOAD_EPISODE_SUCCESS:
+      const { episode } = payload;
+      return {
+        ...state,
+        isLoadingEpisode: false,
+        episode: episode,
+      };
+    case LOAD_EPISODE_IN_PROGRESS:
+      return {
+        ...state,
+        isLoadingEpisode: true,
+      };
+    case LOAD_EPISODE_FAILURE:
+      return {
+        ...state,
+        isLoadingEpisode: false,
+      };
+    default:
+      return { ...state };
+  }
+};
 export const player = (state = initialState, action) => {
   const { type, payload } = action;
   switch (type) {

@@ -23,11 +23,11 @@ const Episode = ({ episode, isLoadingEpisode, startLoadingEpisode }) => {
     });
     return element;
   }
-  const loadingMessage = <div>Loading Podcasts...</div>;
+  const loadingMessage = <div>Loading Episode...</div>;
   const PodPage = (
     <div>
       <Header />
-      <div className="podInfo">
+      {/* <div className="podInfo">
         <div>
           <img src={episode.image} alt={episode.title} />
         </div>
@@ -36,7 +36,7 @@ const Episode = ({ episode, isLoadingEpisode, startLoadingEpisode }) => {
           <h2>{episode.title}</h2>
           <div id="target">{parsethisHtml(episode.description)}</div>
         </div>
-      </div>
+      </div> */}
     </div>
   );
   return isLoadingEpisode ? loadingMessage : PodPage;

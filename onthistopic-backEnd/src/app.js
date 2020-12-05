@@ -124,6 +124,8 @@ app.get("/allpodcasts", async function (req, res) {
  * Get one podcast with a list of episodes
  */
 app.get("/podcast/:slug", async function (req, res) {
+  console.log("getting podcast");
+
   try {
     const slug = req.params.slug;
     const pod = await Podcast.findOne({ slug: encodeURIComponent(slug) });
@@ -190,11 +192,15 @@ app.post("/podcast", function (req, res) {
   });
 });
 
-app.get("/podcast/:podcast/:episode", async function (req, res) {
+app.get("/podcast/:podcast/?episode", async function (req, res) {
   try {
+    console.log(req);
     const slug = req.params;
-    console.log(slug);
+    console.log("-----------------");
+    console.log(slug.episode);
     const pod = await Podcast.findOne({ slug: slug });
+    console.log("-----------------");
+
     console.log(slug);
     res.json(pod);
   } catch (error) {

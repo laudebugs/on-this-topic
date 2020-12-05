@@ -41,6 +41,22 @@ export const LOAD_PODCASTS_FAILURE = "LOAD_PODCASTS_FAILURE";
 export const loadPodcastsFailure = () => ({
   type: LOAD_PODCASTS_FAILURE,
 });
+// actions for a podcast episode
+export const LOAD_EPISODE_IN_PROGRESS = "LOAD_EPISODE_IN_PROGRESS";
+export const loadEpisodeInProgress = () => ({
+  type: LOAD_EPISODE_IN_PROGRESS,
+});
+
+export const LOAD_EPISODE_SUCCESS = "LOAD_EPISODE_SUCCESS";
+export const loadEpisodeSuccess = (podcasts) => ({
+  type: LOAD_EPISODE_SUCCESS,
+  payload: { podcasts },
+});
+
+export const LOAD_EPISODE_FAILURE = "LOAD_EPISODE_FAILURE";
+export const loadEpisodeFailure = () => ({
+  type: LOAD_EPISODE_FAILURE,
+});
 export const LOAD_PODCAST_EPISODES_IN_PROGRESS =
   "LOAD_PODCAST_EPISODES_IN_PROGRESS";
 export const loadPodcastEpisodesInProgress = () => ({
