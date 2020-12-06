@@ -7,18 +7,25 @@ import { connect } from "react-redux";
 import { loadEpisode } from "../components/thunks";
 
 import Header from "../components/Header";
-import { getEpisode, getIsLoadingEpisode } from "../components/selectors";
+import {
+  getEpisode,
+  getIsLoadingEpisode,
+  getPodcast,
+} from "../components/selectors";
 
-const Episode = ({ episode, isLoadingEpisode, startLoadingEpisode }) => {
+const Episode = ({ podcast, episode, startLoadingEpisode }) => {
   const params = QueryString.parse(window.location.search);
   let { slug } = useParams();
+  const [thisEp, setThisEp] = useState(episode);
+  const [loaded, setLoaded] = useState(false);
 
   useEffect(() => {
-    console.log(episode);
     startLoadingEpisode(
       `${slug}?episode=${encodeURIComponent(params.episode)}`
     );
-  }, []);
+    setLoaded(true);
+  }, [loaded]);
+  if (episode.episode !== undefined) console.log(episode.episode.episode);
   function parsethisHtml(this_html) {
     var element;
     $("document").ready(function () {
@@ -28,29 +35,36 @@ const Episode = ({ episode, isLoadingEpisode, startLoadingEpisode }) => {
     });
     return element;
   }
-  const loadingMessage = <div>Loading Episode...</div>;
-  const PodPage = (
-    <div>
-      <Header />
-      <div className="podInfo">
-        {/* <div>
-          <img src={episotde.image} alt={episode.title} />
-        </div> */}
+  if (episode.episode !== undefined) {
+    return (
+      <div>
+        <Header />
+        <div className="podInfo">
+          <div>
+            <img
+              src={episode.episode.episode.image}
+              alt={episode.episode.episode.title}
+            />
+          </div>
 
-        <div className="description">
-          <h2>{episode.title}</h2>
-          <div id="target">{parsethisHtml(episode.description)}</div>
+          <div className="description">
+            <h2>{episode.episode.episode.title}</h2>
+            <div id="target">
+              {parsethisHtml(episode.episode.episode.description)}
+            </div>
+          </div>
         </div>
       </div>
-    </div>
-  );
-  return isLoadingEpisode ? loadingMessage : PodPage;
+    );
+  } else {
+    return <div>Loading Episode...</div>;
+  }
 };
 
 const mapStateToProps = (state) => ({
   // Find a way to filter this podcast from others that have been loaded
   episode: getEpisode(state),
-  isLoadingPod: getIsLoadingEpisode(state),
+  podcast: getPodcast(state),
 });
 
 const mapDispatchToProps = (dispatch) => ({

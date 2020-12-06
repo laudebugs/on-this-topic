@@ -195,12 +195,9 @@ app.post("/podcast", function (req, res) {
 app.get("/podcast/episode/:podcast", async function (req, res) {
   // console.log(req.params.podcast);
   // console.log(req.query.episode);
-  const slug = `${encodeURIComponent(
-    req.params.podcast
-  )}?episode=${encodeURIComponent(req.query.episode)}`;
+  const slug = `${req.params.podcast}?episode=${req.query.episode}`;
   try {
     const pod = await Episode.findOne({ slug: slug });
-    console.log(pod);
     res.json(pod);
   } catch (error) {
     console.log(error);
@@ -208,71 +205,66 @@ app.get("/podcast/episode/:podcast", async function (req, res) {
   }
 });
 
-app.get("/podcast/episodes/:podcast_id", async function (req, res) {
-  let pod_id = req.params.podcast_id;
-  let episodes = [];
-  console.log(pod_id);
-  let thisPod = await Podcast.findOne({ _id: pod_id });
-  console.log(thisPod);
-  /*
-  async function getPods() {
-    thisPod.episodes
-      .map(async (ep_id) => {
-        let thieEP = await Episode.findOne({ _id: ep_id });
-        // console.log(ep_id);
-        episodes.push(thieEP);
-        return episodes;
-      })
-      .then((result) => {
-        console.log(result);
-      })
-      .catch((err) => {
-        console.log(err);
+app.post("/like/episode", async (req, res) => {
+  let pod = req.body.podcastId;
+  let liked = false;
+  try {
+    const thisUser = await User.findById(req.user._id);
+    const episode = await Episode.findById(pod);
 
-  let getPod = new Promise(function (resolve, reject) {
-    Podcast.findOne({ _id: pod_id }, (error, result) => {
-      if (error) reject(res.send("error finding podcast"));
-      else resolve(result);
-    });
-  });
+    if (thisUser.podcastLikes.includes(pod)) {
+      let pods = thisUser.podcastLikes;
+      for (var j = 0; j < pods.length; j++) {
+        if (String(pods[j]) === pod) {
+          pods.splice(j, 1);
+        }
+      }
+      liked = false;
+      thisUser.podcastLikes = pods;
+      // Update number of likes for episode
+      let epLikes = episode.likes;
+      epLikes.splice(thisUser._id);
+      episode.likes = epLikes;
+    } else {
+      liked = true;
 
-  getPod
-    .then((pod) => {
-      console.log(pod.episodes.length);
-      let eps = pod.episodes;
-      Promise.all(
-        eps.map((e_id) => {
-          getEpisode(e_id);
-        })
-      )
-        .then((result) => {
-          console.log(result);
-        })
-        .catch((er) => {
-          console.log(er);
-        });
-    })
-    .catch((error) => {
-      console.log(error);
-    });
-  function getEpisode(ep_id) {
-    return new Promise(function (resolve, reject) {
-      Episode.findOne({ _id: ep_id }, (error, result) => {
-        if (error) reject(res.send("error finding podcast"));
-        console.log("getting result");
-        return result;
-      });
-    });
+      await thisUser.podcastLikes.push(pod);
+      // Update number of likes for episode
+      let epLikes = episode.likes;
+      epLikes.push(thisUser._id);
+      episode.likes = epLikes;
+    }
+
+    // User.update({ _id: req.user._id }, { $push: { podcastLikes: { pod } } });
+    thisUser.save();
+    episode.save();
+  } catch (error) {
+    console.log(error);
   }
-  getPods().then(function (err, result) {
-    if (err) console.log(err);
-    console.log("here");
-  });
-  res.send(episodes);
-  */
-  // res.send(episodes);
+
+  res.json({ liked: liked });
 });
 
+/**
+ * The like button is active if the user is logged in and has liked the episode
+ */
+app.get("/like/episode/:ep_id", async (req, res) => {
+  const ep_id = req.params.ep_id;
+  let liked = false;
+  try {
+    if (req.user !== undefined) {
+      const usr = await User.findById(req.user._id);
+      let arr = usr.podcastLikes;
+
+      if (arr.includes(mongoose.Types.ObjectId(ep_id))) {
+        liked = true;
+      }
+    }
+    res.json({ liked: liked });
+  } catch (error) {
+    res.json({ liked: false });
+  }
+});
 /**
  * Get the comments for a podcast episode
  * Each

@@ -341,6 +341,9 @@ div.icon > svg {
   fill: #050a30;
   fill-opacity: 1;
 }
+div.icon > svg:hover {
+  cursor: pointer;
+}
 #like {
   stroke: #050a30;
   stroke-width: 12px;

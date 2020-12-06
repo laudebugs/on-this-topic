@@ -46,6 +46,7 @@ const User = new Schema(
       people: [{ type: Schema.Types.ObjectId, ref: "Person" }],
       locations: [{ type: Schema.Types.ObjectId, ref: "Location" }],
     },
+    podcastLikes: [{ type: Schema.Types.ObjectId, ref: "Podcast" }],
   },
   {
     timestamps: true,

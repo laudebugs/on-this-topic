@@ -34,7 +34,7 @@ export default connect(
     <div
       className="icon pause"
       onClick={() => {
-        onCreatePressed(episode);
+        // onCreatePressed(episode);
         onPlayPause();
       }}
     >
@@ -51,7 +51,7 @@ export default connect(
       className="icon playPause"
       draggable="true"
       onClick={() => {
-        onCreatePressed(episode);
+        if (player.playing.episode !== episode) onCreatePressed(episode);
         if (player.playingSth) onPlayPause();
       }}
     >
@@ -67,7 +67,7 @@ export default connect(
    */
   const [icon, setIcon] = useState(Play);
   useEffect(() => {
-    if (player.playing === episode) {
+    if (player.playing.episode === episode) {
       if (!player.pause) {
         setIcon(Pause);
       } else {

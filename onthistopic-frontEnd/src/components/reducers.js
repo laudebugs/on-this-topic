@@ -22,11 +22,15 @@ import {
   STATUS_SUCCESS,
 } from "./actions";
 const initialState = {
-  isLoading: false,
-  isLoadingPod: false,
-  isLoadingEpisode: false,
-  podcasts: [],
-  podcast: [],
+  podcasts: {
+    isLoading: false,
+  },
+  podcast: {
+    isLoading: false,
+  },
+  episode: {
+    isLoading: false,
+  },
   player: {
     playing: {},
     playingSth: false,
@@ -34,7 +38,6 @@ const initialState = {
     switching: false,
     volume: 1,
   },
-  episode: {},
   user: { loggedIn: false, statusUpdated: true },
 };
 
@@ -43,21 +46,23 @@ export const podcast = (state = initialState, action) => {
   const { type, payload } = action;
   switch (type) {
     case LOAD_PODCAST_EPISODES_SUCCESS:
-      const { podcast } = payload;
+      const pod = payload;
       return {
         ...state,
-        isLoadingPod: false,
-        podcast: podcast,
+        podcast: {
+          isLoading: false,
+          podcast: pod,
+        },
       };
     case LOAD_PODCAST_EPISODES_IN_PROGRESS:
       return {
         ...state,
-        isLoadingPod: true,
+        podcast: { ...state.podcast, isLoading: true },
       };
     case LOAD_PODCAST_EPISODES_FAILURE:
       return {
         ...state,
-        isLoadingPod: false,
+        podcast: { ...state.podcast, isLoading: false },
       };
     default:
       return { ...state };
@@ -66,23 +71,32 @@ export const podcast = (state = initialState, action) => {
 
 export const podcasts = (state = initialState, action) => {
   const { type, payload } = action;
+
   switch (type) {
     case LOAD_PODCASTS_SUCCESS:
-      const { podcasts } = payload;
+      const pods = payload.podcasts;
       return {
         ...state,
-        isLoading: false,
-        podcasts: podcasts,
+        podcasts: {
+          isLoading: false,
+          podcasts: pods,
+        },
       };
     case LOAD_PODCASTS_IN_PROGRESS:
       return {
         ...state,
-        isLoading: true,
+        podcasts: {
+          ...state,
+          isLoading: true,
+        },
       };
     case LOAD_PODCASTS_FAILURE:
       return {
         ...state,
-        isLoading: false,
+        podcasts: {
+          ...state,
+          isLoading: false,
+        },
       };
     default:
       return { ...state };
@@ -92,21 +106,28 @@ export const episode = (state = initialState, action) => {
   const { type, payload } = action;
   switch (type) {
     case LOAD_EPISODE_SUCCESS:
-      const { ep } = payload;
+      const ep = payload;
+      console.log(ep);
       return {
         ...state,
-        isLoadingEpisode: false,
-        episode: ep,
+        episode: {
+          isLoading: false,
+          episode: ep,
+        },
       };
     case LOAD_EPISODE_IN_PROGRESS:
       return {
         ...state,
-        isLoadingEpisode: true,
+        episode: {
+          isLoading: true,
+        },
       };
     case LOAD_EPISODE_FAILURE:
       return {
         ...state,
-        isLoadingEpisode: false,
+        episode: {
+          isLoading: false,
+        },
       };
     default:
       return { ...state };
@@ -116,16 +137,16 @@ export const player = (state = initialState, action) => {
   const { type, payload } = action;
   switch (type) {
     case SET_VOLUME:
-      const { volume } = payload;
+      const volume = payload;
       return {
         ...state,
         player: { ...state.player, volume: volume },
       };
     case PLAY_EPISODE:
-      const { episode } = payload;
+      const ep = payload;
       return {
         ...state,
-        player: { ...state.player, playing: episode, playingSth: true },
+        player: { ...state.player, playing: ep, playingSth: true },
       };
     case PLAY_SUCCESS:
       const { pause } = payload;
@@ -170,7 +191,7 @@ export const user = (state = initialState, action) => {
         user: { ...state.user, statusUpdated: true },
       };
     case STATUS_SUCCESS:
-      const { status } = payload;
+      const status = payload;
       return {
         ...state,
         user: { ...state.user, loggedIn: status, statusUpdated: true },

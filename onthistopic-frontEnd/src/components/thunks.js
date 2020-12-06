@@ -17,7 +17,6 @@ import {
 } from "./actions";
 import $ from "jquery";
 
-import Parser from "rss-parser";
 export const loadPodcasts = () => async (dispatch, getState) => {
   try {
     dispatch(loadPodcastsInProgress());
@@ -25,6 +24,7 @@ export const loadPodcasts = () => async (dispatch, getState) => {
     const result = await fetch(`/allpodcasts`);
 
     const podcasts = await result.json();
+    console.log(podcasts);
     dispatch(loadPodcastsSuccess(podcasts));
   } catch (error) {
     console.log(error);
@@ -38,7 +38,6 @@ export const loadPodcastEpisodes = (slug) => async (dispatch, getState) => {
 
     const result = await fetch(`/podcast/${slug}`);
     const podcast = await result.json();
-
     dispatch(loadPodcastEpisodesSuccess(podcast));
   } catch (error) {
     console.log(error);
@@ -50,8 +49,11 @@ export const loadEpisode = (slug) => async (dispatch, getState) => {
     dispatch(loadEpisodeInProgress(slug));
     const result = await fetch(`/podcast/episode/${slug}`);
     const episode = await result.json();
-    console.log(episode);
-    dispatch(loadEpisodeSuccess(episode));
+    // console.log(episode);
+    if (episode !== undefined) {
+      console.log(episode);
+      dispatch(loadEpisodeSuccess({ ...episode }));
+    }
   } catch (error) {
     console.log(error);
     dispatch(loadEpisodeFailure());
@@ -84,7 +86,6 @@ export const getStatus = () => async (dispatch, getState) => {
     dispatch(statusInProgress());
     let result = await fetch("/loginstatus", { credentials: "include" });
     const status = await result.json();
-    console.log(status);
     dispatch(statusSuccess(status.status));
   } catch (error) {
     dispatch(statusFailure());

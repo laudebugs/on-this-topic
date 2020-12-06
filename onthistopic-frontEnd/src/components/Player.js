@@ -15,7 +15,6 @@ import { setVolume } from "../components/actions";
 import Volume from "./icons/Volume";
 // import Helper Functions
 const HelperFuncs = require("./HelperFuncs");
-
 const mapStateToProps = (state) => ({
   player: getPlayer(state),
 });
@@ -225,17 +224,17 @@ export default connect(
         {volumeBar}
         <div className="player">
           <ReactAudioPlayer
-            src={playThis.sourceUrl}
+            src={playThis.episode.sourceUrl}
             autoPlay={false}
             className="audioHere"
             volume="1"
           />
           <div className="playingTtl">
             <div className="podArt">
-              <img alt={playThis.title} src={playThis.image}></img>
+              {/* <img alt={playThis.episode.title} src={playThis.image}></img> */}
             </div>
             <div className="nowPlaying">
-              <p>{playThis.title}</p>
+              <p>{playThis.episode.title}</p>
             </div>
           </div>
 
@@ -257,7 +256,9 @@ export default connect(
           <Forward15 />
           <Volume volume={player.volume} />
           <Conversation />
-          <Like />
+          <span>
+            <Like />
+          </span>
         </div>
       </div>
     );
