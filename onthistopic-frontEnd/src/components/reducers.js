@@ -16,6 +16,9 @@ import {
   LOAD_EPISODE_COMMENTS_IN_PROGRESS,
   LOAD_EPISODE_COMMENTS_SUCCESS,
   LOAD_EPISODE_COMMENTS_FAILURE,
+  LOAD_EPISODE_TOPICS_IN_PROGRESS,
+  LOAD_EPISODE_TOPICS_SUCCESS,
+  LOAD_EPISODE_TOPICS_FAILURE,
   PLAY_IN_PROGRESS,
   PLAY_SUCCESS,
   PLAY_FAILURE,
@@ -30,6 +33,7 @@ const initialState = {
   },
   podcast: {
     isLoading: false,
+    podcast: {},
   },
   episode: {
     isLoading: false,
@@ -40,6 +44,12 @@ const initialState = {
     pause: true,
     switching: false,
     volume: 1,
+  },
+  topics: {
+    isLoading: false,
+    themes: [],
+    people: [],
+    locations: [],
   },
   comments: {
     isLoading: false,
@@ -64,12 +74,12 @@ export const podcast = (state = initialState, action) => {
     case LOAD_PODCAST_EPISODES_IN_PROGRESS:
       return {
         ...state,
-        podcast: { ...state.podcast, isLoading: true },
+        podcast: { isLoading: true },
       };
     case LOAD_PODCAST_EPISODES_FAILURE:
       return {
         ...state,
-        podcast: { ...state.podcast, isLoading: false },
+        podcast: { isLoading: false },
       };
     default:
       return { ...state };
@@ -93,7 +103,6 @@ export const podcasts = (state = initialState, action) => {
       return {
         ...state,
         podcasts: {
-          ...state,
           isLoading: true,
         },
       };
@@ -101,7 +110,6 @@ export const podcasts = (state = initialState, action) => {
       return {
         ...state,
         podcasts: {
-          ...state,
           isLoading: false,
         },
       };
@@ -114,7 +122,6 @@ export const episode = (state = initialState, action) => {
   switch (type) {
     case LOAD_EPISODE_SUCCESS:
       const ep = payload;
-      console.log(ep);
       return {
         ...state,
         episode: {
@@ -145,8 +152,7 @@ export const comments = (state = initialState, action) => {
   const { type, payload } = action;
   switch (type) {
     case LOAD_EPISODE_COMMENTS_SUCCESS:
-      const theseComments = payload;
-      console.log(theseComments);
+      const theseComments = payload.comments;
       return {
         ...state,
         comments: {
@@ -172,7 +178,52 @@ export const comments = (state = initialState, action) => {
       return { ...state };
   }
 };
+/**
+ * Topics for a particular episode
+ */
+export const topics = (state = initialState, action) => {
+  const { type, payload } = action;
+  switch (type) {
+    case LOAD_EPISODE_TOPICS_SUCCESS:
+      const theseTopics = payload;
+      return {
+        ...state,
+        topics: {
+          isLoading: false,
+          themes: theseTopics.themes,
+          people: theseTopics.people,
+          locations: theseTopics.locations,
+        },
+      };
+    case LOAD_EPISODE_TOPICS_IN_PROGRESS:
+      return {
+        ...state,
+        topics: {
+          isLoading: true,
+        },
+      };
+    case LOAD_EPISODE_TOPICS_FAILURE:
+      return {
+        ...state,
+        topics: {
+          isLoading: false,
+        },
+      };
+    default:
+      return { ...state };
+  }
+};
+/**
+ 
 
+ player: {
+    playing: {},
+    playingSth: false,
+    pause: true,
+    switching: false,
+    volume: 1,
+  },
+ */
 export const player = (state = initialState, action) => {
   const { type, payload } = action;
   switch (type) {
@@ -204,9 +255,6 @@ export const player = (state = initialState, action) => {
         ...state,
         player: { ...state.player, switching: false },
       };
-    case STOP_PLAY:
-      return "";
-
     default:
       return {
         ...state,
@@ -223,18 +271,18 @@ export const user = (state = initialState, action) => {
     case STATUS_IN_PROGRESS:
       return {
         ...state,
-        user: { ...state.user, statusUpdated: false },
+        user: { statusUpdated: false },
       };
     case STATUS_FAILURE:
       return {
         ...state,
-        user: { ...state.user, statusUpdated: true },
+        user: { statusUpdated: true },
       };
     case STATUS_SUCCESS:
       const status = payload;
       return {
         ...state,
-        user: { ...state.user, loggedIn: status, statusUpdated: true },
+        user: { loggedIn: status, statusUpdated: true },
       };
     default:
       return {

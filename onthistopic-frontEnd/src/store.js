@@ -11,6 +11,7 @@ import {
   user,
   episode,
   comments,
+  topics,
 } from "./components/reducers";
 
 const reducers = {
@@ -20,6 +21,7 @@ const reducers = {
   user,
   episode,
   comments,
+  topics,
 };
 const persistConfig = {
   key: "root",

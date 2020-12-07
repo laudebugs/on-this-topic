@@ -231,7 +231,10 @@ export default connect(
           />
           <div className="playingTtl">
             <div className="podArt">
-              {/* <img alt={playThis.episode.title} src={playThis.image}></img> */}
+              <img
+                alt={playThis.episode.title}
+                src={playThis.episode.image}
+              ></img>
             </div>
             <div className="nowPlaying">
               <p>{playThis.episode.title}</p>

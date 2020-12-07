@@ -11,6 +11,9 @@ import {
   loadEpisodeCommentsInProgress,
   loadEpisodeCommentsSuccess,
   loadEpisodeCommentsFailure,
+  loadEpisodeTopicsInProgress,
+  loadEpisodeTopicsSuccess,
+  loadEpisodeTopicsFailure,
   playInProgress,
   playSuccess,
   playFailure,
@@ -54,7 +57,6 @@ export const loadEpisode = (slug) => async (dispatch, getState) => {
     const episode = await result.json();
     // console.log(episode);
     if (episode !== undefined) {
-      console.log(episode);
       dispatch(loadEpisodeSuccess({ ...episode }));
     }
   } catch (error) {
@@ -64,15 +66,26 @@ export const loadEpisode = (slug) => async (dispatch, getState) => {
 };
 export const loadEpisodeComments = (slug) => async (dispatch, getState) => {
   try {
-    console.log("here");
     dispatch(loadEpisodeCommentsInProgress(slug));
     const result = await fetch(`/podcast/episode/comments/${slug}`);
     const object = await result.json();
-
     dispatch(loadEpisodeCommentsSuccess(object.comments));
   } catch (error) {
     console.log(error);
     dispatch(loadEpisodeCommentsFailure());
+  }
+};
+
+export const loadEpisodeTopics = (slug) => async (dispatch, getState) => {
+  try {
+    dispatch(loadEpisodeTopicsInProgress(slug));
+    const result = await fetch(`/podcast/episode/topics/${slug}`);
+    const object = await result.json();
+    console.log(object);
+    dispatch(loadEpisodeTopicsSuccess(object));
+  } catch (error) {
+    console.log(error);
+    dispatch(loadEpisodeTopicsFailure());
   }
 };
 

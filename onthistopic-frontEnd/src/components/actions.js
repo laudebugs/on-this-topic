@@ -41,6 +41,7 @@ export const LOAD_PODCASTS_FAILURE = "LOAD_PODCASTS_FAILURE";
 export const loadPodcastsFailure = () => ({
   type: LOAD_PODCASTS_FAILURE,
 });
+
 // For Loading Comments
 export const LOAD_EPISODE_COMMENTS_IN_PROGRESS =
   "LOAD_EPISODE_COMMENTS_IN_PROGRESS";
@@ -49,15 +50,34 @@ export const loadEpisodeCommentsInProgress = () => ({
 });
 
 export const LOAD_EPISODE_COMMENTS_SUCCESS = "LOAD_EPISODE_COMMENTS_SUCCESS";
-export const loadEpisodeCommentsSuccess = (podcasts) => ({
+export const loadEpisodeCommentsSuccess = (comments) => ({
   type: LOAD_EPISODE_COMMENTS_SUCCESS,
-  payload: { podcasts },
+  payload: { comments },
 });
 
 export const LOAD_EPISODE_COMMENTS_FAILURE = "LOAD_EPISODE_COMMENTS_FAILURE";
 export const loadEpisodeCommentsFailure = () => ({
   type: LOAD_EPISODE_COMMENTS_FAILURE,
 });
+
+// For Loading Comments
+export const LOAD_EPISODE_TOPICS_IN_PROGRESS =
+  "LOAD_EPISODE_TOPICS_IN_PROGRESS";
+export const loadEpisodeTopicsInProgress = () => ({
+  type: LOAD_EPISODE_TOPICS_IN_PROGRESS,
+});
+
+export const LOAD_EPISODE_TOPICS_SUCCESS = "LOAD_EPISODE_TOPICS_SUCCESS";
+export const loadEpisodeTopicsSuccess = (topics) => ({
+  type: LOAD_EPISODE_TOPICS_SUCCESS,
+  payload: { topics },
+});
+
+export const LOAD_EPISODE_TOPICS_FAILURE = "LOAD_EPISODE_TOPICS_FAILURE";
+export const loadEpisodeTopicsFailure = () => ({
+  type: LOAD_EPISODE_TOPICS_FAILURE,
+});
+
 // actions for a podcast episode
 export const LOAD_EPISODE_IN_PROGRESS = "LOAD_EPISODE_IN_PROGRESS";
 export const loadEpisodeInProgress = () => ({

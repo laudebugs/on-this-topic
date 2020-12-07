@@ -10,3 +10,4 @@ export const getLoggInLoading = (state) => state.user.statusUpdated;
 
 //Getting comments
 export const getComments = (state) => state.comments;
+export const getTopics = (state) => state.topics;

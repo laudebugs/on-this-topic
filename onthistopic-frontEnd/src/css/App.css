@@ -718,3 +718,44 @@ p.signin a {
   font-size: 90%;
   background-color: #8fcbdb;
 }
+
+span.topic:hover {
+  cursor: pointer;
+}
+
+span.theme {
+  background-color: #e99581;
+  color: #4b3230;
+  border-radius: 4px;
+  padding: 0.25%;
+}
+
+span.person {
+  color: #380036;
+  background-color: #b2a3ec;
+  border-radius: 4px;
+  padding: 0.25%;
+}
+span.location {
+  background-color: #678d58;
+  color: #fdfee9;
+  border-radius: 4px;
+  padding: 0.25%;
+}
+.addTopic:hover {
+  cursor: pointer;
+}
+select,
+input#newTopic {
+  background-color: #d9d9d9;
+  color: #050a30;
+  font-family: "Glacial Indifference";
+  font-size: 110%;
+  border-radius: 5%;
+}
+input#newTopic {
+  border: 1px solid grey;
+}
+.newDiv {
+  display: none;
+}

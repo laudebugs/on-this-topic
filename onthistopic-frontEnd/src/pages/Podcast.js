@@ -28,7 +28,7 @@ const Podcast = ({ podcast, startLoadingPodcastEpisodes }) => {
   }
   const loadingMessage = <div>Loading Podcasts...</div>;
   if (podcast.podcast !== undefined) {
-    if (podcast.isLoading) {
+    if (podcast.podcast.podcast === undefined) {
       return loadingMessage;
     } else {
       return (
@@ -43,7 +43,7 @@ const Podcast = ({ podcast, startLoadingPodcastEpisodes }) => {
             </div>
 
             <div className="description">
-              <h2>{podcast.podcast.podcast.title}</h2>
+              <h2>{podcast.podcast.title}</h2>
               <div id="target">
                 {parsethisHtml(podcast.podcast.podcast.description)}
               </div>

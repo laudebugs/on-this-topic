@@ -5,26 +5,6 @@ import $ from "jquery";
 const SideMenu = () => {
   useEffect(() => {
     console.log("menu");
-    // $("#menuButton").on("mouseover", () => {
-    //   console.log("menu");
-    //   let menu = $(".sideMenu")[0];
-    //   menu.style.animation = "showSideMenu 0.4s";
-    //   menu.style.left = 0;
-    // });
-
-    // document
-    //   .getElementsByClassName("menuButton")[0]
-    //   .addEventListener("click", () => {
-    //     let menu = $(".sideMenu")[0];
-    //     menu.style.animation = "showSideMenu 0.4s";
-    //     menu.style.left = 0;
-    //   });
-    // $(".sideMenu").on("mouseleave", () => {
-    //   let menu = $(".sideMenu")[0];
-    //   menu.style.animation = "hideSideMenu 0.4s";
-    //   menu.style.left = "-400px";
-    // });
-    // console.log("rendering");
   }, []);
   return (
     <div
@@ -73,6 +53,12 @@ const SideMenu = () => {
             </Link>
           </p>
         </div>
+        <hr />
+        <p>
+          <Link key="submitpod" to="/submit-pod">
+            <span className="specialChar">{")"}</span>Submit podcast
+          </Link>
+        </p>
       </div>
     </div>
   );

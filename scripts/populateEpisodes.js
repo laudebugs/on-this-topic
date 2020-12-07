@@ -33,7 +33,7 @@ let populateEpisodes = (podcasts) => {
       let episode = {
         title: item["title"],
         subtitle: item["itunes"]["subtitle"],
-        image: item["itunes"]["image"],
+        image: thisPod.image,
         datePublished: item["pubDate"],
         description: item["content"],
         duration: item["itunes"]["duration"],

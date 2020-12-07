@@ -24,7 +24,8 @@
     "nodemon": "^2.0.6",
     "passport": "^0.4.1",
     "passport-local": "^1.0.0",
-    "rss-parser": "^3.9.0"
+    "rss-parser": "^3.9.0",
+    "slug": "^4.0.2"
   },
   "devDependencies": {
     "@babel/core": "^7.12.3",

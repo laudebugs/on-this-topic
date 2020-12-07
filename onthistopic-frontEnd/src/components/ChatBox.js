@@ -44,6 +44,7 @@ Use #word# for a topic, *word* for a person and ^word^ for location. Use @ to me
         ></textarea>
 
         <div
+          id="commentBtn"
           typeof="button"
           style={{ width: "4%", float: "right", padding: "0.5%" }}
           onClick={async () => {
@@ -59,7 +60,13 @@ Use #word# for a topic, *word* for a person and ^word^ for location. Use @ to me
                 "Content-Type": "application/json",
               },
             };
-            const sendComment = await fetch("/episode/addcomment", options);
+            /*
+             * Do some checks like minumum word count - if the user is logged in or not
+             * No spam :)
+             */
+            if (comment !== "") {
+              await fetch("/episode/addcomment", options);
+            }
             $("#comment")[0].value = "";
           }}
         >

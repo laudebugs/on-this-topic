@@ -9,6 +9,8 @@ import { loadEpisode, loadEpisodeComments } from "../components/thunks";
 import Header from "../components/Header";
 import EpisodePlayer from "../components/EpisodePlayer";
 import ChatBox from "../components/ChatBox";
+import EpisodeTopics from "../components/EpisodeTopics";
+import Comments from "../components/Comments";
 import HelperFuncs from "../components/HelperFuncs";
 import { getEpisode, getComments } from "../components/selectors";
 
@@ -30,7 +32,6 @@ const Episode = ({
   }, [loaded]);
 
   // initialize comments
-  const [epComments, setEpComments] = useState([]);
   const [loadedComments, setLoadedComments] = useState(false);
   useEffect(() => {
     startLoadingComments(
@@ -44,7 +45,7 @@ const Episode = ({
     var element;
     $("document").ready(function () {
       element = document.createElement("div");
-      element.innerHTML = `Description:<br/>${this_html}`;
+      element.innerHTML = `${this_html}`;
       $("#target").html(element);
     });
     return element;
@@ -52,42 +53,21 @@ const Episode = ({
   let conmmentsDiv = <div></div>;
   if (comments.comments.comments !== undefined) {
     //meaning comments have been loaded
-    console.log(comments.comments.comments.podcasts);
+    // console.log(comments.comments.comments);
     if (comments.comments.comments.isLoading) {
       conmmentsDiv = <div>loading comments...</div>;
       // display comments
     } else {
-      console.log("here");
-      conmmentsDiv = () => {
-        <div>
-          {comments.comments.comments.podcasts.map((com) => {
-            <div>{com.content}</div>;
-          })}
-        </div>;
-      };
-      // function printComments() {
-      //   return comments.comments.comments.podcasts.map((comment) => (
-      //     <div className="episode">{comment.content}</div>
-      //   ));
-      // }
-      // conmmentsDiv = printComments();
-      // console.log(conmmentsDiv);
+      // console.log("write posts");
+      function printComments() {
+        return comments.comments.comments.map((comment) => (
+          <div className="episode">{comment.content}</div>
+        ));
+      }
+      conmmentsDiv = printComments();
     }
   }
-  const AddTopic = (
-    <svg width="20" viewBox="0 0 230 230" fill="#545454">
-      <circle
-        cx="115"
-        cy="115"
-        r="105"
-        fill="none"
-        stroke="#545454"
-        strokeWidth="16px"
-      ></circle>
-      <rect x="105" y="50" width="20" height="140" rx="25" ry="25"></rect>
-      <rect x="50" y="105" width="140" height="20" rx="25" ry="25"></rect>
-    </svg>
-  );
+
   if (episode.episode !== undefined) {
     // If episode is Loading
     if (episode.isLoading) {
@@ -95,7 +75,7 @@ const Episode = ({
     }
 
     return (
-      <div>
+      <div style={{ marginBottom: "90px" }}>
         <Header />
         <div style={{ margin: " 0 2.5% 0 2.5%" }}>
           <div style={{ padding: "0 5% 0 5%" }}>
@@ -119,9 +99,7 @@ const Episode = ({
                   width: "100px",
                   verticalAlign: "middle",
                 }}
-                src={
-                  "https://about.canva.com/wp-content/uploads/sites/3/2015/01/album-cover.png"
-                }
+                src={episode.episode.episode.image}
                 alt={episode.episode.episode.title}
               />
             </div>
@@ -129,7 +107,7 @@ const Episode = ({
               style={{
                 width: "30%",
                 display: "inline-block",
-                verticalAlign: "middle",
+                verticalAlign: "top",
               }}
             >
               <h2 style={{}}>{episode.episode.episode.title}</h2>
@@ -140,11 +118,13 @@ const Episode = ({
             </div>
             <div
               style={{
-                width: "50%",
+                width: "46%",
                 display: "inline-block",
+                verticalAlign: "top",
+                padding: "0 2% 0 2%",
               }}
             >
-              {AddTopic}
+              <EpisodeTopics />
             </div>
           </div>
           <hr style={{ textAlign: "center", width: "90%" }}></hr>
@@ -156,26 +136,38 @@ const Episode = ({
               margin: " 0 2.5% 0 2.5%",
             }}
           >
-            <div className="description">
+            <div
+              className="description"
+              style={{
+                paddingTop: "0",
+                width: "100%",
+              }}
+            >
               <div id="target">
                 {parsethisHtml(episode.episode.episode.description)}
               </div>
             </div>
           </div>
+          <hr style={{ textAlign: "center", width: "90%" }}></hr>
 
           {/* The chatbox and related podcasts */}
           <div
-            style={{ paddingTop: "1%", width: "50%", display: "inline-block" }}
+            style={{
+              padding: "1% 2.5% 0 2.5%",
+              width: "45%",
+              display: "inline-block",
+            }}
           >
             <h2 style={{ textAlign: "center" }}>Comments</h2>
-            {conmmentsDiv}
+            <Comments episode={episode} />
             <ChatBox />
           </div>
           <div
             style={{
-              width: "50%",
+              width: "45%",
               display: "inline-block",
               verticalAlign: "top",
+              padding: "1% 2.5% 0 2.5%",
             }}
           >
             <h2 style={{ textAlign: "center" }}>Related</h2>
