@@ -30,6 +30,7 @@ podData.map((pod) => {
       duration: thisEp.duration,
       sourceUrl: thisEp.sourceUrl,
       slug: thisEp.slug,
+      image: thisEp.image,
       podcast: this.podcast,
       likes: [],
       comments: [],

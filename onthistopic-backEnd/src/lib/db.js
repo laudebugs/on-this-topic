@@ -93,6 +93,7 @@ const Episode = new Schema(
     description: String,
     duration: String,
     sourceUrl: String,
+    image: String,
     likes: [{ type: Schema.Types.ObjectId, ref: "User" }],
     topics: [{ type: Schema.Types.ObjectId, ref: "Topic" }],
     comments: [{ type: Schema.Types.ObjectId, ref: "Comment" }],

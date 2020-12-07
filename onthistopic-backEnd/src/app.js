@@ -300,18 +300,13 @@ app.post("/episode/addcomment", async function (req, res) {
     episode: episodeId,
     userId: mongoose.Types.ObjectId(req.user._id),
   });
-  newComment.save((err) => {
-    if (err) {
-      res.send({ saved: false });
-    } else {
-      res.send({ saved: true });
-    }
-  });
+
   /**
    * Add comment to episode
    */
   const currentEp = await Episode.findById(mongoose.Types.ObjectId(episodeId));
   currentEp.comments.push(newComment._id);
+  currentEp.save();
   // Parse comment for topics, people or locations
   try {
     /**
@@ -466,6 +461,14 @@ app.post("/episode/addcomment", async function (req, res) {
   } catch (error) {
     console.log(error);
   }
+  console.log(currentEp);
+  newComment.save((err) => {
+    if (err) {
+      res.send({ saved: false });
+    } else {
+      res.send({ saved: true });
+    }
+  });
 });
 
 /**
