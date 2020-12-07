@@ -573,15 +573,13 @@ div.sideMenu {
 }
 div.sideMenu hr {
   border: 0.5px solid #050a30;
+  width: 80%;
 }
 div.menuItems {
   padding: 5%;
 }
 div.sideMenu div {
   padding: 7.5% 7.5% 0 7.5%;
-}
-div.sideMenu hr {
-  width: 80%;
 }
 
 span.specialChar {

@@ -26,6 +26,7 @@
     "reselect": "^4.0.0",
     "rss-parser": "^3.9.0",
     "server": "^1.0.31",
+    "styled-components": "^5.2.1",
     "web-vitals": "^0.2.4"
   },
   "scripts": {

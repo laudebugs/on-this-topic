@@ -10,8 +10,12 @@ const HelperFunctions = {
     var secs = Math.trunc(time % 60);
     var goodTym = "";
     if (hours > 0) goodTym += hours + ":";
-    if (mins > 0) goodTym += mins + ":";
-    else if (mins > 0 && hours > 0) goodTym += "00" + ":";
+    if (mins > 0) {
+      if (mins < 10) {
+        mins = "0" + mins;
+      }
+      goodTym += mins + ":";
+    } else if (mins > 0 && hours > 0) goodTym += "00" + ":";
     else goodTym = "00:";
     if (secs > 0) {
       if (secs < 10) goodTym += "0";
@@ -57,7 +61,8 @@ const HelperFunctions = {
     }
     let mins = Number(TimeArr[1]);
     if (mins > 0) {
-      timeStr += "  " + mins + " min";
+      timeStr += "" + mins + " min";
+
       if (hrs > 1) timeStr += "s";
     }
     return timeStr;

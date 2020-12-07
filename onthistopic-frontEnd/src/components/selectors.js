@@ -7,3 +7,6 @@ export const getPausePlay = (state) => state.player.pause;
 export const getVolume = (state) => state.player.volume;
 export const getLoggedInStatus = (state) => state.user.loggedIn;
 export const getLoggInLoading = (state) => state.user.statusUpdated;
+
+//Getting comments
+export const getComments = (state) => state.comments;

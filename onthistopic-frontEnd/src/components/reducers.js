@@ -13,6 +13,9 @@ import {
   LOAD_EPISODE_IN_PROGRESS,
   LOAD_EPISODE_SUCCESS,
   LOAD_EPISODE_FAILURE,
+  LOAD_EPISODE_COMMENTS_IN_PROGRESS,
+  LOAD_EPISODE_COMMENTS_SUCCESS,
+  LOAD_EPISODE_COMMENTS_FAILURE,
   PLAY_IN_PROGRESS,
   PLAY_SUCCESS,
   PLAY_FAILURE,
@@ -37,6 +40,10 @@ const initialState = {
     pause: true,
     switching: false,
     volume: 1,
+  },
+  comments: {
+    isLoading: false,
+    comments: [],
   },
   user: { loggedIn: false, statusUpdated: true },
 };
@@ -133,6 +140,39 @@ export const episode = (state = initialState, action) => {
       return { ...state };
   }
 };
+
+export const comments = (state = initialState, action) => {
+  const { type, payload } = action;
+  switch (type) {
+    case LOAD_EPISODE_COMMENTS_SUCCESS:
+      const theseComments = payload;
+      console.log(theseComments);
+      return {
+        ...state,
+        comments: {
+          isLoading: false,
+          comments: theseComments,
+        },
+      };
+    case LOAD_EPISODE_COMMENTS_IN_PROGRESS:
+      return {
+        ...state,
+        comments: {
+          isLoading: true,
+        },
+      };
+    case LOAD_EPISODE_COMMENTS_FAILURE:
+      return {
+        ...state,
+        comments: {
+          isLoading: false,
+        },
+      };
+    default:
+      return { ...state };
+  }
+};
+
 export const player = (state = initialState, action) => {
   const { type, payload } = action;
   switch (type) {

@@ -56,6 +56,7 @@ const Episode = mongoose.model("Episode");
 const Comment = mongoose.model("Comment");
 const Topic = mongoose.model("Topic");
 const Location = mongoose.model("Location");
+const Person = mongoose.model("Person");
 
 app.get("/loginstatus", (req, res) => {
   if (req.user) {
@@ -285,28 +286,212 @@ app.get("/comments/:episode_id", async function (req, res) {
  * Post a comment for a particular podcast episode
  * The request body has the podcast episode object id and the comment
  */
-app.post("/addcomment/:episode_id", function (req, res) {
-  const episode_id = req.params.episode_id;
+app.post("/episode/addcomment", async function (req, res) {
+  const episodeId = req.body.episodeId;
+  const comment = req.body.comment;
 
-  const content = req.body.content;
-  const topics = req.body.topics;
-  const people = req.body.people;
-  const locations = req.body.locations;
+  const episode = await Episode.findById(episodeId);
 
-  // Find the episode
+  /**
+   * Add the new comment to the podcast
+   */
+  let newComment = new Comment({
+    content: comment,
+    episode: episodeId,
+    userId: mongoose.Types.ObjectId(req.user._id),
+  });
+  newComment.save((err) => {
+    if (err) {
+      res.send({ saved: false });
+    } else {
+      res.send({ saved: true });
+    }
+  });
+  /**
+   * Add comment to episode
+   */
+  const currentEp = await Episode.findById(mongoose.Types.ObjectId(episodeId));
+  currentEp.comments.push(newComment._id);
+  // Parse comment for topics, people or locations
+  try {
+    /**
+        #word# for a topic
+        *word* for a person 
+        ^word^ for location.
+        @ to mention someone"
+   */
+    var pplRegex = /(?<=\*)(.*)(?=\*)/g;
+    var topicRegex = /(?<=\#)(.*)(?=\#)/g;
+    var locationRegex = /(?<=\^).*(?=\^)/g;
+    let topics;
+    let people;
+    let locations;
 
-  // Comment.insertMany({
-  //   content:text,
-  //   Topic
-  // })
-  // Episode.findOne({_id:episode_id})
-  res.send(req.body);
+    // Check for topics
+    if (comment.match(topicRegex) !== null) {
+      topics = [...comment.match(topicRegex)];
+      topics.map((topic) => {
+        let thisTopic = Topic.findOne({ title: topic });
+        thisTopic.then((result) => {
+          /**
+           * If topic doesn't exist, create a new topic
+           */
+          if (result === null) {
+            let newTopic = new Topic({
+              title: topic,
+              podcastEpisodes: [episodeId],
+              userId: req.user._id,
+              comments: [newComment],
+            });
+            newTopic.save();
+            currentEp.topics.push(newTopic._id);
+          } else {
+            /**
+             * If Topic exists, just add the comment id to the topic
+             */
+            let oldTopic = result;
+            // Add Comment to topic
+            let topicEpisodes = oldTopic.podcastEpisodes;
+            if (!topicEpisodes.includes(mongoose.Types.ObjectId(episodeId))) {
+              oldTopic.podcastEpisodes.push(mongoose.Types.ObjectId(episodeId));
+            }
+            if (!currentEp.topics.includes(oldTopic)) {
+              currentEp.topics.push(oldTopic._id);
+            }
+            oldTopic.comments.push(newComment._id);
+            // perhaps add each user who contributes to a podcast and not just the one who first contributed
+            try {
+              oldTopic.save();
+              currentEp.save();
+            } catch (error) {
+              console.log("error saving");
+            }
+          }
+        });
+      });
+    }
+    // Check for people and update if so
+    if (comment.match(pplRegex) !== null) {
+      people = [...comment.match(pplRegex)];
+      people.map((person) => {
+        let thisPerson = Person.findOne({ title: person });
+        thisPerson.then((result) => {
+          /**
+           * If Person doesn't exist, create a new topic
+           */
+          if (result === null) {
+            let newPerson = new Person({
+              title: person,
+              podcastEpisodes: [episodeId],
+              userId: req.user._id,
+              comments: [newComment],
+            });
+            newPerson.save();
+            currentEp.people.push(newPerson._id);
+          } else {
+            /**
+             * If Person exists, just add the comment id to the topic
+             */
+            let oldPerson = result;
+            // Add Comment to topic
+            let personEpisodes = oldPerson.podcastEpisodes;
+            if (!personEpisodes.includes(mongoose.Types.ObjectId(episodeId))) {
+              oldPerson.podcastEpisodes.push(
+                mongoose.Types.ObjectId(episodeId)
+              );
+            }
+            if (!currentEp.people.includes(oldPerson)) {
+              currentEp.people.push(oldPerson._id);
+            }
+            // perhaps add each user who contributes to a podcast and not just the one who first contributed
+            oldPerson.comments.push(newComment._id);
+            try {
+              oldPerson.save();
+              currentEp.save();
+            } catch (error) {
+              console.log("error saving");
+            }
+          }
+        });
+        // thisPerson.save();
+      });
+    }
+    //Check for locations and update if so
+    if (comment.match(locationRegex) !== null) {
+      locations = [...comment.match(locationRegex)];
+      locations.map((location) => {
+        let thisLocation = Location.findOne({ title: location });
+        thisLocation.then((result) => {
+          /**
+           * If Location doesn't exist, create a new topic
+           */
+          if (result === null) {
+            let newLocation = new Location({
+              title: location,
+              podcastEpisodes: [episodeId],
+              userId: req.user._id,
+              comments: [newComment],
+            });
+            newLocation.save();
+            currentEp.locations.push(newLocation._id);
+          } else {
+            /**
+             * If Location exists, just add the comment id to the topic
+             */
+            let oldLocation = result;
+            // Add Comment to topic
+            let locationEpisodes = oldLocation.podcastEpisodes;
+            if (
+              !locationEpisodes.includes(mongoose.Types.ObjectId(episodeId))
+            ) {
+              oldLocation.podcastEpisodes.push(
+                mongoose.Types.ObjectId(episodeId)
+              );
+            }
+            if (!currentEp.locations.includes(oldLocation)) {
+              currentEp.locations.push(oldLocation._id);
+            }
+            // perhaps add each user who contributes to a podcast and not just the one who first contributed
+            oldLocation.comments.push(newComment._id);
+            try {
+              oldLocation.save();
+              currentEp.save();
+            } catch (error) {
+              console.log("error saving");
+            }
+          }
+        });
+      });
+    }
+  } catch (error) {
+    console.log(error);
+  }
 });
 
 /**
  * Get the comments for a podcast episode
  */
-app.get("/podcast_episode/comments", function (req, res) {});
+app.get("/podcast/episode/comments/:podcast", async function (req, res) {
+  const slug = `${req.params.podcast}?episode=${req.query.episode}`;
+
+  try {
+    let thisEpisode = await Episode.findOne({ slug: slug });
+    let listOfComments = [];
+
+    const getComments = await Promise.all(
+      thisEpisode.comments.map(async (commentId) => {
+        return await Comment.findById(commentId);
+      })
+    );
+
+    // console.log(listOfComments);
+    res.json({ comments: getComments });
+  } catch (error) {
+    console.log("error finding your comments");
+    console.log(error);
+    res.json({ comments: [] });
+  }
+});
 
 /**
  * Post a topic to a particular podcast episode

@@ -27,9 +27,8 @@ export default connect(
   onPlayPause,
   image,
   episode,
+  style,
 }) {
-  episode.image = image;
-
   const Pause = (
     <div
       className="icon pause"
@@ -77,18 +76,5 @@ export default connect(
       setIcon(Play);
     }
   }, [player, episode]);
-  return (
-    <div className="episode">
-      {icon}
-      <div>
-        <Link to={`/podcast/episode/${episode.slug}`}>
-          <h4>{episode.title}</h4>
-        </Link>
-        <p>
-          {episode.datePublished.substring(0, 16)} |{" "}
-          {HelperFuncs.toHrsMins(episode.duration)}
-        </p>
-      </div>
-    </div>
-  );
+  return <div style={style}>{icon}</div>;
 });

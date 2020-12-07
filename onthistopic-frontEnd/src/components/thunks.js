@@ -8,6 +8,9 @@ import {
   loadEpisodeInProgress,
   loadEpisodeSuccess,
   loadEpisodeFailure,
+  loadEpisodeCommentsInProgress,
+  loadEpisodeCommentsSuccess,
+  loadEpisodeCommentsFailure,
   playInProgress,
   playSuccess,
   playFailure,
@@ -57,6 +60,19 @@ export const loadEpisode = (slug) => async (dispatch, getState) => {
   } catch (error) {
     console.log(error);
     dispatch(loadEpisodeFailure());
+  }
+};
+export const loadEpisodeComments = (slug) => async (dispatch, getState) => {
+  try {
+    console.log("here");
+    dispatch(loadEpisodeCommentsInProgress(slug));
+    const result = await fetch(`/podcast/episode/comments/${slug}`);
+    const object = await result.json();
+
+    dispatch(loadEpisodeCommentsSuccess(object.comments));
+  } catch (error) {
+    console.log(error);
+    dispatch(loadEpisodeCommentsFailure());
   }
 };
 

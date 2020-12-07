@@ -94,6 +94,7 @@ const Episode = new Schema(
     duration: String,
     sourceUrl: String,
     likes: [{ type: Schema.Types.ObjectId, ref: "User" }],
+    topics: [{ type: Schema.Types.ObjectId, ref: "Topic" }],
     comments: [{ type: Schema.Types.ObjectId, ref: "Comment" }],
     people: [{ type: Schema.Types.ObjectId, ref: "Person" }],
     locations: [{ type: Schema.Types.ObjectId, ref: "Location" }],
@@ -111,10 +112,9 @@ const Episode = new Schema(
 const Comment = new Schema(
   {
     content: String,
-    topic: { type: Schema.ObjectId, ref: "Topic" },
+    topic: [{ type: Schema.ObjectId, ref: "Topic" }],
     podcast: { type: Schema.ObjectId, ref: "Podcast" },
-    userID: { type: Schema.ObjectId, ref: "User" },
-    date: String,
+    userId: { type: Schema.ObjectId, ref: "User" },
     likes: [{ type: Schema.Types.ObjectId, ref: "User" }],
   },
   {
@@ -126,6 +126,7 @@ const Topic = new Schema(
     title: String,
     contributor: { type: Schema.ObjectId, ref: "User" },
     podcastEpisodes: [{ type: Schema.ObjectId, ref: "Podcast" }],
+    comments: [{ type: Schema.ObjectId, ref: "Comment" }],
   },
   {
     timestamps: true,
@@ -136,6 +137,18 @@ const Location = new Schema(
     title: String,
     contributor: { type: Schema.ObjectId, ref: "User" },
     podcastEpisodes: [{ type: Schema.ObjectId, ref: "Podcast" }],
+    comments: [{ type: Schema.ObjectId, ref: "Comment" }],
+  },
+  {
+    timestamps: true,
+  }
+);
+const Person = new Schema(
+  {
+    title: String,
+    contributor: { type: Schema.ObjectId, ref: "User" },
+    podcastEpisodes: [{ type: Schema.ObjectId, ref: "Podcast" }],
+    comments: [{ type: Schema.ObjectId, ref: "Comment" }],
   },
   {
     timestamps: true,
@@ -149,6 +162,7 @@ mongoose.model("Episode", Episode);
 mongoose.model("Comment", Comment);
 mongoose.model("Topic", Topic);
 mongoose.model("Location", Location);
+mongoose.model("Person", Person);
 
 // import the configuratio file for the mongodb database
 const fs = require("fs");

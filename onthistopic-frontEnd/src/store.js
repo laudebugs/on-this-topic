@@ -10,6 +10,7 @@ import {
   podcast,
   user,
   episode,
+  comments,
 } from "./components/reducers";
 
 const reducers = {
@@ -18,6 +19,7 @@ const reducers = {
   podcast,
   user,
   episode,
+  comments,
 };
 const persistConfig = {
   key: "root",
