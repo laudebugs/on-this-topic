@@ -27,8 +27,9 @@ import Account from "./pages/Account";
 
 import Player from "./components/Player";
 import SideMenu from "./components/SideMenu";
-import Header from "./components/Header";
 
+import SubmitPod from "./pages/SubmitPod";
+import NotFound from "./pages/NotFound";
 import { connect } from "react-redux";
 import { getStatus } from "./components/thunks";
 import { getLoggedInStatus } from "./components/selectors";
@@ -64,6 +65,8 @@ const App = ({ beginStatusUpdate }) => {
           <Route path="/account" component={Account} exact />
           <Route path="/signin" component={SignIn} exact />
           <Route path="/signup" component={SignUp} exact />
+          <Route path="/submit-pod" component={SubmitPod} exact />
+          <Route component={NotFound} />
         </Switch>
         <SideMenu />
       </BrowserRouter>
@@ -73,7 +76,6 @@ const App = ({ beginStatusUpdate }) => {
 };
 const mapStateToProps = (state) => ({
   // Find a way to filter this podcast from others that have been loaded
-  isLoggedIn: getLoggedInStatus(state),
 });
 
 const mapDispatchToProps = (dispatch) => ({

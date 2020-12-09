@@ -60,9 +60,10 @@ const Episode = ({
     } else {
       // console.log("write posts");
       function printComments() {
-        return comments.comments.comments.map((comment) => (
-          <div className="episode">{comment.content}</div>
-        ));
+        return <div></div>;
+        // return comments.comments.comments.map((comment) => (
+        //   <div className="episode">{comment.content}</div>
+        // ));
       }
       conmmentsDiv = printComments();
     }
@@ -77,8 +78,17 @@ const Episode = ({
     return (
       <div style={{ marginBottom: "90px" }}>
         <Header />
-        <div style={{ margin: " 0 2.5% 0 2.5%" }}>
-          <div style={{ padding: "0 5% 0 5%" }}>
+        <div
+          style={{
+            margin: " 0 2.5% 0 2.5%",
+          }}
+        >
+          <div
+            style={{
+              height: "100px",
+              padding: "0 5% 0 5%",
+            }}
+          >
             <EpisodePlayer
               episode={episode.episode.episode}
               style={{
@@ -113,19 +123,18 @@ const Episode = ({
               <h2 style={{}}>{episode.episode.episode.title}</h2>
               <p>
                 {episode.episode.episode.datePublished.substring(0, 16)} |{" "}
-                {HelperFuncs.toHrsMins(episode.episode.episode.duration)}
+                {HelperFuncs.toHrsMins(episode.episode.episode.duratix)}
               </p>
             </div>
-            <div
+            <EpisodeTopics
               style={{
-                width: "46%",
+                width: "40%",
                 display: "inline-block",
                 verticalAlign: "top",
-                padding: "0 2% 0 2%",
+                padding: "0.5%",
               }}
-            >
-              <EpisodeTopics />
-            </div>
+            />
+            <div></div>
           </div>
           <hr style={{ textAlign: "center", width: "90%" }}></hr>
           <div

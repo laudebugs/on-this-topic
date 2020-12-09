@@ -5,13 +5,14 @@ import $ from "jquery";
 
 import { connect } from "react-redux";
 import { getStatus } from "../components/thunks";
-import { getLoggedInStatus } from "../components/selectors";
+import { getLoggedInStatus, getUser } from "../components/selectors";
 
-const Header = ({ beginStatusUpdate, isLoggedIn }) => {
+const Header = ({ user, beginStatusUpdate }) => {
   const [show, setShow] = useState(false);
   React.useEffect(() => {
-    setShow(isLoggedIn);
-  }, [isLoggedIn, show]);
+    setShow(user.user.statusUpdated);
+    beginStatusUpdate();
+  }, []);
   // request options
   const options = {
     method: "POST",
@@ -39,7 +40,7 @@ const Header = ({ beginStatusUpdate, isLoggedIn }) => {
       </p>
     </div>
   );
-  if (!show) {
+  if (!user.user.loggedIn) {
     userMenu = (
       <div
         onMouseLeave={() => {
@@ -76,21 +77,33 @@ const Header = ({ beginStatusUpdate, isLoggedIn }) => {
         </div>
       </Link>
       <div className="accountIcons">
-        <div style={{ display: `${isLoggedIn ? "inline-block" : "none"}` }}>
+        <div
+          style={{
+            display: `${user.user.loggedIn ? "inline-block" : "none"}`,
+          }}
+        >
           <svg viewBox="0 0 400 400">
             <text x="75" y="325">
               Z
             </text>
           </svg>
         </div>
-        <div style={{ display: `${isLoggedIn ? "inline-block" : "none"}` }}>
+        <div
+          style={{
+            display: `${user.user.loggedIn ? "inline-block" : "none"}`,
+          }}
+        >
           <svg viewBox="0 0 400 400">
             <text x="75" y="325">
               u
             </text>
           </svg>
         </div>
-        <div style={{ display: `${isLoggedIn ? "inline-block" : "none"}` }}>
+        <div
+          style={{
+            display: `${user.user.loggedIn ? "inline-block" : "none"}`,
+          }}
+        >
           <svg viewBox="0 0 400 400">
             <text x="75" y="325">
               a
@@ -128,7 +141,7 @@ const Header = ({ beginStatusUpdate, isLoggedIn }) => {
 
 const mapStateToProps = (state) => ({
   // Find a way to filter this podcast from others that have been loaded
-  isLoggedIn: getLoggedInStatus(state.user),
+  user: getUser(state),
 });
 
 const mapDispatchToProps = (dispatch) => ({

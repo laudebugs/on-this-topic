@@ -1,7 +1,7 @@
 {
     "title": "Archives d'Afrique",
     "publisher": "France Médias Monde",
-    "link": "http://www.rfi.fr/fr/podcasts/archives-afrique/",
+    "link": "https://www.rfi.fr/fr/podcasts/archives-afrique/",
     "rssFeed": "https://www.rfi.fr/fr/podcasts/archives-afrique/podcast",
     "description": "L'histoire contemporaine de l'Afrique à travers ses grands hommes. Illustrée d'archives sonores et de témoignages des acteurs encore vivants. Nul n'a le droit d'effacer une page de l'histoire d'un peuple, car un peuple sans histoire est un monde sans âme. Une émission présentée par Alain Foka. *** Diffusions le samedi vers toutes cibles, à 08h10 TU et à 22h10 TU. Journaliste coordinatrice d’émission : Delphine Michaud. Réalisateur : Olivier Raoul. Retrouvez les sujets traités par cette émission sur RFI SAVOIRS = http://savoirs.rfi.fr/",
     "categories": [
@@ -9,7 +9,7 @@
     ],
     "image": "https://s.rfi.fr/media/display/7e0461a8-f447-11ea-be81-005056a98db9/w:1400/p:1x1/archives-dafrique.png",
     "slug": "france-medias-monde-archives-dafrique",
-    "lastUpdate": "Mon, 07 Dec 2020 05:35:28 +0100",
+    "lastUpdate": "Wed, 09 Dec 2020 06:51:52 +0100",
     "episodes": [
         {
             "title": "Archives d'Afrique - Melchior Ndadaye, éphémère président burundais (1&2)",
@@ -263,17 +263,6 @@
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/aod-rfi.akamaized.net/rfi/francais/audio/modules/actu/202007/ARCHIVES_AFRIQUE_04072020_OK.mp3",
             "podcast": "france-medias-monde-archives-dafrique",
             "slug": "france-medias-monde-archives-dafrique?episode=2020-07-01-archives-dafrique-le-virage-a-gauche-dalphonse-massamba-debat-34"
-        },
-        {
-            "title": "Archives d'Afrique - Alphonse Massamba-Débat et la révolution dite des «Trois Glorieuses» (1&2)",
-            "subtitle": "\nPersonnalité incontournable du paysage congolais, Alphonse Massamba-Débat a marqué l'histoire de l'indépendance de son pays. Appelé aux plus hautes fonctions suite à la démission forcée de Fulbert Youlou en 1963, il sera lui-même contraint de quitter so…",
-            "image": "https://s.rfi.fr/media/display/7e0461a8-f447-11ea-be81-005056a98db9/w:1400/p:1x1/archives-dafrique.png",
-            "datePublished": "Thu, 25 Jun 2020 19:50:33 +0200",
-            "description": "\nPersonnalité incontournable du paysage congolais, Alphonse Massamba-Débat a marqué l'histoire de l'indépendance de son pays. Appelé aux plus hautes fonctions suite à la démission forcée de Fulbert Youlou en 1963, il sera lui-même contraint de quitter son poste, cinq ans plus tard à la faveur de Marien Ngouabi. Alphonse Massamba-Débat sera rendu responsable de l'assassinat de ce dernier, condamné et exécuté le 25 mars 1977.\n",
-            "duration": "00:49:00",
-            "sourceUrl": "https://dts.podtrac.com/redirect.mp3/aod-rfi.akamaized.net/rfi/francais/audio/magazines/r245/archives_d_afrique_20200627.mp3",
-            "podcast": "france-medias-monde-archives-dafrique",
-            "slug": "france-medias-monde-archives-dafrique?episode=2020-06-25-archives-dafrique-alphonse-massamba-debat-et-la-revolution-dite-des-trois-glorieuses-12"
         }
     ]
 }

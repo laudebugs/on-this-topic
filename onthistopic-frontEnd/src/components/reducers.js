@@ -186,13 +186,14 @@ export const topics = (state = initialState, action) => {
   switch (type) {
     case LOAD_EPISODE_TOPICS_SUCCESS:
       const theseTopics = payload;
+      console.log(theseTopics.topics);
       return {
         ...state,
         topics: {
           isLoading: false,
-          themes: theseTopics.themes,
-          people: theseTopics.people,
-          locations: theseTopics.locations,
+          themes: theseTopics.topics.themes,
+          people: theseTopics.topics.people,
+          locations: theseTopics.topics.locations,
         },
       };
     case LOAD_EPISODE_TOPICS_IN_PROGRESS:
@@ -271,18 +272,18 @@ export const user = (state = initialState, action) => {
     case STATUS_IN_PROGRESS:
       return {
         ...state,
-        user: { statusUpdated: false },
+        user: { loggedIn: false, statusUpdated: false },
       };
     case STATUS_FAILURE:
       return {
         ...state,
-        user: { statusUpdated: true },
+        user: { loggedIn: false, statusUpdated: true },
       };
     case STATUS_SUCCESS:
       const status = payload;
       return {
         ...state,
-        user: { loggedIn: status, statusUpdated: true },
+        user: { loggedIn: status.status, statusUpdated: true },
       };
     default:
       return {

@@ -10,8 +10,30 @@
     ],
     "image": "https://media.npr.org/assets/img/2019/09/19/shortwave-tile_final2_sq-266c8cc0cd2cb3e6213b36cbd0009cbd3331a990.png?s=1400",
     "slug": "npr-short-wave",
-    "lastUpdate": "Fri, 04 Dec 2020 04:00:34 -0500",
+    "lastUpdate": "Tue, 08 Dec 2020 04:00:11 -0500",
     "episodes": [
+        {
+            "title": "Science From Curiosity And A Little Paper",
+            "subtitle": "We talk to Manu Prakash, the co-inventor of the Foldscope, a low-cost microscope aimed at making scientific tools more accessible. ",
+            "image": "https://media.npr.org/assets/img/2019/09/19/shortwave-tile_final2_sq-266c8cc0cd2cb3e6213b36cbd0009cbd3331a990.png?s=1400",
+            "datePublished": "Tue, 08 Dec 2020 04:00:11 -0500",
+            "description": "Manu Prakash is the co-inventor of the Foldscope, a low-cost microscope aimed at making scientific tools more accessible. We chat with him about why he wants to change how we think about science, and what it'll take to make science something everyone is able to enjoy. (Encore episode) <br/><br/>Follow <a href=\"https://twitter.com/maddie_sofia\">Maddie </a>on Twitter. Email the show at <a href=\"mailto:shortwave@npr.org\">shortwave@npr.org</a>.",
+            "duration": "844",
+            "sourceUrl": "https://play.podtrac.com/npr-510351/edge1.pod.npr.org/anon.npr-mp3/npr/dailyscience/2020/12/20201208_dailyscience_manuencore.mp3?awCollectionId=510351&awEpisodeId=943988709&orgId=1&topicId=1007&d=844&p=510351&story=943988709&t=podcast&e=943988709&size=13486614&ft=pod&f=510351",
+            "podcast": "npr-short-wave",
+            "slug": "npr-short-wave?episode=2020-12-08-science-from-curiosity-and-a-little-paper"
+        },
+        {
+            "title": "How Effective Are Antibody Treatments For COVID-19?",
+            "subtitle": "Science correspondent Richard Harris explains how monoclonal antibody treatments for COVID-19 work and how effective they're shaping up to be.",
+            "image": "https://media.npr.org/assets/img/2019/09/19/shortwave-tile_final2_sq-266c8cc0cd2cb3e6213b36cbd0009cbd3331a990.png?s=1400",
+            "datePublished": "Mon, 07 Dec 2020 04:00:27 -0500",
+            "description": "The FDA has issued emergency use authorizations for two monoclonal antibody treatments for COVID-19 – one produced by Eli Lilly and another by Regeneron. As science correspondent <a href=\"https://www.npr.org/people/2100631/richard-harris\">Richard Harris</a> explains, emergency use  authorization doesn't assure that these new drugs are effective, but that their potential benefits are likely to outweigh the risks. So today, we get to the bottom of how this type of treatment works and if they'll really make a difference.<br/><br/>Email the show your questions, coronavirus or otherwise, at <a href=\"https://www.npr.org/sections/health-shots/2020/11/10/933444237/fda-oks-eli-lilly-covid-19-drug-but-supplies-will-be-limited\">shortwave@npr.org</a>.",
+            "duration": "726",
+            "sourceUrl": "https://play.podtrac.com/npr-510351/edge1.pod.npr.org/anon.npr-mp3/npr/dailyscience/2020/12/20201207_dailyscience_covid_mat.mp3?awCollectionId=510351&awEpisodeId=942919330&aw_0_1st.cv=yes&orgId=1&topicId=1007&aggIds=812054919&d=726&p=510351&story=942919330&t=podcast&e=942919330&size=11605527&ft=pod&f=510351",
+            "podcast": "npr-short-wave",
+            "slug": "npr-short-wave?episode=2020-12-07-how-effective-are-antibody-treatments-for-covid-19"
+        },
         {
             "title": "Why We See Rainbows",
             "subtitle": "Short Wave producer Thomas Lu and host Maddie Sofia go on a journey to explore what a rainbow exactly is and how we see them! We all remember ROY G BIV, right?",
