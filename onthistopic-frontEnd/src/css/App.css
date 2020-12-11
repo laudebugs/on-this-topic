@@ -159,7 +159,7 @@ table {
 }
 @font-face {
   font-family: "Whirly Bats";
-  src: url("./fonts/WhirlyBats/WhirlybatsVariable.otf");
+  src: url("./fonts/WhirlyBats/Whirlybats.ttf");
 }
 /* General settings
 -----------------------*/
@@ -577,25 +577,17 @@ div.menuItems {
 div.sideMenu div {
   padding: 7.5% 7.5% 0 7.5%;
 }
-
-span.specialChar {
+div.sideMenu span {
   width: 20%;
   display: inline-block;
   text-align: center;
+  max-width: 100%;
+}
+.specialChar {
   font-family: "Whirly Bats";
-  /* animation-duration: 1s;
-  animation-timing-function: ease;
-  animation-delay: 0s;
-  animation-iteration-count: infinite;
-  animation-direction: normal;
-  animation-fill-mode: none;
-  animation-play-state: running;
-  transition-property: font-size;
-  transition-duration: 0.4s;
-  transition-timing-function: ease;
-  transition-delay: 0s;
-  transform: translate(12px, 20px);
-  font-variation-settings: "wght" 75, "wdth" 110, "ital" 0; */
+}
+.specialChar:hover {
+  animation: animateFont 0.75s ease 0s infinite normal none running;
 }
 
 /* Side menu links
@@ -772,4 +764,110 @@ input#newTopic {
 div.spinner {
   text-align: center;
   padding: 10%;
+}
+
+@keyframes animateFont {
+  0% {
+    font-variation-settings: "anim" 100;
+  }
+  10% {
+    font-variation-settings: "anim" 110;
+  }
+  20% {
+    font-variation-settings: "anim" 120;
+  }
+  30% {
+    font-variation-settings: "anim" 130;
+  }
+  40% {
+    font-variation-settings: "anim" 140;
+  }
+  50% {
+    font-variation-settings: "anim" 150;
+  }
+  60% {
+    font-variation-settings: "anim" 160;
+  }
+  70% {
+    font-variation-settings: "anim" 170;
+  }
+  80% {
+    font-variation-settings: "anim" 180;
+  }
+  90% {
+    font-variation-settings: "anim" 190;
+  }
+  100% {
+    font-variation-settings: "anim" 200;
+  }
+}
+@-moz-keyframes animateFont {
+  0% {
+    font-variation-settings: "anim" 100;
+  }
+  10% {
+    font-variation-settings: "anim" 110;
+  }
+  20% {
+    font-variation-settings: "anim" 120;
+  }
+  30% {
+    font-variation-settings: "anim" 130;
+  }
+  40% {
+    font-variation-settings: "anim" 140;
+  }
+  50% {
+    font-variation-settings: "anim" 150;
+  }
+  60% {
+    font-variation-settings: "anim" 160;
+  }
+  70% {
+    font-variation-settings: "anim" 170;
+  }
+  80% {
+    font-variation-settings: "anim" 180;
+  }
+  90% {
+    font-variation-settings: "anim" 190;
+  }
+  100% {
+    font-variation-settings: "anim" 200;
+  }
+}
+@-webkit-keyframes animateFont {
+  0% {
+    font-variation-settings: "anim" 100;
+  }
+  10% {
+    font-variation-settings: "anim" 110;
+  }
+  20% {
+    font-variation-settings: "anim" 120;
+  }
+  30% {
+    font-variation-settings: "anim" 130;
+  }
+  40% {
+    font-variation-settings: "anim" 140;
+  }
+  50% {
+    font-variation-settings: "anim" 150;
+  }
+  60% {
+    font-variation-settings: "anim" 160;
+  }
+  70% {
+    font-variation-settings: "anim" 170;
+  }
+  80% {
+    font-variation-settings: "anim" 180;
+  }
+  90% {
+    font-variation-settings: "anim" 190;
+  }
+  100% {
+    font-variation-settings: "anim" 200;
+  }
 }

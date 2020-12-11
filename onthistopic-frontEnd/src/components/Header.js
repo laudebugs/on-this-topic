@@ -83,7 +83,7 @@ const Header = ({ user, beginStatusUpdate }) => {
           }}
         >
           <svg viewBox="0 0 400 400">
-            <text x="75" y="325">
+            <text className="specialChar" x="75" y="325">
               Z
             </text>
           </svg>
@@ -94,7 +94,7 @@ const Header = ({ user, beginStatusUpdate }) => {
           }}
         >
           <svg viewBox="0 0 400 400">
-            <text x="75" y="325">
+            <text className="specialChar" x="75" y="325">
               u
             </text>
           </svg>
@@ -105,7 +105,7 @@ const Header = ({ user, beginStatusUpdate }) => {
           }}
         >
           <svg viewBox="0 0 400 400">
-            <text x="75" y="325">
+            <text className="specialChar" x="75" y="325">
               a
             </text>
           </svg>
@@ -129,7 +129,7 @@ const Header = ({ user, beginStatusUpdate }) => {
           >
             {" "}
             <circle cx="200" cy="200" r="200"></circle>
-            <text x="75" y="325">
+            <text className="specialChar" x="75" y="325">
               d
             </text>
           </svg>
