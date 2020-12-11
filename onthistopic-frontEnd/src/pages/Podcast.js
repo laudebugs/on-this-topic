@@ -8,7 +8,7 @@ import { loadPodcastEpisodes } from "../components/thunks";
 import Header from "../components/Header";
 import PodEpisodes from "../components/PodEpisodes";
 import { getPodcast } from "../components/selectors";
-
+import Spinner from "../components/Spinner";
 const Podcast = ({ podcast, startLoadingPodcastEpisodes }) => {
   const [loaded, setLoaded] = useState(false);
 
@@ -26,39 +26,49 @@ const Podcast = ({ podcast, startLoadingPodcastEpisodes }) => {
     });
     return element;
   }
-  const loadingMessage = <div>Loading Podcasts...</div>;
-  if (podcast.podcast !== undefined) {
-    if (podcast.podcast.podcast === undefined) {
-      return loadingMessage;
-    } else {
-      return (
-        <div>
-          <Header />
-          <div className="podInfo">
-            <div>
-              <img
-                src={podcast.podcast.podcast.image}
-                alt={podcast.podcast.podcast.title}
-              />
-            </div>
+  function printOutput() {
+    if (podcast.podcast !== undefined) {
+      if (podcast.podcast.podcast === undefined) {
+        return <Spinner />;
+      } else {
+        if (podcast.podcast.isLoading) return <Spinner />;
+        else
+          return (
+            <>
+              <div className="podInfo">
+                <div>
+                  <img
+                    src={podcast.podcast.podcast.image}
+                    alt={podcast.podcast.podcast.title}
+                  />
+                </div>
 
-            <div className="description">
-              <h2>{podcast.podcast.title}</h2>
-              <div id="target">
-                {parsethisHtml(podcast.podcast.podcast.description)}
+                <div className="description">
+                  <h2>{podcast.podcast.title}</h2>
+                  <div id="target">
+                    {parsethisHtml(podcast.podcast.podcast.description)}
+                  </div>
+                </div>
               </div>
-            </div>
-          </div>
-          <div className="podEpisodes">
-            <PodEpisodes
-              podImage={podcast.image}
-              episodes={podcast.podcast.podcast.episodes}
-            />
-          </div>
-        </div>
-      );
-    }
-  } else return loadingMessage;
+              <div className="podEpisodes">
+                <PodEpisodes
+                  podImage={podcast.image}
+                  episodes={podcast.podcast.podcast.episodes}
+                />
+              </div>
+            </>
+          );
+      }
+    } else return <Spinner />;
+  }
+  console.log(podcast);
+
+  return (
+    <div>
+      <Header />
+      {printOutput()}
+    </div>
+  );
 };
 
 const mapStateToProps = (state) => ({

@@ -269,12 +269,8 @@ div.menuBar {
 }
 .menuBar h3 {
   display: inline-block;
-  width: 15%;
+  width: 16%;
   text-align: left;
-}
-.menuBar h3.searchBox {
-  width: 25%;
-  text-align: center;
 }
 div.menuButton svg line {
   stroke: #050a30;
@@ -587,7 +583,21 @@ span.specialChar {
   display: inline-block;
   text-align: center;
   font-family: "Whirly Bats";
+  /* animation-duration: 1s;
+  animation-timing-function: ease;
+  animation-delay: 0s;
+  animation-iteration-count: infinite;
+  animation-direction: normal;
+  animation-fill-mode: none;
+  animation-play-state: running;
+  transition-property: font-size;
+  transition-duration: 0.4s;
+  transition-timing-function: ease;
+  transition-delay: 0s;
+  transform: translate(12px, 20px);
+  font-variation-settings: "wght" 75, "wdth" 110, "ital" 0; */
 }
+
 /* Side menu links
 ------------------*/
 div.sideMenu a:hover {
@@ -758,4 +768,8 @@ input#newTopic {
 }
 .newDiv {
   display: none;
+}
+div.spinner {
+  text-align: center;
+  padding: 10%;
 }

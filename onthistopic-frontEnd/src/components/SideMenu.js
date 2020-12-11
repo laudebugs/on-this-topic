@@ -52,6 +52,11 @@ const SideMenu = () => {
               <span className="specialChar">G </span> Editor's Choice
             </Link>
           </p>
+          <p>
+            <Link key="editorschoice" to="/blog">
+              <span className="specialChar">y </span> Blog
+            </Link>
+          </p>
         </div>
         <hr />
         <p>

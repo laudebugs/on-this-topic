@@ -11,9 +11,10 @@ import EpisodePlayer from "../components/EpisodePlayer";
 import ChatBox from "../components/ChatBox";
 import EpisodeTopics from "../components/EpisodeTopics";
 import Comments from "../components/Comments";
+import Spinner from "../components/Spinner";
+
 import HelperFuncs from "../components/HelperFuncs";
 import { getEpisode, getComments } from "../components/selectors";
-
 const Episode = ({
   comments,
   episode,
@@ -68,16 +69,14 @@ const Episode = ({
       conmmentsDiv = printComments();
     }
   }
+  function printOutput() {
+    if (episode.episode !== undefined) {
+      // If episode is Loading
+      if (episode.isLoading) {
+        return <Spinner />;
+      }
 
-  if (episode.episode !== undefined) {
-    // If episode is Loading
-    if (episode.isLoading) {
-      return <div>loading</div>;
-    }
-
-    return (
-      <div style={{ marginBottom: "90px" }}>
-        <Header />
+      return (
         <div
           style={{
             margin: " 0 2.5% 0 2.5%",
@@ -182,11 +181,17 @@ const Episode = ({
             <h2 style={{ textAlign: "center" }}>Related</h2>
           </div>
         </div>
-      </div>
-    );
-  } else {
-    return <div>Loading Episode...</div>;
+      );
+    } else {
+      return <Spinner />;
+    }
   }
+  return (
+    <div style={{ marginBottom: "90px" }}>
+      <Header />
+      {printOutput()}
+    </div>
+  );
 };
 
 const mapStateToProps = (state) => ({

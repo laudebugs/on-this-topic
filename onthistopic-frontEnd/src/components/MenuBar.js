@@ -15,9 +15,11 @@ const MenuBar = () => (
       <h3>Discover</h3>
     </Link>
     <Link to="/editorschoice" key="editorschoice">
-      <h3>Editor's Choice</h3>
+      <h3 style={{ textAlign: "center" }}>Editor's Choice</h3>
     </Link>
-    <h3 className="searchBox">Search</h3>
+    <Link to="/blog" key="blog">
+      <h3 style={{ textAlign: "right" }}>Blog</h3>
+    </Link>
   </div>
 );
 

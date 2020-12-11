@@ -2,10 +2,10 @@ import React, { useEffect, useState } from "react";
 
 import { Link } from "react-router-dom";
 
-import Header from "../components/Header";
-import StillWorking from "../css/still-working.gif";
+import Header from "../../components/Header";
+import StillWorking from "../../css/still-working.gif";
 
-const EditorsChoice = () => {
+const AllLocations = () => {
   return (
     <>
       <Header />
@@ -16,4 +16,4 @@ const EditorsChoice = () => {
     </>
   );
 };
-export default EditorsChoice;
+export default AllLocations;

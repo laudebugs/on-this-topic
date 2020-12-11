@@ -186,7 +186,6 @@ export const topics = (state = initialState, action) => {
   switch (type) {
     case LOAD_EPISODE_TOPICS_SUCCESS:
       const theseTopics = payload;
-      console.log(theseTopics.topics);
       return {
         ...state,
         topics: {
@@ -232,29 +231,53 @@ export const player = (state = initialState, action) => {
       const volume = payload;
       return {
         ...state,
-        player: { ...state.player, volume: volume },
+        player: {
+          playing: state.player.playing,
+          volume: volume.volume,
+          playingSth: state.player.playingSth,
+          pause: state.player.pause,
+          switching: state.player.switching,
+        },
       };
     case PLAY_EPISODE:
       const ep = payload;
       return {
         ...state,
-        player: { ...state.player, playing: ep, playingSth: true },
+        player: {
+          ...state.player,
+          volume: state.player.volume,
+          playing: ep,
+          playingSth: true,
+        },
       };
     case PLAY_SUCCESS:
       const { pause } = payload;
       return {
         ...state,
-        player: { ...state.player, switching: false, pause: pause },
+        player: {
+          ...state.player,
+          volume: state.player.volume,
+          switching: false,
+          pause: pause,
+        },
       };
     case PLAY_IN_PROGRESS:
       return {
         ...state,
-        player: { ...state.player, switching: true },
+        player: {
+          ...state.player,
+          volume: state.player.volume,
+          switching: true,
+        },
       };
     case PLAY_FAILURE:
       return {
         ...state,
-        player: { ...state.player, switching: false },
+        player: {
+          ...state.player,
+          volume: state.player.volume,
+          switching: false,
+        },
       };
     default:
       return {
@@ -272,12 +295,12 @@ export const user = (state = initialState, action) => {
     case STATUS_IN_PROGRESS:
       return {
         ...state,
-        user: { loggedIn: false, statusUpdated: false },
+        user: { loggedIn: state.user.loggedIn, statusUpdated: false },
       };
     case STATUS_FAILURE:
       return {
         ...state,
-        user: { loggedIn: false, statusUpdated: true },
+        user: { loggedIn: state.user.loggedIn, statusUpdated: true },
       };
     case STATUS_SUCCESS:
       const status = payload;

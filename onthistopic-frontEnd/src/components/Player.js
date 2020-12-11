@@ -44,7 +44,12 @@ export default connect(
   // Whenever the link for a new podcast episode changes
   useEffect(() => {
     setPctPlayed(0);
-    if (audioelement !== undefined) audioelement.volume = player.volume;
+    console.log(player.volume);
+
+    if (audioelement !== undefined) {
+      audioelement.volume = player.volume;
+      // console.log(audioelement.volume);
+    }
     onPlayPause();
   }, [playThis]);
 
@@ -163,10 +168,15 @@ export default connect(
     let bar = $(".volumeBar")[0];
     let maxHeight = bar.height.animVal.value;
     let h = maxHeight - (e.clientY - $(".volumeBar").offset().top);
+    console.log(e);
     let level = h / maxHeight;
-    audioelement.volume = level;
-    // console.log(audioelement.volume);
+    console.log(h);
+    console.log(bar);
+    console.log(level);
+    // audioelement.volume = level;
+
     console.log("changing vol level");
+    console.log(audioelement);
     if (level !== player.volume) {
       onSetVolume(level);
     }
@@ -186,7 +196,6 @@ export default connect(
     <div id="volumeBar">
       <svg
         onClick={(e) => {
-          console.log(e);
           changeVolLevel(e);
         }}
         className="volumeBar icon"
@@ -227,7 +236,7 @@ export default connect(
             src={playThis.episode.sourceUrl}
             autoPlay={false}
             className="audioHere"
-            volume="1"
+            volume={1}
           />
           <div className="playingTtl">
             <div className="podArt">

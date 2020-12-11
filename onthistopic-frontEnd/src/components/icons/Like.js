@@ -16,7 +16,7 @@ export default connect(
   // console.log(like);
 
   const [liked, setLiked] = useState();
-
+  const [saved, setSaved] = useState();
   async function getLike() {
     let request = await fetch(`/like/episode/${player.playing.episode._id}`);
     let status = await request.json();
@@ -42,7 +42,9 @@ export default connect(
         };
         let res = await fetch(`/like/episode`, options);
         let isLiked = await res.json();
+        console.log(isLiked);
         setLiked(isLiked.liked);
+        setSaved(isLiked.saved);
       }}
     >
       <svg viewBox="0 0 375 375">

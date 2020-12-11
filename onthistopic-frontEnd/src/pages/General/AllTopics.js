@@ -2,10 +2,9 @@ import React, { useEffect, useState } from "react";
 
 import { Link } from "react-router-dom";
 
-import Header from "../components/Header";
-import StillWorking from "../css/still-working.gif";
-
-const AllPeople = () => {
+import Header from "../../components/Header";
+import StillWorking from "../../css/still-working.gif";
+const AllTopics = () => {
   return (
     <>
       <Header />
@@ -16,4 +15,4 @@ const AllPeople = () => {
     </>
   );
 };
-export default AllPeople;
+export default AllTopics;

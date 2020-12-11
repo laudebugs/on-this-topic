@@ -79,7 +79,6 @@ export const loadEpisodeTopics = (slug) => async (dispatch, getState) => {
     dispatch(loadEpisodeTopicsInProgress(slug));
     const result = await fetch(`/podcast/episode/topics/${slug}`);
     const object = await result.json();
-    console.log(object);
     dispatch(loadEpisodeTopicsSuccess(object));
   } catch (error) {
     console.log(error);

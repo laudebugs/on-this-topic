@@ -16,8 +16,6 @@ const EpisodeTopics = ({ style, episode, topics, startLoadingTopics }) => {
     startLoadingTopics(slug);
   });
 
-  console.log(topics.topics);
-
   function printThemes() {
     if (topics.topics.isLoading) return <div></div>;
     else

@@ -4,26 +4,28 @@ import "./css/App.css";
 
 // import page components
 import HomePage from "./pages/HomePage";
-import AllPodcasts from "./pages/AllPodcasts";
-import AllPeople from "./pages/AllPeople";
-import AllLocations from "./pages/AllLocations";
+import AllPodcasts from "./pages/General/AllPodcasts";
+import AllPeople from "./pages/General/AllPeople";
+import AllLocations from "./pages/General/AllLocations";
 import Podcast from "./pages/Podcast";
 import Episode from "./pages/Episode";
 
 import Location from "./pages/Location";
 import Person from "./pages/Person";
 
-import AllTopics from "./pages/AllTopics";
-import Topic from "./pages/Topic";
+import AllTopics from "./pages/General/AllTopics";
+import Theme from "./pages/Theme";
 
-import Discover from "./pages/Discover";
-import EditorsChoice from "./pages/EditorsChoice";
-import ForYou from "./pages/ForYou";
-import YourPodcasts from "./pages/YourPodcasts";
+import Discover from "./pages/General/Discover";
+import EditorsChoice from "./pages/General/EditorsChoice";
+import Blog from "./pages/General/Blog";
 
-import SignIn from "./pages/SignIn";
-import SignUp from "./pages/SignUp";
-import Account from "./pages/Account";
+import ForYou from "./pages/User/ForYou";
+import YourPodcasts from "./pages/User/YourPodcasts";
+
+import SignIn from "./pages/User/SignIn";
+import SignUp from "./pages/User/SignUp";
+import Account from "./pages/User/Account";
 
 import Player from "./components/Player";
 import SideMenu from "./components/SideMenu";
@@ -37,7 +39,7 @@ import { getLoggedInStatus } from "./components/selectors";
 
 const App = ({ beginStatusUpdate }) => {
   useEffect(() => {
-    beginStatusUpdate();
+    // beginStatusUpdate();
   }, []);
 
   return (
@@ -56,9 +58,10 @@ const App = ({ beginStatusUpdate }) => {
           <Route path="/people/:person" component={Person} exact />
 
           <Route path="/topics" component={AllTopics} exact />
-          <Route path="/topic/:topic" component={Topic} exact />
+          <Route path="/topic/:topic" component={Theme} exact />
 
           <Route path="/discover" component={Discover} exact />
+          <Route path="/blog" component={Blog} exact />
           <Route path="/editorschoice" component={EditorsChoice} exact />
           <Route path="/foryou" component={ForYou} exact />
           <Route path="/yourpodcasts" component={YourPodcasts} exact />

@@ -7,12 +7,14 @@ import { configureStore } from "./store";
 import "./index.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
+// import loading image
+import Spinner from "./components/Spinner";
 
 const store = configureStore();
 const persistor = persistStore(store);
 ReactDOM.render(
   <Provider store={store}>
-    <PersistGate loading={<div>loading...</div>} persistor={persistor}>
+    <PersistGate loading={<Spinner />} persistor={persistor}>
       <App />
     </PersistGate>
   </Provider>,

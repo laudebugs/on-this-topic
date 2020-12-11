@@ -4,11 +4,11 @@ import { Link } from "react-router-dom";
 
 import Header from "../components/Header";
 
-const Topic = () => {
+const Theme = () => {
   return (
     <>
       <Header />
     </>
   );
 };
-export default Topic;
+export default Theme;

@@ -3,7 +3,7 @@ import * as QueryString from "query-string";
 import { Link } from "react-router-dom";
 import { Redirect } from "react-router-dom";
 
-import Header from "../components/Header";
+import Header from "../../components/Header";
 
 const SignIn = () => {
   const params = QueryString.parse(window.location.search);

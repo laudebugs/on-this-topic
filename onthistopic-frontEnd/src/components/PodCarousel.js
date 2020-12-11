@@ -4,7 +4,7 @@ import { connect } from "react-redux";
 // import PodElement from "./PodElement";
 import { loadPodcasts } from "./thunks";
 import { getPodcasts } from "./selectors";
-
+import Spinner from "../components/Spinner";
 const PodCarousel = ({ podcasts, startLoadingPodcasts }) => {
   const [loaded, setLoaded] = useState(false);
 
@@ -22,7 +22,7 @@ const PodCarousel = ({ podcasts, startLoadingPodcasts }) => {
       </div>
     ));
   } else {
-    const loadingMessage = <div>Loading...</div>;
+    const loadingMessage = <Spinner />;
 
     return loadingMessage;
   }

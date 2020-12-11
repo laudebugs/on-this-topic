@@ -50,8 +50,14 @@ export default connect(
       className="icon playPause"
       draggable="true"
       onClick={() => {
-        if (player.playing.episode !== episode) onCreatePressed(episode);
-        if (player.playingSth) onPlayPause();
+        if (player.playing.episode !== episode) {
+          onPlayPause();
+          onCreatePressed(episode);
+        }
+        if (player.playingSth) {
+          console.log(player.playingSth);
+          onPlayPause();
+        }
       }}
     >
       <svg viewBox="0 0 375 374.999991">
