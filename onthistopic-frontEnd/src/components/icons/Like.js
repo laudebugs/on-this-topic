@@ -18,7 +18,9 @@ export default connect(
   const [liked, setLiked] = useState();
   const [saved, setSaved] = useState();
   async function getLike() {
-    let request = await fetch(`/like/episode/${player.playing.episode._id}`);
+    let request = await fetch(
+      `/api/like/episode/${player.playing.episode._id}`
+    );
     let status = await request.json();
     setLiked(status.liked);
   }
@@ -40,7 +42,7 @@ export default connect(
             "Content-Type": "application/json",
           },
         };
-        let res = await fetch(`/like/episode`, options);
+        let res = await fetch(`/api/like/episode`, options);
         let isLiked = await res.json();
         console.log(isLiked);
         setLiked(isLiked.liked);

@@ -61,7 +61,7 @@ const Theme = mongoose.model("Theme");
 const Location = mongoose.model("Location");
 const Person = mongoose.model("Person");
 
-app.get("/loginstatus", (req, res) => {
+app.get("/api/loginstatus", (req, res) => {
   if (req.user) {
     res.json({ status: true });
   } else {
@@ -69,7 +69,7 @@ app.get("/loginstatus", (req, res) => {
   }
 });
 
-app.post("/signup", async (req, res, next) => {
+app.post("/api/signup", async (req, res, next) => {
   console.log(req.body);
   try {
     const user = new User({
@@ -87,29 +87,29 @@ app.post("/signup", async (req, res, next) => {
   }
 });
 
-app.get("/signin", (req, res) => {
+app.get("/api/signin", (req, res) => {
   res.json({ ready: true });
 });
-app.get("/signup", (req, res) => {
+app.get("/api/signup", (req, res) => {
   res.json({ ready: true });
 });
-// app.get("/oaccount", (req, res, next) => {
+// app.get("/api/oaccount", (req, res, next) => {
 //   if (req.user) {
 //     console.log(req.user);
 //     return next();
 //   }
-//   return res.redirect("/signin");
+//   return res.redirect("/api/signin");
 // });
 
 app.post(
-  "/signin",
+  "/api/signin",
   passport.authenticate("local", {
     successRedirect: "/",
     failureRedirect: "/signin?error=true",
   })
 );
 
-app.post("/signout", (req, res) => {
+app.post("/api/signout", (req, res) => {
   req.logOut();
   return res.redirect("/");
 });
@@ -117,7 +117,7 @@ app.post("/signout", (req, res) => {
 /**
  * Get all the podcasts in the database
  */
-app.get("/allpodcasts", async function (req, res) {
+app.get("/api/allpodcasts", async function (req, res) {
   const podcasts = await Podcast.find({});
   res.json(podcasts);
 });
@@ -125,7 +125,7 @@ app.get("/allpodcasts", async function (req, res) {
 /**
  * Get one podcast with a list of episodes
  */
-app.get("/podcast/:slug/", async function (req, res) {
+app.get("/api/podcast/:slug/", async function (req, res) {
   console.log("getting podcast");
 
   try {
@@ -166,7 +166,7 @@ app.get("/podcast/:slug/", async function (req, res) {
 /**
  * Adding a podcast will be using the podcasts's rss feed
  */
-app.post("/podcast", redirectIfNotSignedIn, function (req, res) {
+app.post("/api/podcast", redirectIfNotSignedIn, function (req, res) {
   let Parser = require("rss-parser");
   let parser = new Parser();
 
@@ -194,7 +194,7 @@ app.post("/podcast", redirectIfNotSignedIn, function (req, res) {
   });
 });
 
-app.get("/podcast/episode/:podcast", async function (req, res) {
+app.get("/api/podcast/episode/:podcast", async function (req, res) {
   // console.log(req.params.podcast);
   // console.log(req.query.episode);
   const slug = `${req.params.podcast}?episode=${req.query.episode}`;
@@ -207,7 +207,7 @@ app.get("/podcast/episode/:podcast", async function (req, res) {
   }
 });
 
-app.post("/like/episode", async (req, res) => {
+app.post("/api/like/episode", async (req, res) => {
   let pod = req.body.podcastId;
   let liked = false;
   if (!req.user) {
@@ -253,7 +253,7 @@ app.post("/like/episode", async (req, res) => {
 /**
  * The like button is active if the user is logged in and has liked the episode
  */
-app.get("/like/episode/:ep_id", async (req, res) => {
+app.get("/api/like/episode/:ep_id", async (req, res) => {
   const ep_id = req.params.ep_id;
   let liked = false;
   try {
@@ -271,7 +271,7 @@ app.get("/like/episode/:ep_id", async (req, res) => {
   }
 });
 
-app.post("/addtopic", async (req, res) => {
+app.post("/api/addtopic", async (req, res) => {
   const user = req.user._id;
   const topic = req.body.topic;
   const type = req.body.topicType;
@@ -392,7 +392,7 @@ app.post("/addtopic", async (req, res) => {
 /**
  * Get an episode's topics
  */
-app.get("/podcast/episode/topics/:podcast", async (req, res) => {
+app.get("/api/podcast/episode/topics/:podcast", async (req, res) => {
   const thisSlug = `${req.params.podcast}?episode=${req.query.episode}`;
   let thisEp = await Episode.findOne({ slug: thisSlug });
   // thisEp.then((re) => {
@@ -439,7 +439,7 @@ app.get("/podcast/episode/topics/:podcast", async (req, res) => {
  * Post a comment for a particular podcast episode
  * The request body has the podcast episode object id and the comment
  */
-app.post("/episode/addcomment", async function (req, res) {
+app.post("/api/episode/addcomment", async function (req, res) {
   const episodeId = req.body.episodeId;
   const comment = req.body.comment;
 
@@ -625,7 +625,7 @@ app.post("/episode/addcomment", async function (req, res) {
 /**
  * Get the comments for a podcast episode
  */
-app.get("/podcast/episode/comments/:podcast", async function (req, res) {
+app.get("/api/podcast/episode/comments/:podcast", async function (req, res) {
   const slug = `${req.params.podcast}?episode=${req.query.episode}`;
 
   try {
@@ -647,12 +647,12 @@ app.get("/podcast/episode/comments/:podcast", async function (req, res) {
 /**
  * Post a theme to a particular podcast episode
  */
-app.post("/theme", function (req, res) {});
+app.post("/api/theme", function (req, res) {});
 
 /**
  * Get the comments for a podcast episode
  */
-app.get("/podcast_episode/themes", function (req, res) {});
+app.get("/api/podcast_episode/themes", function (req, res) {});
 /**
  * Get one specific theme
  */
@@ -660,75 +660,75 @@ app.get("themes", function (req, res) {});
 /**
  * Post a comment for a particular podcast episode
  */
-app.post("/podcast_episode/theme", function (req, res) {});
+app.post("/api/podcast_episode/theme", function (req, res) {});
 
 /**
  * Get the reviews for a podcast episode
  */
-app.get("/podcast_episode/reviews", function (req, res) {});
+app.get("/api/podcast_episode/reviews", function (req, res) {});
 
 /**
  * Post a review for a particular podcast episode
  */
-app.post("/podcast_episode/review", function (req, res) {});
+app.post("/api/podcast_episode/review", function (req, res) {});
 
 /**
  * Get a particular user's playlist
  */
-app.get("/user/playlist", function (req, res) {});
+app.get("/api/user/playlist", function (req, res) {});
 
 /**
  * Get a particular user's list pf playlists
  */
-app.get("/user/allplaylists", function (req, res) {});
+app.get("/api/user/allplaylists", function (req, res) {});
 
 /**
  * Create a new playlist
  */
-app.post("/user/playlist", function (req, res) {});
+app.post("/api/user/playlist", function (req, res) {});
 
 /**
  * Get the location for a podcast episode
  */
-app.get("/location", function (req, res) {});
+app.get("/api/location", function (req, res) {});
 
 /**
  * Get all the locations
  */
-app.get("/locations", function (req, res) {});
+app.get("/api/locations", function (req, res) {});
 
 /**
  * Post a new location for a particular podcast episode
  */
-app.post("/location", function (req, res) {});
+app.post("/api/location", function (req, res) {});
 
 /**
  * Get podcasts surrounding a particular person
  */
-app.get("/person", function (req, res) {});
+app.get("/api/person", function (req, res) {});
 
 /**
  * Get all people
  */
-app.get("/people", function (req, res) {});
+app.get("/api/people", function (req, res) {});
 
 /**
  * Post a new person for a particular podcast episode
  */
-app.post("/person", function (req, res) {});
+app.post("/api/person", function (req, res) {});
 
 /**
  * Get the likes for a podcast episode
  */
-app.get("/likes", function (req, res) {});
+app.get("/api/likes", function (req, res) {});
 
 /**
  * Post a like for a particular podcast episode
  */
-app.post("/like", function (req, res) {});
+app.post("/api/like", function (req, res) {});
 
 // app.get("*", (req, res) => {
-//   res.sendFile(path.join(__dirname + "/build/index.html"));
+//   res.sendFile(path.join(__dirname + "/api/build/index.html"));
 // });
 
 app.listen(5000);

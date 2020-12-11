@@ -30,7 +30,7 @@ const Header = ({ user, beginStatusUpdate }) => {
       <p>
         <span
           onClick={async () => {
-            await fetch("/signout", options);
+            await fetch("/api/signout", options);
             beginStatusUpdate();
             <Redirect to="/" />;
           }}

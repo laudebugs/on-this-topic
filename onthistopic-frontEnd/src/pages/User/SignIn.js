@@ -37,7 +37,7 @@ const SignIn = () => {
       <Header />
       <div className="inputForm">
         <div>
-          <form action="/signin" method="POST">
+          <form action="/api/signin" method="POST">
             <table>
               {errorMessage}
               <tr>

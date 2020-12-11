@@ -65,7 +65,7 @@ Use #word# for a topic, *word* for a person and ^word^ for location. Use @ to me
              * No spam :)
              */
             if (comment !== "") {
-              await fetch("/episode/addcomment", options);
+              await fetch("/api/episode/addcomment", options);
             }
             $("#comment")[0].value = "";
           }}

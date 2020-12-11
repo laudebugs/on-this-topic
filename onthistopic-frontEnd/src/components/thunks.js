@@ -27,7 +27,7 @@ export const loadPodcasts = () => async (dispatch, getState) => {
   try {
     dispatch(loadPodcastsInProgress());
 
-    const result = await fetch(`/allpodcasts`);
+    const result = await fetch(`/api/allpodcasts`);
 
     const podcasts = await result.json();
     dispatch(loadPodcastsSuccess(podcasts));
@@ -41,7 +41,7 @@ export const loadPodcastEpisodes = (slug) => async (dispatch, getState) => {
   try {
     dispatch(loadPodcastEpisodesInProgress(slug));
 
-    const result = await fetch(`/podcast/${slug}`);
+    const result = await fetch(`/api/podcast/${slug}`);
     const podcast = await result.json();
     dispatch(loadPodcastEpisodesSuccess(podcast));
   } catch (error) {
@@ -52,7 +52,7 @@ export const loadPodcastEpisodes = (slug) => async (dispatch, getState) => {
 export const loadEpisode = (slug) => async (dispatch, getState) => {
   try {
     dispatch(loadEpisodeInProgress(slug));
-    const result = await fetch(`/podcast/episode/${slug}`);
+    const result = await fetch(`/api/podcast/episode/${slug}`);
     const episode = await result.json();
     if (episode !== undefined) {
       dispatch(loadEpisodeSuccess({ ...episode }));
@@ -65,7 +65,7 @@ export const loadEpisode = (slug) => async (dispatch, getState) => {
 export const loadEpisodeComments = (slug) => async (dispatch, getState) => {
   try {
     dispatch(loadEpisodeCommentsInProgress(slug));
-    const result = await fetch(`/podcast/episode/comments/${slug}`);
+    const result = await fetch(`/api/podcast/episode/comments/${slug}`);
     const object = await result.json();
     dispatch(loadEpisodeCommentsSuccess(object.comments));
   } catch (error) {
@@ -77,7 +77,7 @@ export const loadEpisodeComments = (slug) => async (dispatch, getState) => {
 export const loadEpisodeTopics = (slug) => async (dispatch, getState) => {
   try {
     dispatch(loadEpisodeTopicsInProgress(slug));
-    const result = await fetch(`/podcast/episode/topics/${slug}`);
+    const result = await fetch(`/api/podcast/episode/topics/${slug}`);
     const object = await result.json();
     dispatch(loadEpisodeTopicsSuccess(object));
   } catch (error) {
@@ -110,7 +110,7 @@ export const playPause = () => async (dispatch, getState) => {
 export const getStatus = () => async (dispatch, getState) => {
   try {
     dispatch(statusInProgress());
-    let result = await fetch("/loginstatus", { credentials: "include" });
+    let result = await fetch("/api/loginstatus", { credentials: "include" });
     const status = await result.json();
     dispatch(statusSuccess(status.status));
   } catch (error) {
