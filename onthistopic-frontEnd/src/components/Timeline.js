@@ -10,10 +10,10 @@ export default function Timeline(props) {
       <path
         stroke="#0292b7"
         strokeWidth={5}
-        d={`M${props.width * 0.03} ${props.height / 2}h${props.width * 0.95}`}
+        d={`M${props.width * 0.0} ${props.height / 2}h${props.width}`}
       />
       <circle
-        cx={props.width * 0.03 + props.width * 0.95 * percent}
+        cx={props.width * 0.0 + props.width * percent}
         cy={props.height / 2}
         r={7.5}
         stroke="#050a30"
@@ -24,9 +24,7 @@ export default function Timeline(props) {
         id="scrubber"
         stroke="#050a30"
         strokeWidth={5}
-        d={`M${props.width * 0.03} ${props.height / 2}h${
-          props.width * 0.95 * percent
-        }`}
+        d={`M${props.width * 0.0} ${props.height / 2}h${props.width * percent}`}
       />
     </svg>
   );

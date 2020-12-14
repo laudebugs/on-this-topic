@@ -20,7 +20,7 @@ const SideMenu = () => {
           onClick={() => {
             let menu = $(".sideMenu")[0];
             menu.style.animation = "hideSideMenu 0.4s";
-            menu.style.left = -400;
+            menu.style.left = "-400px";
           }}
         >
           <Menu angle={45} />

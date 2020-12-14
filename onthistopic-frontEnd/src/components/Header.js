@@ -66,6 +66,10 @@ const Header = ({ user, beginStatusUpdate }) => {
             let menu = $(".sideMenu")[0];
             menu.style.animation = "showSideMenu 0.4s";
             menu.style.left = 0;
+            console.log(menu.style.left);
+            if (menu.style.left === 0) {
+              menu.style.left = -400;
+            }
           }}
         >
           <Menu angle={0} />

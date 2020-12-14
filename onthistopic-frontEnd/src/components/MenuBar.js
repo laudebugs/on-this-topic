@@ -15,10 +15,10 @@ const MenuBar = () => (
       <h3>Discover</h3>
     </Link>
     <Link to="/editorschoice" key="editorschoice">
-      <h3 style={{ textAlign: "center" }}>Editor's Choice</h3>
+      <h3 className="editorschoicelink">Editor's Choice</h3>
     </Link>
     <Link to="/blog" key="blog">
-      <h3 style={{ textAlign: "right" }}>Blog</h3>
+      <h3 className="bloglink">Blog</h3>
     </Link>
   </div>
 );

@@ -31,7 +31,7 @@ export default connect(
 
   const [dimensions, setDimensions] = useState({
     height: window.innerHeight,
-    width: window.innerWidth * 0.48,
+    width: window.innerWidth,
   });
   const [pctPlayed, setPctPlayed] = useState({
     pctPlayed: 0,
@@ -60,7 +60,7 @@ export default connect(
     window.onresize = function () {
       setDimensions({
         height: 40,
-        width: window.innerWidth * 0.48,
+        width: window.innerWidth,
       });
     };
 
@@ -82,14 +82,13 @@ export default connect(
      * When a use clicks on the timeline
      */
     $("#timeline").on("click", function (e) {
-      var goToPct =
-        (e.offsetX - $(document).width() * 0.48 * 0.03) /
-        ($(document).width() * 0.48 * 0.95);
+      var goToPct = e.offsetX / $(document).width();
       if (audioelement !== undefined) {
         var goTo = goToPct * audioelement.duration;
         // set the current time to the percentage of XValue/page width
         audioelement.currentTime = goTo;
         setPctPlayed(audioelement.currentTime / audioelement.duration);
+        console.log();
       }
     });
 
@@ -97,9 +96,7 @@ export default connect(
      * When a user drags the timeline back and forth
      */
     $("#timeline").ondrag = function (e) {
-      var goToPct =
-        (e.offsetX - $(document).width() * 0.48 * 0.03) /
-        ($(document).width() * 0.48 * 0.95);
+      var goToPct = e.offsetX / $(document).width();
       var goTo = goToPct * audioelement.duration;
       // set the current time to the percentage of XValue/page width
       audioelement.currentTime = goTo;
@@ -231,31 +228,8 @@ export default connect(
     return (
       <div>
         {volumeBar}
+
         <div className="player">
-          <ReactAudioPlayer
-            src={playThis.episode.sourceUrl}
-            autoPlay={false}
-            className="audioHere"
-            volume={1}
-          />
-          <div className="playingTtl">
-            <div className="podArt">
-              <img
-                alt={playThis.episode.title}
-                src={playThis.episode.image}
-              ></img>
-            </div>
-            <div className="nowPlaying">
-              <p>{playThis.episode.title}</p>
-            </div>
-          </div>
-
-          <PlayIcon />
-
-          <div className="icon" id="timeUpdate"></div>
-
-          <Rewind15 />
-
           <div className="progressBar">
             <Timeline
               id="timeline"
@@ -264,13 +238,36 @@ export default connect(
               pct={pctPlayed}
             />
           </div>
+          <div className="controls">
+            <ReactAudioPlayer
+              src={playThis.episode.sourceUrl}
+              autoPlay={false}
+              className="audioHere"
+              volume={1}
+            />
 
-          <Forward15 />
-          <Volume volume={player.volume} />
-          <Conversation />
-          <span>
-            <Like />
-          </span>
+            <Rewind15 />
+            <PlayIcon />
+            <Forward15 />
+            <div className="icon" id="timeUpdate"></div>
+            <div className="podArt">
+              <img
+                alt={playThis.episode.title}
+                src={playThis.episode.image}
+              ></img>
+            </div>
+            <div className="playingTtl">
+              <div className="nowPlaying">
+                <p>{playThis.episode.title}</p>
+              </div>
+            </div>
+
+            <Volume volume={player.volume} />
+            <Conversation />
+            <span>
+              <Like />
+            </span>
+          </div>
         </div>
       </div>
     );
