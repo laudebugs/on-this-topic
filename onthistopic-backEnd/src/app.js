@@ -9,7 +9,7 @@ const publicPath = path.resolve(__dirname, "public");
 const cookieParser = require("cookie-parser");
 const MongoStore = require("connect-mongo")(session);
 const auth = require("./lib/auth");
-const slug = require("slug");
+const makeSlug = require("slug");
 
 const { Db } = require("mongodb");
 const { default: addPod } = require("./addPodcast");
@@ -134,29 +134,90 @@ app.get("/api/podcast/:slug/", async function (req, res) {
     if (pod !== null) {
       let Parser = require("rss-parser");
       let parser = new Parser();
+      // the updated feed
       let updatedPod = await parser.parseURL(pod.rssFeed);
+      // The last build date of the podcast
       let rssBuildDate = new Date(updatedPod["lastBuildDate"]);
+
       if (isNaN(rssBuildDate)) {
         rssBuildDate = new Date(updatedPod.items[0].isoDate);
       }
       if (rssBuildDate > pod.updatedAt) {
         console.log("update podcast feed");
-      }
 
-      let idArr = [];
-      for (let id in pod.episodes) {
-        idArr.push(mongoose.Types.ObjectId(pod.episodes[id]));
+        const newEps = updatedPod.items.filter(
+          (epi) => new Date(epi.isoDate) > pod.updatedAt
+        );
+        // const newEps = updatedPod.items;
+        const addEpisodes = Promise.all(
+          newEps.map(async (ep) => {
+            let newEp = new Episode({
+              title: ep["title"],
+              datePublished: ep["pubDate"],
+              description: ep["content"],
+              duration: ep["itunes"]["duration"],
+              sourceUrl: ep["enclosure"]["url"],
+              slug: `${pod.slug}?episode=${new Date(ep["pubDate"])
+                .toISOString()
+                .substring(0, 10)}-${makeSlug(ep["title"])}`,
+              image: pod.image,
+              podcast: pod._id,
+              likes: [],
+              comments: [],
+              people: [],
+              locations: [],
+            });
+            newEp.save((err) => {
+              if (err) console.log("error saving new ep");
+              else {
+                // console.log(newEp._id);
+                pod.episodes.push(mongoose.Types.ObjectId(newEp._id));
+                // pod.updatedAt = rssBuildDate;
+              }
+            });
+            return newEp;
+          })
+        );
+        addEpisodes.then(async (resultz) => {
+          const filling = Promise.all(
+            resultz.map(async (i) => {
+              pod.episodes.push(mongoose.Types.ObjectId(i._id));
+              console.log("saved");
+              console.log(pod.episodes.length);
+            })
+          );
+          filling.then(pod.save()).then(async () => {
+            let idArr = [];
+            // console.log(pod.episodes);
+
+            for (let id in pod.episodes) {
+              idArr.push(mongoose.Types.ObjectId(pod.episodes[id]._id));
+            }
+            let episodes = await Episode.find({
+              _id: {
+                $in: pod.episodes,
+              },
+            });
+            // Check if the podcast needs updating
+            res.json({ podcast: pod, episodes: episodes });
+          });
+
+          // console.log(pod.episodes);
+        });
+      } else {
+        // Just get the episodes
+        let idArr = [];
+        for (let id in pod.episodes) {
+          idArr.push(mongoose.Types.ObjectId(pod.episodes[id]._id));
+        }
+        let episodes = await Episode.find({
+          _id: {
+            $in: pod.episodes,
+          },
+        });
+        res.json({ podcast: pod, episodes: episodes });
       }
-      let episodes = await Episode.find({
-        _id: {
-          $in: pod.episodes,
-        },
-      });
-      pod.episodes = episodes;
     }
-    // Check if the podcast needs updating
-
-    res.json(pod);
   } catch (error) {
     console.log(error);
     res.send("error");

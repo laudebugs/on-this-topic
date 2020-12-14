@@ -2,7 +2,6 @@ import React, { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
 import $ from "jquery";
 import * as QueryString from "query-string";
-import styled from "styled-components";
 import { connect } from "react-redux";
 import { loadEpisode, loadEpisodeComments } from "../components/thunks";
 

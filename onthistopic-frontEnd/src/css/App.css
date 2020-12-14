@@ -307,11 +307,11 @@ div.podArt {
   display: inline-block;
   vertical-align: middle;
   text-align: right;
-  height: 50px;
+  height: 60px;
   /* border: #0292b7 solid 1px; */
 }
 div.nowPlaying {
-  width: 85%;
+  width: 100%;
   /* padding: 2%; */
   display: inline-block;
   padding: 2% 0 2% 0;
@@ -328,7 +328,7 @@ div.podArt img {
   vertical-align: middle;
 }
 div.playingTtl {
-  width: 60%;
+  width: 45%;
   height: 80px;
   display: inline-block;
   vertical-align: middle;
@@ -445,7 +445,7 @@ div.progressBar {
   width: 100%;
   display: inline-block;
   position: fixed;
-  bottom: 60px;
+  bottom: 65px;
 }
 div.controls {
   padding: 0.5% 0 0.5% 0;
@@ -520,7 +520,7 @@ div.podInfo {
 div.podInfo div {
   display: inline-block;
 }
-div.podInfo div:first-child {
+div.podcastArtwork {
   width: 20%;
 }
 div.podInfo > div > img {
@@ -899,7 +899,8 @@ div.spinner {
     text-align: center;
     margin: 1%;
     padding: 2% 0% 1% 0%;
-    border: 1px solid#0292b7;
+    /* border: 1px solid#0292b7; */
+    background-color: #89ddf1;
     border-radius: 6px;
     font-size: 90%;
   }
@@ -948,11 +949,11 @@ div.spinner {
   div.icon > svg {
     width: 25px;
   }
-  div.volumeIcon,
+  /* div.volumeIcon,
   div.comment,
   div.nowPlaying {
     display: none;
-  }
+  } */
 
   div.controls {
     text-align: center;
@@ -966,5 +967,44 @@ div.spinner {
   }
   div.controls svg {
     width: 35px;
+  }
+  /* The pod info
+  ----------------*/
+  div.podInfo div {
+    display: inline-block;
+  }
+  div.podInfo {
+    width: 95%;
+    padding: 2.5%;
+  }
+
+  div.podcastArtwork {
+    width: 100%;
+    height: 10vh;
+  }
+  .podcastArtwork img {
+    width: 100%;
+    -webkit-mask-image: -webkit-gradient(
+      linear,
+      left top,
+      left bottom,
+      from(rgba(0, 0, 0, 1)),
+      to(rgba(0, 0, 0, 0))
+    );
+    mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));
+  }
+
+  div.description {
+    width: 95%;
+    padding: 1% 2.5% 0 2.5%;
+    vertical-align: top;
+    /* position: absolute; */
+  }
+  div.spinner {
+    text-align: center;
+    padding-top: 40%;
+  }
+  div.spinner img {
+    width: 30%;
   }
 }

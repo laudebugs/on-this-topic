@@ -40,9 +40,10 @@ export const loadPodcasts = () => async (dispatch, getState) => {
 export const loadPodcastEpisodes = (slug) => async (dispatch, getState) => {
   try {
     dispatch(loadPodcastEpisodesInProgress(slug));
-
+    console.log(slug);
     const result = await fetch(`/api/podcast/${slug}`);
     const podcast = await result.json();
+    console.log(podcast.episodes);
     dispatch(loadPodcastEpisodesSuccess(podcast));
   } catch (error) {
     console.log(error);

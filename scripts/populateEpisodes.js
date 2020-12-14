@@ -2,11 +2,11 @@ let Parser = require("rss-parser");
 var slug = require("slug");
 let parser = new Parser();
 let populateEpisodes = (podcasts) => {
-  console.log("pods: " + podcasts.length);
   const promises = podcasts.map(async (pod) => {
     let feed;
     try {
       feed = await parser.parseURL(pod);
+      console.log(feed);
     } catch (error) {
       console.log(error);
     }

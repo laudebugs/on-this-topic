@@ -34,6 +34,7 @@ const initialState = {
   podcast: {
     isLoading: false,
     podcast: {},
+    episodes: [],
   },
   episode: {
     isLoading: false,
@@ -63,12 +64,14 @@ export const podcast = (state = initialState, action) => {
   const { type, payload } = action;
   switch (type) {
     case LOAD_PODCAST_EPISODES_SUCCESS:
-      const pod = payload;
+      const pod = payload.podcast;
+      const podepisodes = payload.episodes;
       return {
         ...state,
         podcast: {
           isLoading: false,
           podcast: pod,
+          episodes: podepisodes,
         },
       };
     case LOAD_PODCAST_EPISODES_IN_PROGRESS:
