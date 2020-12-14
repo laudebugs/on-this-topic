@@ -35,6 +35,7 @@ import NotFound from "./pages/NotFound";
 import { connect } from "react-redux";
 import { getStatus } from "./components/thunks";
 import { getLoggedInStatus } from "./components/selectors";
+import Experiments from "./pages/General/Experiments";
 // Find a way to get this into the redux store
 
 const App = ({ beginStatusUpdate }) => {
@@ -69,6 +70,7 @@ const App = ({ beginStatusUpdate }) => {
           <Route path="/signin" component={SignIn} exact />
           <Route path="/signup" component={SignUp} exact />
           <Route path="/submit-pod" component={SubmitPod} exact />
+          <Route path="/experiments" component={Experiments}/>
           <Route component={NotFound} />
         </Switch>
         <SideMenu />
