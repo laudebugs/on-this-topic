@@ -3,13 +3,25 @@
     "publisher": "StarTalk Radio",
     "link": "https://www.startalkradio.net/?sfid=22493&_sft_category=startalk-radio",
     "rssFeed": "https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/43816ad6-9ef9-4bd5-9694-aadc001411b2/808b901f-5d31-4eb8-91a6-aadc001411c0/podcast.rss",
+    "image": "https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/43816ad6-9ef9-4bd5-9694-aadc001411b2/808b901f-5d31-4eb8-91a6-aadc001411c0/image.jpg?t=1602019178&size=Large",
     "description": "<p>Science, pop culture and comedy collide on StarTalk Radio! Astrophysicist and Hayden Planetarium director Neil deGrasse Tyson, his comic co-hosts, guest celebrities and scientists discuss astronomy, physics, and everything else about life in the universe. Keep Looking Up! New episodes premiere Friday nights at 7pm ET.</p>",
     "categories": [
         "Science"
     ],
-    "image": "https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/43816ad6-9ef9-4bd5-9694-aadc001411b2/808b901f-5d31-4eb8-91a6-aadc001411c0/image.jpg?t=1602019178&size=Large",
     "slug": "startalk-radio-startalk-radio",
     "episodes": [
+        {
+            "title": "Cosmic Queries – Fan Grab Bag",
+            "image": "https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/43816ad6-9ef9-4bd5-9694-aadc001411b2/808b901f-5d31-4eb8-91a6-aadc001411c0/image.jpg?t=1602019178&size=Large",
+            "datePublished": "Mon, 14 Dec 2020 23:00:00 +0000",
+            "description": "Black holes, the Arecibo Observatory, artificial intelligence, and more – Neil deGrasse Tyson and comic co-host Chuck Nice answer a special batch of Cosmic Queries from some of our most supportive fans. \r\n\r\nNOTE: StarTalk+ Patrons can watch or listen to this entire episode commercial-free here: https://www.startalkradio.net/show/cosmic-queries-fan-grab-bag/\r\n\r\nThanks to our Patrons Joel Cherrico, Cory Farnum, Patti Weber, Vegard Gjertsen, Christopher Ludwig, Maria Atienza, Darshan Parmar, Larry Streeter, Kaleb Saleeby, Gregory Newman, and Jeffrey Moore for supporting us this week.\r\n\r\nPhoto Credit: NASA/CXC/SAO; Optical: Detlef Hartmann; Infrared: NASA/JPL-Caltech.\r\n\r\nSee omnystudio.com/listener for privacy information.",
+            "duration": "3248",
+            "sourceUrl": "https://traffic.omny.fm/d/clips/aaea4e69-af51-495e-afc9-a9760146922b/43816ad6-9ef9-4bd5-9694-aadc001411b2/3a67bc23-6cbe-4f0b-9325-ac91015ced2f/audio.mp3?utm_source=Podcast&in_playlist=808b901f-5d31-4eb8-91a6-aadc001411c0",
+            "snNo": "11",
+            "epNo": "50",
+            "podcast": "startalk-radio-startalk-radio",
+            "slug": "startalk-radio-startalk-radio?episode=2020-12-14-cosmic-queries-fan-grab-bag"
+        },
         {
             "title": "Cosmic Queries – Science is Cool 4",
             "image": "https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/43816ad6-9ef9-4bd5-9694-aadc001411b2/808b901f-5d31-4eb8-91a6-aadc001411c0/image.jpg?t=1602019178&size=Large",

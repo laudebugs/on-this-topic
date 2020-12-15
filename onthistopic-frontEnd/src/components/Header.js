@@ -122,13 +122,16 @@ const Header = ({ user, beginStatusUpdate }) => {
               fontSize: "300px",
             }}
             viewBox="0 0 400 400"
-            onMouseOver={(e) => {
+            onClick={(e) => {
               $(".userMenu").css(
                 "top",
                 $(".usr").offset().top + $(".usr").height() + 5
               );
-
-              $(".userMenu").css("display", "block");
+              if ($(".userMenu")[0].style.display === "none")
+                $(".userMenu").css("display", "block");
+              else {
+                $(".userMenu").css("display", "none");
+              }
             }}
           >
             {" "}

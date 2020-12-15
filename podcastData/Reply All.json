@@ -3,13 +3,13 @@
     "publisher": "Gimlet",
     "link": "http://gimletmedia.com/shows/reply-all",
     "rssFeed": "https://feeds.megaphone.fm/replyall",
+    "image": "https://images.megaphone.fm/_FDido6HoKbp_S5zoGyfMNxqbNgd4Qkn3IUnuObAV5A/plain/s3://megaphone-prod/podcasts/05f71746-a825-11e5-aeb5-a7a572df575e/image/uploads_2F1591157139331-y9ku7q9xzyq-9ab64ecee1420b68b238691e2d35b287_2FReplyAll-2019.jpg",
     "description": "\"'A podcast about the internet' that is actually an unfailingly original exploration of modern life and how to survive it.\" - The Guardian. Hosted by PJ Vogt, Alex Goldman and Emmanuel Dzotsi from Gimlet.",
     "shortDescription": "\"'A podcast about the internet' that is actually an unfailingly original exploration of modern life and how to survive it.\" - The Guardian. Hosted by PJ Vogt and Alex Goldman, from Gimlet.",
     "categories": [
         "Technology",
         "Society & Culture"
     ],
-    "image": "https://images.megaphone.fm/_FDido6HoKbp_S5zoGyfMNxqbNgd4Qkn3IUnuObAV5A/plain/s3://megaphone-prod/podcasts/05f71746-a825-11e5-aeb5-a7a572df575e/image/uploads_2F1591157139331-y9ku7q9xzyq-9ab64ecee1420b68b238691e2d35b287_2FReplyAll-2019.jpg",
     "slug": "gimlet-reply-all",
     "episodes": [
         {

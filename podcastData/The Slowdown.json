@@ -3,11 +3,11 @@
     "publisher": "American Public Media",
     "link": "slowdownshow.org",
     "rssFeed": "https://feeds.publicradio.org/public_feeds/the-slowdown/itunes/rss.rss",
+    "image": "https://img.apmcdn.org/b04f6aa01597ee5f6a4c6b91704f90fe1f2d41e8/uncropped/dc4f76-the-slowdown-podcast.jpg",
     "description": "\n      Every weekday, Tracy K. Smith delivers a different way to see the world – through poetry. Produced in partnership with the Poetry Foundation and supported in part by the National Endowment for the Arts.\n    ",
     "categories": [
         "Arts"
     ],
-    "image": "https://img.apmcdn.org/b04f6aa01597ee5f6a4c6b91704f90fe1f2d41e8/uncropped/dc4f76-the-slowdown-podcast.jpg",
     "slug": "american-public-media-the-slowdown",
     "episodes": [
         {

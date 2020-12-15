@@ -680,9 +680,7 @@ td {
   padding: 2.5%;
   text-align: center;
 }
-td label {
-  /* text-align: right; */
-}
+
 tr {
   text-align: center;
   width: 100%;
@@ -710,7 +708,25 @@ p.signin a {
   text-decoration: none;
   color: #0292b7;
 }
-
+/* Submit Podcast form
+----------------------*/
+div.submitPodForm {
+  text-align: center;
+  font-size: 125%;
+  margin: 5%;
+}
+.submitPodForm textarea {
+  width: 30%;
+  height: 150px;
+  font-size: 140%;
+}
+.submitPodForm h2 {
+  font-size: 125%;
+  margin: 1%;
+}
+.submitPodForm button {
+  margin: 1%;
+}
 /* Scroll bar
 --------------*/
 /* width */

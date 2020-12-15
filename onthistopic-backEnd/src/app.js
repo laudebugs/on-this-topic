@@ -259,31 +259,50 @@ app.get("/api/podcast/:slug/", async function (req, res) {
 /**
  * Adding a podcast will be using the podcasts's rss feed
  */
-app.post("/api/podcast", redirectIfNotSignedIn, function (req, res) {
+app.post("/api/podcast", function (req, res) {
   let Parser = require("rss-parser");
   let parser = new Parser();
 
   parser.parseURL(req.body.rss_feed, function (err, feed) {
-    if (err) {
+    if (err || feed === undefined) {
       // Means that the rss feed id prolly wrong - return something here
-      res.send("not found podcast");
-    }
-    console.log(feed);
-    Podcast.findOne(
-      { title: feed.title, rssFeed: feed.feedUrl },
-      function (err, result) {
-        if (result == null) {
-          console.log("pod doesn' exists. Creating new one");
-          // Add the podcast to the database
-          dbFuncs.addPod(feed);
-          res.send(feed);
-        } else {
-          // figure out a way to redirect the user to the particular podcast --
-          // perhaps using redirect
-          res.send(feed);
+      res.json({
+        saved: false,
+        error: true,
+        message: "could not parse rss feed",
+      });
+    } else {
+      Podcast.findOne(
+        { title: feed.title, rssFeed: feed.feedUrl },
+        function (err, result) {
+          if (err) {
+            console.log(err);
+            res.json({ error: true });
+          }
+          /**
+           * If the podcast doesn't exist, crete a new one
+           */
+          if (result == null) {
+            console.log("pod doesn' exists. Creating new one");
+            // Add the podcast to the database
+            const added = dbFuncs.addPod(feed);
+            res.json({ saved: true, new: true, podUrl: added.slug });
+          } else {
+            /**
+             * If the podcast exists, don't create a new one
+             * rather, redirect the user to the podcast
+             * figure out a way to redirect the user to the particular podcast --
+             */
+            res.send({
+              saved: true,
+              new: false,
+              podUrl: result.slug,
+              message: "podcast already exists",
+            });
+          }
         }
-      }
-    );
+      );
+    }
   });
 });
 

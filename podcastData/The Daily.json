@@ -3,13 +3,23 @@
     "publisher": "The New York Times",
     "link": "https://www.nytimes.com/the-daily",
     "rssFeed": "https://rss.art19.com/the-daily",
+    "image": "https://content.production.cdn.art19.com/images/01/1b/f3/d6/011bf3d6-a448-4533-967b-e2f19e376480/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg",
     "description": "\n      <p>This is what the news should sound like. The biggest stories of our time, told by the best journalists in the world. Hosted by Michael Barbaro. Twenty minutes a day, five days a week, ready by 6 a.m.</p>\n    ",
     "categories": [
         "News"
     ],
-    "image": "https://content.production.cdn.art19.com/images/01/1b/f3/d6/011bf3d6-a448-4533-967b-e2f19e376480/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg",
     "slug": "the-new-york-times-the-daily",
     "episodes": [
+        {
+            "title": "America’s First Coronavirus Vaccinations",
+            "image": "https://content.production.cdn.art19.com/images/01/1b/f3/d6/011bf3d6-a448-4533-967b-e2f19e376480/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg",
+            "datePublished": "Tue, 15 Dec 2020 11:00:31 -0000",
+            "description": "\n        <p>North Dakota and New Orleans have been hit particularly hard by the coronavirus.</p><p>On today’s episode, we speak to health care workers in both places as they become some of the first to receive and administer the vaccine, and tap into the mood of hope and excitement tempered by a bleak fact: The battle against Covid-19 is not yet over.&nbsp;</p><p><br></p><p>Guest: <a href=\"https://www.nytimes.com/by/jack-healy?searchResultPosition=0\" rel=\"noopener noreferrer\" target=\"_blank\">Jack Healy</a>, a national correspondent for The New York Times.&nbsp;</p><p><br></p><p>For an exclusive look at how the biggest stories on our show come together, <a href=\"https://www.nytimes.com/newsletters/the-daily?module=inline\" rel=\"noopener noreferrer\" target=\"_blank\">subscribe to our newsletter</a>. You can read the latest edition <a href=\"https://www.nytimes.com/column/the-daily-newsletter\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>.</p><p><br></p><p>Background reading:&nbsp;</p><ul><li>Monday’s vaccinations, the first in a staggeringly complicated national campaign, were<a href=\"https://www.nytimes.com/2020/12/14/us/coronavirus-vaccine-doctors-nurses.html?action=click&amp;module=Spotlight&amp;pgtype=Homepage\" rel=\"noopener noreferrer\" target=\"_blank\"> a moment infused with hope and pain</a> for hundreds of America’s health care workers.</li><li>Some of the very medical centers that have endured the worst of the coronavirus found the gloom that has long filled their corridors<a href=\"https://www.nytimes.com/2020/12/14/us/covid-vaccines-first-shots.html?action=click&amp;module=RelatedLinks&amp;pgtype=Article\" rel=\"noopener noreferrer\" target=\"_blank\"> replaced by elation</a>. The vaccine campaign, however, began on the same day that America surpassed 300,000 deaths from Covid-19.</li></ul><p><br></p><p>For more information on today’s episode, visit <a href=\"http://nytimes.com/thedaily?smid=pc-thedaily\" rel=\"noopener noreferrer\" target=\"_blank\">nytimes.com/thedaily&nbsp;</a></p>\n      ",
+            "duration": "00:26:32",
+            "sourceUrl": "https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/rss.art19.com/episodes/3cb364c5-fe25-4078-900f-4fc543ace32c.mp3",
+            "podcast": "the-new-york-times-the-daily",
+            "slug": "the-new-york-times-the-daily?episode=2020-12-15-americas-first-coronavirus-vaccinations"
+        },
         {
             "title": "The U.S. Approves a Vaccine",
             "image": "https://content.production.cdn.art19.com/images/01/1b/f3/d6/011bf3d6-a448-4533-967b-e2f19e376480/c81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg",

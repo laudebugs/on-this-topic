@@ -3,13 +3,13 @@
     "publisher": "NPR",
     "link": "http://www.npr.org/programs/fresh-air/",
     "rssFeed": "https://feeds.npr.org/381444908/podcast.xml",
+    "image": "https://media.npr.org/assets/img/2018/08/03/npr_freshair_podcasttile_sq-bb34139df91f7a48120ddce9865817ea11baaf32.jpg?s=1400",
     "description": "Fresh Air from WHYY, the Peabody Award-winning weekday magazine of contemporary arts and issues, is one of public radio's most popular programs. Hosted by Terry Gross, the show features intimate conversations with today's biggest luminaries.",
     "categories": [
         "Arts",
         "TV & Film",
         "Society & Culture"
     ],
-    "image": "https://media.npr.org/assets/img/2018/08/03/npr_freshair_podcasttile_sq-bb34139df91f7a48120ddce9865817ea11baaf32.jpg?s=1400",
     "slug": "npr-fresh-air",
     "lastUpdate": "Mon, 14 Dec 2020 16:30:42 -0500",
     "episodes": [

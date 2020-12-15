@@ -3,12 +3,12 @@
     "publisher": "BBC",
     "link": "http://www.bbc.co.uk/programmes/w13xtv78",
     "rssFeed": "https://podcasts.files.bbci.co.uk/w13xtv78.rss",
+    "image": "http://ichef.bbci.co.uk/images/ic/3000x3000/p08hf7tx.jpg",
     "description": "Combing Africa for stories about the unseen forces that bind us together and tear us apart. A single story, every week. Hosted by Kim Chakanetsa. #thecomb",
     "categories": [
         "Society & Culture",
         "Government"
     ],
-    "image": "http://ichef.bbci.co.uk/images/ic/3000x3000/p08hf7tx.jpg",
     "slug": "bbc-the-comb",
     "episodes": [
         {

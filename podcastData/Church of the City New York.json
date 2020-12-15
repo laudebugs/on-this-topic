@@ -3,6 +3,7 @@
     "publisher": "COTC NYC",
     "link": "http://church.nyc",
     "rssFeed": "https://cotcnyc.libsyn.com/rss",
+    "image": "https://ssl-static.libsyn.com/p/assets/6/1/f/f/61ff00ee6e63d7dd/COTC-Podcast-Image.png",
     "description": "Welcome to the Church of the City Podcast.\r\n\r\nChurch of the City New York is a church community passionate about making disciples who \"practice the way of Jesus together for the renewal of the city.\" We believe in the authority and power of the scriptures to shape our communal life and practice, as we seek to teach God's word with clarity and conviction.\r\n\r\nMost of the teaching in our community is done by Pastor Jon Tyson and our teaching team. We have both morning and evening services and meet in the heart of Manhattan. \r\n\r\nFor more information visit: churchofthecitynyc.com",
     "shortDescription": "The Way of Jesus for the Renewal of the City",
     "categories": [
@@ -10,7 +11,6 @@
         "Religion & Spirituality",
         "Society & Culture"
     ],
-    "image": "https://ssl-static.libsyn.com/p/assets/6/1/f/f/61ff00ee6e63d7dd/COTC-Podcast-Image.png",
     "slug": "cotc-nyc-church-of-the-city-new-york",
     "lastUpdate": "Mon, 14 Dec 2020 18:23:41 +0000",
     "episodes": [

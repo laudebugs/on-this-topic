@@ -3,13 +3,23 @@
     "publisher": "KPBS",
     "link": "https://www.kpbs.org/podcasts/port-of-entry/",
     "rssFeed": "https://feeds.kpbs.org/port-of-entry",
+    "image": "https://kpbs.media.clients.ellingtoncms.com/static/kpbs/images/rss_podcast/podcast_1400-PortofEntry.jpg",
     "description": "Border people often inhabit this in-between space created by the separation and collision of two cultures. From KPBS and PRX, “Port of Entry” tells personal stories from this place — stories of love, hope, struggle and survival from border crossers, fronterizxs and other people whose lives are shaped by the wall. These are cross-border stories that connect us, brought to you by host Alan Lilienthal, producer Kinsee Morlan and sound designer Emily Jankowski.",
     "categories": [
         "Society & Culture"
     ],
-    "image": "https://kpbs.media.clients.ellingtoncms.com/static/kpbs/images/rss_podcast/podcast_1400-PortofEntry.jpg",
     "slug": "kpbs-port-of-entry",
     "episodes": [
+        {
+            "title": "Border Voices: Paulina",
+            "image": "https://kpbs.media.clients.ellingtoncms.com/static/kpbs/images/rss_podcast/podcast_1400-PortofEntry.jpg",
+            "datePublished": "Wed, 09 Dec 2020 17:28:23 +0000",
+            "description": "Bienvendidos to our first-ever bonus episode. Our new “Border Voices” series will feature shorter episodes spotlighting people who identify as transborder, fronterizx or simply have a story to tell about their relationship with the U.S.-Mexico border. First up: Paulina Olvera Cáñez, founder of Espacio Migrante, a migrant shelter in Tijuana.  \n\nFollow “Port of Entry” online at www.portofentrypod.org, or on Facebook (www.facebook.com/portofentrypodcast) or Instagram (www.instagram.com/portofentrypod).\n\nSupport our work at www.kpbs.org/donate. Search “Port of Entry” in the gifts section to get our sling bag as a thank-you gift.  If your business or nonprofit wants to sponsor our show, email podcasts@kpbs.org. Text or call the \"Port of Entry\" team at 619-452-0228‬ anytime with questions or comments about the show.",
+            "duration": "782",
+            "sourceUrl": "https://kpbs-aod.streamguys1.com/kpbs_podcasts/port_of_entry/audio/2020/12/09/Paulina_FINAL_with_BREAK_12-8-20.mp3",
+            "podcast": "kpbs-port-of-entry",
+            "slug": "kpbs-port-of-entry?episode=2020-12-09-border-voices-paulina"
+        },
         {
             "title": "Moved By Music: Jorge Gonzalez",
             "image": "https://kpbs.media.clients.ellingtoncms.com/static/kpbs/images/rss_podcast/podcast_1400-PortofEntry.jpg",

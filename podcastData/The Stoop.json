@@ -3,15 +3,15 @@
     "publisher": "The Stoop",
     "link": "http://www.thestoop.org/",
     "rssFeed": "https://thestoop.libsyn.com/rss",
+    "image": "https://ssl-static.libsyn.com/p/assets/3/e/c/4/3ec4a2f6085fbbf7/Stoop-Color-with-text-1400x1400.png",
     "description": "The Stoop podcast digs into stories that are not always shared out in the open. Hosts Leila Day and Hana Baba start conversations and provide professionally-reported stories about what it means to be black and how we talk about blackness. Come hang out on The Stoop as we dialog about the diaspora.",
     "shortDescription": "The Stoop Podcast",
     "categories": [
         "Society & Culture",
         "Education"
     ],
-    "image": "https://ssl-static.libsyn.com/p/assets/3/e/c/4/3ec4a2f6085fbbf7/Stoop-Color-with-text-1400x1400.png",
     "slug": "the-stoop-the-stoop",
-    "lastUpdate": "Sun, 06 Dec 2020 18:41:27 +0000",
+    "lastUpdate": "Sat, 12 Dec 2020 18:41:30 +0000",
     "episodes": [
         {
             "title": "Ep 41: Connecting Black ",

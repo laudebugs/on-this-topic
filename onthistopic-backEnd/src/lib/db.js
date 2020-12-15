@@ -105,7 +105,7 @@ const Episode = new Schema(
     slug: {
       type: String,
       required: true,
-      index: { unique: true },
+      // index: { unique: true },
     },
   },
   {

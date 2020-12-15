@@ -3,6 +3,7 @@
     "publisher": "Jack Rooster",
     "link": "http://www.jackrooster.com",
     "rssFeed": "http://www.jackrooster.com/podcasts/podcast.xml",
+    "image": "http://www.jackrooster.com/podcasts/DSoN%202013%20Podcast%20%28ARTWORK%29_Final_144.png",
     "description": "Deeper Sounds of Nairobi and Caffé Mocha are a series of radio podcasts and shows recorded and produced in the beautiful city of Nairobi,Kenya. They are geared toward showcasing African House/Dance music that's stirring up the Kenyan Airwaves and Dancefloors,compiled and mixed by Jack Rooster for your listening pleasure",
     "shortDescription": "A snapshot of the Deeper Sounds permeating Nairobi.",
     "categories": [
@@ -10,7 +11,6 @@
         "Religion & Spirituality",
         "Education"
     ],
-    "image": "http://www.jackrooster.com/podcasts/DSoN%202013%20Podcast%20%28ARTWORK%29_Final_144.png",
     "slug": "jack-rooster-deeper-sounds-of-nairobi",
     "lastUpdate": "Sun, 09 Apr 2017 03:06:57 +0300",
     "episodes": [

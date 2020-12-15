@@ -1,12 +1,12 @@
 let Parser = require("rss-parser");
 var slug = require("slug");
 let parser = new Parser();
+
 let populateEpisodes = (podcasts) => {
   const promises = podcasts.map(async (pod) => {
     let feed;
     try {
       feed = await parser.parseURL(pod);
-      console.log(feed);
     } catch (error) {
       console.log(error);
     }
@@ -15,10 +15,10 @@ let populateEpisodes = (podcasts) => {
       publisher: feed["itunes"]["owner"]["name"],
       link: feed.link,
       rssFeed: pod,
+      image: feed["itunes"]["image"],
       description: feed.description,
       shortDescription: feed["itunes"]["subtitle"],
       categories: feed["itunes"]["categories"],
-      image: feed["itunes"]["image"],
       slug: `${slug(feed["itunes"]["owner"]["name"] + "-" + feed.title)}`,
       lastUpdate: feed["lastBuildDate"],
     };
@@ -60,7 +60,7 @@ let populateEpisodes = (podcasts) => {
       console.log("completed");
     })
     .catch(function (e) {
-      console.log(e, "errr");
+      console.log("errr");
     });
 };
 

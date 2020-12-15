@@ -3,14 +3,58 @@
     "publisher": "iHeartRadio",
     "link": "https://www.howstuffworks.com",
     "rssFeed": "https://feeds.megaphone.fm/stuffyoushouldknow",
+    "image": "https://images.megaphone.fm/5ZCaXzLSpYG4Y91IF81-TGDkXByLP0m-DdKj9EMVnc4/plain/s3://megaphone-prod/podcasts/1e705dd4-2de6-11e8-b55d-9ba6ddb3f75e/image/uploads_2F1546996139536-0o3pw93d8mk-d5f1143c14a746754c55efb478c66988_2FSKSKLogo-FINAL-iHR-3000x3000.png",
     "description": "If you've ever wanted to know about champagne, satanism, the Stonewall Uprising, chaos theory, LSD, El Nino, true crime and Rosa Parks, then look no further. Josh and Chuck have you covered.",
     "shortDescription": "Stuff You Should Know",
     "categories": [
         "Society & Culture"
     ],
-    "image": "https://images.megaphone.fm/5ZCaXzLSpYG4Y91IF81-TGDkXByLP0m-DdKj9EMVnc4/plain/s3://megaphone-prod/podcasts/1e705dd4-2de6-11e8-b55d-9ba6ddb3f75e/image/uploads_2F1546996139536-0o3pw93d8mk-d5f1143c14a746754c55efb478c66988_2FSKSKLogo-FINAL-iHR-3000x3000.png",
     "slug": "iheartradio-stuff-you-should-know",
     "episodes": [
+        {
+            "title": "Joseph Merrick, aka \"The Elephant Man\"",
+            "subtitle": "Joseph Merrick was known as The Elephant Man because of his suffering from what we now know was Proteus Synrome. Learn all about this brave man in today's episode. ",
+            "image": "https://images.megaphone.fm/5ZCaXzLSpYG4Y91IF81-TGDkXByLP0m-DdKj9EMVnc4/plain/s3://megaphone-prod/podcasts/1e705dd4-2de6-11e8-b55d-9ba6ddb3f75e/image/uploads_2F1546996139536-0o3pw93d8mk-d5f1143c14a746754c55efb478c66988_2FSKSKLogo-FINAL-iHR-3000x3000.png",
+            "datePublished": "Tue, 15 Dec 2020 10:00:00 -0000",
+            "description": "Joseph Merrick was known as The Elephant Man because of his suffering from what we now know was Proteus Synrome. Learn all about this brave man in today's episode. \n Learn more about your ad-choices at https://news.iheart.com/podcast-advertisers",
+            "duration": "2957",
+            "sourceUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/5899E/traffic.megaphone.fm/HSW3936517774.mp3",
+            "podcast": "iheartradio-stuff-you-should-know",
+            "slug": "iheartradio-stuff-you-should-know?episode=2020-12-15-joseph-merrick-aka-the-elephant-man"
+        },
+        {
+            "title": "SYSK Selects: What is a hangover, really?",
+            "subtitle": "After a night of heavy boozing, many partygoers find themselves the victim of a hangover. But what exactly is a hangover, and what causes it? Join Chuck and Josh as they break down the science behind hangovers -- and how to avoid them, in this classic episode.",
+            "image": "https://images.megaphone.fm/5ZCaXzLSpYG4Y91IF81-TGDkXByLP0m-DdKj9EMVnc4/plain/s3://megaphone-prod/podcasts/1e705dd4-2de6-11e8-b55d-9ba6ddb3f75e/image/uploads_2F1546996139536-0o3pw93d8mk-d5f1143c14a746754c55efb478c66988_2FSKSKLogo-FINAL-iHR-3000x3000.png",
+            "datePublished": "Sat, 12 Dec 2020 10:00:00 -0000",
+            "description": "After a night of heavy boozing, many partygoers find themselves the victim of a hangover. But what exactly is a hangover, and what causes it? Join Chuck and Josh as they break down the science behind hangovers -- and how to avoid them, in this classic episode.\n Learn more about your ad-choices at https://news.iheart.com/podcast-advertisers",
+            "duration": "2326",
+            "sourceUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/5899E/traffic.megaphone.fm/HSW5547528551.mp3",
+            "podcast": "iheartradio-stuff-you-should-know",
+            "slug": "iheartradio-stuff-you-should-know?episode=2020-12-12-sysk-selects-what-is-a-hangover-really"
+        },
+        {
+            "title": "The Taliesin Massacre",
+            "subtitle": "Everyone knows who Frank Lloyd Wright is, but did you know there was a grisly massacre at his home in 1914? ",
+            "image": "https://images.megaphone.fm/5ZCaXzLSpYG4Y91IF81-TGDkXByLP0m-DdKj9EMVnc4/plain/s3://megaphone-prod/podcasts/1e705dd4-2de6-11e8-b55d-9ba6ddb3f75e/image/uploads_2F1546996139536-0o3pw93d8mk-d5f1143c14a746754c55efb478c66988_2FSKSKLogo-FINAL-iHR-3000x3000.png",
+            "datePublished": "Thu, 10 Dec 2020 10:00:00 -0000",
+            "description": "Everyone knows who Frank Lloyd Wright is, but did you know there was a grisly massacre at his home in 1914?\n Learn more about your ad-choices at https://news.iheart.com/podcast-advertisers",
+            "duration": "2863",
+            "sourceUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/5899E/traffic.megaphone.fm/HSW4281139283.mp3",
+            "podcast": "iheartradio-stuff-you-should-know",
+            "slug": "iheartradio-stuff-you-should-know?episode=2020-12-10-the-taliesin-massacre"
+        },
+        {
+            "title": "Short Stuff: Cramming",
+            "subtitle": "Cramming is no way to study. Learn why in today's short stuff.",
+            "image": "https://images.megaphone.fm/5ZCaXzLSpYG4Y91IF81-TGDkXByLP0m-DdKj9EMVnc4/plain/s3://megaphone-prod/podcasts/1e705dd4-2de6-11e8-b55d-9ba6ddb3f75e/image/uploads_2F1546996139536-0o3pw93d8mk-d5f1143c14a746754c55efb478c66988_2FSKSKLogo-FINAL-iHR-3000x3000.png",
+            "datePublished": "Wed, 09 Dec 2020 10:00:00 -0000",
+            "description": "Cramming is no way to study. Learn why in today's short stuff.\n Learn more about your ad-choices at https://news.iheart.com/podcast-advertisers",
+            "duration": "856",
+            "sourceUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/5899E/traffic.megaphone.fm/HSW7222672030.mp3",
+            "podcast": "iheartradio-stuff-you-should-know",
+            "slug": "iheartradio-stuff-you-should-know?episode=2020-12-09-short-stuff-cramming"
+        },
         {
             "title": "How Class Action Lawsuits Work",
             "subtitle": "Class action lawsuits seem a little odd – a bunch of people get together for a sue-fest against somebody – but in the legal world they’re a practical way of handing huge wrongs. And! They keep justice just in their way. Learn all about them today.",
