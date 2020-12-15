@@ -9,6 +9,16 @@ const Episode = mongoose.model("Episode");
 let podData = require("./podcasts.json");
 
 podData.map((pod) => {
+  /**
+   * Check when the podcast rss feed was last updated
+   * If the field is not provided, use the latest episode
+   */
+  let lastRssbuild;
+  if (!pod.lastUpdate) {
+    lastRssbuild = new Date(pod.episodes[0]["datePublished"]);
+  } else {
+    lastRssbuild = new Date(pod.lastUpdate);
+  }
   Podcast.insertMany(
     new Podcast({
       title: pod.title,
@@ -18,9 +28,10 @@ podData.map((pod) => {
       image: pod.image,
       description: pod.description,
       categories: pod.categories,
+      lastRssBuildDate: lastRssbuild,
       slug: pod.slug,
     })
-  ).then(console.log("saved POD"));
+  ).then(console.log("saved podcast"));
   pod["episodes"].map((ep) => {
     const thisEp = ep;
     let newEp = new Episode({
@@ -47,10 +58,8 @@ podData.map((pod) => {
               episodes: newEp._id,
             },
           }
-        ).then(console.log("saved ep..."));
+        ).then(console.log("ep saved"));
       }
     });
   });
 });
-
-// console.log(podData);

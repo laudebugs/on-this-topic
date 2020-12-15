@@ -126,29 +126,48 @@ app.get("/api/allpodcasts", async function (req, res) {
  * Get one podcast with a list of episodes
  */
 app.get("/api/podcast/:slug/", async function (req, res) {
-  console.log("getting podcast");
-
   try {
     const slug = req.params.slug;
     const pod = await Podcast.findOne({ slug: encodeURIComponent(slug) });
+
+    /**
+     * If the podcast exits
+     * TODO: Otherwise, if it does not, return podcasts with similar slugs
+     */
     if (pod !== null) {
+      /**
+       * The parser checks the rss feed of the podcast,
+       * gets back the last build date and compares it with the current build date
+       * in the database
+       */
       let Parser = require("rss-parser");
       let parser = new Parser();
-      // the updated feed
       let updatedPod = await parser.parseURL(pod.rssFeed);
+
       // The last build date of the podcast
       let rssBuildDate = new Date(updatedPod["lastBuildDate"]);
-
+      // If the rssFeed does not contain a build date, check the latest episode
       if (isNaN(rssBuildDate)) {
         rssBuildDate = new Date(updatedPod.items[0].isoDate);
       }
-      if (rssBuildDate > pod.updatedAt) {
-        console.log("update podcast feed");
 
+      /**
+       * If the rssBuild date is more recent than the date the podcast was updated
+       * Update with the most recent episodes
+       */
+      if (rssBuildDate > pod.lastRssBuildDate) {
+        console.log("need updating");
+        /**
+         * Filter only the episodes that are more recent than when the podcast was updated
+         */
         const newEps = updatedPod.items.filter(
-          (epi) => new Date(epi.isoDate) > pod.updatedAt
+          (epi) => new Date(epi.isoDate) > pod.lastRssBuildDate
         );
         // const newEps = updatedPod.items;
+
+        /**
+         * Loop through all the "new" episodes and create new podcasts
+         */
         const addEpisodes = Promise.all(
           newEps.map(async (ep) => {
             let newEp = new Episode({
@@ -167,53 +186,66 @@ app.get("/api/podcast/:slug/", async function (req, res) {
               people: [],
               locations: [],
             });
+            /**
+             * For each episode, save it to the database
+             */
             newEp.save((err) => {
               if (err) console.log("error saving new ep");
-              else {
-                // console.log(newEp._id);
-                pod.episodes.push(mongoose.Types.ObjectId(newEp._id));
-                // pod.updatedAt = rssBuildDate;
-              }
             });
             return newEp;
           })
         );
+        /**
+         * After saving, the episodes,
+         * save the episode Id to the array of podcast ids of the podcat
+         */
         addEpisodes.then(async (resultz) => {
           const filling = Promise.all(
             resultz.map(async (i) => {
               pod.episodes.push(mongoose.Types.ObjectId(i._id));
-              console.log("saved");
-              console.log(pod.episodes.length);
             })
           );
-          filling.then(pod.save()).then(async () => {
-            let idArr = [];
-            // console.log(pod.episodes);
-
-            for (let id in pod.episodes) {
-              idArr.push(mongoose.Types.ObjectId(pod.episodes[id]._id));
-            }
-            let episodes = await Episode.find({
-              _id: {
-                $in: pod.episodes,
-              },
+          filling
+            .then(() => {
+              /**
+               * Update when the podcast was updated with the most recent build date of the rss feed
+               */
+              pod.lastRssBuildDate = rssBuildDate;
+            })
+            .then(pod.save())
+            .then(async () => {
+              /**
+               * Get the podcast episodes and return to user
+               */
+              let episodes = await Episode.find({
+                _id: {
+                  $in: pod.episodes,
+                },
+              });
+              // Sort by date
+              episodes = episodes.sort(function (a, b) {
+                return new Date(b.datePublished) > new Date(a.datePublished)
+                  ? 1
+                  : -1;
+              });
+              res.json({ podcast: pod, episodes: episodes });
             });
-            // Check if the podcast needs updating
-            res.json({ podcast: pod, episodes: episodes });
-          });
-
-          // console.log(pod.episodes);
         });
       } else {
-        // Just get the episodes
-        let idArr = [];
-        for (let id in pod.episodes) {
-          idArr.push(mongoose.Types.ObjectId(pod.episodes[id]._id));
-        }
+        /**
+         * // TODO: If the podcast doesn't exist, return a similar
+         *
+         * Since the else statement is only activated when the podcast actually doesn't exits,
+         * or the slug is wrong
+         */
         let episodes = await Episode.find({
           _id: {
             $in: pod.episodes,
           },
+        });
+        // Sort by date
+        episodes = episodes.sort(function (a, b) {
+          return new Date(b.datePublished) > new Date(a.datePublished) ? 1 : -1;
         });
         res.json({ podcast: pod, episodes: episodes });
       }

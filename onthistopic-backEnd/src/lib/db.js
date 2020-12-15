@@ -75,6 +75,7 @@ const Podcast = new Schema(
     link: String,
     image: String,
     description: String,
+    lastRssBuildDate: Date,
     slug: {
       type: String,
       required: true,
@@ -104,7 +105,7 @@ const Episode = new Schema(
     slug: {
       type: String,
       required: true,
-      // index: { unique: true },
+      index: { unique: true },
     },
   },
   {
