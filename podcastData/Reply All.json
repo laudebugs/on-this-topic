@@ -13,6 +13,17 @@
     "slug": "gimlet-reply-all",
     "episodes": [
         {
+            "title": "#170 A Song of Impotent Rage",
+            "subtitle": "",
+            "image": "https://images.megaphone.fm/_FDido6HoKbp_S5zoGyfMNxqbNgd4Qkn3IUnuObAV5A/plain/s3://megaphone-prod/podcasts/05f71746-a825-11e5-aeb5-a7a572df575e/image/uploads_2F1591157139331-y9ku7q9xzyq-9ab64ecee1420b68b238691e2d35b287_2FReplyAll-2019.jpg",
+            "datePublished": "Thu, 17 Dec 2020 11:00:00 -0000",
+            "description": "Alex Goldman tackles his newest job: prophet of doom.\n\nTaylor Moore's podcasts, Rude Tales of Magic and Fun City\nEmily Atkin's newsletter, Heated\nJohn Colpitts' latest album, The Ochre World\nWant to learn to play drums? Learn from John Colpitts\nListen to Song Exploder, a huge inspiration for this episode.",
+            "duration": "2299",
+            "sourceUrl": "https://traffic.megaphone.fm/GLT2160338052.mp3?updated=1608164714",
+            "podcast": "gimlet-reply-all",
+            "slug": "gimlet-reply-all?episode=2020-12-17-170-a-song-of-impotent-rage"
+        },
+        {
             "title": "#86 Man of the People",
             "subtitle": "",
             "image": "https://images.megaphone.fm/_FDido6HoKbp_S5zoGyfMNxqbNgd4Qkn3IUnuObAV5A/plain/s3://megaphone-prod/podcasts/05f71746-a825-11e5-aeb5-a7a572df575e/image/uploads_2F1591157139331-y9ku7q9xzyq-9ab64ecee1420b68b238691e2d35b287_2FReplyAll-2019.jpg",
@@ -2044,17 +2055,6 @@
             "slug": "gimlet-reply-all?episode=2014-12-03-3-we-know-what-you-did"
         },
         {
-            "title": "#1 A Stranger Says I Love You",
-            "subtitle": "What happens when a woman sends a stocky blond st…",
-            "image": "https://images.megaphone.fm/_FDido6HoKbp_S5zoGyfMNxqbNgd4Qkn3IUnuObAV5A/plain/s3://megaphone-prod/podcasts/05f71746-a825-11e5-aeb5-a7a572df575e/image/uploads_2F1591157139331-y9ku7q9xzyq-9ab64ecee1420b68b238691e2d35b287_2FReplyAll-2019.jpg",
-            "datePublished": "Mon, 24 Nov 2014 13:00:00 -0000",
-            "description": "What happens when a woman sends a stocky blond stranger to tell her ex she loves him. ",
-            "duration": "1339",
-            "sourceUrl": "https://traffic.megaphone.fm/GLT4726279763.mp3",
-            "podcast": "gimlet-reply-all",
-            "slug": "gimlet-reply-all?episode=2014-11-24-1-a-stranger-says-i-love-you"
-        },
-        {
             "title": "#2 The Secret, Gruesome Internet For Doctors",
             "subtitle": "An app called Figure One wants to be Instagram, b…",
             "image": "https://images.megaphone.fm/_FDido6HoKbp_S5zoGyfMNxqbNgd4Qkn3IUnuObAV5A/plain/s3://megaphone-prod/podcasts/05f71746-a825-11e5-aeb5-a7a572df575e/image/uploads_2F1591157139331-y9ku7q9xzyq-9ab64ecee1420b68b238691e2d35b287_2FReplyAll-2019.jpg",
@@ -2064,6 +2064,17 @@
             "sourceUrl": "https://traffic.megaphone.fm/GLT5626794585.mp3",
             "podcast": "gimlet-reply-all",
             "slug": "gimlet-reply-all?episode=2014-11-24-2-the-secret-gruesome-internet-for-doctors"
+        },
+        {
+            "title": "#1 A Stranger Says I Love You",
+            "subtitle": "What happens when a woman sends a stocky blond st…",
+            "image": "https://images.megaphone.fm/_FDido6HoKbp_S5zoGyfMNxqbNgd4Qkn3IUnuObAV5A/plain/s3://megaphone-prod/podcasts/05f71746-a825-11e5-aeb5-a7a572df575e/image/uploads_2F1591157139331-y9ku7q9xzyq-9ab64ecee1420b68b238691e2d35b287_2FReplyAll-2019.jpg",
+            "datePublished": "Mon, 24 Nov 2014 13:00:00 -0000",
+            "description": "What happens when a woman sends a stocky blond stranger to tell her ex she loves him. ",
+            "duration": "1339",
+            "sourceUrl": "https://traffic.megaphone.fm/GLT4726279763.mp3",
+            "podcast": "gimlet-reply-all",
+            "slug": "gimlet-reply-all?episode=2014-11-24-1-a-stranger-says-i-love-you"
         },
         {
             "title": "Welcome to Reply All",

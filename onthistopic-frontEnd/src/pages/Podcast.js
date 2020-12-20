@@ -1,6 +1,8 @@
 import React, { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
 import $ from "jquery";
+import RubberSlider from "@shwilliam/react-rubber-slider";
+import "@shwilliam/react-rubber-slider/dist/styles.css";
 
 import { connect } from "react-redux";
 import { loadPodcastEpisodes } from "../components/thunks";

@@ -11,6 +11,28 @@
     "slug": "bbc-africa-today",
     "episodes": [
         {
+            "title": "Four Nigerian states close schools after abductions",
+            "subtitle": "The school closures come after the abduction of Nigerian schoolboys",
+            "image": "http://ichef.bbci.co.uk/images/ic/3000x3000/p06md9z7.jpg",
+            "datePublished": "Wed, 16 Dec 2020 18:55:00 +0000",
+            "description": "Four northern states in Nigeria have ordered the immediate closure of schools following the abduction of hundreds of students in Katsina State.\n\nThe famous Benin Bronzes go on show at a German museum, despite Nigeria asking for them to be returned.\n\nAnd Malawi’s Central Bank is urging people to use electronic payments more frequently to reduce wear and tear of banknotes.",
+            "duration": "1515",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p091n62l.mp3",
+            "podcast": "bbc-africa-today",
+            "slug": "bbc-africa-today?episode=2020-12-16-four-nigerian-states-close-schools-after-abductions"
+        },
+        {
+            "title": "Boko Haram says it abducted Nigerian schoolboys",
+            "subtitle": "More than 300 Nigerian boys are missing after the attack in Katsina State",
+            "image": "http://ichef.bbci.co.uk/images/ic/3000x3000/p06md9z7.jpg",
+            "datePublished": "Tue, 15 Dec 2020 19:25:00 +0000",
+            "description": "Nigeria-based Islamist militant group Boko Haram has said it was behind the kidnapping of hundreds of schoolboys in north-western Katsina State.\n\nPlus, as some countries experience a steady rise in the number of Covid-19 cases, Africa is urged to be on alert for a second wave of the virus.\n\nAnd celebrating the Cassava leaf, a Sierra Leonean musician pays tribute to the ‘pan-African’ staple.",
+            "duration": "1689",
+            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p091k9tl.mp3",
+            "podcast": "bbc-africa-today",
+            "slug": "bbc-africa-today?episode=2020-12-15-boko-haram-says-it-abducted-nigerian-schoolboys"
+        },
+        {
             "title": "Nigeria: Fears for kidnapped children",
             "subtitle": "Hundreds of boys are still missing in Katsina State",
             "image": "http://ichef.bbci.co.uk/images/ic/3000x3000/p06md9z7.jpg",
@@ -240,17 +262,6 @@
             "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08ysjnl.mp3",
             "podcast": "bbc-africa-today",
             "slug": "bbc-africa-today?episode=2020-11-17-zambia-defaults-on-its-debt"
-        },
-        {
-            "title": "Ethiopia: Fears Tigray fighting could spread",
-            "subtitle": "The TPLF says it carried out a rocket attack on Eritrea as refugees flee to Sudan",
-            "image": "http://ichef.bbci.co.uk/images/ic/3000x3000/p06md9z7.jpg",
-            "datePublished": "Mon, 16 Nov 2020 19:06:00 +0000",
-            "description": "We get the latest on fighting in Tigray, with Ethiopian federal troops fighting TPLF forces. The conflict there is already causing concern beyond Ethiopia’s borders, with thousands of people fleeing into neighboring Sudan, and the TPLF saying it was behind a rocket attack on Eritrea’s capital.\n\nPlus, the results of a year-long investigation in Kenya, lifting the lid on the sinister trade in stolen children.\n\nAnd we hear from our health correspondent Rhoda Odiambo in Nairobi, who has news on yet another new COVID-19 vaccine",
-            "duration": "1519",
-            "sourceUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08ynqk7.mp3",
-            "podcast": "bbc-africa-today",
-            "slug": "bbc-africa-today?episode=2020-11-16-ethiopia-fears-tigray-fighting-could-spread"
         },
         {
             "title": "Kenyan officials accused of Covid-19 corruption",

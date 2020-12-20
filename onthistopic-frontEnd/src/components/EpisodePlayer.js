@@ -82,5 +82,5 @@ export default connect(
       setIcon(Play);
     }
   }, [player, episode]);
-  return <div style={style}>{icon}</div>;
+  return <div className="episodePlayer">{icon}</div>;
 });

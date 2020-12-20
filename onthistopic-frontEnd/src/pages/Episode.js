@@ -76,107 +76,39 @@ const Episode = ({
       }
 
       return (
-        <div
-          style={{
-            margin: " 0 2.5% 0 2.5%",
-          }}
-        >
-          <div
-            style={{
-              height: "100px",
-              padding: "0 5% 0 5%",
-            }}
-          >
-            <EpisodePlayer
-              episode={episode.episode.episode}
-              style={{
-                width: "5%",
-                display: "inline-block",
-                textAlign: "center",
-              }}
-            />
-            <div
-              style={{
-                width: "10%",
-                display: "inline-block",
-                textAlign: "center",
-              }}
-            >
+        <div className="episodePage">
+          <div className="episodeHeader" style={{}}>
+            <EpisodePlayer episode={episode.episode.episode} />
+            <div className="episodeArtwork">
               <img
-                style={{
-                  width: "100px",
-                  verticalAlign: "middle",
-                }}
                 src={episode.episode.episode.image}
                 alt={episode.episode.episode.title}
               />
             </div>
-            <div
-              style={{
-                width: "30%",
-                display: "inline-block",
-                verticalAlign: "top",
-              }}
-            >
-              <h2 style={{}}>{episode.episode.episode.title}</h2>
+            <div className="episodeTitle">
+              <h2>{episode.episode.episode.title}</h2>
               <p>
                 {episode.episode.episode.datePublished.substring(0, 16)} |{" "}
                 {HelperFuncs.toHrsMins(episode.episode.episode.duratix)}
               </p>
             </div>
-            <EpisodeTopics
-              style={{
-                width: "40%",
-                display: "inline-block",
-                verticalAlign: "top",
-                padding: "0.5%",
-              }}
-            />
-            <div></div>
+            <EpisodeTopics />
           </div>
           <hr style={{ textAlign: "center", width: "90%" }}></hr>
-          <div
-            style={{
-              display: "inline-block",
-              width: "90%",
-              alignSelf: "center",
-              margin: " 0 2.5% 0 2.5%",
-            }}
-          >
-            <div
-              className="description"
-              style={{
-                paddingTop: "0",
-                width: "100%",
-              }}
-            >
-              <div id="target">
-                {parsethisHtml(episode.episode.episode.description)}
-              </div>
+          <div className="episodeDescription">
+            <div id="target">
+              {parsethisHtml(episode.episode.episode.description)}
             </div>
           </div>
           <hr style={{ textAlign: "center", width: "90%" }}></hr>
 
           {/* The chatbox and related podcasts */}
-          <div
-            style={{
-              padding: "1% 2.5% 0 2.5%",
-              width: "45%",
-              display: "inline-block",
-            }}
-          >
+          <div className="chatBox">
             <h2 style={{ textAlign: "center" }}>Comments</h2>
             <Comments episode={episode} />
             <ChatBox />
           </div>
-          <div
-            style={{
-              width: "45%",
-              display: "inline-block",
-              verticalAlign: "top",
-              padding: "1% 2.5% 0 2.5%",
-            }}
-          >
+          <div className="relatedPods">
             <h2 style={{ textAlign: "center" }}>Related</h2>
           </div>
         </div>

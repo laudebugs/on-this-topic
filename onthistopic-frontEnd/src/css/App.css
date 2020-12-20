@@ -328,7 +328,7 @@ div.podArt img {
   vertical-align: middle;
 }
 div.playingTtl {
-  width: 45%;
+  width: 40%;
   height: 80px;
   display: inline-block;
   vertical-align: middle;
@@ -708,6 +708,63 @@ p.signin a {
   text-decoration: none;
   color: #0292b7;
 }
+/* Episode Page
+------------------*/
+div.episodePage {
+  margin: 0 2.5% 0 2.5%;
+}
+div.episodeHeader {
+  /* height: 100px; */
+  padding: 0 5% 0 5%;
+  margin-bottom: 0;
+}
+div.episodePlayer {
+  width: 7%;
+  display: inline-block;
+}
+div.episodeArtwork {
+  width: 15%;
+  display: inline-block;
+  text-align: center;
+}
+div.episodetopics {
+  width: 40%;
+  display: inline-block;
+  vertical-align: top;
+  padding: 0.5%;
+}
+div.episodeTitle {
+  width: 40%;
+  display: inline-block;
+  vertical-align: top;
+}
+div.episodeArtwork img {
+  width: 100px;
+  vertical-align: middle;
+}
+
+div.episodeDescription {
+  display: inline-block;
+  width: 90%;
+  align-self: center;
+  margin: 0 2.5% 0 2.5%;
+}
+div.episodeDescription div.description {
+  padding-top: 0;
+  width: 100%;
+}
+div.chatBox {
+  padding: 1% 2.5% 0 2.5%;
+  width: 45%;
+  display: inline-block;
+}
+div.relatedPods {
+  width: 45%;
+  display: inline-block;
+  vertical-align: top;
+  padding: 1% 2.5% 0 2.5%;
+}
+
 /* Submit Podcast form
 ----------------------*/
 div.submitPodForm {
@@ -716,7 +773,7 @@ div.submitPodForm {
   margin: 5%;
 }
 .submitPodForm textarea {
-  width: 30%;
+  width: 40%;
   height: 150px;
   font-size: 140%;
 }
@@ -929,6 +986,34 @@ div.spinner {
   div.carouselImage {
     width: 20%;
   }
+  /* Episode Page
+------------------*/
+  div.episodePage {
+    margin: 0 2.5% 0 2.5%;
+  }
+
+  div.episodeArtwork {
+    width: 30%;
+  }
+
+  div.episodeTitle {
+    width: 60%;
+    font-size: 80%;
+  }
+  div.episodeDescription {
+    width: 90%;
+  }
+
+  div.chatBox {
+    width: 60%;
+  }
+  div.relatedPods {
+    width: 30%;
+  }
+  div.episodeTopics {
+    width: 95%;
+    padding: 0.5%;
+  }
 }
 @media (max-width: 1000px) {
   div.podInfo {
@@ -957,6 +1042,9 @@ div.spinner {
     vertical-align: middle;
     padding-top: 10px;
   }
+  .submitPodForm textarea {
+    width: 70%;
+  }
 }
 @media (max-width: 600px) {
   div.carouselImage {
@@ -965,11 +1053,6 @@ div.spinner {
   div.icon > svg {
     width: 25px;
   }
-  /* div.volumeIcon,
-  div.comment,
-  div.nowPlaying {
-    display: none;
-  } */
 
   div.controls {
     text-align: center;
@@ -996,7 +1079,6 @@ div.spinner {
 
   div.podcastArtwork {
     width: 100%;
-    height: 10vh;
   }
   .podcastArtwork img {
     width: 100%;
@@ -1009,7 +1091,6 @@ div.spinner {
     );
     mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));
   }
-
   div.description {
     width: 95%;
     padding: 1% 2.5% 0 2.5%;
@@ -1022,5 +1103,12 @@ div.spinner {
   }
   div.spinner img {
     width: 30%;
+  }
+  div.chatBox {
+    width: 95%;
+    padding: 0 2.5% 0 2.5%;
+  }
+  div.relatedPods {
+    width: 95%;
   }
 }

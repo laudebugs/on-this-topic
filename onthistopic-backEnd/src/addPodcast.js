@@ -6,15 +6,15 @@ const Podcast = mongoose.model("Podcast");
 const Episode = mongoose.model("Episode");
 
 const dbFuncs = {
-  addPod: function (pod) {
-    console.log(pod.title);
+  addPod: function (pod, feedUrl) {
+    console.log(pod);
     try {
       Podcast.insertMany(
         new Podcast({
           title: pod.title,
           publisher: pod["itunes"]["owner"]["name"],
           link: pod.link,
-          rssFeed: pod.feedUrl,
+          rssFeed: feedUrl,
           image: pod["itunes"]["image"],
           description: pod["description"],
           shortDescription: pod["itunes"]["subtitle"],

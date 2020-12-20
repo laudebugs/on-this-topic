@@ -20,13 +20,13 @@ const ChatBox = ({ episode }) => {
     >
       <User
         style={{
-          width: "4%",
+          width: "30px",
           padding: "0.5%",
           diplay: "inline-block",
           verticalAlign: "top",
         }}
       />
-      <form style={{ width: "95%", display: "inline-block" }}>
+      <form style={{ width: "90%", display: "inline-block" }}>
         <textarea
           style={{
             width: "100%",
@@ -46,7 +46,7 @@ Use #word# for a topic, *word* for a person and ^word^ for location. Use @ to me
         <div
           id="commentBtn"
           typeof="button"
-          style={{ width: "4%", float: "right", padding: "0.5%" }}
+          style={{ width: "30px", float: "right", padding: "0.5%" }}
           onClick={async () => {
             console.log(episode.episode.episode._id);
             const comment = $("#comment")[0].value;

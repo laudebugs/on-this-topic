@@ -70,12 +70,12 @@ const App = ({ beginStatusUpdate }) => {
           <Route path="/signin" component={SignIn} exact />
           <Route path="/signup" component={SignUp} exact />
           <Route path="/submit-pod" component={SubmitPod} exact />
-          <Route path="/experiments" component={Experiments}/>
+          <Route path="/experiments" component={Experiments} />
           <Route component={NotFound} />
         </Switch>
         <SideMenu />
+        <Player />
       </BrowserRouter>
-      <Player />
     </div>
   );
 };

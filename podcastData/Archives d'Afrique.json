@@ -9,7 +9,7 @@
         "News & Politics"
     ],
     "slug": "france-medias-monde-archives-dafrique",
-    "lastUpdate": "Tue, 15 Dec 2020 01:16:51 +0100",
+    "lastUpdate": "Thu, 17 Dec 2020 19:15:00 +0100",
     "episodes": [
         {
             "title": "Archives d'Afrique - Melchior Ndadaye, éphémère président burundais (1&2)",
@@ -252,17 +252,6 @@
             "sourceUrl": "https://dts.podtrac.com/redirect.mp3/aod-rfi.akamaized.net/rfi/francais/audio/magazines/r246/archives_d_afrique_20200711.mp3",
             "podcast": "france-medias-monde-archives-dafrique",
             "slug": "france-medias-monde-archives-dafrique?episode=2020-07-08-archives-dafrique-la-chute-dalphonse-massamba-debat-56"
-        },
-        {
-            "title": "Archives d'Afrique - Le virage à gauche d'Alphonse Massamba-Débat (3&4)",
-            "subtitle": "\nPersonnalité incontournable du paysage congolais, Alphonse Massamba-Débat a marqué l'histoire de l'indépendance de son pays. Appelé aux plus hautes fonctions suite à la démission forcée de Fulbert Youlou en 1963, il sera lui-même contraint de quitter so…",
-            "image": "https://s.rfi.fr/media/display/7e0461a8-f447-11ea-be81-005056a98db9/w:1400/p:1x1/archives-dafrique.png",
-            "datePublished": "Wed, 01 Jul 2020 14:28:37 +0200",
-            "description": "\nPersonnalité incontournable du paysage congolais, Alphonse Massamba-Débat a marqué l'histoire de l'indépendance de son pays. Appelé aux plus hautes fonctions suite à la démission forcée de Fulbert Youlou en 1963, il sera lui-même contraint de quitter son poste cinq ans plus tard à la faveur de Marien Ngouabi. Alphonse Massamba-Débat sera rendu responsable de l'assassinat de ce dernier, condamné et exécuté le 25 mars 1977.\n",
-            "duration": "00:39:00",
-            "sourceUrl": "https://dts.podtrac.com/redirect.mp3/aod-rfi.akamaized.net/rfi/francais/audio/modules/actu/202007/ARCHIVES_AFRIQUE_04072020_OK.mp3",
-            "podcast": "france-medias-monde-archives-dafrique",
-            "slug": "france-medias-monde-archives-dafrique?episode=2020-07-01-archives-dafrique-le-virage-a-gauche-dalphonse-massamba-debat-34"
         }
     ]
 }

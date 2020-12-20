@@ -70,7 +70,6 @@ app.get("/api/loginstatus", (req, res) => {
 });
 
 app.post("/api/signup", async (req, res, next) => {
-  console.log(req.body);
   try {
     const user = new User({
       firstname: req.body.firstname,
@@ -140,6 +139,8 @@ app.get("/api/podcast/:slug/", async function (req, res) {
        * gets back the last build date and compares it with the current build date
        * in the database
        */
+      console.log(pod);
+
       let Parser = require("rss-parser");
       let parser = new Parser();
       let updatedPod = await parser.parseURL(pod.rssFeed);
@@ -285,7 +286,7 @@ app.post("/api/podcast", function (req, res) {
           if (result == null) {
             console.log("pod doesn' exists. Creating new one");
             // Add the podcast to the database
-            const added = dbFuncs.addPod(feed);
+            const added = dbFuncs.addPod(feed, req.body.rss_feed);
             res.json({ saved: true, new: true, podUrl: added.slug });
           } else {
             /**

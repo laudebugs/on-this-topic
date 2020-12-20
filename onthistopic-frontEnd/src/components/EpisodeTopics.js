@@ -6,7 +6,7 @@ import { loadEpisodeTopics } from "../components/thunks";
 import { getEpisode, getTopics } from "../components/selectors";
 import $ from "jquery";
 // Podcast takes a prop value which is the id of the podcast
-const EpisodeTopics = ({ style, episode, topics, startLoadingTopics }) => {
+const EpisodeTopics = ({ episode, topics, startLoadingTopics }) => {
   const slug = episode.episode.episode.slug;
   useEffect(() => {
     console.log("loading topics");
@@ -46,7 +46,7 @@ const EpisodeTopics = ({ style, episode, topics, startLoadingTopics }) => {
   }
 
   return (
-    <div style={style}>
+    <div className="episodeTopics">
       {/* {AddTopic} */}
       {printPeople()}
       {printLocations()}

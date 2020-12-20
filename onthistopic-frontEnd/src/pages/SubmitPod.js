@@ -1,11 +1,16 @@
 import React, { useEffect, useState } from "react";
 
-import { Link, Redirect } from "react-router-dom";
+import { Link, Redirect, Route } from "react-router-dom";
 
 import Header from "../components/Header";
 import StillWorking from "../css/still-working.gif";
 import $ from "jquery";
+import PodEpisodes from "../components/PodEpisodes";
+import Podcast from "../pages/Podcast";
 const SubmitPod = () => {
+  const [sumbitted, setSubmitted] = useState(false);
+  const [slug, setSlug] = useState("");
+
   async function submitPodcast(e) {
     e.preventDefault();
 
@@ -22,9 +27,19 @@ const SubmitPod = () => {
     if (feedUrl !== "") {
       let response = await fetch("/api/podcast", options);
       response = await response.json();
+      console.log(response);
+      setSubmitted(response.saved);
       console.log(response.podUrl);
-      window.location.href = `/podcast/${response.podUrl}`;
+      setSlug(response.podUrl);
+      // window.location.replace(`/podcast/${response.podUrl}`);
     }
+  }
+  if (sumbitted === true && slug !== "") {
+    console.log("slug is: " + slug);
+    /**
+     * Figure out how to redirect to another page with history
+     */
+    return <Redirect to={`/podcast/${slug}`} />;
   }
   let errorMessage = <div></div>;
   return (

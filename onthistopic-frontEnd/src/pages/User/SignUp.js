@@ -11,7 +11,7 @@ const SignUp = () => {
 
       <div className="inputForm">
         <div>
-          <form action="/signup" method="POST">
+          <form action="/api/signup" method="POST">
             <table>
               <tr>
                 <td>

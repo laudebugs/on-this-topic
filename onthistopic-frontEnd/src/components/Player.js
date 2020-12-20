@@ -1,7 +1,10 @@
 import React, { useEffect, useState } from "react";
 import ReactAudioPlayer from "react-audio-player";
+import { Link } from "react-router-dom";
 import $ from "jquery";
 import { connect } from "react-redux";
+import Slider, { Range } from "rc-slider";
+import "rc-slider/assets/index.css";
 
 import PlayIcon from "./icons/PlayIcon";
 import Rewind15 from "./icons/Rewind15";
@@ -44,8 +47,10 @@ export default connect(
   // Whenever the link for a new podcast episode changes
   useEffect(() => {
     setPctPlayed(0);
-    console.log(player.volume);
+    console.log(player);
 
+    // the default volume will be 0.5
+    onSetVolume(0.5);
     if (audioelement !== undefined) {
       audioelement.volume = player.volume;
       // console.log(audioelement.volume);
@@ -107,18 +112,16 @@ export default connect(
   /**
    * Forward 15 seconds
    */
-  $("div.seekForward").on("click", function (e) {
-    e.preventDefault();
-    const ct = audioelement.currentTime;
-    audioelement.currentTime = ct + 15;
-  });
+  function forward15Secs() {
+    audioelement.currentTime = audioelement.currentTime + 15;
+  }
 
   /**
    * Rewind 15 seconds
    */
-  $("div.seekBack").on("click", function (e) {
+  function back15Secs() {
     audioelement.currentTime = audioelement.currentTime - 15;
-  });
+  }
 
   /**
    * Listen for when the user wants to pause by pressing the keyboard
@@ -150,6 +153,8 @@ export default connect(
     // bar.style.display = "block";
     bar.style.animation = "showVBar 0.3s";
     bar.style.bottom = "80px";
+    let timeline = $("#timeline")[0];
+    timeline.style.display = "none";
   });
 
   /**
@@ -159,24 +164,16 @@ export default connect(
     var bar = $("#volumeBar")[0];
     bar.style.animation = "hideVBar 0.3s";
     bar.style.bottom = "-110px";
+    let timeline = $("#timeline")[0];
+    timeline.style.display = "";
   });
 
   function changeVolLevel(e) {
     let bar = $(".volumeBar")[0];
     let maxHeight = bar.height.animVal.value;
     let h = maxHeight - (e.clientY - $(".volumeBar").offset().top);
-    console.log(e);
     let level = h / maxHeight;
-    console.log(h);
-    console.log(bar);
-    console.log(level);
-    // audioelement.volume = level;
-
-    console.log("changing vol level");
-    console.log(audioelement);
-    if (level !== player.volume) {
-      onSetVolume(level);
-    }
+    onSetVolume(level);
   }
   /**
    * Resize the volumeBar when a user resizes the screen
@@ -243,12 +240,16 @@ export default connect(
               src={playThis.episode.sourceUrl}
               autoPlay={false}
               className="audioHere"
-              volume={1}
+              volume={player.volume}
             />
 
-            <Rewind15 />
+            <span onClick={back15Secs}>
+              <Rewind15 />
+            </span>
             <PlayIcon />
-            <Forward15 />
+            <span onClick={forward15Secs}>
+              <Forward15 />
+            </span>
             <div className="icon" id="timeUpdate"></div>
             <div className="podArt">
               <img
@@ -257,11 +258,12 @@ export default connect(
               ></img>
             </div>
             <div className="playingTtl">
-              <div className="nowPlaying">
-                <p>{playThis.episode.title}</p>
-              </div>
+              <Link to={`/podcast/episode/${playThis.episode.slug}`}>
+                <div className="nowPlaying">
+                  <p>{playThis.episode.title}</p>
+                </div>
+              </Link>
             </div>
-
             <Volume volume={player.volume} />
             <Conversation />
             <span>

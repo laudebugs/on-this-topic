@@ -5,8 +5,10 @@ let parser = new Parser();
 let populateEpisodes = (podcasts) => {
   const promises = podcasts.map(async (pod) => {
     let feed;
+
     try {
       feed = await parser.parseURL(pod);
+      console.log(feed);
     } catch (error) {
       console.log(error);
     }
@@ -26,10 +28,11 @@ let populateEpisodes = (podcasts) => {
     thisPod["episodes"] = [];
     feed.items.map((item) => {
       // For each podcast, initialize a list of episodes
-      if (item["enclosure"]["length"] === null) {
-        // console.log(thisPod);
+      if (item["enclosure"] === undefined) {
+        console.log("here");
+        console.log(item);
       }
-
+      console.log(item.enclosure);
       let episode = {
         title: item["title"],
         subtitle: item["itunes"]["subtitle"],
@@ -51,16 +54,17 @@ let populateEpisodes = (podcasts) => {
     fs.writeFileSync(`../podcastData/${feed.title}.json`, data, (err) => {
       if (err) {
         console.log("error writing to file");
-      } else console.log("data is saved");
+      } else console.log("");
     });
     return feed;
   });
   return Promise.all(promises)
     .then((results) => {
-      console.log("completed");
+      // console.log("completed");
     })
     .catch(function (e) {
       console.log("errr");
+      console.log(e);
     });
 };
 
@@ -70,4 +74,4 @@ var fs = require("fs");
 let content = fs.readFileSync(filename, "utf8");
 
 var podcast_list = content.split("\n");
-populateEpisodes(podcast_list);
+populateEpisodes(["https://feeds.feedburner.com/deathsexmoney"]);

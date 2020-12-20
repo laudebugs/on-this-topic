@@ -10,8 +10,19 @@
         "News"
     ],
     "slug": "npr-short-wave",
-    "lastUpdate": "Tue, 15 Dec 2020 04:00:49 -0500",
+    "lastUpdate": "Thu, 17 Dec 2020 04:00:18 -0500",
     "episodes": [
+        {
+            "title": "The Science Behind The Historic mRNA Vaccine",
+            "subtitle": "We explain the science behind mRNA technology used in the new Pfizer-BioNTech coronavirus vaccine.",
+            "image": "https://media.npr.org/assets/img/2019/09/19/shortwave-tile_final2_sq-266c8cc0cd2cb3e6213b36cbd0009cbd3331a990.png?s=1400",
+            "datePublished": "Thu, 17 Dec 2020 04:00:18 -0500",
+            "description": "Millions of doses of the Pfizer-BioNTech vaccine, just days ago granted emergency use authorization by the FDA, are being distributed across the country. It's the first widely-available vaccine to use something called mRNA technology. So, with the help of epidemiologist <a href=\"https://www.linkedin.com/in/renenajera/\">Rene Najera</a>, Maddie explains the science behind this vaccine and how it was developed so quickly.<br/><br/>Email the show at <a href=\"mailto:shortwave@npr.org\">shortwave@npr.org</a>.",
+            "duration": "932",
+            "sourceUrl": "https://play.podtrac.com/npr-510351/edge1.pod.npr.org/anon.npr-mp3/npr/dailyscience/2020/12/20201217_dailyscience_pfizerbiontech.mp3?awCollectionId=510351&awEpisodeId=947184202&orgId=1&topicId=1007&d=932&p=510351&story=947184202&t=podcast&e=947184202&size=14878977&ft=pod&f=510351",
+            "podcast": "npr-short-wave",
+            "slug": "npr-short-wave?episode=2020-12-17-the-science-behind-the-historic-mrna-vaccine"
+        },
         {
             "title": "How A 100-Year-Old Treatment Could Help Save Us From Superbugs",
             "subtitle": "With her husband close to dying from a superbug, Steffanie Strathdee scours scientific research to save his life and comes across a 100-year-old treatment. (Encore episode.)",
@@ -214,7 +225,7 @@
             "subtitle": "A COVID-19 vaccine candidate seems to be working really well, interim results show.  How well is the vaccine working and what are the next steps in this vaccine's development?",
             "image": "https://media.npr.org/assets/img/2019/09/19/shortwave-tile_final2_sq-266c8cc0cd2cb3e6213b36cbd0009cbd3331a990.png?s=1400",
             "datePublished": "Fri, 13 Nov 2020 04:00:12 -0500",
-            "description": "Interim <a href=\"https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-announce-vaccine-candidate-against\">results are in</a> from a large trial of an experimental COVID-19 vaccine. Drug maker Pfizer, working with German company BioNTech, says its vaccine appears to be working really well--it was found to be more than 90 percent effective.  Today on Short Wave, host Maddie Sofia talks to NPR science correspondent Joe Palca about what that efficacy number means, details of the study and what more information about the vaccine researchers are awaiting.<br/><br/>Reach the show by emailing us at <a href=\"mailto:shortwave@npr.org\">shortwave@npr.org</a>. ",
+            "description": "Interim <a href=\"https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-announce-vaccine-candidate-against\">results are in</a> from a large trial of an experimental COVID-19 vaccine. Drug maker Pfizer, working with German company BioNTech, says its vaccine appears to be working really well  — it was found to be more than 90 percent effective.  Today on Short Wave, host Maddie Sofia talks to NPR science correspondent Joe Palca about what that efficacy number means, details of the study and what more information about the vaccine researchers are awaiting.<br/><br/>Reach the show by emailing us at <a href=\"mailto:shortwave@npr.org\">shortwave@npr.org</a>. ",
             "duration": "639",
             "sourceUrl": "https://play.podtrac.com/npr-510351/edge1.pod.npr.org/anon.npr-mp3/npr/dailyscience/2020/11/20201112_dailyscience_sci_pod_-_vaccine_efficacy_-_fin_-_112020.mp3?awCollectionId=510351&awEpisodeId=934164473&aw_0_1st.cv=yes&orgId=1&topicId=1007&aggIds=812054919&d=639&p=510351&story=934164473&t=podcast&e=934164473&size=10209828&ft=pod&f=510351",
             "podcast": "npr-short-wave",
